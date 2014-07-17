@@ -1,0 +1,45 @@
+---
+---
+
+@import "normalize";
+@import "vars-typeplate";
+@import "typeplate";
+@import "highlight";
+
+body {
+  padding: 3rem 0 5rem;
+}
+
+a {
+  color: inherit;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 1rem;
+  max-width: 32em;
+}
+
+p > img {
+  max-width: 100%;
+}
+
+iframe {
+  margin-bottom: $indent-val !important;
+}
+
+blockquote {
+  color: #999;
+}
+
+.home a, .post-title a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.home-title {
+  margin-bottom: 3rem;
+  font-weight: normal;
+}
