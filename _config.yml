@@ -8,6 +8,8 @@ url: "http://chibicode.com"
 # Build settings
 markdown: kramdown
 permalink: :title
+exclude:
+  - "bin"
 
 defaults:
   -
