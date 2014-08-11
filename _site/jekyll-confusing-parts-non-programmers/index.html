@@ -58,9 +58,9 @@
 
 <p>But in Jekyll, the context doesn&#39;t change inside a <code>for</code> loop. It only changes when the current page changes. Instead, the <code>for</code> loop created a <code>post</code> variable, which contains the information about each page on each iteration.</p>
 
-<p>She didn&#39;t realize this was the case because again, when she looked at the <a href="http://jekyllrb.com/docs/variables/#page-variables">documentation</a>, all she saw was a list of <code>page.blah</code>s. To her, a call like <code>post.blah</code> was unimaginable, and it was <em>more feasible</em> for her to think that the context had changed, allowing <code>page.blah</code> to work.</p>
+<p>She didn&#39;t realize this was the case because again, when she looked at the <a href="http://jekyllrb.com/docs/variables/#page-variables">documentation</a>, all she saw was a list of <code>page.blah</code>s. To her, a call like <code>post.blah</code> was unimaginable, and it was <em>more feasible</em> for her to think that the context had changed, allowing <code>page.blah</code> to do what she had intended.</p>
 
-<p>This is a <strong><a href="http://en.wikipedia.org/wiki/Path_of_least_resistance">path of least resistance</a></strong>, applied to mental models, at work.</p>
+<p>This illustrates the <strong><a href="http://en.wikipedia.org/wiki/Path_of_least_resistance">path of least resistance</a></strong>, applied to mental models.</p>
 
 <p>On a side note, she could have written the <code>for</code> loop like this, and it would have worked:</p>
 <div class="highlight"><pre><code class="language-text" data-lang="text">{% for page in site.posts %}

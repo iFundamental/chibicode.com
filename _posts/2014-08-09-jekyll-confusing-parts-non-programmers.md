@@ -54,9 +54,9 @@ She thought that the *context had changed* inside the `for` loop, and therefore 
 
 But in Jekyll, the context doesn't change inside a `for` loop. It only changes when the current page changes. Instead, the `for` loop created a `post` variable, which contains the information about each page on each iteration.
 
-She didn't realize this was the case because again, when she looked at the [documentation](http://jekyllrb.com/docs/variables/#page-variables), all she saw was a list of `page.blah`s. To her, a call like `post.blah` was unimaginable, and it was *more feasible* for her to think that the context had changed, allowing `page.blah` to work.
+She didn't realize this was the case because again, when she looked at the [documentation](http://jekyllrb.com/docs/variables/#page-variables), all she saw was a list of `page.blah`s. To her, a call like `post.blah` was unimaginable, and it was *more feasible* for her to think that the context had changed, allowing `page.blah` to do what she had intended.
 
-This is a **[path of least resistance](http://en.wikipedia.org/wiki/Path_of_least_resistance)**, applied to mental models, at work.
+This illustrates the **[path of least resistance](http://en.wikipedia.org/wiki/Path_of_least_resistance)**, applied to mental models.
 
 On a side note, she could have written the `for` loop like this, and it would have worked:
 

@@ -5,8 +5,8 @@
     <description>Shu Uesugi&#39;s Blog.</description>
     <link>http://chibicode.com/</link>
     <atom:link href="http://chibicode.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Aug 2014 02:16:27 -0700</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2014 02:16:27 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2014 10:16:29 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 10:16:29 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -53,9 +53,9 @@
 
 &lt;p&gt;But in Jekyll, the context doesn&amp;#39;t change inside a &lt;code&gt;for&lt;/code&gt; loop. It only changes when the current page changes. Instead, the &lt;code&gt;for&lt;/code&gt; loop created a &lt;code&gt;post&lt;/code&gt; variable, which contains the information about each page on each iteration.&lt;/p&gt;
 
-&lt;p&gt;She didn&amp;#39;t realize this was the case because again, when she looked at the &lt;a href=&quot;http://jekyllrb.com/docs/variables/#page-variables&quot;&gt;documentation&lt;/a&gt;, all she saw was a list of &lt;code&gt;page.blah&lt;/code&gt;s. To her, a call like &lt;code&gt;post.blah&lt;/code&gt; was unimaginable, and it was &lt;em&gt;more feasible&lt;/em&gt; for her to think that the context had changed, allowing &lt;code&gt;page.blah&lt;/code&gt; to work.&lt;/p&gt;
+&lt;p&gt;She didn&amp;#39;t realize this was the case because again, when she looked at the &lt;a href=&quot;http://jekyllrb.com/docs/variables/#page-variables&quot;&gt;documentation&lt;/a&gt;, all she saw was a list of &lt;code&gt;page.blah&lt;/code&gt;s. To her, a call like &lt;code&gt;post.blah&lt;/code&gt; was unimaginable, and it was &lt;em&gt;more feasible&lt;/em&gt; for her to think that the context had changed, allowing &lt;code&gt;page.blah&lt;/code&gt; to do what she had intended.&lt;/p&gt;
 
-&lt;p&gt;This is a &lt;strong&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Path_of_least_resistance&quot;&gt;path of least resistance&lt;/a&gt;&lt;/strong&gt;, applied to mental models, at work.&lt;/p&gt;
+&lt;p&gt;This illustrates the &lt;strong&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Path_of_least_resistance&quot;&gt;path of least resistance&lt;/a&gt;&lt;/strong&gt;, applied to mental models.&lt;/p&gt;
 
 &lt;p&gt;On a side note, she could have written the &lt;code&gt;for&lt;/code&gt; loop like this, and it would have worked:&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;{% for page in site.posts %}
