@@ -5,8 +5,8 @@
     <description>Shu Uesugi&#39;s Blog.</description>
     <link>http://chibicode.com/</link>
     <atom:link href="http://chibicode.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Aug 2014 02:10:22 -0700</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2014 02:10:22 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2014 02:15:05 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 02:15:05 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -70,10 +70,13 @@
 
 &lt;p&gt;But I think we ought to lower the barrier for design-minded people to play with Jekyll and ultimately create great themes. We have &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;jekyllthemes.org&lt;/a&gt;, but the quality is not at the level of Wordpress or Tumblr themes yet. There&amp;#39;s definitely a room for improvement.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/submit&quot; class=&quot;hn-button&quot; data-title=&quot;Jekyll: the Confusing Parts for Non-Programmers&quot; data-url=&quot;http://chibicode.com/jekyll-confusing-parts-non-programmers/&quot; data-count=&quot;horizontal&quot; data-style=&quot;twitter&quot;&gt;Vote on Hacker News&lt;/a&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;var HN=[];HN.factory=function(e){return function(){HN.push([e].concat(Array.prototype.slice.call(arguments,0)))};},HN.on=HN.factory(&amp;quot;on&amp;quot;),HN.once=HN.factory(&amp;quot;once&amp;quot;),HN.off=HN.factory(&amp;quot;off&amp;quot;),HN.emit=HN.factory(&amp;quot;emit&amp;quot;),HN.load=function(){var e=&amp;quot;hn-button.js&amp;quot;;if(document.getElementById(e))return;var t=document.createElement(&amp;quot;script&amp;quot;);t.id=e,t.src=&amp;quot;//hn-button.herokuapp.com/hn-button.js&amp;quot;;var n=document.getElementsByTagName(&amp;quot;script&amp;quot;)[0];n.parentNode.insertBefore(t,n)},HN.load();&lt;/script&gt;&lt;/p&gt;
+
 &lt;hr&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Ghost&amp;#39;s founder had used &amp;quot;even more complicated [than Wordpress]&amp;quot; to describe Jekyll in his &lt;a href=&quot;https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform&quot;&gt;Kickstarter video&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ghost&amp;#39;s founder had used the phrase &amp;quot;even more complicated [than Wordpress]&amp;quot; to describe Jekyll in his &lt;a href=&quot;https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform&quot;&gt;Kickstarter video&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 09 Aug 2014 00:00:00 -0700</pubDate>
