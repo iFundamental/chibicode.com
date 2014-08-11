@@ -6,7 +6,7 @@ baseurl: ""
 url: "http://chibicode.com"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: :title
 exclude:
   - "bin"

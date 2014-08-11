@@ -5,9 +5,83 @@
     <description>Shu Uesugi&#39;s Blog.</description>
     <link>http://chibicode.com/</link>
     <atom:link href="http://chibicode.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Jul 2014 17:10:50 -0700</pubDate>
-    <lastBuildDate>Wed, 23 Jul 2014 17:10:50 -0700</lastBuildDate>
-    <generator>Jekyll v2.1.1</generator>
+    <pubDate>Mon, 11 Aug 2014 02:10:22 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 02:10:22 -0700</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Jekyll: the Confusing Parts for Non-Programmers</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/jekyll-confusing-parts-non-programmers/stickers.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I love &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. I&amp;#39;ve been using it since version &lt;code&gt;0.11&lt;/code&gt;, before there were &lt;a href=&quot;http://staticsitegenerators.net/&quot;&gt;million other static site generators&lt;/a&gt;. I love it so much that I bought &lt;a href=&quot;http://www.stickermule.com/marketplace/825-jekyll-stickers&quot;&gt;a sticker on Stickermule&lt;/a&gt;. Of course, this blog is &lt;a href=&quot;https://github.com/chibicode/chibicode-new&quot;&gt;powered by Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Recently, I&amp;#39;ve been helping my &lt;a href=&quot;http://twitter.com/ellekasai&quot;&gt;girlfriend&lt;/a&gt; develop a new Jekyll theme. She currently works as a designer in Tokyo and hasn&amp;#39;t done much coding besides HTML, CSS, and some jQuery. I taught her basics of Jekyll &lt;a href=&quot;http://chibicode.com/teaching-code-hardware-problem/&quot;&gt;a year ago&lt;/a&gt;, and although she had built a &lt;a href=&quot;https://github.com/ellekasai/shinayaka&quot;&gt;Jekyll theme&lt;/a&gt; then, she has forgot many of the little details.&lt;/p&gt;
+
+&lt;h2&gt;Page v.s. Post: Which variable to use?&lt;/h2&gt;
+
+&lt;p&gt;As a review exercise, I asked her to iterate over all posts and display their excerpt. She went through her old code and found that &lt;code&gt;{% for post in site.posts %}&lt;/code&gt; might do part of the job. She also read the &lt;a href=&quot;http://jekyllrb.com/docs/variables/#page-variables&quot;&gt;documentation&lt;/a&gt; and discovered &lt;code&gt;page.excerpt&lt;/code&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/jekyll-confusing-parts-non-programmers/documentation.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;So she wrote:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;{% for post in site.posts %}
+  {{ page.excerpt }}
+{% endfor %}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We programmers immediately know that this is incorrect. It should be &lt;code&gt;post.excerpt&lt;/code&gt; and not &lt;code&gt;page.excerpt&lt;/code&gt;, since the &lt;code&gt;for&lt;/code&gt; loop assigns &lt;code&gt;post&lt;/code&gt; as the iterator variable.&lt;/p&gt;
+
+&lt;p&gt;I corrected, but the fix didn&amp;#39;t seem to make much sense for her.&lt;/p&gt;
+
+&lt;p&gt;At first, I thought it&amp;#39;s because she had no experience in a language that uses iterators. But after some introspection, I understood why her mental model was constructed the way it is. And it had more to do with how Jekyll was designed.&lt;/p&gt;
+
+&lt;h2&gt;Debugging her mental model&lt;/h2&gt;
+
+&lt;p&gt;First, Jekyll automatically makes available the &lt;code&gt;page&lt;/code&gt; variable, which contains the information about the current page (e.g. &lt;code&gt;page.url&lt;/code&gt;). In other words, what a &lt;code&gt;page&lt;/code&gt; variable holds &lt;em&gt;varies&lt;/em&gt; depending on what the current &lt;em&gt;context&lt;/em&gt; is. In this case, the current page affected the context.&lt;/p&gt;
+
+&lt;p&gt;This made her think &lt;em&gt;conversely&lt;/em&gt; that, all she needs to do is to keep track of what the current context is, and that she does &lt;em&gt;not&lt;/em&gt; need to worry about using variables other than &lt;code&gt;page&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/docs/variables/#page-variables&quot;&gt;The documentation&lt;/a&gt; &lt;em&gt;enforced&lt;/em&gt; her view because it kept using the &lt;code&gt;page&lt;/code&gt; variable. To her, &lt;code&gt;page&lt;/code&gt; was the only available variable that had anything to do with page data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/jekyll-confusing-parts-non-programmers/documentation2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;So when she wrote this:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;{% for post in site.posts %}
+  {{ page.excerpt }}
+{% endfor %}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;She thought that the &lt;em&gt;context had changed&lt;/em&gt; inside the &lt;code&gt;for&lt;/code&gt; loop, and therefore what &lt;code&gt;page&lt;/code&gt; variable points to had changed, from the current page to each individual post.&lt;/p&gt;
+
+&lt;p&gt;But in Jekyll, the context doesn&amp;#39;t change inside a &lt;code&gt;for&lt;/code&gt; loop. It only changes when the current page changes. Instead, the &lt;code&gt;for&lt;/code&gt; loop created a &lt;code&gt;post&lt;/code&gt; variable, which contains the information about each page on each iteration.&lt;/p&gt;
+
+&lt;p&gt;She didn&amp;#39;t realize this was the case because again, when she looked at the &lt;a href=&quot;http://jekyllrb.com/docs/variables/#page-variables&quot;&gt;documentation&lt;/a&gt;, all she saw was a list of &lt;code&gt;page.blah&lt;/code&gt;s. To her, a call like &lt;code&gt;post.blah&lt;/code&gt; was unimaginable, and it was &lt;em&gt;more feasible&lt;/em&gt; for her to think that the context had changed, allowing &lt;code&gt;page.blah&lt;/code&gt; to work.&lt;/p&gt;
+
+&lt;p&gt;This is a &lt;strong&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Path_of_least_resistance&quot;&gt;path of least resistance&lt;/a&gt;&lt;/strong&gt;, applied to mental models, at work.&lt;/p&gt;
+
+&lt;p&gt;On a side note, she could have written the &lt;code&gt;for&lt;/code&gt; loop like this, and it would have worked:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;{% for page in site.posts %}
+  {{ page.excerpt }}
+{% endfor %}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;However, if she wanted to access the &lt;em&gt;original&lt;/em&gt; &lt;code&gt;page&lt;/code&gt; variable inside the &lt;code&gt;for&lt;/code&gt; loop, she&amp;#39;s out of luck. The &lt;code&gt;page&lt;/code&gt; variable declared in the &lt;code&gt;for&lt;/code&gt; loop shadows the original &lt;code&gt;page&lt;/code&gt; variable. That&amp;#39;s why I taught her to use &lt;code&gt;for post in ...&lt;/code&gt; instead of &lt;code&gt;for page in ...&lt;/code&gt; in the first place.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;#39;t really know how to improve the documentation to prevent this kind of an error for beginning programmers using Jekyll. Maybe there&amp;#39;s no need to, and we can say that Jekyll is mostly for savvy programmers [1].&lt;/p&gt;
+
+&lt;p&gt;But I think we ought to lower the barrier for design-minded people to play with Jekyll and ultimately create great themes. We have &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;jekyllthemes.org&lt;/a&gt;, but the quality is not at the level of Wordpress or Tumblr themes yet. There&amp;#39;s definitely a room for improvement.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ghost&amp;#39;s founder had used &amp;quot;even more complicated [than Wordpress]&amp;quot; to describe Jekyll in his &lt;a href=&quot;https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform&quot;&gt;Kickstarter video&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 09 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://chibicode.com/jekyll-confusing-parts-non-programmers</link>
+        <guid isPermaLink="true">http://chibicode.com/jekyll-confusing-parts-non-programmers</guid>
+        
+        
+      </item>
     
       <item>
         <title>Teaching Someone to Code is Partly a Hardware Problem</title>
@@ -15,9 +89,9 @@
 
 &lt;p&gt;I taught &lt;a href=&quot;https://twitter.com/ellekasai&quot;&gt;my girlfriend&lt;/a&gt; to code from April to July of this year. My biggest takeaway: I realized that teaching someone to code is partly a hardware problem. &lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt;, &lt;a href=&quot;http://ejohn.org/blog/introducing-khan-cs/&quot;&gt;Khan Academy&lt;/a&gt;, &lt;a href=&quot;http://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; and others have optimized code editors for teaching purposes, but code editors will always be stuck with their software incarnations. I suggest that, in addition to supplying great software and teaching content, we should pair novice coders with great hardware.&lt;/p&gt;
 
-&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
 
-&lt;p&gt;I studied Computer Science at Carnegie Mellon, where I &lt;a href=&quot;http://www.cs.cmu.edu/~scsfacts/uesugi.html&quot;&gt;taught&lt;/a&gt; a few CS classes. My coding skill is mediocre at best, but I was good enough to become a product designer at companies like &lt;a href=&quot;http://www.quora.com/&quot;&gt;Quora&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I studied Computer Science at Carnegie Mellon, where I &lt;a href=&quot;http://www.cs.cmu.edu/%7Escsfacts/uesugi.html&quot;&gt;taught&lt;/a&gt; a few CS classes. My coding skill is mediocre at best, but I was good enough to become a product designer at companies like &lt;a href=&quot;http://www.quora.com/&quot;&gt;Quora&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;A little over a year ago, I met my girlfriend in Japan, where she spent most of her life. She studied Marketing and Japanese Culture at a women’s college in Tokyo. At the time we met, she worked as a sales associate at a payments startup, also in Tokyo.&lt;/p&gt;
 
@@ -27,7 +101,7 @@
 
 &lt;p&gt;Convinced, she quit her job in April and visited me in the San Francisco Bay Area. We lived together for three months, and in my spare time, I taught her the basics of becoming a product designer. She worked hard, hoping to get a position in product design by the time she flies back to Tokyo.&lt;/p&gt;
 
-&lt;h2 id=&quot;teaching-my-girlfriend-to-code&quot;&gt;Teaching my girlfriend to code&lt;/h2&gt;
+&lt;h2&gt;Teaching my girlfriend to code&lt;/h2&gt;
 
 &lt;p&gt;I believe that all software product designers need to code. As to why, please read &lt;a href=&quot;http://37signals.com/svn/posts/1066-web-designers-should-do-their-own-htmlcss&quot;&gt;Web designers should do their own HTML/CSS&lt;/a&gt; and &lt;a href=&quot;http://37signals.com/svn/posts/3451-learning-rails-made-me-a-better-designer&quot;&gt;Learning Rails made me a better designer&lt;/a&gt;, both by 37signals.&lt;/p&gt;
 
@@ -37,11 +111,11 @@
 
 &lt;p&gt;Because she only has elementary fluency in English, she had limited options of learning resources, both &lt;a href=&quot;http://learn.shayhowe.com/html-css/&quot;&gt;online&lt;/a&gt; and &lt;a href=&quot;http://htmlandcssbook.com/&quot;&gt;in print&lt;/a&gt;. I didn’t like any of the beginner HTML/CSS books or tutorials written in Japanese, so I created my own textbook just for her (screenshot below).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/2.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;I plan to translate my textbook to English and publish it someday, but for now, I’d like to talk about the biggest surprise I had encountered: what helped my girlfriend the most was not the &lt;em&gt;quality&lt;/em&gt; of my tutorial, but the &lt;em&gt;hardware&lt;/em&gt; she used to complete my tutorial.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-hardware-problem-1-monitors&quot;&gt;The hardware problem #1: Monitors&lt;/h2&gt;
+&lt;h2&gt;The hardware problem #1: Monitors&lt;/h2&gt;
 
 &lt;p&gt;After my girlfriend learned the basics, I asked her to use HTML/CSS to &lt;em&gt;replicate&lt;/em&gt; or &lt;em&gt;trace&lt;/em&gt; well-designed websites that I hand-picked. Her replica must look identical to the original, and its HTML must be semantic.&lt;/p&gt;
 
@@ -49,14 +123,14 @@
 
 &lt;p&gt;Initially, she was using my old 23-inch monitor and the monitor on her Macbook Air, but she quickly ran out of the screen space. Apparently, she needed the following five windows open simultaneously:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;A Chrome window&lt;/em&gt; displaying the actual website to replicate (top right).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;A Chrome window&lt;/em&gt; displaying her current replica of the website, which is just a local HTML file (top left).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;A Sublime Text 2 window&lt;/em&gt;, split into a HTML view and a CSS view. Bottom left on the cover image .&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;An Evernote window&lt;/em&gt; containing her notes and snippets (bottom right).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;A GitHub for Mac window&lt;/em&gt; to keep track of the changes she’s made. I plugged GitHub into her workflow from day one so that I can review her code using pull requests (on the laptop screen).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A Chrome window&lt;/em&gt; displaying the actual website to replicate (top right).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A Chrome window&lt;/em&gt; displaying her current replica of the website, which is just a local HTML file (top left).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A Sublime Text 2 window&lt;/em&gt;, split into a HTML view and a CSS view. Bottom left on the cover image .&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;An Evernote window&lt;/em&gt; containing her notes and snippets (bottom right).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A GitHub for Mac window&lt;/em&gt; to keep track of the changes she’s made. I plugged GitHub into her workflow from day one so that I can review her code using pull requests (on the laptop screen).&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Each window required approximately 1280x800 pixels. I ended up renting out to her my 30-inch cinema display, whose 2560x1600 pixels resolution was large enough to tile four of the five windows listed above. The last window fit on her laptop. She used &lt;a href=&quot;http://manytricks.com/moom/&quot;&gt;Moom&lt;/a&gt; for window management.&lt;/p&gt;
@@ -66,27 +140,27 @@
 &lt;p&gt;Brett Victor, on his remarkable &lt;a href=&quot;http://worrydream.com/LearnableProgramming/&quot;&gt;Learnable Programming&lt;/a&gt; piece, suggested a “create by reacting” teaching technique:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The create-by-reacting way of thinking could be stated as: start with something, then adjust until it’s right.&lt;/p&gt;
+&lt;p&gt;The create-by-reacting way of thinking could be stated as: start with something, then adjust until it’s right.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;And that’s essentially what girlfriend was doing. She:(1) examines the target page, (2) writes code to mimic the target page, (3) checks to see if her version became closer-looking to the target page, and (4) repeats steps 1~3 until the target page and her version look identical.&lt;/p&gt;
 
-&lt;p&gt;Between steps 2 and 3, &lt;a href=&quot;https://incident57.com/codekit/&quot;&gt;CodeKit&lt;/a&gt; runs and refreshes the browser, so the result of a code change is immediately visible without hitting ⌘+R. She uses GitHub for Mac to undo changes. On every iteration, she takes down notes on Evernote to avoid making the same mistakes twice.&lt;/p&gt;
+&lt;p&gt;Between steps 2 and 3, &lt;a href=&quot;https://incident57.com/codekit/&quot;&gt;CodeKit&lt;/a&gt; runs and refreshes the browser, so the result of a code change is immediately visible without hitting &amp;#8984;+R. She uses GitHub for Mac to undo changes. On every iteration, she takes down notes on Evernote to avoid making the same mistakes twice.&lt;/p&gt;
 
 &lt;p&gt;This is why all five windows had to be open at once—to minimize the overhead between each step. She can react faster when everything is visible.&lt;/p&gt;
 
-&lt;p&gt;I can hear you hackers scream: “Don’t be a wimp. She can use ⌘+number or ⌘+tab.” True, but most novice coders suck at tab or window switching. We can teach them the tricks, but they probably won’t execute those shortcuts the way they want, at least in the beginning. Novices shouldn’t have to take on unnecessary cognitive load like this.&lt;/p&gt;
+&lt;p&gt;I can hear you hackers scream: “Don’t be a wimp. She can use &amp;#8984;+number or &amp;#8984;+tab.” True, but most novice coders suck at tab or window switching. We can teach them the tricks, but they probably won’t execute those shortcuts the way they want, at least in the beginning. Novices shouldn’t have to take on unnecessary cognitive load like this.&lt;/p&gt;
 
-&lt;p&gt;My girlfriend soon refused to code without the 30-inch monitor. My apartment is a short bike ride away from downtown Palo Alto, which has lots of Wifi-enabled coffee shops. But she stayed home pretty much all the time, just to make use of the monitor. She sounds like a spoiled student, but she did get much faster at coding, and she eventually mastered ⌘+number and ⌘+tab.&lt;/p&gt;
+&lt;p&gt;My girlfriend soon refused to code without the 30-inch monitor. My apartment is a short bike ride away from downtown Palo Alto, which has lots of Wifi-enabled coffee shops. But she stayed home pretty much all the time, just to make use of the monitor. She sounds like a spoiled student, but she did get much faster at coding, and she eventually mastered &amp;#8984;+number and &amp;#8984;+tab.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;If you think about it, &lt;a href=&quot;http://sef.kloninger.com/2012/05/engineering-culture-litmus-tests/&quot;&gt;even us hackers like to use bigger monitors&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A story from a prior company. I was an engineering manager that had a retention problem. One of the engineers on my team quit to go to a smaller, hipper company. This was from my exit interview:&lt;/p&gt;
+&lt;p&gt;A story from a prior company. I was an engineering manager that had a retention problem. One of the engineers on my team quit to go to a smaller, hipper company. This was from my exit interview:&lt;/p&gt;
 
-  &lt;p&gt;Me: why are you leaving?&lt;br /&gt;
+&lt;p&gt;Me: why are you leaving?&lt;br&gt;
 Him: because they have bigger monitors.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -94,7 +168,7 @@ Him: because they have bigger monitors.&lt;/p&gt;
 
 &lt;p&gt;No matter how reactive code editors become, they can’t beat the limits of screen real estate—the very same reason why the market for tablets exists even in the era of smartphones.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-hardware-problem-2-keyboards&quot;&gt;The hardware problem #2: Keyboards&lt;/h2&gt;
+&lt;h2&gt;The hardware problem #2: Keyboards&lt;/h2&gt;
 
 &lt;p&gt;For non-coders, their keyboards—or typing in general—can also be a bottleneck, albeit a small one.&lt;/p&gt;
 
@@ -104,7 +178,7 @@ Him: because they have bigger monitors.&lt;/p&gt;
 
 &lt;p&gt;Then I found out that she never learned which finger is used for which keys. She just used whatever finger that felt natural at the moment. She could touch type common words, but when I asked her to type &lt;code&gt;{&lt;/code&gt; for example, she had to look at the keyboard. She was also used to &lt;a href=&quot;http://en.wikipedia.org/wiki/File:KB_Japanese.svg&quot;&gt;the Japanese keyboard layout&lt;/a&gt;, which didn’t help either.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/teaching-code-hardware-problem/4.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;To fix her habit, she bought a &lt;a href=&quot;http://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK&quot;&gt;Microsoft Natural Ergonomic Keyboard 4000&lt;/a&gt;, which makes it challenging to type if she doesn’t use the correct fingers. She also worked on &lt;a href=&quot;http://www.typing-lessons.org/&quot;&gt;Peter’s Online Typing Course&lt;/a&gt; lessons every day. By the time she finished the first ten lessons, she was typing like a real coder. She now rarely mis-enters keyboard shortcuts.&lt;/p&gt;
 
@@ -112,7 +186,7 @@ Him: because they have bigger monitors.&lt;/p&gt;
 
 &lt;p&gt;Frictions in typing may hinder some novice coders from achieving mastery. As they type more code, their frustration and inefficiency will compound. It’s might be outside of our imagination for us seasoned hackers, but let’s be aware of this problem when we talk about coding education.&lt;/p&gt;
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;For my girlfriend, the two simple pieces of hardware—a monitor and a keyboard—had a huge impact. They probably influence most novice coders too. Code editors will become snappier, and coding curriculums will evolve, but they won’t ever expand into the domain of hardware.&lt;/p&gt;
 
@@ -120,7 +194,8 @@ Him: because they have bigger monitors.&lt;/p&gt;
 
 &lt;p&gt;My girlfriend went back to Japan in July. She soon found a part time gig as a junior designer at a startup in Tokyo. I hope our hardware investment paid off. Thanks for reading.&lt;/p&gt;
 
-&lt;h2 id=&quot;update-819&quot;&gt;Update (8/19)&lt;/h2&gt;
+&lt;h2&gt;Update (8/19)&lt;/h2&gt;
+
 &lt;p&gt;I admit that &lt;em&gt;coding&lt;/em&gt;, which is the topic of this article, is not equivalent to &lt;em&gt;programming&lt;/em&gt;. Programming involves control logic, whereas coding may not.&lt;/p&gt;
 
 &lt;p&gt;My girlfriend did use some control logic with Jekyll/SCSS though, and she’s currently studying JavaScript, which is a real programming language. At some point, I will share lessons learned from teaching her &lt;em&gt;programming&lt;/em&gt;.&lt;/p&gt;
@@ -128,7 +203,7 @@ Him: because they have bigger monitors.&lt;/p&gt;
 &lt;p&gt;Also, someone commented on &lt;a href=&quot;https://news.ycombinator.com/item?id=6235565&quot;&gt;Hacker News&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;I think this is a very specific example of trying to learn HTML/CSS and copying a website. For someone trying to learn Python or C or Java might not require such a huge monitor.&lt;/p&gt;
+&lt;p&gt;I think this is a very specific example of trying to learn HTML/CSS and copying a website. For someone trying to learn Python or C or Java might not require such a huge monitor.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Totally agree. I should have mentioned this, as I learned Java and C before any other languages. Nowadays though, many people seem to be learning to code by building web or mobile apps. In that case, a bigger monitor definitely helps. They might be writing JavaScript instead of copying websites, but having an extra room for a web inspector window will come in handy.&lt;/p&gt;

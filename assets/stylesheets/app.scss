@@ -10,8 +10,35 @@ body {
   padding: 3rem 0 5rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #eee;
+  margin: 1.5em 0;
+}
+
 a {
   color: inherit;
+}
+
+code, pre {
+  font-family: 'Inconsolata', monospace;
+}
+
+code {
+  font-family: inherit;
+  background: #eee;
+}
+
+pre {
+  padding: 0.25rem 0.5rem;
+  background: #eee;
+  margin: 0 0 1.5em;
 }
 
 .container {
@@ -41,5 +68,4 @@ blockquote {
 
 .home-title {
   margin-bottom: 3rem;
-  font-weight: normal;
 }
