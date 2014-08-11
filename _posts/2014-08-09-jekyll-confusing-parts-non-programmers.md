@@ -76,6 +76,9 @@ I don't really know how to improve the documentation to prevent this kind of an 
 
 But I think we ought to lower the barrier for design-minded people to play with Jekyll and ultimately create great themes. We have [jekyllthemes.org](http://jekyllthemes.org/), but the quality is not at the level of Wordpress or Tumblr themes yet. There's definitely a room for improvement.
 
+<a href="https://news.ycombinator.com/submit" class="hn-button" data-title="Jekyll: the Confusing Parts for Non-Programmers" data-url="http://chibicode.com/jekyll-confusing-parts-non-programmers/" data-count="horizontal" data-style="twitter">Vote on Hacker News</a>
+<script type="text/javascript">var HN=[];HN.factory=function(e){return function(){HN.push([e].concat(Array.prototype.slice.call(arguments,0)))};},HN.on=HN.factory("on"),HN.once=HN.factory("once"),HN.off=HN.factory("off"),HN.emit=HN.factory("emit"),HN.load=function(){var e="hn-button.js";if(document.getElementById(e))return;var t=document.createElement("script");t.id=e,t.src="//hn-button.herokuapp.com/hn-button.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)},HN.load();</script>
+
 ---
 
 1. Ghost's founder had used the phrase "even more complicated [than Wordpress]" to describe Jekyll in his [Kickstarter video](https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform).
