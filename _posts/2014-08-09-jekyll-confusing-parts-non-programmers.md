@@ -78,4 +78,4 @@ But I think we ought to lower the barrier for design-minded people to play with 
 
 ---
 
-1. Ghost's founder had used "even more complicated [than Wordpress]" to describe Jekyll in his [Kickstarter video](https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform).
+1. Ghost's founder had used the phrase "even more complicated [than Wordpress]" to describe Jekyll in his [Kickstarter video](https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform).
