@@ -1,5 +1,0 @@
-#!/bin/sh
-jekyll build
-git add --all
-git commit -m "change"
-git subtree push --prefix _site origin gh-pages
