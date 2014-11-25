@@ -12,6 +12,7 @@ layout: default
 <div class="post-footer">
   {% include post-footer.html %}
 </div>
+{% unless page.hide_post_navs %}
 {% if site.data.theme.show_post_navs %}
   {% if page.previous or page.next %}
     <div class="post-navs row">
@@ -42,3 +43,4 @@ layout: default
     </div>
   {% endif %}
 {% endif %}
+{% endunless %}

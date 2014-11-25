@@ -1,3 +1,15 @@
+{% if page.japanese %}
+<h3 class="section-header">
+  上杉周作
+</h3>
+
+<p><img src="/assets/images/shu-uesugi.jpg" alt="Shu Uesugi" class="img-responsive img-circle" width="150"></p>
+
+<p>シリコンバレーで働いています。1988年生まれ。2000年からアメリカ在住。メールアドレスはshu@chibicode.comです。</p>
+
+<p><a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-count="true" data-dnt="true" data-show-screen-name="false" data-size="large">Follow @chibicode</a></p>
+
+{% else %}
 <h3 class="section-header">
   About the Author
 </h3>
@@ -16,3 +28,4 @@
 
 <p><iframe src="http://ghbtns.com/github-btn.html?user=ellekasai&repo=shiori&type=watch&count=true&size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe></p>
+{% endif %}
