@@ -6,7 +6,7 @@ layout: solo
 
 ## About Me
 
-I'm a designer/developer based in San Francisco Bay Area. As of February 2015, I currently work for [EdSurge](http://edsurge.com), an education technology company.
+I'm a designer/developer based in San Francisco Bay Area. As of February 2015, I work for [EdSurge](http://edsurge.com), an education technology company.
 
 Besides that, I would struggle to say anything interesting about myself. I've suffered from varying levels of depression since early 2012, which made it challenging to do meaningful activities outside of work. I do think it's important to be vulnerable and share this information publicly though, and for those of you who disagree, you should watch this [TED talk](http://www.ted.com/talks/kevin_breel_confessions_of_a_depressed_comic).
 
@@ -16,7 +16,7 @@ Recently, I've begun to recover and started some side projects. I currently deve
 
 If I were to describe the characteristics of my work, I'd say that I'm obsessed about the "failure cases". For example, I love writing about historical events where poor judgements lead to disaster, more so than writing about breakthroughs in politics/technology/etc. When designing user interfaces, I like to ponder on the most pathological steps users could possibly take. When developing educational materials, the persona I use is someone who's extremely confused about the subject. (Maybe that's why [I won the best TA award](https://www.cs.cmu.edu/~scsfacts/uesugi.html) at Carnegie Mellon's CS department). I'm in the bottom quartile for almost everything I do, and I believe that the world needs more innovators who solve the needs of someone like me.
 
-If you like to hear from me when I release something interesting, you can sign up for my mailing list. I'll send at most one email per month.
+If you'd like to hear from me when I release something interesting, you can sign up for my mailing list. I'll send at most one email per month.
 
 {% include personal_mailchimp.html %}
 
