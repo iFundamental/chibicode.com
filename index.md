@@ -35,4 +35,4 @@ You can also find me on:
 
 ### My Old Blog
 
-[My old blog can be found here](http://chibicode.com/archive/). I write very occasionally.
+I write occasionally. [My old blog can be found here](http://chibicode.com/archive/).
