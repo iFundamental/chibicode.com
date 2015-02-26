@@ -22,7 +22,7 @@ If you like to hear from me when I release something interesting, you can sign u
 
 ### Contact Me
 
-Feel free to follow me on Twitter at [@chibicode](http://twitter.com/chibicode) or email me at [shu@chibicode.com](mailto:shu@chibicode.com). I get really happy when I get random emails, and I'll always reply.
+Feel free to follow me on Twitter at [@chibicode](http://twitter.com/chibicode) or email me at [shu@chibicode.com](mailto:shu@chibicode.com). I love random emails, and I'll always reply.
 
 You can also find me on:
 
@@ -32,3 +32,7 @@ You can also find me on:
 - [Medium](http://medium.com/@chibicode)
 - [Instagram](http://instagram.com/chibicode)
 - [Flickr](https://www.flickr.com/photos/chibicode/sets)
+
+### My Old Blog
+
+[My old blog can be found here](http://chibicode.com/archive/). I write very occasionally.
