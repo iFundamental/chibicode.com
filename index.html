@@ -1,15 +1,22 @@
 ---
+layout: null
 ---
 
-{% for post in site.posts limit:site.data.theme.num_home_posts %}
-<div class="post-header-home">
-  <h1 class="post-title-home">
-    <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
-  </h1>
-  {% include post-header-home.html %}
-</div>
-<div class="post-excerpt-home">
-  {{ post.excerpt }}
-  <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
-</div>
-{% endfor %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shu Uesugi</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/stylesheets/c.css">
+  </head>
+  <body>
+    <main class="main">
+      {% capture main %}{% include main.md %}{% endcapture %}{{ main | markdownify }}
+    </main>
+  </body>
+</html>
