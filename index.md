@@ -20,7 +20,7 @@ If you like to hear from me when I release something interesting, you can sign u
 
 {% include personal_mailchimp.html %}
 
-### Contact Me
+## Contact Me
 
 Feel free to follow me on Twitter at [@chibicode](http://twitter.com/chibicode) or email me at [shu@chibicode.com](mailto:shu@chibicode.com). I love random emails, and I'll always reply.
 
