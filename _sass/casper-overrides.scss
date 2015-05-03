@@ -10,6 +10,14 @@ body {
   opacity: 0.99;
 }
 
+h1, h2, h3,
+h4, h5, h6,
+p, ul, ol, dl {
+  -webkit-font-feature-settings: inherit;
+  -moz-font-feature-settings: inherit;
+  -o-font-feature-settings: inherit;
+}
+
 .menu-button {
   float: left;
 }
