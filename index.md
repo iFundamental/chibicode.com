@@ -2,7 +2,7 @@
 layout: index
 ---
 
-I'm a designer/developer based in San Francisco Bay Area. As of February 2015, I work for [EdSurge](http://edsurge.com), an education technology company.
+{% include author-bio.md %}
 
 Besides that, I would struggle to say anything interesting about myself. I've suffered from varying levels of depression since early 2012, which made it challenging to do meaningful activities outside of work. I do think it's important to be vulnerable and share this information publicly though, and for those of you who disagree, you should watch this [TED talk](http://www.ted.com/talks/kevin_breel_confessions_of_a_depressed_comic).
 
