@@ -1,5 +1,4 @@
 ---
-permalink: "/post/63453005550/toefl"
 title: TOEFLの点数のインフォグラフィック
 ---
 

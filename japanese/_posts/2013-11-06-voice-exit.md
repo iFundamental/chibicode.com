@@ -1,6 +1,5 @@
 ---
 title: "Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話"
-permalink: voice-exit
 date: 2013-11-06
 featured: true
 ---
