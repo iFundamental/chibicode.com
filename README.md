@@ -1,3 +1,3 @@
 # [Chibicode's Blog](http://chibicode.com)
 
-2014 Copyright Shusaku Uesugi. Using [Shiori](http://github.com/ellekasai/shiori) Theme.
+2015 Copyright Shusaku Uesugi. Theme adapted from [Casper](http://github.com/TryGhost/Casper) Theme.

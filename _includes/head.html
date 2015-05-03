@@ -1,2 +1,5 @@
-<!-- Additions to <head> tags go here. -->
+{% if page.path == "index.md" %}
+<meta property="og:type" content="website" />
+{% else %}
 <meta property="og:type" content="article" />
+{% endif %}

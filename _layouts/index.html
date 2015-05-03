@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+<body class="post-template">
+  <div class="site-wrapper">
+    <header class="main-header post-head no-cover">
+    </header>
+
+    <main class="content" role="main">
+      <div class="post">
+        <header class="post-header">
+          <h1 class="post-title">{{ site.data.meta.site_title }}</h1>
+        </header>
+        <section class="post-content">
+          {{ content }}
+        </section>
+        <div class="page-author-header">
+          <figure class="author-image">
+            <a class="img" href="{{ site.data.meta.author.image_url }}" style="background-image: url({{ site.data.meta.author.image_url }})"><span class="hidden">{{name}}'s Picture</span></a>
+          </figure>
+        </div>
+        <section class="post-content">
+          <h3>Recent Posts</h3>
+          <ul class="post-list">
+            {% for post in site.posts limit:5 %}
+              <li class="post-list-item">
+                <a href="{{ post.url | prepend:site.baseurl}}" class="post-list-link">
+                  <span class="post-list-title">
+                    {% if post.featured %}<strong>{% endif %}
+                      {{ post.title }}
+                    {% if post.featured %}</strong>{% endif %}
+                  </span>
+                  <span class="post-list-metadata">
+                    <span class="post-list-date">
+                      {% if post.featured %}
+                        ★ Featured &middot;
+                      {% endif %}
+                      {{ post.date | date_to_string }}</span>
+                    on
+                    {{ post.categories | array_to_sentence_string | capitalize }}
+                  </span>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+          {% for category_name in site.data.meta.ordered_categories_downcase %}
+            <span id="category-{{ forloop.index0 }}"></span>
+            <hr>
+            <div class="category-navigation-links">
+              {% unless forloop.first %}
+                <a href="#category-{{ forloop.index0 | minus:1 }}" class="category-navigation-link">&uarr; Prev</a>
+              {% endunless %}
+              {% unless forloop.first or forloop.last %}
+                <span class="category-navigation-separator">|</span>
+              {% endunless %}
+              {% unless forloop.last %}
+                <a href="#category-{{ forloop.index0 | plus:1 }}" class="category-navigation-link">&darr; Next</a>
+              {% endunless %}
+            </div>
+            <h3>{{ category_name | capitalize }}</h3>
+            {% assign posts_in_category = site.categories[category_name] %}
+            <ul class="post-list">
+            {% for post in posts_in_category %}
+              <li class="post-list-item">
+                <a href="{{ post.url | prepend:site.baseurl}}" class="post-list-link">
+                  <span class="post-list-title">
+                    {% if post.featured %}<strong>{% endif %}
+                      {{ post.title }}
+                    {% if post.featured %}</strong>{% endif %}
+                  </span>
+                  <span class="post-list-metadata">
+                    <span class="post-list-date">
+                      {% if post.featured %}
+                        ★ Featured &middot;
+                      {% endif %}
+                      {{ post.date | date_to_string }}
+                    </span>
+                  </span>
+                </a>
+              </li>
+            {% endfor %}
+            </ul>
+          {% endfor %}
+        </section>
+      </div>
+    </main>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </div>
+</body>

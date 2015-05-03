@@ -1,0 +1,10 @@
+site_title: "Shu Uesugi"
+author:
+  name: "Shu Uesugi"
+  image_url: "/assets/images/shu-uesugi.jpg"
+  twitter_user_name: chibicode
+ordered_categories_downcase:
+  - "essays"
+  - "blurbs"
+  - "diaries"
+  - "japanese"
