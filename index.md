@@ -4,6 +4,8 @@ layout: index
 
 {% include author-bio.md %}
 
+![]({{ site.baseurl }}/assets/images/og-image.jpg)
+
 Besides that, I would struggle to say anything interesting about myself. I've suffered from varying levels of depression since early 2012, which made it challenging to do meaningful activities outside of work. I do think it's important to be vulnerable and share this information publicly though, and for those of you who disagree, you should watch this [TED talk](http://www.ted.com/talks/kevin_breel_confessions_of_a_depressed_comic).
 
 Surprisingly, it's still possible to help others while you're in plight. Since early 2012, I've personally advised a lot of people from Japan (where I'm originally from) who aspire to pursue a career outside of Japan. Most notably, since early 2013, I've been mentoring my [girlfriend](http://ellekasai.com/) in coding and design. In under 2 years, she's transformed her career from being a salesperson in Tokyo to being a UI designer/developer in Canada.
