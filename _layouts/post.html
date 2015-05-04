@@ -17,7 +17,7 @@ layout: default
         <header class="post-header">
           <h1 class="post-title">{{ page.title }}</h1>
           <section class="post-meta">
-            <time class="post-date" datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time> on {{ page.categories | array_to_sentence_string | capitalize }}
+            <time class="post-date" datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time> on {{ page.categories | array_to_sentence_string }}
           </section>
         </header>
         <section class="post-content">
@@ -50,7 +50,7 @@ layout: default
               <h2>{{ page.previous.title }}</h2>
               <p>
                 <section class="post-meta">
-                  <time class="post-date" datetime="{{ page.previous.date | date_to_xmlschema}}">{{ page.previous.date | date_to_string }}</time> on {{ page.previous.categories | array_to_sentence_string | capitalize }}
+                  <time class="post-date" datetime="{{ page.previous.date | date_to_xmlschema}}">{{ page.previous.date | date_to_string }}</time> on {{ page.previous.categories | array_to_sentence_string }}
                 </section>
               </p>
             </section>
@@ -61,7 +61,7 @@ layout: default
             <section class="post">
               <h2>{{ page.next.title }}</h2>
               <section class="post-meta">
-                <time class="post-date" datetime="{{ page.next.date | date_to_xmlschema}}">{{ page.next.date | date_to_string }}</time> on {{ page.next.categories | array_to_sentence_string | capitalize }}
+                <time class="post-date" datetime="{{ page.next.date | date_to_xmlschema}}">{{ page.next.date | date_to_string }}</time> on {{ page.next.categories | array_to_sentence_string }}
               </section>
             </section>
           </a>

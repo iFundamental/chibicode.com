@@ -21,7 +21,7 @@ layout: default
           </figure>
         </div>
         <section class="post-content">
-          <h3>Recent Posts</h3>
+          <h3>most recent</h3>
           <ul class="post-list">
             {% for post in site.posts limit:5 %}
               <li class="post-list-item">
@@ -38,7 +38,7 @@ layout: default
                       {% endif %}
                       {{ post.date | date_to_string }}</span>
                     on
-                    {{ post.categories | array_to_sentence_string | capitalize }}
+                    {{ post.categories | array_to_sentence_string }}
                   </span>
                 </a>
               </li>
@@ -58,7 +58,7 @@ layout: default
                 <a href="#category-{{ forloop.index0 | plus:1 }}" class="category-navigation-link">&darr; Next</a>
               {% endunless %}
             </div>
-            <h3>{{ category_name | capitalize }}</h3>
+            <h3>{{ category_name }}</h3>
             {% assign posts_in_category = site.categories[category_name] %}
             <ul class="post-list">
             {% for post in posts_in_category %}
