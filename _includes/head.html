@@ -1,5 +1,23 @@
+{% capture bio_string %}{% include author-bio.md %}{% endcapture %}
+{% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ bio_string | markdownify | strip_html | strip_newlines }}{% endif %}{% endcapture %}
+{% capture title %}{% if page.title %}{{ page.title }}{% else %}{{ site.data.meta.site_title }}{% endif %}{% endcapture %}
+{% capture url %}{{ site.github.url }}{{ page.url | remove:'index.html' }}{% endcapture %}
+{% capture og_image %}{{ site.github.url }}/assets/images/og-image.jpg{% endcapture %}
+<meta name="description" content="{{ description }}">
+
 {% if page.path == "index.md" %}
 <meta property="og:type" content="website" />
 {% else %}
 <meta property="og:type" content="article" />
 {% endif %}
+<meta property="og:url" content="{{ url }}" />
+<meta property="og:title" content="{{ title }}" />
+<meta property="og:description" content="{{ description }}" />
+<meta property="og:image" content="{{ og_image }}" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ title }}" />
+<meta name="twitter:creator" content="@{{ site.meta.author.twitter_user_name }}">
+<meta name="twitter:description" content="{{ description }}" />
+<meta name="twitter:url" content="{{ url }}" />
+<meta name="twitter:image" content="{{ og_image }}">
