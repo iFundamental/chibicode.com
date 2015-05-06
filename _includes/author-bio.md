@@ -1,1 +1,1 @@
-I'm a designer/developer based in San Francisco Bay Area. I currently work for [EdSurge](http://edsurge.com), an education technology company.
+I'm a designer/developer based in San Francisco Bay Area. I currently work for [EdSurge](http://edsurge.com), an education technology company. My twitter account is [@chibicode](http://twitter.com/chibicode).
