@@ -2,7 +2,7 @@
 title: The Mario Kart Principle of Education
 ---
 
-![]({{ site.baseurl }}/assets/images/mario-kart/1.jpg)
+![](http://chibicode.com/assets/images/mario-kart/1.jpg)
 
 (Note: this article was originally [posted to Medium](https://medium.com/who-i-am/597e51e988db).)
 

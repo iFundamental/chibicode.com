@@ -4,7 +4,7 @@ layout: index
 
 {% include author-bio.md %}
 
-![]({{ site.baseurl }}/assets/images/og-image.jpg)
+![](http://chibicode.com/assets/images/og-image.jpg)
 
 I consider myself mediocre at designing, coding, and writing, but I do enjoy them. I like to chat with people about CSS (attended CSSConf in 2013 and CSSConf.EU in 2014) and about Ruby (attended RubyKaigi in 2012, RubyConf in 2012, and GoGaRuCo in 2014). I don't have anything novel to say in English, but in Japanese, I've written several articles that got 20K+ pageviews each.
 

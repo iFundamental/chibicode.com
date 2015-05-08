@@ -21,6 +21,11 @@ layout: default
           </section>
         </header>
         <section class="post-content">
+          {% if page.draft %}
+            <p>
+              <em>Note: This post is a draft.</em>
+            </p>
+          {% endif %}
           {{content}}
         </section>
 

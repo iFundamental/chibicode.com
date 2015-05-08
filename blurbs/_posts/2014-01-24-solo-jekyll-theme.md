@@ -2,7 +2,7 @@
 title: "Solo: A Single Page Jekyll Theme"
 ---
 
-![]({{ site.baseurl }}/assets/images/solo-jekyll-theme/solo.png)
+![](http://chibicode.com/assets/images/solo-jekyll-theme/solo.png)
 
 I've created [Solo](http://solo.chibi.io/), a Jekyll theme that *only* supports single pages.
 
