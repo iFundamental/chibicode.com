@@ -128,3 +128,7 @@ featured: true
 [^3]: 復員兵援護法について、日本語では[こちらのリンクが詳しい](http://voicejapan2.heteml.jp/janjan/living/0910/0910191892/1.php)。
 [^4]: 復員兵で大学に進学したのは、97%が男性だった。
 [^5]: ちなみに、カトリック教者は当時の[全人口の2割](https://en.wikipedia.org/wiki/Historical_religious_demographics_of_the_United_States)。
+
+## 続く
+
+[次の記事はこちら。](http://chibicode.com/3-troubled-crusade-1-5)
