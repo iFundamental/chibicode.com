@@ -14,6 +14,9 @@ layout: default
         </header>
         <section class="post-content">
           {{ content }}
+          <p>
+            <a href="#japanese">日本語の記事はこちら。</a>
+          </p>
         </section>
         <div class="page-author-header">
           <figure class="author-image">
@@ -21,69 +24,39 @@ layout: default
           </figure>
         </div>
         <section class="post-content">
-          <h3>most recent</h3>
-          <ul class="post-list">
-            {% for post in site.posts limit:5 %}
-              {% unless post.draft %}
-                <li class="post-list-item">
-                  <a href="{{ post.url | prepend:site.baseurl}}" class="post-list-link">
-                    <span class="post-list-title">
-                      {% if post.featured %}<strong>{% endif %}
-                        {{ post.title }}
-                      {% if post.featured %}</strong>{% endif %}
-                    </span>
-                    <span class="post-list-metadata">
-                      <span class="post-list-date">
-                        {% if post.featured %}
-                          ★ Featured &middot;
-                        {% endif %}
-                        {{ post.date | date_to_string }}</span>
-                      on
-                      {{ post.categories | array_to_sentence_string }}
-                    </span>
-                  </a>
-                </li>
-              {% endunless %}
-            {% endfor %}
-          </ul>
           {% for category_name in site.data.meta.ordered_categories_downcase %}
-            <span id="category-{{ forloop.index0 }}"></span>
-            <hr>
-            <div class="category-navigation-links">
-              {% unless forloop.first %}
-                <a href="#category-{{ forloop.index0 | minus:1 }}" class="category-navigation-link">&uarr; Prev</a>
-              {% endunless %}
-              {% unless forloop.first or forloop.last %}
-                <span class="category-navigation-separator">|</span>
-              {% endunless %}
-              {% unless forloop.last %}
-                <a href="#category-{{ forloop.index0 | plus:1 }}" class="category-navigation-link">&darr; Next</a>
-              {% endunless %}
-            </div>
+            {% if category_name == "japanese essays" %}
+              <span id="japanese"></span>
+              <hr>
+            {% else %}
+              <div class="category-navigation-links">
+                <a href="#japanese" class="category-navigation-link">日本語の記事はこちら &darr;</a>
+              </div>
+            {% endif %}
             <h3>{{ category_name }}</h3>
             {% assign posts_in_category = site.categories[category_name] %}
             <ul class="post-list">
-            {% for post in posts_in_category %}
-              {% unless post.draft %}
-                <li class="post-list-item">
-                  <a href="{{ post.url | prepend:site.baseurl}}" class="post-list-link">
-                    <span class="post-list-title">
-                      {% if post.featured %}<strong>{% endif %}
-                        {{ post.title }}
-                      {% if post.featured %}</strong>{% endif %}
-                    </span>
-                    <span class="post-list-metadata">
-                      <span class="post-list-date">
-                        {% if post.featured %}
-                          ★ Featured &middot;
-                        {% endif %}
-                        {{ post.date | date_to_string }}
+              {% for post in posts_in_category %}
+                {% unless post.draft %}
+                  <li class="post-list-item">
+                    <a href="{{ post.url | prepend:site.baseurl}}" class="post-list-link">
+                      <span class="post-list-title">
+                        {% if post.featured %}<strong>{% endif %}
+                          {{ post.title }}
+                        {% if post.featured %}</strong>{% endif %}
                       </span>
-                    </span>
-                  </a>
-                </li>
-              {% endunless %}
-            {% endfor %}
+                      <span class="post-list-metadata">
+                        <span class="post-list-date">
+                          {% if post.featured %}
+                            ★ Featured &middot;
+                          {% endif %}
+                          {{ post.date | date_to_string }}
+                        </span>
+                      </span>
+                    </a>
+                  </li>
+                {% endunless %}
+              {% endfor %}
             </ul>
           {% endfor %}
         </section>
