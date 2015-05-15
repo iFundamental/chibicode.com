@@ -1,7 +1,5 @@
 ---
 title: "I Managed to Read the Bitcoin Whitepaper"
-permalink: bitcoin-whitepaper
-date: 2014-09-23
 ---
 
 At some point in the last few months, I was following just three accounts on Twitter: [@Bitcoin](https://twitter.com/Bitcoin), [@coindesk](https://twitter.com/coindesk), and [@BTCFoundation](https://twitter.com/BTCFoundation). I wanted to learn more about Bitcoin, and following these accounts seemed like a good place to start, given that I waste so much time on Twitter.

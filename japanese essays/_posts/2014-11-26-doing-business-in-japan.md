@@ -1,7 +1,5 @@
 ---
 title: "ビジネス・イン・ジャパン"
-permalink: doing-business-in-japan
-date: 2014-11-26
 featured: true
 ---
 

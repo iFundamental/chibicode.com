@@ -1,7 +1,5 @@
 ---
 title: "Anyone Can Lead"
-permalink: anyone-can-lead
-date: 2014-10-12
 ---
 
 If you haven't watched these three videos of [Jack Ma](http://www.businessinsider.com/the-inspiring-life-story-of-alibaba-founder-jack-ma-2014-10), cofounder of [Alibaba](http://projects.wsj.com/alibaba/) and currently China's richest man, do so now:

@@ -1,6 +1,5 @@
 ---
 title: "「恐怖、シリコンバレーの真実！！！」「#地獄のシリコンバレー」についての私見"
-permalink: silicon-valley-hell
 featured: true
 ---
 

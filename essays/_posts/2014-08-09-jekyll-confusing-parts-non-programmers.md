@@ -1,7 +1,5 @@
 ---
 title: "Jekyll: the Confusing Parts for Non-Programmers"
-permalink: jekyll-confusing-parts-non-programmers
-date: 2014-08-09
 ---
 
 I love [Jekyll](http://jekyllrb.com/). I've been using it since version `0.11`, before there were [million other static site generators](http://staticsitegenerators.net/). I love it so much that I bought [a sticker on Stickermule](http://www.stickermule.com/marketplace/825-jekyll-stickers). Of course, this blog is [powered by Jekyll](https://github.com/chibicode/chibicode-new).

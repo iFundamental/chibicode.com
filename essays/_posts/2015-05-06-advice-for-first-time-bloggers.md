@@ -1,6 +1,5 @@
 ---
 title: "Advice for the First Time Bloggers"
-permalink: advice-for-first-time-bloggers
 ---
 
 I often get asked for career advice from someone who (1) is young and (2) has a full-time commitment (school, job, etc) but isn't 100% happy about it. My default advice for him/her is to *start blogging*.
@@ -25,7 +24,7 @@ Instead, I recommend you to visually style your blog like *pajamas*. Here's the 
 
 For example, if you're blogging on [Tumblr](http://tumblr.com), stick to its default theme (currently [Optica](https://www.tumblr.com/theme/37310)), or choose a theme like [Block](https://www.tumblr.com/theme/3):
 
-![](http://chibicode.com/assets/images/2015-05-06-1/block.png)
+![](http://chibicode.com/assets/images/advice-for-first-time-bloggers/block.png)
 
 This one's certainly not as pretty as the default theme, but it's still legible - so it fits the criteria. Note that Tumblr applies a different, mobile-friendly theme when viewed on mobile, so no need to worry there. (Just a side note: this theme is the third oldest theme on Tumblr, designed by Tumblr's founder, [David Karp](http://en.wikipedia.org/wiki/David_Karp).)
 
