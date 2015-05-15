@@ -38,7 +38,7 @@ I was never jealous that those founders were onto success; I was jealous of thei
 
 After six months of unsuccessful job search in Japan, I met [Betsy Corcoran](https://www.linkedin.com/pub/betsy-elizabeth-corcoran/0/69/b91), co-founder and CEO of [EdSurge](http://edsurge.com/), the company I now work for. I can go on and on about how amazing she is, but for the sake of simplicity, let's just say that she's the most humble entrepreneur I've ever known.
 
-![](/assets/images/anyone-can-lead/betsy-me.jpg)
+![](http://chibicode.com/assets/images/anyone-can-lead/betsy-me.jpg)
 
 Shortly after starting at EdSurge, Betsy and I drove down to an education meetup in San Jose. The keynote speaker asked people to raise their hand if they identify themselves as an entrepreneur. Well after ~30 people in the room confidently raised their hand, Betsy looked at me, raised her hand only halfway and modestly said, "...I guess I'm an entrepreneur too?"
 

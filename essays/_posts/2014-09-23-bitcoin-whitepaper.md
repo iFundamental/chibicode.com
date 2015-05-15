@@ -14,7 +14,7 @@ So I printed out the paper, took a selfie, and read it. It was surprisingly a qu
 
 <!--more-->
 
-![Bitcoin Whitepaper](/assets/images/bitcoin-whitepaper/bitcoin-whitepaper.jpg)
+![Bitcoin Whitepaper](http://chibicode.com/assets/images/bitcoin-whitepaper/bitcoin-whitepaper.jpg)
 
 ## Disclaimer: My Prior Knowledge on Bitcoin
 

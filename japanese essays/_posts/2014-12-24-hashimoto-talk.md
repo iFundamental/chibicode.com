@@ -26,4 +26,4 @@ title: "大阪・橋下市長の学生向け講演が明快で素晴らしかっ
 
 ちなみに、橋下さんも来られる予定だったが、慰安婦発言問題で渡米どころではなかったらしい。
 
-![](/assets/images/hashimoto-talk/osaka_event.jpg)
+![](http://chibicode.com/assets/images/hashimoto-talk/osaka_event.jpg)

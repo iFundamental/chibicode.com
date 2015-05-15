@@ -8,13 +8,13 @@ Recently, I've been helping my [girlfriend](http://twitter.com/ellekasai) develo
 
 <!--more-->
 
-![](/assets/images/jekyll-confusing-parts-non-programmers/stickers.jpg)
+![](http://chibicode.com/assets/images/jekyll-confusing-parts-non-programmers/stickers.jpg)
 
 ## Page v.s. Post: Which variable to use?
 
 As a review exercise, I asked her to iterate over all posts and display their excerpt. She went through her old code and found that {% raw %}`{% for post in site.posts %}`{% endraw %} might do part of the job. She also read the [documentation](http://jekyllrb.com/docs/variables/#page-variables) and discovered `page.excerpt`:
 
-![](/assets/images/jekyll-confusing-parts-non-programmers/documentation.png)
+![](http://chibicode.com/assets/images/jekyll-confusing-parts-non-programmers/documentation.png)
 
 So she wrote:
 
@@ -40,7 +40,7 @@ This made her think *conversely* that, all she needs to do is to keep track of w
 
 [The documentation](http://jekyllrb.com/docs/variables/#page-variables) *enforced* her view because it kept using the `page` variable. To her, `page` was the only available variable that had anything to do with page data.
 
-![](/assets/images/jekyll-confusing-parts-non-programmers/documentation2.png)
+![](http://chibicode.com/assets/images/jekyll-confusing-parts-non-programmers/documentation2.png)
 
 So when she wrote this:
 
