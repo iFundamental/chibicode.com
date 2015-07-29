@@ -5,7 +5,6 @@
   --font-family: SF UI Text,Roboto,Avenir Next,Helvetica Neue,Helvetica,sans-serif;
   --black: #212121;
   --body-color: #616161;
-  --quiet-color: #9E9E9E;
   --link-color: #D81B60;
   --border-color: #eee;
   --space-1: .75rem;
@@ -46,7 +45,6 @@ blockquote {
   border-left-width: var(--space-1);
   border-left-style: solid;
   font-style: italic;
-  color: var(--quiet-color);
 }
 
 .fluid-width-video-wrapper {
