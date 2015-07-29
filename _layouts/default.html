@@ -5,11 +5,46 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend:site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/assets/stylesheets/chibicode.css" | prepend:site.baseurl }}">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <link rel="canonical" href="{{ site.github.url }}{{ page.url | remove:'index.html' }}/">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.meta.site_title }}</title>
     {% include head.html %}
+    {% if site.github %}
+      <script src="/assets/bundle.js"></script>
+    {% else %}
+      <script src="http://localhost:8080/assets/bundle.js"></script>
+    {% endif %}
   </head>
-  {{ content }}
+  <body>
+    <div class="py2 sm-show"></div>
+    <div class="container px2 py2">
+      <header>
+        <h1 class="mt1 mb1 h2">
+          <a href="{{ "/" | prepend:site.baseurl }}" class="black td-none">
+            {{ site.data.meta.site_title }}
+          </a>
+        </h1>
+      </header>
+      {{ content }}
+      <div class="py2 sm-show"></div>
+      <section class="py2 center border-top">
+        <a href="{{ "/" | prepend:site.baseurl }}" class="td-none mr1 bold">{{ site.data.meta.site_title }}</a>
+        <span class="muted mr1">&middot;</span>
+        <a href="mailto:shu@chibicode.com" class="td-none">shu@chibicode.com</a>
+        <span class="muted mr1">&middot;</span>
+        <a href="http://twitter.com/chibicode" class="td-none mr1">@chibicode</a>
+      </section>
+      <div class="py2 sm-show"></div>
+    </div>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-32987822-1', 'auto');
+    ga('send', 'pageview');
+
+    </script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </body>
 </html>

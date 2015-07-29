@@ -2,78 +2,38 @@
 layout: default
 ---
 
-<body class="post-template nav-closed">
-  <div class="site-wrapper">
-    <header class="main-header post-head no-cover">
-      <nav class="main-nav clearfix">
-        <a class="menu-button" href="{{ "/" | prepend:site.baseurl }}">
-          <span class="word">&larr; Home</span>
-        </a>
-      </nav>
+<main class="py2 clearfix">
+  <article class="mx-auto lg-col-7 md-col-8 sm-col-9">
+    <header class="mb3">
+      <h1 class="mt0 mb1">{{ page.title }}</h1>
+      <section class="muted">
+        <time datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time>
+      </section>
     </header>
+    <section class="mb3 js-post-content">
+      {% if page.draft %}
+        <div class="p2 border bg-border-color mt2 mb2 rounded">
+          Note: This post is an unpublished draft. Stay tuned!
+        </div>
+      {% endif %}
+      {{content}}
+    </section>
 
-    <main class="content" role="main">
-      <article class="post">
-        <header class="post-header">
-          <h1 class="post-title">{{ page.title }}</h1>
-          <section class="post-meta">
-            <time class="post-date" datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time> on {{ page.categories | array_to_sentence_string }}
-          </section>
-        </header>
-        <section class="post-content">
-          {% if page.draft %}
-            <p>
-              <em>Note: This post is an unpublished draft. Stay tuned!</em>
-            </p>
-          {% endif %}
-          {{content}}
-        </section>
-
-        <footer class="post-footer">
-          <figure class="author-image">
-            <a class="img" href="{{ site.data.meta.author.image_url }}" style="background-image: url({{ site.data.meta.author.image_url }})"><span class="hidden">{{name}}'s Picture</span></a>
-          </figure>
-
-          <section class="author">
-            <h4>{{ site.data.meta.author.name}}</a></h4>
+    <div class="py1 sm-show"></div>
+    <footer>
+      <section class="py2 border-top">
+        <div class="clearfix">
+          <div class="left mr1"><img src="{{ site.data.meta.author.image_url }}" width="75" alt="{{ site.data.meta.author.name }}" class="circle"></div>
+          <div class="overflow-hidden">
+            <h4 class="mt0">{{ site.data.meta.author.name}}</a></h4>
             {% capture md %}{% include author-bio.md %}{% endcapture %}{{ md | markdownify }}
-          </section>
+        </div>
+      </section>
 
-          <section class="share">
-            <h4>Share this post</h4>
-            <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.meta.author.twitter_user_name }}" data-size="large" data-dnt="true">Tweet</a>
-          </section>
-        </footer>
-      </article>
-    </main>
-
-    {% if page.next or page.previous %}
-      <aside class="read-next">
-        {% if page.previous %}
-          <a class="read-next-story no-cover" href="{{ page.previous.url | prepend:site.baseurl }}">
-            <section class="post">
-              <h2>{{ page.previous.title }}</h2>
-              <p>
-                <section class="post-meta">
-                  <time class="post-date" datetime="{{ page.previous.date | date_to_xmlschema}}">{{ page.previous.date | date_to_string }}</time> on {{ page.previous.categories | array_to_sentence_string }}
-                </section>
-              </p>
-            </section>
-          </a>
-        {% endif %}
-        {% if page.next %}
-          <a class="read-next-story prev no-cover" href="{{ page.next.url | prepend:site.baseurl}}">
-            <section class="post">
-              <h2>{{ page.next.title }}</h2>
-              <section class="post-meta">
-                <time class="post-date" datetime="{{ page.next.date | date_to_xmlschema}}">{{ page.next.date | date_to_string }}</time> on {{ page.next.categories | array_to_sentence_string }}
-              </section>
-            </section>
-          </a>
-        {% endif %}
-      </aside>
-    {% endif %}
-    {% include footer.html %}
-    {% include scripts.html %}
-  </div>
-</body>
+      <section class="py2 border-top center">
+        <h4>Share this post</h4>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.meta.author.twitter_user_name }}" data-size="large" data-dnt="true">Tweet</a>
+      </section>
+    </footer>
+  </article>
+</main>

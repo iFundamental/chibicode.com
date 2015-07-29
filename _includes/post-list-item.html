@@ -1,0 +1,10 @@
+<li class="py1">
+  {% if post.external %}
+    <a href="{{ post.external }}" class="td-none">
+  {% else %}
+    <a href="{{ post.url | prepend:site.baseurl }}" class="td-none">
+  {% endif %}
+  {{ post.title }}</a>
+  <br>
+  <small class="muted">{{ post.date | date_to_string }}</small>
+</li>

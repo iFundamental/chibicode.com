@@ -1,0 +1,87 @@
+---
+layout: default
+---
+<section>
+  <div class="clearfix mxn2">
+    <div class="sm-col sm-col-6 px2 py2">
+      <img src="/assets/images/og-image.jpg" alt="Shu Uesugi" data-action="zoom">
+    </div>
+    <div class="sm-col sm-col-6 px2 py2">
+      {% capture bio_string %}{% include author-bio.md %}{% endcapture %}
+      {{ bio_string | markdownify }}
+      <p>
+        Photo taken at <a href="https://twitter.com/ReactEurope/status/619192524612239360">React.js Europe 2015 in Paris</a>. Also, here's one of my recent tweets:
+      </p>
+      {% capture twitter_attrs %}
+        {% unless site.data.featured_tweet.card %}
+          data-cards="hidden"
+        {% endunless %}
+        {% unless site.data.featured_tweet.conversation %}
+          data-conversation="none"
+        {% endunless %}
+      {% endcapture %}
+      <blockquote class="twitter-tweet" {{ twitter_attrs }}><a href="https://twitter.com/chibicode/status/{{ site.data.featured_tweet.id }}"></a></blockquote>
+    </div>
+  </div>
+</section>
+<div class="py2 sm-show"></div>
+<section>
+  <div class="clearfix mxn2">
+    <div class="sm-col sm-col-6 px2 py2">
+      <h3 class="mt0 h4">
+        Featured Writings
+      </h3>
+      <ul class="list-reset">
+        {% for post in site.categories["en"] %}
+          {% if post.featured %}
+            {% include post-list-item.html post=post %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="sm-col sm-col-6 px2 py2">
+      <h3 class="mt0 h4">
+        Other Writings
+      </h3>
+      <div class="p1 border bg-border-color mt2 mb1 rounded">
+        For Japanese Readers: <a href="#japanese">日本語の記事はこちらです</a>。
+      </div>
+      <ul class="list-reset">
+        {% for post in site.categories["en"] %}
+          {% unless post.featured %}
+            {% include post-list-item.html post=post %}
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+<div class="py2 sm-show"></div>
+<section id="japanese">
+  <div class="clearfix mxn2">
+    <div class="sm-col sm-col-6 px2 py2">
+      <h3 class="mt0 h4">
+        人気エントリー
+      </h3>
+      <ul class="list-reset">
+        {% for post in site.categories["ja"] %}
+          {% if post.featured %}
+            {% include post-list-item.html post=post %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="sm-col sm-col-6 px2 py2">
+      <h3 class="mt0 h4">
+        その他のエントリー
+      </h3>
+      <ul class="list-reset">
+        {% for post in site.categories["ja"] %}
+          {% unless post.featured %}
+            {% include post-list-item.html post=post %}
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

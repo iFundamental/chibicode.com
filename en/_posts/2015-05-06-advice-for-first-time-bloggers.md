@@ -1,5 +1,6 @@
 ---
 title: "Advice for the First Time Bloggers"
+featured: true
 ---
 
 I often get asked for career advice from someone who (1) is young and (2) has a full-time commitment (school, job, etc) but isn't 100% happy about it. My default advice for him/her is to *start blogging*.
