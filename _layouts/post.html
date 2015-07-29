@@ -23,9 +23,15 @@ layout: default
     <footer>
       <section class="py3 border-top">
         <div class="clearfix">
-          <div class="left mr1"><img src="{{ site.data.meta.author.image_url }}" width="75" alt="{{ site.data.meta.author.name }}" class="circle"></div>
+          <div class="left mr1">
+            <a href="{{ "/" | prepend:site.baseurl }}">
+              <img src="{{ site.data.meta.author.image_url }}" width="75" alt="{{ site.data.meta.author.name }}" class="circle">
+            </a>
+          </div>
           <div class="overflow-hidden">
-            <h4 class="mt0">{{ site.data.meta.author.name}}</a></h4>
+            <h4 class="mt0">
+              <a href="{{ "/" | prepend:site.baseurl }}" class="black td-none">{{ site.data.meta.author.name}}</a>
+            </h4>
             {% capture md %}{% include author-bio.md %}{% endcapture %}{{ md | markdownify }}
         </div>
       </section>

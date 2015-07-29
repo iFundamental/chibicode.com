@@ -22,15 +22,18 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      is_post: false
   -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      is_post: true
   -
     scope:
       path: ""
       type: "drafts"
     values:
       layout: "post"
+      is_post: true

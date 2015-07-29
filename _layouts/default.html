@@ -18,7 +18,7 @@
     <div class="py2 sm-show"></div>
     <div class="container px2 py2">
       <header>
-        <h1 class="mt1 mb1 h2">
+        <h1 class="mt1 mb1 h2 {% if page.is_post %}mx-auto lg-col-7 md-col-8 sm-col-9 muted{% endif %}">
           <a href="{{ "/" | prepend:site.baseurl }}" class="black td-none">
             {{ site.data.meta.site_title }}
           </a>
