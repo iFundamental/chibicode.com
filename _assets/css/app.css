@@ -55,8 +55,8 @@ blockquote {
   margin-bottom: var(--space-2);
 }
 
-@media (--breakpoint-lg) {
+/*@media (--breakpoint-lg) {
   html {
     font-size: 112.5%;
   }
-}
+}*/
