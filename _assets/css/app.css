@@ -1,6 +1,7 @@
 @import "./zoom.css";
 @import "basscss/src/basscss.css";
 
+/* See: https://github.com/basscss/defaults/blob/master/index.css */
 :root {
   --font-family: SF UI Text,Roboto,Avenir Next,Helvetica Neue,Helvetica,sans-serif;
   --black: #212121;
@@ -12,6 +13,7 @@
   --space-3: 3rem;
   --space-4: 6rem;
   --border-radius: 5px;
+  --heading-margin-top: 2em;
 }
 
 body {
