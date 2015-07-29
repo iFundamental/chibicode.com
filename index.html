@@ -3,7 +3,7 @@ layout: default
 ---
 <section>
   <div class="clearfix mxn2">
-    <div class="sm-col sm-col-6 px2 py2">
+    <div class="sm-col sm-col-6 px2 mt2">
       <img src="/assets/images/og-image.jpg" alt="Shu Uesugi" data-action="zoom" class="rounded">
     </div>
     <div class="sm-col sm-col-6 px2 py2">
@@ -29,9 +29,9 @@ layout: default
   <div class="clearfix mxn2">
     <div class="sm-col sm-col-6 px2 py2">
       <h3 class="mt0 h4">
-        Featured Writings
+        Featured Posts
       </h3>
-      <ul class="list-reset">
+      <ul class="list-reset mb0">
         {% for post in site.categories["en"] %}
           {% if post.featured %}
             {% include post-list-item.html post=post %}
@@ -41,12 +41,12 @@ layout: default
     </div>
     <div class="sm-col sm-col-6 px2 py2">
       <h3 class="mt0 h4">
-        Other Writings
+        Other Posts
       </h3>
       <div class="p1 border bg-border-color mt2 mb1 rounded">
         For Japanese Readers: <a href="#japanese">日本語の記事はこちらです</a>。
       </div>
-      <ul class="list-reset">
+      <ul class="list-reset mb0">
         {% for post in site.categories["en"] %}
           {% unless post.featured %}
             {% include post-list-item.html post=post %}
@@ -63,7 +63,7 @@ layout: default
       <h3 class="mt0 h4">
         人気エントリー
       </h3>
-      <ul class="list-reset">
+      <ul class="list-reset mb0">
         {% for post in site.categories["ja"] %}
           {% if post.featured %}
             {% include post-list-item.html post=post %}
@@ -75,7 +75,7 @@ layout: default
       <h3 class="mt0 h4">
         その他のエントリー
       </h3>
-      <ul class="list-reset">
+      <ul class="list-reset mb0">
         {% for post in site.categories["ja"] %}
           {% unless post.featured %}
             {% include post-list-item.html post=post %}
@@ -85,3 +85,4 @@ layout: default
     </div>
   </div>
 </section>
+<div class="py2 sm-show"></div>
