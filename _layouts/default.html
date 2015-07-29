@@ -9,9 +9,11 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.meta.site_title }}</title>
     {% include head.html %}
     {% if site.github %}
-      <script src="/assets/bundle.js"></script>
+      <script src="{{ "/assets/bundle.js" | prepend:site.baseurl }}"></script>
+      <link rel="stylesheet" href="{{ "/assets/style.css" | prepend:site.baseurl }}">
     {% else %}
       <script src="http://localhost:8080/assets/bundle.js"></script>
+      <link rel="stylesheet" href="http://localhost:8080/assets/style.css">
     {% endif %}
   </head>
   <body>
