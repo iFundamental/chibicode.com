@@ -50,7 +50,7 @@ module.exports = {
     "scrollProportionally": true,
     "scrollThrottle": 0,
     "scrollRestoreTechnique": "window.name",
-    "reloadDelay": 5000,
+    "reloadDelay": 2000,
     "reloadDebounce": 0,
     "plugins": [],
     "injectChanges": true,
