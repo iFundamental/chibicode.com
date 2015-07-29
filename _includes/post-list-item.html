@@ -4,7 +4,14 @@
   {% else %}
     <a href="{{ post.url | prepend:site.baseurl }}" class="td-none">
   {% endif %}
-  {{ post.title }}</a>
+  {{ post.title }}
+  {% if post.external %}
+    <span class="muted">
+      ({{ post.external_domain }})
+    </span>
+  {% endif %}
+  </a>
   <br>
-  <small class="muted">{{ post.date | date_to_string }}</small>
+  <small class="muted">
+    {{ post.date | date_to_string }}</small>
 </li>
