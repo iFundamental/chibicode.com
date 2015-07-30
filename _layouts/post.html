@@ -32,7 +32,17 @@ layout: default
             <h4 class="mt0">
               <a href="{{ "/" | prepend:site.baseurl }}" class="black td-none">{{ site.data.meta.author.name}}</a>
             </h4>
-            {% capture md %}{% include author-bio.md %}{% endcapture %}{{ md | markdownify }}
+            {% if page.categories contains "en" %}
+              {% capture md %}{% include author-bio.md %}{% endcapture %}{{ md | markdownify }}
+              <p>
+                There are {{ site.categories["en"] | size | minus:1 }} more posts on this blog. <a href="{{ "/" | prepend:site.baseurl }}">You can read them here</a>.
+              </p>
+            {% else %}
+              {% capture md %}{% include author-bio-jp.md %}{% endcapture %}{{ md | markdownify }}
+              <p>
+                ほかにも{{ site.categories["ja"] | size | minus:1 }}件の記事があります。<a href="{{ "/" | prepend:site.baseurl }}#japanese">こちらからどうぞ</a>。
+              </p>
+            {% endif %}
         </div>
       </section>
 
