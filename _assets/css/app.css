@@ -17,6 +17,11 @@
   --heading-margin-top: 2em;
 }
 
+iframe {
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
 html {
   font-size: 16px;
 }
