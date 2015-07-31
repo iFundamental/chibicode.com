@@ -2,7 +2,7 @@ var webpack = require("webpack");
 
 module.exports = {
   context: __dirname + '/_assets',
-  entry: ['./app.js'],
+  entry: ['webpack/hot/dev-server', './app.js'],
 
   output: {
     filename: 'bundle.js',
@@ -35,10 +35,5 @@ module.exports = {
       jQuery: "jquery",
       "window.jQuery": "jquery"
     }),
-    new webpack.optimize.UglifyJsPlugin({
-      compress: {
-        warnings: false
-      }
-    })
   ]
 }
