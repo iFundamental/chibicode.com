@@ -1,3 +1,3 @@
 web: jekyll serve -w
-webpack: $(npm bin)/webpack-dev-server --inline
-browsersync: sleep 8 && $(npm bin)/browser-sync --config bs-config.js start
+webpack: $(npm bin)/webpack-dev-server --content-base _site --hot
+browsersync: sleep 3 && $(npm bin)/browser-sync --config bs-config.js start

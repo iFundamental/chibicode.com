@@ -19,10 +19,10 @@ module.exports = {
             "port": 8080
         }
     },
-    "files": ["posts/**/*.md", "*.html", "_layouts/*.html", "_includes/*.html"],
+    "files": ["_site/**/*.html"],
     "watchOptions": {},
     "server": false,
-    "proxy": "localhost:4000",
+    "proxy": "localhost:8080",
     "port": 3000,
     "middleware": false,
     "serveStatic": [],
@@ -50,7 +50,7 @@ module.exports = {
     "scrollProportionally": true,
     "scrollThrottle": 0,
     "scrollRestoreTechnique": "window.name",
-    "reloadDelay": 2000,
+    "reloadDelay": 0,
     "reloadDebounce": 0,
     "plugins": [],
     "injectChanges": true,

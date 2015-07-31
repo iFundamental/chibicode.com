@@ -2,12 +2,12 @@ var webpack = require("webpack");
 
 module.exports = {
   context: __dirname + '/_assets',
-  entry: './app.js',
+  entry: ['webpack/hot/dev-server', './app.js'],
 
   output: {
     filename: 'bundle.js',
     path: __dirname + '/assets',
-    publicPath: 'http://localhost:8080/assets/'
+    publicPath: '/assets/'
   },
   module: {
     loaders: [
