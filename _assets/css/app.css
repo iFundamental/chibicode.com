@@ -16,12 +16,26 @@
   --border-radius: 5px;
   --heading-margin-top: 2em;
   --line-height-ja: 1.8;
+  --monospace-font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, SF UI Text,Roboto,Avenir Next,Helvetica Neue,Helvetica,sans-serif;
+}
+
+code {
+  background-color: var(--border-color);
+}
+
+pre {
+  background-color: var(--border-color);
+  padding: var(--space-1);
 }
 
 iframe {
   max-width: 100% !important;
   box-sizing: border-box;
+}
+
+.gist {
+  margin-bottom: var(--space-2);
 }
 
 html {

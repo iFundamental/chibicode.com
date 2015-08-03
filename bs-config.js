@@ -16,14 +16,14 @@ module.exports = {
     "ui": {
         "port": 3001,
         "weinre": {
-            "port": 8080
+          "port": 8787
         }
     },
     "files": ["_site/**/*.html"],
     "watchOptions": {},
     "server": false,
-    "proxy": "localhost:8080",
-    "port": 3000,
+    "proxy": "localhost:8787",
+    "port": 7000,
     "middleware": false,
     "serveStatic": [],
     "ghostMode": {
@@ -41,7 +41,7 @@ module.exports = {
     "logFileChanges": true,
     "logSnippet": true,
     "rewriteRules": false,
-    "open": "local",
+    "open": false,
     "browser": "default",
     "xip": false,
     "hostnameSuffix": false,
