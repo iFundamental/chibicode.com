@@ -38,10 +38,12 @@ layout: default
                 There are {{ site.categories["en"] | size | minus:1 }} more posts on this blog. <a href="{{ "/" | prepend:site.baseurl }}">You can read them here</a>.
               </p>
             {% else %}
-              {% capture md %}{% include author-bio-jp.md %}{% endcapture %}{{ md | markdownify }}
-              <p>
-                ほかにも{{ site.categories["ja"] | size | minus:1 }}件の記事があります。<a href="{{ "/" | prepend:site.baseurl }}#japanese">こちらからどうぞ</a>。
-              </p>
+              <div class="post--ja">
+                {% capture md %}{% include author-bio-jp.md %}{% endcapture %}{{ md | markdownify }}
+                <p>
+                  ほかにも{{ site.categories["ja"] | size | minus:1 }}件の記事があります。<a href="{{ "/" | prepend:site.baseurl }}#japanese">こちらからどうぞ</a>。
+                </p>
+              </div>
             {% endif %}
         </div>
       </section>
