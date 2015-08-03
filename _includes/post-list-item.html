@@ -4,7 +4,7 @@
   {% else %}
     <a href="{{ post.url | prepend:site.baseurl }}" class="td-none">
   {% endif %}
-  {{ post.title }}
+  <span class="{% if post.categories contains "ja" %}inline--ja{% endif %}">{{ post.title }}</span>
   {% if post.external %}
     <span class="muted">
       ({{ post.external_domain }})

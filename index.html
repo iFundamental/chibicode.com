@@ -21,9 +21,7 @@ layout: default
         {% endunless %}
       {% endcapture %}
       <blockquote class="twitter-tweet" {{ twitter_attrs }}><a href="https://twitter.com/chibicode/status/{{ site.data.featured_tweet.id }}"></a></blockquote>
-      <div class="p1 border bg-border-color mt2 mb1 rounded sm-hide">
-        For Japanese Readers: <a href="#japanese">日本語の記事はこちらです</a>。
-      </div>
+      {% include ja-callout.html callout_class="sm-hide" %}
     </div>
   </div>
 </section>
@@ -37,7 +35,7 @@ layout: default
       <ul class="list-reset mb0">
         {% for post in site.categories["en"] %}
           {% if post.featured %}
-            {% include post-list-item.html post=post %}
+            {% include post-list-item.html %}
           {% endif %}
         {% endfor %}
       </ul>
@@ -46,13 +44,11 @@ layout: default
       <h3 class="mt0 h4">
         Other Posts
       </h3>
-      <div class="p1 border bg-border-color mt2 mb1 rounded sm-show">
-        For Japanese Readers: <a href="#japanese">日本語の記事はこちらです</a>。
-      </div>
+      {% include ja-callout.html callout_class="sm-show" %}
       <ul class="list-reset mb0">
         {% for post in site.categories["en"] %}
           {% unless post.featured %}
-            {% include post-list-item.html post=post %}
+            {% include post-list-item.html %}
           {% endunless %}
         {% endfor %}
       </ul>
@@ -63,25 +59,25 @@ layout: default
 <section id="japanese">
   <div class="clearfix mxn2">
     <div class="sm-col sm-col-6 px2 py2">
-      <h3 class="mt0 h4">
+      <h3 class="mt0 h4 heading--ja">
         人気エントリー
       </h3>
       <ul class="list-reset mb0">
         {% for post in site.categories["ja"] %}
           {% if post.featured %}
-            {% include post-list-item.html post=post %}
+            {% include post-list-item.html %}
           {% endif %}
         {% endfor %}
       </ul>
     </div>
     <div class="sm-col sm-col-6 px2 py2">
-      <h3 class="mt0 h4">
+      <h3 class="mt0 h4 heading--ja">
         その他のエントリー
       </h3>
       <ul class="list-reset mb0">
         {% for post in site.categories["ja"] %}
           {% unless post.featured %}
-            {% include post-list-item.html post=post %}
+            {% include post-list-item.html %}
           {% endunless %}
         {% endfor %}
       </ul>

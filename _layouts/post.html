@@ -5,12 +5,12 @@ layout: default
 <main class="py2 clearfix">
   <article class="mx-auto lg-col-7 md-col-8 sm-col-9">
     <header class="mb2">
-      <h1 class="mt0 mb1">{{ page.title }}</h1>
+      <h1 class="mt0 mb1 {% if page.categories contains "ja" %}heading--ja{% endif %}">{{ page.title }}</h1>
       <section class="muted">
         <time datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time>
       </section>
     </header>
-    <section class="mb3 js-post-content {% if page.categories contains "ja" %}post--ja{% endif %}">
+    <section class="mb3 js-post-content {% if page.categories contains "ja" %}body--ja{% endif %}">
       {% if page.draft %}
         <div class="p2 border bg-border-color mt2 mb2 rounded">
           Note: This post is an unpublished draft. Stay tuned!
@@ -38,7 +38,7 @@ layout: default
                 There are {{ site.categories["en"] | size | minus:1 }} more posts on this blog. <a href="{{ "/" | prepend:site.baseurl }}">You can read them here</a>.
               </p>
             {% else %}
-              <div class="post--ja">
+              <div class="body--ja">
                 {% capture md %}{% include author-bio-jp.md %}{% endcapture %}{{ md | markdownify }}
                 <p>
                   ほかにも{{ site.categories["ja"] | size | minus:1 }}件の記事があります。<a href="{{ "/" | prepend:site.baseurl }}#japanese">こちらからどうぞ</a>。

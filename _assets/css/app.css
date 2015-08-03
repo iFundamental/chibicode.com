@@ -16,6 +16,7 @@
   --border-radius: 5px;
   --heading-margin-top: 2em;
   --line-height-ja: 1.8;
+  --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, SF UI Text,Roboto,Avenir Next,Helvetica Neue,Helvetica,sans-serif;
 }
 
 iframe {
@@ -65,8 +66,24 @@ blockquote {
   margin-bottom: var(--space-2);
 }
 
-.post--ja {
+.inline--ja,
+.heading--ja,
+.body--ja h1,
+.body--ja h2,
+.body--ja h3,
+.body--ja h4,
+.body--ja h5,
+.body--ja h6  {
+  font-family: var(--ja-font-family);
+}
+
+.body--ja {
   line-height: var(--line-height-ja);
+  font-family: var(--ja-font-family);
+}
+
+.body--ja blockquote {
+  font-style: normal;
 }
 
 @media (--breakpoint-lg) {
