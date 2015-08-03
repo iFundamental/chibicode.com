@@ -21,6 +21,9 @@ layout: default
         {% endunless %}
       {% endcapture %}
       <blockquote class="twitter-tweet" {{ twitter_attrs }}><a href="https://twitter.com/chibicode/status/{{ site.data.featured_tweet.id }}"></a></blockquote>
+      <div class="p1 border bg-border-color mt2 mb1 rounded sm-hide">
+        For Japanese Readers: <a href="#japanese">日本語の記事はこちらです</a>。
+      </div>
     </div>
   </div>
 </section>
@@ -43,7 +46,7 @@ layout: default
       <h3 class="mt0 h4">
         Other Posts
       </h3>
-      <div class="p1 border bg-border-color mt2 mb1 rounded">
+      <div class="p1 border bg-border-color mt2 mb1 rounded sm-show">
         For Japanese Readers: <a href="#japanese">日本語の記事はこちらです</a>。
       </div>
       <ul class="list-reset mb0">
