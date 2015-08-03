@@ -1,7 +1,9 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 permalink: :title
 markdown: redcarpet
-highlighter: null
+
+# This causes an error on GitHub pages, so disabled until 3.0 comes out
+# highlighter: null
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
