@@ -10,7 +10,7 @@ layout: default
         <time datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time>
       </section>
     </header>
-    <section class="mb3 js-post-content">
+    <section class="mb3 js-post-content {% if page.categories contains "ja" %}post--ja{% endif %}">
       {% if page.draft %}
         <div class="p2 border bg-border-color mt2 mb2 rounded">
           Note: This post is an unpublished draft. Stay tuned!

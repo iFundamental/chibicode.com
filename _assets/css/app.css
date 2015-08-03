@@ -15,6 +15,7 @@
   --space-4: 6rem;
   --border-radius: 5px;
   --heading-margin-top: 2em;
+  --line-height-ja: 1.8;
 }
 
 iframe {
@@ -55,13 +56,17 @@ blockquote {
   margin-left: 0;
   padding-left: var(--space-2);
   border-color: var(--border-color);
-  border-left-width: var(--space-1);
+  border-left-width: 10px;
   border-left-style: solid;
   font-style: italic;
 }
 
 .fluid-width-video-wrapper {
   margin-bottom: var(--space-2);
+}
+
+.post--ja {
+  line-height: var(--line-height-ja);
 }
 
 @media (--breakpoint-lg) {
