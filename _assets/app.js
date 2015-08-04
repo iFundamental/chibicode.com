@@ -8,6 +8,6 @@ import FastClick from 'fastclick';
 
 $(function() {
   FastClick.attach(document.body);
-  $('a[href^="http"]').attr('target','_blank');
+  $('a[href^="http"]').not('a[href^="http://chibicode.com"]').attr('target','_blank');
   $(".js-post-content").fitVids();
 });
