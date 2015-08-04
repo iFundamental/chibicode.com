@@ -20,6 +20,10 @@
   --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, SF UI Text,Roboto,Avenir Next,Helvetica Neue,Helvetica,sans-serif;
 }
 
+hr {
+  margin-bottom: var(--space-2);
+}
+
 code {
   background-color: var(--border-color);
 }
