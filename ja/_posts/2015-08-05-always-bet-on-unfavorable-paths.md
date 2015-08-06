@@ -59,6 +59,8 @@ title: 自分に足りないものよりも、自分に足りているものた�
 > 「どこにも場所が空いてない」ということは、<br>
 > いつも、新しいなにかの出発であった。
 
+上の文章の「場所」を「道」に変えて読み直してみてほしい。
+
 また、こちらも少しずれますが、ぼくが尊敬する漫画家で、「[ハチミツとクローバー](http://www.amazon.co.jp/381/dp/B00DAQ0W3G?tag=chibicode-22)」や「[三月のライオン](http://www.amazon.co.jp/3-1-ebook/dp/B00GYLEVRW?tag=chibicode-22)」で有名な羽海野チカさんのツイート:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">一番描きたかったシーンをそっくり抜き取ると話がまとまるこの病になんて名前をつけたらいいの</p>&mdash; 羽海野チカ・１１巻 ９/２５発売 (@CHICAUMINO) <a href="https://twitter.com/CHICAUMINO/status/605263637515599872">June 1, 2015</a></blockquote>
