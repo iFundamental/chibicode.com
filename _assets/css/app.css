@@ -5,6 +5,7 @@
 :root {
   /* Avenir looks like shit on weight 300 for mobile */
   --font-family: SF UI Text,Roboto,Helvetica Neue,Helvetica,sans-serif;
+  --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, SF UI Text,Roboto,Helvetica Neue,Helvetica,sans-serif;
   --ja-body-font-weight: 400;
   --body-font-size: 1rem;
   --black: #212121;
@@ -20,7 +21,6 @@
   --heading-font-weight: 600;
   --line-height-ja: 1.8;
   --monospace-font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, SF UI Text,Roboto,Avenir Next,Helvetica Neue,Helvetica,sans-serif;
 }
 
 body, .regular {
