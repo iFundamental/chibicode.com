@@ -3,7 +3,8 @@
 
 /* See: https://github.com/basscss/defaults/blob/master/index.css */
 :root {
-  --font-family: SF UI Text,Roboto,Avenir Next,Helvetica Neue,Helvetica,sans-serif;
+  /* Avenir looks like shit on weight 300 for mobile */
+  --font-family: SF UI Text,Roboto,Helvetica Neue,Helvetica,sans-serif;
   --body-font-size: 1rem;
   --black: #212121;
   --body-color: #616161;
