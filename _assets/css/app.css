@@ -5,6 +5,7 @@
 :root {
   /* Avenir looks like shit on weight 300 for mobile */
   --font-family: SF UI Text,Roboto,Helvetica Neue,Helvetica,sans-serif;
+  --ja-body-font-weight: 400;
   --body-font-size: 1rem;
   --black: #212121;
   --body-color: #616161;
@@ -102,9 +103,14 @@ blockquote {
   font-family: var(--ja-font-family);
 }
 
+.inline--ja {
+  font-weight: var(--ja-body-font-weight);
+}
+
 .body--ja {
   line-height: var(--line-height-ja);
   font-family: var(--ja-font-family);
+  font-weight: var(--ja-body-font-weight);
 }
 
 .body--ja blockquote {
