@@ -15,3 +15,5 @@ title: "140文字で、夢の叶え方"
 [おめでとう！](http://elle-height.ellekasai.com/14px/)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217013859&color=ff5500"></iframe>
+
+![](http://chibicode.com/assets/images/achieving-your-dreams/elle.png)
