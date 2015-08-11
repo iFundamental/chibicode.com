@@ -35,6 +35,11 @@ code {
   background-color: var(--border-color);
 }
 
+kbd {
+  background-color: var(--border-color);
+  font-family: var(--monospace-font-family);
+}
+
 pre {
   background-color: var(--border-color);
   padding: var(--space-1);
