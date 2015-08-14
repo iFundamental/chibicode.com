@@ -50,11 +50,19 @@ date: 2015-08-13
 
 彼女をサニーベールにある滞在先に送り届けたあと、帰りの高速道路ですこし考えた。そもそも、自分はなぜ教育に興味を持ったのだろう？
 
-教育というよりも、ぼくは教えることが大好きだ。カーネギーメロン大学に在籍していたころ、ぼくは教授の助手として数学の授業を教えていたり、勝手に自分でプログラミングの授業を立ち上げ、60人以上の生徒に受講してもらい、それが教授たちに認められて[卒業式のときに表彰してもらったり](https://www.cs.cmu.edu/~scsfacts/uesugi.html)と、学ぶことより教えることに奔走していた。
+### 教えること
+
+教育というよりも、ぼくは教えることが大好きだし、得意だ。
+
+カーネギーメロン大学に在籍していたころ、ぼくは教授の助手として数学の授業を教えていたり、勝手に自分でプログラミングの授業を立ち上げ、60人以上の生徒に受講してもらい、それが教授たちに認められて[卒業式のときに表彰してもらったり](https://www.cs.cmu.edu/~scsfacts/uesugi.html)と、学ぶことより教えることに奔走していた。
 
 いまでも仕事の合間を縫ってプログラミングを人に教えていたり、教材を書いたりしている。去年の秋には、サンフランシスコ市内の高校でプログラミングを教える[ボランティア](http://www.missionbit.com/)をしていた。また、こないだ英語で書いた[React.jsの教材](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)は、一週間で世界中から約10万人のアクセスがあった。Hacker Newsという世界的なギークコミュニティーでもシェアされ、掲載当時の一週間でもっとも「いいね」された記事になった。
 
-しかし、ぼくはなぜ教えることが好きになったのだろう。ずっと昔のことでなかなか思いだせなかったが、しばらくして、さきほどの彼女の言葉が頭に浮かんだ。
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Wow, my article on <a href="https://twitter.com/ReactDesigners">@ReactDesigners</a> (<a href="http://t.co/a346envkNH">http://t.co/a346envkNH</a>) is first on <a href="https://twitter.com/hashtag/hackernewsletter?src=hash">#hackernewsletter</a>. Thanks <a href="https://twitter.com/kale">@kale</a>! <a href="http://t.co/lSI31tQjqq">pic.twitter.com/lSI31tQjqq</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/619583111064518656">July 10, 2015</a></blockquote>
+
+しかし、ぼくはなぜ教えることが好きになったのだろう。高校生のころも、中学生のころも、小学校のころも、暇さえあれば誰かに何かを教えていた気がする。
+
+ずっと昔のことでなかなか思いだせなかったが、しばらくして、さきほどの彼女の言葉が頭に浮かんだ。
 
 「…こんなにたくさんフォントの種類があるんだって思いました。」
 
