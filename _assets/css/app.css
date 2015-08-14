@@ -9,7 +9,7 @@
   --ja-body-font-weight: 400;
   --body-font-size: 1rem;
   --black: #212121;
-  --body-color: #515151;
+  --body-color: #414141;
   --link-color: #D81B60;
   --border-color: #eee;
   --space-1: .75rem;
@@ -126,4 +126,18 @@ blockquote {
   html {
     font-size: 18px;
   }
+}
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: var(--space-2);
+}
+
+figcaption {
+  display: block;
+  text-align: center;
+  opacity: 0.5;
+  font-size: var(--h5);
 }

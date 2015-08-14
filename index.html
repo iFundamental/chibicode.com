@@ -34,9 +34,11 @@ layout: default
       </h3>
       <ul class="list-reset mb0">
         {% for post in site.categories["en"] %}
-          {% if post.featured %}
-            {% include post-list-item.html %}
-          {% endif %}
+          {% unless post.draft %}
+            {% if post.featured %}
+              {% include post-list-item.html %}
+            {% endif %}
+          {% endunless %}
         {% endfor %}
       </ul>
     </div>
@@ -47,9 +49,11 @@ layout: default
       {% include ja-callout.html callout_class="sm-show" %}
       <ul class="list-reset mb0">
         {% for post in site.categories["en"] %}
-          {% unless post.featured %}
-            {% include post-list-item.html %}
-          {% endunless %}
+          {% unless post.draft %}
+            {% unless post.featured %}
+              {% include post-list-item.html %}
+            {% endunless %}
+                    {% endunless %}
         {% endfor %}
       </ul>
     </div>
@@ -64,9 +68,11 @@ layout: default
       </h3>
       <ul class="list-reset mb0">
         {% for post in site.categories["ja"] %}
-          {% if post.featured %}
-            {% include post-list-item.html %}
-          {% endif %}
+          {% unless post.draft %}
+            {% if post.featured %}
+              {% include post-list-item.html %}
+            {% endif %}
+          {% endunless %}
         {% endfor %}
       </ul>
     </div>
@@ -76,8 +82,10 @@ layout: default
       </h3>
       <ul class="list-reset mb0">
         {% for post in site.categories["ja"] %}
-          {% unless post.featured %}
-            {% include post-list-item.html %}
+          {% unless post.draft %}
+            {% unless post.featured %}
+              {% include post-list-item.html %}
+            {% endunless %}
           {% endunless %}
         {% endfor %}
       </ul>
