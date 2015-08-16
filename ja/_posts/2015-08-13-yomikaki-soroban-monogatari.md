@@ -56,7 +56,7 @@ date: 2015-08-13
 
 カーネギーメロン大学に在籍していたころ、ぼくは教授の助手として数学の授業を教えていたり、はてには勝手に自分でプログラミングの授業を立ち上げ、60人以上の生徒に受講してもらい、それが教授たちに認められて[卒業式のときに表彰してもらったり](https://www.cs.cmu.edu/~scsfacts/uesugi.html)と、学ぶことより教えることに奔走していた。
 
-いまでも仕事の合間を縫ってプログラミングを人に教えていたり、教材を書いたりしている。去年の秋には、サンフランシスコ市内の高校でプログラミングを教える[ボランティア](http://www.missionbit.com/)をしていた。また、こないだ英語で書いた[React.jsの教材](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)は、公開して24時間以内に、世界中から約4万5千人にアクセスされた。Hacker Newsという世界的なギークコミュニティーでもシェアされ、[掲載当時の一週間でもっとも「いいね」された記事になった](https://twitter.com/chibicode/status/619583111064518656)。
+いまでも仕事の合間を縫ってプログラミングを人に教えていたり、教材を書いたりしている。去年の秋には、サンフランシスコ市内の高校でプログラミングを教える[ボランティア](http://www.missionbit.com/)をしていた。また、こないだ英語で書いた[React.jsの教材](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)は、公開してわずか24時間以内に、世界中から約4万5千人にアクセスされた。Hacker Newsという世界的なギークコミュニティーでも、[掲載当時の一週間でもっともシェアされた記事になった](https://twitter.com/chibicode/status/619583111064518656)。
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Stats from day 1 for my tutorial <a href="http://t.co/a346envkNH">http://t.co/a346envkNH</a> on <a href="https://twitter.com/ReactDesigners">@ReactDesigners</a>. ~600 HN votes/~1k retweets. I&#39;m humbled. <a href="http://t.co/pSkc31UrYw">pic.twitter.com/pSkc31UrYw</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/619469038834421760">July 10, 2015</a></blockquote>
 
