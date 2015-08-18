@@ -141,3 +141,10 @@ figcaption {
   opacity: 0.5;
   font-size: var(--h5);
 }
+
+p img, figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
