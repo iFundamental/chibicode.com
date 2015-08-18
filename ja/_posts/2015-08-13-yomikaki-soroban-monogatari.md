@@ -51,7 +51,7 @@ date: 2015-08-13
 
 ![](/assets/images/yomikaki-soroban-monogatari/fonts.jpg)
 
-ドアを開けながら、彼女の言葉がリピートされる。
+彼女の言葉がリピートされる。
 
 「…こんなにたくさんフォントの種類があるんだって思いました。」
 
