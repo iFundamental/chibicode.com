@@ -90,7 +90,6 @@ blockquote {
   border-color: var(--border-color);
   border-left-width: 10px;
   border-left-style: solid;
-  font-style: italic;
 }
 
 .fluid-width-video-wrapper {
