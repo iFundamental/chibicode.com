@@ -2,7 +2,7 @@
 {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ bio_string | markdownify | strip_html | strip_newlines }}{% endif %}{% endcapture %}
 {% capture title %}{% if page.title %}{{ page.title }}{% else %}{{ site.data.meta.site_title }}{% endif %}{% endcapture %}
 {% capture url %}{{ site.github.url }}{{ page.url | remove:'index.html' }}{% endcapture %}
-{% capture og_image %}{{ site.github.url }}/assets/images/og-image.jpg{% endcapture %}
+{% capture og_image %}http://www.chibicode.com/assets/images/og-image.jpg{% endcapture %}
 {% if page.og_image %}{% capture og_image %}{{ page.og_image }}{% endcapture %}{% endif %}
 <meta name="description" content="{{ description | xml_escape }}">
 
