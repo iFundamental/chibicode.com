@@ -4,13 +4,13 @@ layout: default
 <section>
   <div class="clearfix mxn2">
     <div class="sm-col sm-col-6 px2 mt2">
-      <img src="/assets/images/og-image.jpg" alt="Shu Uesugi" data-action="zoom" class="rounded">
+      <img src="/assets/images/shu-uesugi.jpg" alt="{{ site.data.meta.author.name}}" data-action="zoom" class="rounded">
     </div>
     <div class="sm-col sm-col-6 px2 py2">
       {% capture bio_string %}{% include author-bio.md %}{% endcapture %}
       {{ bio_string | markdownify }}
       <p>
-        Photo taken at <a href="https://twitter.com/ReactEurope/status/619192524612239360">React.js Europe 2015 in Paris</a>. Also, here's one of my recent tweets:
+        Photos on this page are taken by Leah Moriyama. Also, here's one of my recent tweets:
       </p>
       {% capture twitter_attrs %}
         {% unless site.data.featured_tweet.card %}
@@ -61,6 +61,35 @@ layout: default
 </section>
 <div class="py2 sm-show"></div>
 <section id="japanese">
+  <div class="clearfix mxn2">
+    <div class="sm-col sm-col-6 px2 mt2">
+      <img src="/assets/images/shu-uesugi-2.jpg" alt="{{ site.data.meta.author.ja_name}}" data-action="zoom" class="rounded">
+    </div>
+    <div class="sm-col sm-col-6 px2 py2">
+      <h3 class="mt0">
+        {{ site.data.meta.author.ja_name}}
+      </h3>
+      <div class="body--ja">
+        {% capture bio_string %}{% include author-bio-jp.md %}{% endcapture %}
+        {{ bio_string | markdownify }}
+        <p>
+          最近の日本語ツイートはこちら ↓
+        </p>
+      </div>
+      {% capture twitter_attrs %}
+        {% unless site.data.featured_tweet_ja.card %}
+          data-cards="hidden"
+        {% endunless %}
+        {% unless site.data.featured_tweet_ja.conversation %}
+          data-conversation="none"
+        {% endunless %}
+      {% endcapture %}
+      <blockquote class="twitter-tweet" {{ twitter_attrs }}><a href="https://twitter.com/chibicode/status/{{ site.data.featured_tweet_ja.id }}"></a></blockquote>
+    </div>
+  </div>
+</section>
+<div class="py2 sm-show"></div>
+<section>
   <div class="clearfix mxn2">
     <div class="sm-col sm-col-6 px2 py2">
       <h3 class="mt0 h4 heading--ja">
