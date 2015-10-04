@@ -1,0 +1,7 @@
+<div class="footnotes"><ol>
+  {% for footnote in site.data.ysm %}
+  <li class="footnote" id="fn:{{ forloop.index }}">
+    <p class="mb0">{{ footnote }} <a href="#fnref:{{ forloop.index }}" title="return to article"> ↩</a></p>
+  </li>
+  {% endfor %}
+</ol></div>
