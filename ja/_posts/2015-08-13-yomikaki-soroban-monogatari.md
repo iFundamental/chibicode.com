@@ -3,6 +3,7 @@ title: 短編集・読み書きそろばん物語
 featured: true
 draft: true
 date: 2015-08-13
+# TODO: Change relative images to absolute URLs
 ---
 
 {% assign fn_index = 1 %}
@@ -108,7 +109,7 @@ date: 2015-08-13
 
 常識的に考えてあり得ない理論だし、科学者は「こんなのはエセ科学だ」と批判した。
 
-[![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/misawa-1.gif)](http://jigokuno.com/eid_1423.html)
+[![](/assets/images/yomikaki-soroban-monogatari/misawa-1.gif)](http://jigokuno.com/eid_1423.html)
 
 しかし、科学的手法に酔いしれた当時の進歩主義者は耳を貸さなかった。「国語・算数・理科・社会を教えても、国語・算数・理科・社会の能力がつくだけで、人生で必要な能力は一切つかないから、無駄である」と主張したのだ。
 
