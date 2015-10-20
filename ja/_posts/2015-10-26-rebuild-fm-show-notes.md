@@ -41,3 +41,7 @@ Qiita: http://qiita.com/tags/redux
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">OH by <a href="https://twitter.com/dan_abramov">@dan_abramov</a> &quot;I used to read calculus math books when I was 5 years old&quot;. That explains it... <a href="https://twitter.com/hashtag/reacteurope?src=hash">#reacteurope</a></p>&mdash; react-europe (@ReactEurope) <a href="https://twitter.com/ReactEurope/status/617781858651254784">July 5, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Also looking forward to joining <a href="https://twitter.com/fbOpenSource">@fbOpenSource</a> to work on React Native tooling in November.</p>&mdash; Dan Abramov (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/650968538564444160">October 5, 2015</a></blockquote>
+
+#### Other Tweets
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Angular 2 supports using Redux and RxJs.</p>&mdash; Joe Eames (@josepheames) <a href="https://twitter.com/josepheames/status/656393992469368832">October 20, 2015</a></blockquote>
