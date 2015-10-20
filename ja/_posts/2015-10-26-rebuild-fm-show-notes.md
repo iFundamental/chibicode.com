@@ -31,3 +31,12 @@ Qiita: http://qiita.com/tags/redux
 #### そもそもFluxって何?
 
 - RebuildではNaoyaさんが[Episode 84](http://rebuild.fm/84/) (Reduxが出る前) に話していた
+
+#### Dan Abramovさん
+
+- Crowdfunding
+- ヘアスタイルがJustin Bieber
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">OH by <a href="https://twitter.com/dan_abramov">@dan_abramov</a> &quot;I used to read calculus math books when I was 5 years old&quot;. That explains it... <a href="https://twitter.com/hashtag/reacteurope?src=hash">#reacteurope</a></p>&mdash; react-europe (@ReactEurope) <a href="https://twitter.com/ReactEurope/status/617781858651254784">July 5, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Also looking forward to joining <a href="https://twitter.com/fbOpenSource">@fbOpenSource</a> to work on React Native tooling in November.</p>&mdash; Dan Abramov (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/650968538564444160">October 5, 2015</a></blockquote>
