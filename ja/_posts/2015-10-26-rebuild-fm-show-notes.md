@@ -16,10 +16,10 @@ draft: true
 
 reduxが一番後発なのですが、すごい勢いで伸びています。
 
-- [rackt/redux](https://github.com/rackt/redux) (<strong>2015/5/24</strong>から) → ![](https://img.shields.io/github/stars/rackt/redux.svg?style=social&label=Star)
-- [facebook/flux](https://github.com/facebook/flux) (2014/7/20から) → ![](https://img.shields.io/github/stars/facebook/flux.svg?style=social&label=Star)
-- [reflux/refluxjs](https://github.com/reflux/refluxjs) (2014/6/29から) → ![](https://img.shields.io/github/stars/reflux/refluxjs.svg?style=social&label=Star)
-- [goatslacker/alt](https://github.com/goatslacker/alt) (2014/12/7から) → ![](https://img.shields.io/github/stars/goatslacker/alt.svg?style=social&label=Star)
+- [rackt/redux](https://github.com/rackt/redux) (<strong>2015/5/24</strong>から) → <iframe src="https://ghbtns.com/github-btn.html?user=rackt&repo=redux&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+- [facebook/flux](https://github.com/facebook/flux) (2014/7/20から) → <iframe src="https://ghbtns.com/github-btn.html?user=facebook&repo=flux&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+- [reflux/refluxjs](https://github.com/reflux/refluxjs) (2014/6/29から) → <iframe src="https://ghbtns.com/github-btn.html?user=reflux&repo=refluxjs&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+- [goatslacker/alt](https://github.com/goatslacker/alt) (2014/12/7から) → <iframe src="https://ghbtns.com/github-btn.html?user=goatslacker&repo=alt&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 はじめはRefluxを使っていましたが、最近Reduxに乗り換えました。他のFluxライブラリは使ったことがありません。
 
