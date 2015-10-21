@@ -62,6 +62,16 @@ Fluxライブラリの比較は[voranianski/flux-comparison](https://github.com/
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Angular 2 supports using Redux and RxJs.</p>&mdash; Joe Eames (@josepheames) <a href="https://twitter.com/josepheames/status/656393992469368832">October 20, 2015</a></blockquote>
 
-#### Libraries Built on Top of Redux
+#### Reduxのライブラリ
 
 - [omnidan/redux-undo](https://github.com/omnidan/redux-undo) - simple undo/redo functionality for redux state containers → <iframe src="https://ghbtns.com/github-btn.html?user=omnidan&repo=redux-undo&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+
+続きは[awesome-redux](https://github.com/xgrommx/awesome-redux)でどうぞ。
+
+#### Reduxについての記事
+
+- [State Management with Redux](http://konkle.us/state-management-with-redux/)
+- [Single State Tree + Flux](http://merrickchristensen.com/articles/single-state-tree.html)
+- [What the Flux? Let's Redux.](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux)
+
+続きは[awesome-redux](https://github.com/xgrommx/awesome-redux)でどうぞ。
