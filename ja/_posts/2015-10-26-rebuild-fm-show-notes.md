@@ -4,7 +4,7 @@ date: 2015-10-26
 draft: true
 ---
 
-[Rebuild.fm](http://rebuild.fm/)に急遽出演することになったのですが、初出演なので色々と準備していこうと思い、カンニングペーパー的に作ったメモがこちらです。箇条書き的に書いたので、上から順に読む記事ではないですが、誰かの参考になれば。
+[Rebuild.fm](http://rebuild.fm/)に急遽出演させてもらうことになったのですが、初出演なので色々と準備していこうと思い、カンニングペーパー的に作ったメモがこちらです。箇条書き的に書いたので、上から順に読む記事ではないですが、誰かの参考になれば。
 
 ---
 
@@ -21,13 +21,29 @@ reduxが一番後発なのですが、すごい勢いで伸びています。
 - [reflux/refluxjs](https://github.com/reflux/refluxjs) (2014/6/29から) → <iframe src="https://ghbtns.com/github-btn.html?user=reflux&repo=refluxjs&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 - [goatslacker/alt](https://github.com/goatslacker/alt) (2014/12/7から) → <iframe src="https://ghbtns.com/github-btn.html?user=goatslacker&repo=alt&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
+Fluxライブラリの比較は[voranianski/flux-comparison](https://github.com/voronianski/flux-comparison)です。
+
 はじめはRefluxを使っていましたが、最近Reduxに乗り換えました。他のFluxライブラリは使ったことがありません。
 
 #### Reduxについての日本語での言及
 
-TODO: Incognito on https://www.google.co.jp/?gws_rd=ssl#q=redux+react+js+%E3%81%BF%E3%81%9F
+これだけ流行ってるのだけれど、日本語の記事はそれほどありません。Qiitaの記事で見つけたのは以下で、括弧内は執筆時のストック数。ポエムはまだない。
 
-Qiita: http://qiita.com/tags/redux
+- (37) [reduxを試してみた(1日目) - Reduxをざっくり理解する](http://qiita.com/kompiro/items/7ddca41bef00444e14c7) - 2015/8/19
+- (36) [Redux初めて触って色々わかったメモ](http://qiita.com/inuscript/items/8dc5af052a858023287f) - 2015/9/8
+- (31) [es6+power-assertでreduxのテストコードを書く](http://qiita.com/takashi/items/7c8e0d9942f25a8c3999) - 2015/10/10
+- (27) [Reduxにおけるreducer分割とcombineReducersについて](http://qiita.com/kuy/items/59c6d7029a10972cba78) - 2015/8/28
+- (26) [react+reduxで非同期処理を含むtodoアプリを作ってみる](http://qiita.com/halhide/items/a45c7a1d5f949596e17d)  - 2015/8/16
+- (12) [Reduxさわってみたのでメモ 【とりあえず動くまで】](http://qiita.com/ushisantoasobu/items/7462d8e5904a8c2100b4)  - 2015/9/29
+- (3) [超訳 Redux Documentation - アクション(action)](http://qiita.com/kobanyan/items/367850d28a838207e47d) - 2015/10/8
+
+個人ブログだと、見つけたのは以下。
+
+- [人気のFluxフレームワークReduxをさわってみた](http://amagitakayosi.hatenablog.com/entry/2015/07/30/000000) - 2015/7/30
+- [fluxフレームワークreduxについてドキュメントを読んだメモ](http://fukajun.org/66) - 2015/8/20
+- [ReduxとES6でReact.jsのチュートリアルの写経](http://blog.bokuweb.me/entry/redux-tutorial) - 2015/10/2
+
+#### 
 
 #### そもそもFluxって何?
 
