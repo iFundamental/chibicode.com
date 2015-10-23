@@ -53,6 +53,7 @@ Fluxライブラリの比較は[voranianski/flux-comparison](https://github.com/
 
 - Crowdfunding
 - ヘアスタイルがJustin Bieber
+- Used gold macbook, USB C adapter didn't work, used the organizer's laptop, installed sublime, and showed "please purchase" dialog (there's an Atom package for that)
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">OH by <a href="https://twitter.com/dan_abramov">@dan_abramov</a> &quot;I used to read calculus math books when I was 5 years old&quot;. That explains it... <a href="https://twitter.com/hashtag/reacteurope?src=hash">#reacteurope</a></p>&mdash; react-europe (@ReactEurope) <a href="https://twitter.com/ReactEurope/status/617781858651254784">July 5, 2015</a></blockquote>
 
