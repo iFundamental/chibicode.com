@@ -4,7 +4,7 @@ title: "Solo: A Single Page Jekyll Theme"
 
 ![](http://chibicode.com/assets/images/solo-jekyll-theme/solo.png)
 
-I've created [Solo](http://solo.chibi.io/), a Jekyll theme that *only* supports single pages.
+I've created [Solo](http://chibicode.github.io/solo/), a Jekyll theme that *only* supports single pages.
 
 You might ask: "I thought [Jekyll](http://jekyllrb.com/) was a blog-aware static site generator. Why would anyone want to use it for a single page website?"
 
@@ -12,6 +12,6 @@ Because there is no way to host a *single* markdown file on GitHub pages other t
 
 That's why I built Solo. I structured its Jekyll code such that, the content of `_includes/index.md` is converted to become `index.html`, which will be served by GitHub pages.
 
-For example, [the page for Solo](http://solo.chibi.io/) is generated on the fly by [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+For example, [the page for Solo](http://chibicode.github.io/solo/) is generated on the fly by [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
 
 Solo allows you to rapidly create lots of simple single-page websites. Just clone [the repo](https://github.com/chibicode/solo), edit a few files, and push to GitHub. Hope you like it.
