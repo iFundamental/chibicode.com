@@ -35,6 +35,10 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">まさかの政治の話だ、、、 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ハッピーハロウィン (@yukiyan_w) <a href="https://twitter.com/yukiyan_w/status/658618059087720448">October 26, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回のrebuildfm神回だ！！</p>&mdash; ハッピーハロウィン (@yukiyan_w) <a href="https://twitter.com/yukiyan_w/status/658589579805519872">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回のrebuildfm、キャッチボールあんまりなくてゲストの人ががーっとしゃべるスタイルで、なんかいつもと違うなって感じがした。</p>&mdash; Ryo Maruyama (@h13i32maru) <a href="https://twitter.com/h13i32maru/status/658630252852219905">October 26, 2015</a></blockquote>
+
 ### ライブ中のツイート魚拓
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">うおー！次回の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 上杉さんか！</p>&mdash; yasaichi (@_yasaichi) <a href="https://twitter.com/_yasaichi/status/658116267551789056">October 25, 2015</a></blockquote>
@@ -180,5 +184,7 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">久々に live で聴いて、今日の miyagawa さんのしゃべり方いつもより落ち着いてるな、と思ったけど、単にいつもは録音を早回しで聴いてるからだった <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Gosuke Miyashita (@gosukenator) <a href="https://twitter.com/gosukenator/status/658491480323981313">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">アルパカ(草泥馬)にそんな意味があるの知らなかった。シュタゲで何でアルパカと思ったけど、これが元ネタか。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Takuro Onoue (@onouetakuro) <a href="https://twitter.com/onouetakuro/status/658497275954528256">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ロンドン経由でイタリア行った時スタンプ押してもらえなかったけど普通に出国できた <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; tid (@_tid_) <a href="https://twitter.com/_tid_/status/658561439263645696">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回すごい面白かったです。喫茶店での作業も捗りました。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; kamadango (@kamadango) <a href="https://twitter.com/kamadango/status/658551954239393793">October 26, 2015</a></blockquote>
