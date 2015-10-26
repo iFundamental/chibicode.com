@@ -13,6 +13,8 @@ date: 2015-10-26
 
 ### ツイート魚拓
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> は荒んだ僕の心を癒してくれる。。</p>&mdash; Ogihara Ryo (@OgiharaRyo) <a href="https://twitter.com/OgiharaRyo/status/658590031699820544">October 26, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> :114 プログラミング・ブートキャンプの話おどろき。「かつてのMBAみたいなノリで」っていう位置づけも不意を打たれた感じ。プログラマーの価値って、なんでそんなに上がり傾向なんだろう？自分もプログラマーだけど、理解できないトレンド。</p>&mdash; Taiga Tsutsumi (@nowavailable_tw) <a href="https://twitter.com/nowavailable_tw/status/658648224631160833">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 、最初の15分でReduxの話して、後はアメリカのbootcamp事情とかレシグさんの大統領選など世間話って感じだったけど、凄く面白かった</p>&mdash; 偽名 (@amagitakayosi) <a href="https://twitter.com/amagitakayosi/status/658627267392729088">October 26, 2015</a></blockquote>
