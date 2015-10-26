@@ -61,7 +61,7 @@ date: 2015-10-26
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 聴き始めた。ジャスティン・ビーバーみたいな髪型したすごいやつの話を聴いている</p>&mdash; Kosuke Ogawa (@koogawa) <a href="https://twitter.com/koogawa/status/658451671094157313">October 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="tl" dir="ltr" data-cards="hidden">視聴中 &gt; &quot;Listen Live: Rebuild - Podcast by Tatsuhiko Miyagawa&quot;&#10;<a href="https://t.co/UTR6um5aGf">https://t.co/UTR6um5aGf</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; いぬマジカルbot੯ੁ‧̀͡u\ (@jir_o) <a href="https://twitter.com/jir_o/status/658451875855859712">October 26, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p lang="tl" dir="ltr">視聴中 &gt; &quot;Listen Live: Rebuild - Podcast by Tatsuhiko Miyagawa&quot;&#10;<a href="https://t.co/UTR6um5aGf">https://t.co/UTR6um5aGf</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; いぬマジカルbot੯ੁ‧̀͡u\ (@jir_o) <a href="https://twitter.com/jir_o/status/658451875855859712">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ライブ聴きながら仕事してみようと試みたけど面白すぎて意識が取られてだめだｗ あとで録音で聞こう･･･ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Naoya Ito (@naoya_ito) <a href="https://twitter.com/naoya_ito/status/658451923155075072">October 26, 2015</a></blockquote>
 
@@ -81,7 +81,7 @@ date: 2015-10-26
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今日のrebuild面白い</p>&mdash; 下島健太 (@ShimojiK) <a href="https://twitter.com/ShimojiK/status/658454152834453504">October 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr" data-cards="hidden" >A cartoon intro to Redux — Code Cartoons — Medium <a href="https://t.co/T56vZrR4YA">https://t.co/T56vZrR4YA</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Tatsuhiko Miyagawa (@miyagawa) <a href="https://twitter.com/miyagawa/status/658455418587316225">October 26, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p lang="en" dir="ltr" >A cartoon intro to Redux — Code Cartoons — Medium <a href="https://t.co/T56vZrR4YA">https://t.co/T56vZrR4YA</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Tatsuhiko Miyagawa (@miyagawa) <a href="https://twitter.com/miyagawa/status/658455418587316225">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Redux、クライアントで取りうる状態に対するテストが大変そう？ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; t_hara (@zetta1985) <a href="https://twitter.com/zetta1985/status/658455734636683264">October 26, 2015</a></blockquote>
 
