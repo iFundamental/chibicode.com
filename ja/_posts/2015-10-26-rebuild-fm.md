@@ -1,5 +1,5 @@
 ---
-title: "Rebuild.fmに出演しました"
+title: "Rebuild.fmのEpisode 114に出演しました"
 date: 2015-10-26
 ---
 
@@ -7,9 +7,15 @@ date: 2015-10-26
 
 ### リンク
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">エンジニアに人気のポッドキャスト・ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> に出演させていただきました！前半はこちらです。後半はまた今度。14:30から40:30あたりまでは技術的な内容ですが、それ以外はエンジニアでなくてもわかる内容かと思います。 <a href="https://t.co/2O0Fcr4WUe">https://t.co/2O0Fcr4WUe</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658602940593147905">October 26, 2015</a></blockquote>
+[http://rebuild.fm/114/](http://rebuild.fm/114/) からどうぞ。容量は60MBほどです。
 
-<blockquote class="twitter-tweet" lang="en"><p lang="nl" dir="ltr">114: Rebuildersland (<a href="https://twitter.com/chibicode">@chibicode</a>) <a href="https://t.co/YOXrNBC9ou">https://t.co/YOXrNBC9ou</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Rebuild Podcast (@rebuildfm) <a href="https://twitter.com/rebuildfm/status/658557468314759168">October 26, 2015</a></blockquote>
+iPhoneで視聴される場合は、iPhoneに標準でついてくるPodcastアプリを開き、「Rebuild」で検索してみてください。Episode 114をダウンロードすればOKです。
+
+Androidで視聴される場合は、[Podcast Addict (無料)](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=ja)をダウンロードして、同じく「Rebuild」で検索して、Episode 114をダウンロードしてみてください。
+
+<blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p lang="ja" dir="ltr">エンジニアに人気のポッドキャスト・ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> に出演させていただきました！前半はこちらです。後半はまた今度。14:30から40:30あたりまでは技術的な内容ですが、それ以外はエンジニアでなくてもわかる内容かと思います。 <a href="https://t.co/2O0Fcr4WUe">https://t.co/2O0Fcr4WUe</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658602940593147905">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p lang="nl" dir="ltr">114: Rebuildersland (<a href="https://twitter.com/chibicode">@chibicode</a>) <a href="https://t.co/YOXrNBC9ou">https://t.co/YOXrNBC9ou</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Rebuild Podcast (@rebuildfm) <a href="https://twitter.com/rebuildfm/status/658557468314759168">October 26, 2015</a></blockquote>
 
 ### ツイート魚拓
 
