@@ -39,7 +39,7 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回のrebuildfm、キャッチボールあんまりなくてゲストの人ががーっとしゃべるスタイルで、なんかいつもと違うなって感じがした。</p>&mdash; Ryo Maruyama (@h13i32maru) <a href="https://twitter.com/h13i32maru/status/658630252852219905">October 26, 2015</a></blockquote>
 
-### ライブ中のツイート魚拓
+### ライブ前・ライブ中のツイート魚拓
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">うおー！次回の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 上杉さんか！</p>&mdash; yasaichi (@_yasaichi) <a href="https://twitter.com/_yasaichi/status/658116267551789056">October 25, 2015</a></blockquote>
 
