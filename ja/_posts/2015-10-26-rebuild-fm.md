@@ -1,12 +1,29 @@
 ---
 title: "Rebuild.fmに出演しました"
 date: 2015-10-26
-draft: true
 ---
 
-エンジニア界で大人気のポッドキャスト・[Rebuild.fm](http://rebuild.fm)に恐れながら出演させて頂きましたので、リンクとツイート魚拓を貼っておきます。
+エンジニア界で大人気のポッドキャスト・[Rebuild.fm](http://rebuild.fm)に恐れながら出演させて頂きました。リンクと、メモ用にツイート魚拓を貼っておきます。
 
+### リンク
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">エンジニアに人気のポッドキャスト・ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> に出演させていただきました！前半はこちらです。後半はまた今度。14:30から40:30あたりまでは技術的な内容ですが、それ以外はエンジニアでなくてもわかる内容かと思います。 <a href="https://t.co/2O0Fcr4WUe">https://t.co/2O0Fcr4WUe</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658602940593147905">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="nl" dir="ltr">114: Rebuildersland (<a href="https://twitter.com/chibicode">@chibicode</a>) <a href="https://t.co/YOXrNBC9ou">https://t.co/YOXrNBC9ou</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Rebuild Podcast (@rebuildfm) <a href="https://twitter.com/rebuildfm/status/658557468314759168">October 26, 2015</a></blockquote>
+
+### ツイート魚拓
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> :114 プログラミング・ブートキャンプの話おどろき。「かつてのMBAみたいなノリで」っていう位置づけも不意を打たれた感じ。プログラマーの価値って、なんでそんなに上がり傾向なんだろう？自分もプログラマーだけど、理解できないトレンド。</p>&mdash; Taiga Tsutsumi (@nowavailable_tw) <a href="https://twitter.com/nowavailable_tw/status/658648224631160833">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 、最初の15分でReduxの話して、後はアメリカのbootcamp事情とかレシグさんの大統領選など世間話って感じだったけど、凄く面白かった</p>&mdash; 偽名 (@amagitakayosi) <a href="https://twitter.com/amagitakayosi/status/658627267392729088">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild.fm 114回のReactの話、ワタシ的にとても良かった。最近全然情報を追いきれてなかったので参考になった。Reduxに入門しよう。</p>&mdash; HAL ( ˘ ³˘)♥stdio.h (@bump_of_kiharu) <a href="https://twitter.com/bump_of_kiharu/status/658637579428847617">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Redux is already popular in Japan <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Toru Kobayashi (@koba04) <a href="https://twitter.com/koba04/status/658601544699383808">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">redux/hot reloading. <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; トトス (@oza_shu) <a href="https://twitter.com/oza_shu/status/658603748428648449">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">まさかの政治の話だ、、、 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ハッピーハロウィン (@yukiyan_w) <a href="https://twitter.com/yukiyan_w/status/658618059087720448">October 26, 2015</a></blockquote>
 
 ### ライブ中のツイート魚拓
 
@@ -15,6 +32,8 @@ draft: true
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">おお、 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> に上杉さんだ。前にSFCの講義をYouTubeで見たなぁ</p>&mdash; アヤト (@ayato_tw) <a href="https://twitter.com/ayato_tw/status/658121653713440768">October 25, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">おおっ！ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> <a href="https://t.co/WAtAYh4yK7">https://t.co/WAtAYh4yK7</a></p>&mdash; Kosuke Ogawa (@koogawa) <a href="https://twitter.com/koogawa/status/658119550169313280">October 25, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">地獄のサンフランシスコスライドまとめた方が今日のRebuildのゲストっぽい。</p>&mdash; Ricck/Riki (@Ricckn) <a href="https://twitter.com/Ricckn/status/658443589836345344">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">お、めずらしいゲストだ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Naoya Ito (@naoya_ito) <a href="https://twitter.com/naoya_ito/status/658442152012156928">October 26, 2015</a></blockquote>
 
@@ -28,10 +47,6 @@ draft: true
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">はじまった！ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Tatsuya Deguchi (@deg84) <a href="https://twitter.com/deg84/status/658448240124166144">October 26, 2015</a></blockquote>
 
-
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">既得権益w <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; あbot (@a_bot7) <a href="https://twitter.com/a_bot7/status/658448455006728192">October 26, 2015</a></blockquote>
-
-
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">聴いてる <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ざしきわらし (@warashi___) <a href="https://twitter.com/warashi___/status/658448581855047680">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">chibicode さん EdSurge なのか <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Yuya Takeyama (@yuya_takeyama) <a href="https://twitter.com/yuya_takeyama/status/658448639979687936">October 26, 2015</a></blockquote>
@@ -44,7 +59,7 @@ draft: true
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 聴き始めた。ジャスティン・ビーバーみたいな髪型したすごいやつの話を聴いている</p>&mdash; Kosuke Ogawa (@koogawa) <a href="https://twitter.com/koogawa/status/658451671094157313">October 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="tl" dir="ltr">視聴中 &gt; &quot;Listen Live: Rebuild - Podcast by Tatsuhiko Miyagawa&quot;&#10;<a href="https://t.co/UTR6um5aGf">https://t.co/UTR6um5aGf</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; いぬマジカルbot੯ੁ‧̀͡u\ (@jir_o) <a href="https://twitter.com/jir_o/status/658451875855859712">October 26, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="tl" dir="ltr" data-cards="hidden">視聴中 &gt; &quot;Listen Live: Rebuild - Podcast by Tatsuhiko Miyagawa&quot;&#10;<a href="https://t.co/UTR6um5aGf">https://t.co/UTR6um5aGf</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; いぬマジカルbot੯ੁ‧̀͡u\ (@jir_o) <a href="https://twitter.com/jir_o/status/658451875855859712">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ライブ聴きながら仕事してみようと試みたけど面白すぎて意識が取られてだめだｗ あとで録音で聞こう･･･ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Naoya Ito (@naoya_ito) <a href="https://twitter.com/naoya_ito/status/658451923155075072">October 26, 2015</a></blockquote>
 
@@ -62,7 +77,9 @@ draft: true
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">作業できないからやっぱり後で録音を聴く <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ざしきわらし (@warashi___) <a href="https://twitter.com/warashi___/status/658455339696791553">October 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">A cartoon intro to Redux — Code Cartoons — Medium <a href="https://t.co/T56vZrR4YA">https://t.co/T56vZrR4YA</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Tatsuhiko Miyagawa (@miyagawa) <a href="https://twitter.com/miyagawa/status/658455418587316225">October 26, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今日のrebuild面白い</p>&mdash; 下島健太 (@ShimojiK) <a href="https://twitter.com/ShimojiK/status/658454152834453504">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr" data-cards="hidden" >A cartoon intro to Redux — Code Cartoons — Medium <a href="https://t.co/T56vZrR4YA">https://t.co/T56vZrR4YA</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Tatsuhiko Miyagawa (@miyagawa) <a href="https://twitter.com/miyagawa/status/658455418587316225">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Redux、クライアントで取りうる状態に対するテストが大変そう？ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; t_hara (@zetta1985) <a href="https://twitter.com/zetta1985/status/658455734636683264">October 26, 2015</a></blockquote>
 
@@ -78,11 +95,7 @@ draft: true
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">むかし砂糖水、今バリスタdis <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Symonds (@StSymonds) <a href="https://twitter.com/StSymonds/status/658459583124377600">October 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">「BootcampはAirbnb for People.」 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; あbot (@a_bot7) <a href="https://twitter.com/a_bot7/status/658460886944776193">October 26, 2015</a></blockquote>
-
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">をを、 asana … <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; 眼力 玉壱號 (@objectxplosive) <a href="https://twitter.com/objectxplosive/status/658461056201691136">October 26, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Bootcampの裏話メッチャ面白い <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; あbot (@a_bot7) <a href="https://twitter.com/a_bot7/status/658461653290233857">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">就職で100社受けるとか、日本でも珍しいような…。文系大学生の就活こじらせた系に似ている気がする。日本の場合、理系は結構早く決まるイメージがある。SIerなら誰でも入れるしなぁ。&#10; <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; kunai (@kunai_) <a href="https://twitter.com/kunai_/status/658461717911867392">October 26, 2015</a></blockquote>
 
@@ -146,8 +159,6 @@ draft: true
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> おもしろかったです！また出て欲しい</p>&mdash; Kosuke Ogawa (@koogawa) <a href="https://twitter.com/koogawa/status/658480505923334145">October 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">chibicodeさんとてもよかった。また聴きたい！ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; あbot (@a_bot7) <a href="https://twitter.com/a_bot7/status/658481237409947648">October 26, 2015</a></blockquote>
-
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> おもしろかったー！またまた話聞きたいです！！</p>&mdash; ユーレカー (@otukutun) <a href="https://twitter.com/otukutun/status/658481303793209344">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 緊張して全然喋れなかったですが (特にReactの部分) ご清聴ありがとうございました!</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658482020864036864">October 26, 2015</a></blockquote>
@@ -155,3 +166,9 @@ draft: true
 <blockquote class="twitter-tweet" lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> <a href="https://twitter.com/hashtag/netneutrality?src=hash">#netneutrality</a> <a href="https://t.co/bKwr9plHFz">pic.twitter.com/bKwr9plHFz</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658485459593510912">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ライブ配信。今回はBootcampの話が凄く面白かった。トークは密度(濃度)高めな感じで良かったなぁ。&#10; <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; kunai (@kunai_) <a href="https://twitter.com/kunai_/status/658487385257172992">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">久々に live で聴いて、今日の miyagawa さんのしゃべり方いつもより落ち着いてるな、と思ったけど、単にいつもは録音を早回しで聴いてるからだった <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Gosuke Miyashita (@gosukenator) <a href="https://twitter.com/gosukenator/status/658491480323981313">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">アルパカ(草泥馬)にそんな意味があるの知らなかった。シュタゲで何でアルパカと思ったけど、これが元ネタか。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Takuro Onoue (@onouetakuro) <a href="https://twitter.com/onouetakuro/status/658497275954528256">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回すごい面白かったです。喫茶店での作業も捗りました。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; kamadango (@kamadango) <a href="https://twitter.com/kamadango/status/658551954239393793">October 26, 2015</a></blockquote>
