@@ -21,6 +21,8 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 ### ツイート魚拓
 
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a>: ちなみに <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ep. 114で話したアルパカのぬいぐるみはこちらです。<a href="https://t.co/2O0Fcr4WUe">https://t.co/2O0Fcr4WUe</a> <a href="https://t.co/XrANedbOed">https://t.co/XrANedbOed</a> <a href="https://t.co/t5LnvHg9yH">pic.twitter.com/t5LnvHg9yH</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658784786362732544">October 26, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> は荒んだ僕の心を癒してくれる。。</p>&mdash; Ogihara Ryo (@OgiharaRyo) <a href="https://twitter.com/OgiharaRyo/status/658590031699820544">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> :114 プログラミング・ブートキャンプの話おどろき。「かつてのMBAみたいなノリで」っていう位置づけも不意を打たれた感じ。プログラマーの価値って、なんでそんなに上がり傾向なんだろう？自分もプログラマーだけど、理解できないトレンド。</p>&mdash; Taiga Tsutsumi (@nowavailable_tw) <a href="https://twitter.com/nowavailable_tw/status/658648224631160833">October 26, 2015</a></blockquote>
@@ -70,6 +72,30 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">相変わらず知的だな〜　<a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Hidetaka Ko (@SoccerKinki) <a href="https://twitter.com/SoccerKinki/status/658811850994286592">October 27, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">Airbnbの皮肉めいた広告に非難 一連の騒動うけ全面的に謝罪 - ライブドアニュース - <a href="https://t.co/IaTQ7KWY2U">https://t.co/IaTQ7KWY2U</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で話が出てたヤツだ</p>&mdash; nakamura001 (@nakamura001) <a href="https://twitter.com/nakamura001/status/658813446872371200">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuildersland, 住み始めると高音質マイクが送られてきそう <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Tomotaka Ito (@tomotaka_ito) <a href="https://twitter.com/tomotaka_ito/status/658819654505246720">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> に新しい血が入ってきて今回はすごく面白かった。</p>&mdash; oinume (@oinume) <a href="https://twitter.com/oinume/status/658820619467751424">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ep114: 内製にこだわる必要はないっせ(ry</p>&mdash; Kazuhiro Serizawa (@seri_k) <a href="https://twitter.com/seri_k/status/658829177559359489">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">&quot;わかい ひとたちに チャンス くださいよ&quot; said <a href="https://twitter.com/chibicode">@chibicode</a>. LOL <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Naoki Hiroshima (@N) <a href="https://twitter.com/N/status/658833560506204162">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ライブ配信時、所用で部分的に聴けなかったのでRebuild.fm ep114を聴いてたら、アルパカ(草泥馬)の話で笑った。&#10;今後、ラブライブ！関連でアルパカを見る度に「こんな可愛い顔と鳴声だけど、ネットの中立性のシンボルなのかー！」となりそうw&#10;あと自分も職場にアルパカ置きたいw</p>&mdash; kunai (@kunai_) <a href="https://twitter.com/kunai_/status/658850607063654400">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> を移動中に少し聴いた。 React の良さについて「慣れてない状態でもドキュメンテーションを見る回数がすごい少ない。React で開発しててドキュメンテーションを見た覚えがほとんどない」と説明したのはなかなか上手い伝え方だと思った。</p>&mdash; Takuto Wada (@t_wada) <a href="https://twitter.com/t_wada/status/658852000776384513">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">コムキャストは実は書類を送ることで解約する方法があって、15ドルで解約してくれるサービスの人たちはその方法を使ってるとhacker newsのコメントに書いてた <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; きりん (@daisy1754) <a href="https://twitter.com/daisy1754/status/658866778743828481">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">就活予備校と化してるブートキャンプの話が面白かった。スタッフの1/3が就活担当というのはビジネスのやり方としては正しいよなあ。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; きりん (@daisy1754) <a href="https://twitter.com/daisy1754/status/658867549442957312">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回のrebuild.fm久しぶりに技術的な話だw</p>&mdash; ひらしー (@y05_net) <a href="https://twitter.com/y05_net/status/658868823974612992">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">アルパカの真実を知ってしまったｗ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; イカID: Toshiwo (@toshiwo) <a href="https://twitter.com/toshiwo/status/658892637961785344">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">redux-devtoolsのpersistStateを使ったhot reloadめちゃ快適 状態はlocalStorageに保存される <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Katsuma Ito (@ka2n) <a href="https://twitter.com/ka2n/status/658904514389368833">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で、流行り廃りの早いフロントエンド界隈に対して、上杉さんが「どこで水面から頭を出すか考えないといけない」と言っていたけど、今年の色んな流れを見てると（個人的には）今な気がする。</p>&mdash; yasaichi (@_yasaichi) <a href="https://twitter.com/_yasaichi/status/658972662044037121">October 27, 2015</a></blockquote>
 
 ### ライブ前・ライブ中のツイート魚拓
 
