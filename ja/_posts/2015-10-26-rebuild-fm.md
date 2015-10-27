@@ -39,7 +39,41 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回のrebuildfm、キャッチボールあんまりなくてゲストの人ががーっとしゃべるスタイルで、なんかいつもと違うなって感じがした。</p>&mdash; Ryo Maruyama (@h13i32maru) <a href="https://twitter.com/h13i32maru/status/658630252852219905">October 26, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild最新回また聞こう、いろんな話題があって良かった</p>&mdash; ○○めも@時間の浪費 (@ksomemo) <a href="https://twitter.com/ksomemo/status/658663408456237056">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuildfm 114 おもしろい</p>&mdash; Tsukasa OISHI (@tsukasa_oishi) <a href="https://twitter.com/tsukasa_oishi/status/658758203002327040">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回の rebuild.fm も良い^^</p>&mdash; サーファー (@jugyo) <a href="https://twitter.com/jugyo/status/658762296064372736">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">フロントエンド追えてないマンだけど、あとでReduxはちょっとさわってみようかな <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; はうえす (@haw_S) <a href="https://twitter.com/haw_S/status/658776220398579712">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">1.5倍速で聴いてると思いきや1倍速だった <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; がみ (@gaaamii) <a href="https://twitter.com/gaaamii/status/658778146083241984">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuild.fm、面白いなぁ。200万円のbootcamp出て年収1300万円か・・・アルパカと言ったらオライリーのアルパカ本しか思い浮かばず。</p>&mdash; sironekotoro (@sironekotoro) <a href="https://twitter.com/sironekotoro/status/658785926634598400">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ブートキャンプ話のヤクザ商売感の強さ、 <a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC?src=hash">#地獄のシリコンバレー</a> っぽい</p>&mdash; harupong (@harupong) <a href="https://twitter.com/harupong/status/658787747352612864">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">上杉さん登場やばい。 / Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/2FybaZHBEY">https://t.co/2FybaZHBEY</a></p>&mdash; lowply (@lowply) <a href="https://twitter.com/lowply/status/658797102626185217">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ep114 20分くらいのとき、「fluxは新しい状態オブジェクトを作るので」ってのはたぶんreduxの言い間違いっぽい</p>&mdash; はくどー＠ゆ (@HKDnet) <a href="https://twitter.com/HKDnet/status/658801609661509632">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuildfm 114 凄く面白かった。上杉さんって歳2つしか変わらないのか。。大変尊敬する。</p>&mdash; Ogihara Ryo (@OgiharaRyo) <a href="https://twitter.com/OgiharaRyo/status/658802132817088513">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">chibicodeさん今後もレギュラーとして出て欲しい感ある。Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/8FVRWcshYV">https://t.co/8FVRWcshYV</a></p>&mdash; 弥吉修英 (@__yayoc) <a href="https://twitter.com/__yayoc/status/658804823463170050">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">老害に支配された rebuild に新しい血が！ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; nodoca (@_ndccn_) <a href="https://twitter.com/_ndccn_/status/658807707944620032">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">面白かった！ <a href="https://t.co/oM1j9El1Nd">https://t.co/oM1j9El1Nd</a></p>&mdash; emosei (@emosei) <a href="https://twitter.com/emosei/status/658809031755042817">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">reduxは、良いんだろうけど、価値がよくわからなかった。&#10; <a href="https://t.co/oM1j9El1Nd">https://t.co/oM1j9El1Nd</a></p>&mdash; emosei (@emosei) <a href="https://twitter.com/emosei/status/658809327461908480">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">相変わらず知的だな〜　<a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Hidetaka Ko (@SoccerKinki) <a href="https://twitter.com/SoccerKinki/status/658811850994286592">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">Airbnbの皮肉めいた広告に非難 一連の騒動うけ全面的に謝罪 - ライブドアニュース - <a href="https://t.co/IaTQ7KWY2U">https://t.co/IaTQ7KWY2U</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で話が出てたヤツだ</p>&mdash; nakamura001 (@nakamura001) <a href="https://twitter.com/nakamura001/status/658813446872371200">October 27, 2015</a></blockquote>
+
 ### ライブ前・ライブ中のツイート魚拓
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">あした#rebuildfmに初出演します🎤 <a href="https://t.co/BRo2OJpSzR">https://t.co/BRo2OJpSzR</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658132194490093568">October 25, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">うおー！次回の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 上杉さんか！</p>&mdash; yasaichi (@_yasaichi) <a href="https://twitter.com/_yasaichi/status/658116267551789056">October 25, 2015</a></blockquote>
 
@@ -141,6 +175,8 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">ローレンス・レッシグ「皆で共和国本来の国民の力を取り戻そう」 | TED Talk | <a href="https://t.co/XXLXJnueIb">https://t.co/XXLXJnueIb</a> <a href="https://t.co/q0NPH7MzUR">https://t.co/q0NPH7MzUR</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Tatsuhiko Miyagawa (@miyagawa) <a href="https://twitter.com/miyagawa/status/658467537600933888">October 26, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">世の中には２つのタイプの人間がいる。Rebuildに出た人と出てない人。&#10;<a href="https://twitter.com/hashtag/nissan?src=hash">#nissan</a></p>&mdash; islandshinji (@islandshinji) <a href="https://twitter.com/islandshinji/status/658618599238602752">October 26, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">「時間が少ない」の人は出てくる。<a href="https://t.co/NpqekxFB2g">https://t.co/NpqekxFB2g</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Symonds (@StSymonds) <a href="https://twitter.com/StSymonds/status/658468850720047104">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">アルパカwww <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; iyuto (@iyuto_) <a href="https://twitter.com/iyuto_/status/658470276150071296">October 26, 2015</a></blockquote>
@@ -188,3 +224,5 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ロンドン経由でイタリア行った時スタンプ押してもらえなかったけど普通に出国できた <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; tid (@_tid_) <a href="https://twitter.com/_tid_/status/658561439263645696">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回すごい面白かったです。喫茶店での作業も捗りました。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; kamadango (@kamadango) <a href="https://twitter.com/kamadango/status/658551954239393793">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今週のRebuild、久しぶりに濃いめなWeb技術の話題で、半分くらいチンプンカンプンだけど面白い。</p>&mdash; ぴんくのじょー (@joe_jia) <a href="https://twitter.com/joe_jia/status/658602350601342977">October 26, 2015</a></blockquote>
