@@ -111,6 +111,8 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ep114 聞いてReact.js勉強しようかなという気分になった。</p>&mdash; Tomotaka Ito (@tomotaka_ito) <a href="https://twitter.com/tomotaka_ito/status/659212290026147840">October 28, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="zh" dir="ltr">草泥馬🤔</p>&mdash; ねりまちゃん (@nerimarina) <a href="https://twitter.com/nerimarina/status/659229903930286080">October 28, 2015</a></blockquote>
+
 ### ライブ前・ライブ中のツイート魚拓
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">あした#rebuildfmに初出演します🎤 <a href="https://t.co/BRo2OJpSzR">https://t.co/BRo2OJpSzR</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658132194490093568">October 25, 2015</a></blockquote>
