@@ -47,8 +47,6 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回の rebuild.fm も良い^^</p>&mdash; サーファー (@jugyo) <a href="https://twitter.com/jugyo/status/658762296064372736">October 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">フロントエンド追えてないマンだけど、あとでReduxはちょっとさわってみようかな <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; はうえす (@haw_S) <a href="https://twitter.com/haw_S/status/658776220398579712">October 26, 2015</a></blockquote>
-
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">1.5倍速で聴いてると思いきや1倍速だった <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; がみ (@gaaamii) <a href="https://twitter.com/gaaamii/status/658778146083241984">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuild.fm、面白いなぁ。200万円のbootcamp出て年収1300万円か・・・アルパカと言ったらオライリーのアルパカ本しか思い浮かばず。</p>&mdash; sironekotoro (@sironekotoro) <a href="https://twitter.com/sironekotoro/status/658785926634598400">October 26, 2015</a></blockquote>
