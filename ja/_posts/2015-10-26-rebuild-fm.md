@@ -97,6 +97,22 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で、流行り廃りの早いフロントエンド界隈に対して、上杉さんが「どこで水面から頭を出すか考えないといけない」と言っていたけど、今年の色んな流れを見てると（個人的には）今な気がする。</p>&mdash; yasaichi (@_yasaichi) <a href="https://twitter.com/_yasaichi/status/658972662044037121">October 27, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild.fmに出てきたアルパカ欲しい。&#10;もちろん説明文付きで、会社のエントランスに飾りたい。</p>&mdash; るっか和尚 (@lucca0show) <a href="https://twitter.com/lucca0show/status/658992204971532288">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 114 uesugiさんのリア充感というか生き生き感がすごいなー。今までのリスナーと違う層がrebuildを新たに知って、前エピソード113AS聞いたら「！？」ってなるんだろうな</p>&mdash; がんじゃ (@thc_oO) <a href="https://twitter.com/thc_oO/status/659010186728726532">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回のrebuildfmのuberの話、面白かった</p>&mdash; Tsukasa K (@tsukasa_k) <a href="https://twitter.com/tsukasa_k/status/659123500502790144">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">アメリカのプログラマーは年収1200万円。短期間の特訓でプログラマーになれるブートキャンプが人気だけれど、卒業生の年収額が実績になるブートキャンプ運営側は、1人100件のアポ取りをさせるなど就職活動ノルマがあるんだって <a href="https://t.co/2axP9Dnuf3">https://t.co/2axP9Dnuf3</a></p>&mdash; 高玉広和 (@takatama_jp) <a href="https://twitter.com/takatama_jp/status/659136722400206848">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">ブートキャンプ出身の即戦力が必要なのは、フロントエンドのように新しい技術が目まぐるしく変わっていくため。常に「最新のものを後から学んだ人たち」が職を得る機会がある。学んだ技術の賞味期限を意識し続けるのも辛いもんだ <a href="https://t.co/2axP9Dnuf3">https://t.co/2axP9Dnuf3</a></p>&mdash; 高玉広和 (@takatama_jp) <a href="https://twitter.com/takatama_jp/status/659138089823043584">October 27, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">chibicode さん、ブロガーというイメージでエンジニア的な側面をあまり知らなかったけど、そういうのが知れておもしろい回だ。live ところどころしか聴けなかったので、改めて聴いてる。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Gosuke Miyashita (@gosukenator) <a href="https://twitter.com/gosukenator/status/659168161669910528">October 28, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">React の周辺ライブラリも Facebook は内製していたけど、 React がブレイクして周辺のエコシステムが育った結果 OSS ライブラリに打倒され、社内でも使うようになった。いい話だ…… (sebmck なんか社員として迎え入れられたしなぁ) <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Takuto Wada (@t_wada) <a href="https://twitter.com/t_wada/status/659191354547830785">October 28, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ep114 聞いてReact.js勉強しようかなという気分になった。</p>&mdash; Tomotaka Ito (@tomotaka_ito) <a href="https://twitter.com/tomotaka_ito/status/659212290026147840">October 28, 2015</a></blockquote>
+
 ### ライブ前・ライブ中のツイート魚拓
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">あした#rebuildfmに初出演します🎤 <a href="https://t.co/BRo2OJpSzR">https://t.co/BRo2OJpSzR</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658132194490093568">October 25, 2015</a></blockquote>
@@ -194,6 +210,8 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">uber 笑 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ジェイ (@jaytype) <a href="https://twitter.com/jaytype/status/658465605545127937">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> Uberの話、面白いｗ 誰かを送迎するときにも使えるのね</p>&mdash; Kosuke Ogawa (@koogawa) <a href="https://twitter.com/koogawa/status/658465921661448192">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">Userの話めちゃ面白いｗ / Listen Live: Rebuild - Podcast by Tatsuhiko Miyagawa <a href="https://t.co/Ak0YrMKE9k">https://t.co/Ak0YrMKE9k</a></p>&mdash; Toru (@toru_furuya) <a href="https://twitter.com/toru_furuya/status/658467014608945152">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">交換部品の配送がゆうパックで、同封されてた故障品返送用の伝票が佐川、みたいな。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Symonds (@StSymonds) <a href="https://twitter.com/StSymonds/status/658466224725082112">October 26, 2015</a></blockquote>
 
