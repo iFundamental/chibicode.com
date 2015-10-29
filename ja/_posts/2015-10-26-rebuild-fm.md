@@ -113,15 +113,21 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="zh" dir="ltr">草泥馬🤔</p>&mdash; ねりまちゃん (@nerimarina) <a href="https://twitter.com/nerimarina/status/659229903930286080">October 28, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">（ep.114の再生始めたら、「結構」「あの」「なんか」やら多いし早口だしで聞きにくい、若さか <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ）</p>&mdash; レプリカント Steam:shell82 (@she1182) <a href="https://twitter.com/she1182/status/659263197476552705">October 28, 2015</a></blockquote>s
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">（ep.114の再生始めたら、「結構」「あの」「なんか」やら多いし早口だしで聞きにくい、若さか <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ）</p>&mdash; レプリカント Steam:shell82 (@she1182) <a href="https://twitter.com/she1182/status/659263197476552705">October 28, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">この前の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で言ってたホットリロードがある / Vue.js 1.0.0 リリースしました - vue.js <a href="https://t.co/AbrVq2zLV3">https://t.co/AbrVq2zLV3</a></p>&mdash; アヤト (@ayato_tw) <a href="https://twitter.com/ayato_tw/status/659319150767030272">October 28, 2015</a></blockquote>s
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">この前の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で言ってたホットリロードがある / Vue.js 1.0.0 リリースしました - vue.js <a href="https://t.co/AbrVq2zLV3">https://t.co/AbrVq2zLV3</a></p>&mdash; アヤト (@ayato_tw) <a href="https://twitter.com/ayato_tw/status/659319150767030272">October 28, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">もうちょっとすると <a href="https://twitter.com/hiroki_hori">@hiroki_hori</a> 先輩も出るかも Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/5BYlw89Dr9">https://t.co/5BYlw89Dr9</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> via <a href="https://twitter.com/rebuildfm">@rebuildfm</a></p>&mdash; D (@dongriat) <a href="https://twitter.com/dongriat/status/659323335499616257">October 28, 2015</a></blockquote>s
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">もうちょっとすると <a href="https://twitter.com/hiroki_hori">@hiroki_hori</a> 先輩も出るかも Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/5BYlw89Dr9">https://t.co/5BYlw89Dr9</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> via <a href="https://twitter.com/rebuildfm">@rebuildfm</a></p>&mdash; D (@dongriat) <a href="https://twitter.com/dongriat/status/659323335499616257">October 28, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">技術力の高そうなゲストほど技術の話をしない傾向にあると思う。<a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Horie Issei (@ihorie1969) <a href="https://twitter.com/ihorie1969/status/659337532165894148">October 28, 2015</a></blockquote>s
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">技術力の高そうなゲストほど技術の話をしない傾向にあると思う。<a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Horie Issei (@ihorie1969) <a href="https://twitter.com/ihorie1969/status/659337532165894148">October 28, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">このアルパカは、ズルいくらいかわいい&#10;<a href="https://t.co/0nc2nPvthI">https://t.co/0nc2nPvthI</a></p>&mdash; イカID: Toshiwo (@toshiwo) <a href="https://twitter.com/toshiwo/status/659355639999631360">October 28, 2015</a></blockquote>s
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">このアルパカは、ズルいくらいかわいい&#10;<a href="https://t.co/0nc2nPvthI">https://t.co/0nc2nPvthI</a></p>&mdash; イカID: Toshiwo (@toshiwo) <a href="https://twitter.com/toshiwo/status/659355639999631360">October 28, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuildfm聞いてた時のイメージは、普通に等身大のアルパカが2匹並んでるイメージだった。&#10;たぶん、今年のゲームショーのスクフェス？ブースにあったらしい、あのアルパカ</p>&mdash; イカID: Toshiwo (@toshiwo) <a href="https://twitter.com/toshiwo/status/659356465061228544">October 28, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuildの最新エピソード、Shu Uesugiさんが出てる。このポッドキャスト熱いな。</p>&mdash; Non Umemoto (@umekun123) <a href="https://twitter.com/umekun123/status/659378953170219008">October 28, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Reduxの生まれたきっかけがHot Reloadingだったという話は知らなかったので驚いた。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Yuki Kodama (@kuy) <a href="https://twitter.com/kuy/status/659403241298329601">October 28, 2015</a></blockquote>
 
 
 ### ライブ前・ライブ中のツイート魚拓
