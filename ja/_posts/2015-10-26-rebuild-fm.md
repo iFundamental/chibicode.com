@@ -135,6 +135,8 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">webエンジニアのフロントエンド疲れってあるよなって思った <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; KINGS ROADMAN (@roadmantw) <a href="https://twitter.com/roadmantw/status/659585426676576257">October 29, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">flux実装ありすぎて悩ましかったけどこれは最終形じゃないかってrebuild.fmが言ってた | Redux <a href="https://t.co/JaO7ZaXMnC">https://t.co/JaO7ZaXMnC</a></p>&mdash; kamiyaU (@fuzzy31u) <a href="https://twitter.com/fuzzy31u/status/659547702326259712">October 29, 2015</a></blockquote>
+
 ### ライブ前・ライブ中のツイート魚拓
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">あした#rebuildfmに初出演します🎤 <a href="https://t.co/BRo2OJpSzR">https://t.co/BRo2OJpSzR</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658132194490093568">October 25, 2015</a></blockquote>
