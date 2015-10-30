@@ -36,6 +36,7 @@ og_image_height: 933
 12 / [ゆとり世代の物語](#12)<br>
 13 / [「新しい教育」は、アメリカ版「ゆとり教育」なのか？](#13)<br>
 14 / [「新しい教育」と「自分を変える教育」(前置き)](#14)<br>
+15 / [21世紀の「新しい教育」 = エドテック](#15)<br>
 
 <figure>
   <img src="/assets/images/yomikaki-soroban-monogatari/edsurge-group.jpg" data-action="zoom" />
@@ -396,11 +397,33 @@ SATは「エリート校に通わなくても入試で高得点を取れるチ�
 そしてこれが本題なのだが、両者の考え方の差、ぶつかり合いは、いまも教育界に残っている気がする。現代における「新しい教育」と「人生を変える教育」の対立に敏感になることは、教育を論じる上で大切だと思うので、すこし立ち止まって考えてみたい。
 
 <a id="15"></a>
-## 15 / 「新しい教育」と「人生を変える教育」(本題)
+## 15 / 21世紀の「新しい教育」 = エドテック
 
-ぼくが働いているシリコンバレーのEdSurge社は、教育xITに特化したメディアを運営している。
+21世紀の今における「新しい教育」とは何だろう？答えはいくつかあるだろうが、最も勢いがあるのは、「ITを活用した教育」だと思う。
 
-1. 事業の説明
-2. IT = 「新しい教育」
+ぼくが働いているシリコンバレーのEdSurge社は、教育xITに特化したメディア・[edsurge.com](http://edsurge.com/)を運営している。教育xITの分野は「エドテック」と呼ばれており、アメリカのエドテック業界では、EdSurgeはトップクラスの知名度を誇っている。ちなみに、EdSurge社の沿革と事業内容は、以前[こちらの記事](https://medium.com/digital-native/%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82%E7%9C%9F%E5%AE%9F%E3%81%AB%E8%BF%91%E3%81%84%E6%96%87%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86-%E3%81%A8%E3%81%82%E3%82%8B%E6%95%99%E8%82%B2%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E8%A9%B1-b2436d34ce62)に書いた。
+
+日本でも最近、[ベネッセなどの大企業がエドテックに参入](http://toyokeizai.net/articles/-/67124)したり、ニコニコ動画をつくったカドカワが[インターネットを活用した通信制高校](http://toyokeizai.net/articles/-/76734)を開設した。だが、アメリカはこの分野では先を行っていて、学校現場でITやアプリ・ウェブサービスを導入するのが当たり前になっている。実感が掴めないかもしれないが、とりあえず関連する数字を載せておく。
+
+### 数字で見る、アメリカのエドテック
+
+**1. ハードウェア市場:** 2014年には、アメリカの小学校~高校向けに、合わせて[1300万台](http://bits.blogs.nytimes.com/2015/08/19/chromebooks-gaining-on-ipads-in-school-sector/)のPCとタブレットが販売された。アメリカの小学~高校生の数は[約5000万人](http://nces.ed.gov/fastfacts/display.asp?id=372)で、教員の数は[約300万人](http://nces.ed.gov/fastfacts/display.asp?id=372)。教員の数を差し引いても、生徒の約4~5人に1台が新品の端末を持っている計算になる。中古の端末も使えることを考えれば、生徒と端末の比率は2~3人に1台、と考えて良いだろう。デバイスの販売数も一年で[33%増加](http://bits.blogs.nytimes.com/2015/08/19/chromebooks-gaining-on-ipads-in-school-sector/)したので、アメリカの全生徒が端末を持つ時代も近いだろう。
+
+ちなみに急成長を遂げているのは、日本でも[去年販売が開始された](http://www.atmarkit.co.jp/ait/articles/1402/26/news022.html)Chromebook。2015年の6~8月の間では、アメリカの小学校~高校向けに販売された[デバイスの半数がChromebookだった](https://www.edsurge.com/news/2015-09-11-google-chromebooks-make-up-nearly-half-of-all-us-k-12-device-sales)という。
+
+**2. ソフトウェア市場:** デジタル教材などの「教育向けソフトウェア」の市場規模は、2014年のアメリカで[約1兆円](https://www.siia.net/Press/SIIA-Estimates-838-Billion-Dollars-US-Market-for-PreK-12-Educational-Software-and-Digital-Content)だった。これは同年度の[日本の学習塾・予備校市場(約9500億円)](http://www.yano.co.jp/press/pdf/1449.pdf)とほぼ同じだ。
+
+日本の生徒数は少子化の影響で[アメリカの生徒数の約3分の1](http://www.stat.go.jp/data/nihon/pdf/n152200000.pdf)である。だが、日本の学習塾に使われているお金の約3分の1が教育向けソフトウェアに使われているか？と考えてみると、答えはNoだろう。それだけ、アメリカでは教育のデジタル化が進んでいるということだ。
+
+**3. ベンチャー市場:** アメリカ国内のエドテック企業によるベンチャー資金調達額は、[2014年だけで約1700億円を超えた](https://www.edsurge.com/news/2014-12-23-2014-us-edtech-funding-hits-1-36b)。日本の「全」ベンチャーの資金調達額を合わせても[2014年で約1200億円](http://jp.techcrunch.com/2015/03/03/jvr-report/)と、アメリカのエドテックの約3分の2しかない。
+
+### TBD
+
+Example of edtech - Newsela
+
+## 16 / TBD
+
+(というわけで、先を行くアメリカのエドテック業界を、教育メディアで
+
 
 {% include ysm-fn.html %}
