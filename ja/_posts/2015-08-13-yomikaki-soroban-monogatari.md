@@ -496,6 +496,8 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 時代はグローバル
 
+ITで働いていた、ブログで発信…でもITはかなり脇役
+
 ---
 
 US: for the bottom 20%, it might be needed...explain that the tech is primarily used for low-income kids, although there's an exception like AltSchool
