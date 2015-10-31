@@ -38,6 +38,10 @@ og_image_height: 933
 14 / [「新しい教育」と「自分を変える教育」(前置き)](#14)<br>
 15 / [21世紀の「新しい教育」 = エドテック](#15)<br>
 
+#### 著者: 上杉周作
+
+{% capture md %}{% include author-bio-jp.md %}{% endcapture %}{{ md | markdownify }}
+
 <figure>
   <img src="/assets/images/yomikaki-soroban-monogatari/edsurge-group.jpg" data-action="zoom" />
   <figcaption>シリコンバレーの教育ベンチャー・EdSurge社の集合写真。ぼくは写真右下。</figcaption>
@@ -48,7 +52,7 @@ og_image_height: 933
 
 シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社に入って早3年。ぼくはエンジニアだが、まわりがみな教育のプロである環境にいると、「ぼくも教育について、なにか語れるようにならなければ」と焦る。まるで悩める就活生のように。
 
-会社のオフィスとぼくのアパートは徒歩5分の距離だ。日々、往復10分の道を考えにふけりながら歩いても、なかなかひらめきは生まれない。オフィスにつけば、頻繁に起こる教育議論についていけず、アパートに戻れば、教育関連の記事や本を読んで、自分の至らなさを知る。仕事柄、教育現場の方々と話すことはあっても、ほとんどのチャンスは次に続けることができなかった。
+会社のオフィスとぼくのアパートは徒歩5分の距離だ。日々、往復10分の道を考えにふけりながら歩いても、なかなかひらめきは生まれない。オフィスにつけば、頻繁に起こる教育議論についていけず、アパートに戻れば、教育関連の記事や本を読んで、自分の知識不足に情けなくなる。
 
 そんな毎日を過ごして気づいたのは、教育についてぼくが語れることは、あくまで「ひとりごと」程度でしか無いということだ。何か意見を聞かれても、「この教育者の話が面白かった」などとしか言えない。それを恥じたぼくは、教育について書き留めたぼくの「ひとりごと」たちを、ずっとノートに閉じ込めてきた。
 
@@ -423,7 +427,7 @@ SATは「エリート校に通わなくても入試で高得点を取れるチ�
 
 ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」の略で、小学校から高校までの数学をゲーム感覚で学べるアプリである。百聞は一見にしかずなので、下の動画を1~2分ほど観て頂ければ概要がつかめるだろう。またST Mathは、最先端の教育学の研究を元に作られており、[十本以上ある論文もこちらから読める](http://mindresearch.org/results/research/)。
 
-<iframe class="embed-responsive-item" width="1280" height="720" src="//www.youtube.com/embed/2oksetv3i90?rel=0" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="960" height="720" src="https://www.youtube.com/embed/7g8pmwLuZxM" frameborder="0" allowfullscreen></iframe></p>
 
 「ゲーム感覚で数学を学べる」と聞くと、よくありそうなアプリに思える。だがST Mathの凄さは、小学校から高校までの数学カリキュラム全てをカバーする圧倒的な教材の量と、高い普及率にある。[執筆時点](http://cl.ly/image/0y0I1j3t2t1c/screenshot%202015-10-30%20at%208.53.22%20PM.png)でST Mathのユーザー数は[アメリカだけ](http://www.mindresearch.org/about/faq/)で、
 
@@ -432,9 +436,30 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 また、アメリカの15の大都市それぞれの学力テストの結果を見ると、ST Mathを利用している学校は全都市で成績が大幅に向上した、という[結果が出ている](http://www.mindresearch.org/results/)。
 
+ちなみに、ST Mathを含む多くのエドテックのソフトウェアは、基本的には[家庭向けに販売されていない](http://www.mindresearch.org/about/faq/)。学校や、もしくは地域の学校を束ねる行政区の「学区」がライセンスを購入し、学校全体や学区全体に配布する仕組みになっている。
+
+アメリカの公立校には日本ほど厳しく指定された学習指導要領が無く、また先生・学校・学区それぞれに教材を選ぶ権限が与えられている。教科書検定制度がある日本とはまさに真逆だ。この点については、以前の記事「[葛藤続きの教育十字軍・その1.5 / アメリカの教科書はなぜ重たいのか](http://chibicode.com/3-troubled-crusade-1-5/)」に詳しく書いたので割愛するが、早い話が、アメリカでは公立校にデジタル教材が普及する土壌があるということである。
+
 ### エドテックの実装の例・Blended Learning
 
-ST Mathを含む多くのエドテックのソフトウェアは、基本的には[家庭向けに販売されていない](http://www.mindresearch.org/about/faq/)。学校や、もしくは地域の学校を束ねる行政区の「学区」がライセンスを購入し、学校全体や学区全体に配布する仕組みになっている。
+では、実際に学校でどのようにエドテックが使われているかというと、いま最も実用化が進んでいるのが[ブレンド型学習](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E5%9E%8B%E5%AD%A6%E7%BF%92)というモデルだ。ブレンドコーヒーが数種の豆を混ぜ合わせたものであるように、ブレンド型学習とは、従来型の学習とデジタル教材の学習をひとつの教室で混ぜ合わせる指導法なのである。
+
+ブレンド型学習を行っている教室の様子はこちら。0:40に先生が講義をしている様子、0:45に生徒がグループワークをしている様子、0:48に生徒がデジタル教材に取り組んでいる様子が映されていている。また0:54に解説されているように、生徒は講義・グループワーク・デジタル教材の間を数十分間隔でローテーションする仕組みだ。
+
+<p><iframe src="https://player.vimeo.com/video/70977120" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+(ちなみに、この学校の名前は[Aspire Public Schools](http://aspirepublicschools.org/sharing-practices/blended-learning/)。シリコンバレーから運転して40分のところにある低所得者地区・Fruitvaleにある公立校である。じつは、ぼくも会社のコネを使い、[2015年10月28日にこの学校の見学に行った](https://instagram.com/p/9fQyuFibRP/?taken-by=chibicode)。教室はこのビデオそっくりで、数学のデジタル教材には先ほど紹介したST Mathが使われていた。)
+
+さて、ブレンド型学習が人気なのは、従来式とエドテック式の「良いとこどり」だからだ。
+
+かりに30人学級のクラスで、常に20人の生徒がデジタル教材に取り組んでいる状態を保てば、先生が対面で教える人数は10人になり、超少人数学級が実現できる。デジタル教材で教えられる部分はデジタル教材に任せれば、先生のエネルギーを小数の生徒に集中できるのだ。少子化を理由に、[日本でも教員削減と少人数学級の話が話題になっている](http://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia271026/02.pdf)が、ブレンド型学習が解決しようとしている問題は、まさにそこなのだ。
+
+少し前までは「[反転授業](https://ja.wikipedia.org/wiki/%E5%8F%8D%E8%BB%A2%E6%8E%88%E6%A5%AD)」がアメリカのエドテック界では人気だったが、最近はブレンド型学習にトレンドが移ったようである。ブレンド型学習の本も多く出版されるようになり、「[イノベーションのジレンマ](http://www.amazon.co.jp/イノベーションのジレンマ―技術革新が巨大企業を滅ぼすとき-Harvard-business-school-press/dp/4798100234?tag=chibicode-22)」を書いたクリステンセン教授も、
+「[Blended](http://www.amazon.co.jp/Blended-Disruptive-Innovation-Improve-Schools-ebook/dp/B00MFPZASU?tag=chibicode-22)」というブレンド型学習の本のはしがきを書いている。
+
+### 21世紀の「新しい教育」 = エドテック
+
+長い章になってしまったが、
 
 ## 16 / TBD
 
