@@ -6,10 +6,14 @@ layout: default
   <article class="mx-auto lg-col-7 md-col-8 sm-col-9">
     <header class="mb2">
       <h1 class="mt0 mb1 {% if page.categories contains "ja" %}heading--ja{% endif %}">{{ page.title }}</h1>
-      <section class="muted">
+      <section class="muted mb1">
         <time datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time>
       </section>
+      <section>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.meta.author.twitter_user_name }}" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}">Tweet</a>
+      </section>
     </header>
+
     <section class="mb3 js-post-content {% if page.categories contains "ja" %}body--ja{% endif %}">
       {{content}}
     </section>
