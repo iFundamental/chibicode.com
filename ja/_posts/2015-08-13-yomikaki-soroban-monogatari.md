@@ -2,20 +2,18 @@
 title: 読み書きそろばん物語・「新しい教育」の話
 featured: true
 draft: true
-date: 2015-08-13
+date: 2015-11-02
 og_image: "http://f.cl.ly/items/0U28220y0L2I2g113X12/edsurge-group.jpg"
 og_image_width: 1400
 og_image_height: 933
-
-# TODO: Change relative images to absolute URLs (search for /assets/)
 ---
 
 {% assign fn_index = 1 %}
 
-シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社にエンジニアとして入社して3年が経ちました。よい区切りなので、ぼくは教育の専門家ではないですが、教育について考えたことをテキトーにまとめたのがこの記事です。
+シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社に技術者として入社してから3年が経ちました。よい区切りなので、ぼくは教育の専門家ではないですが、教育について考えたことをテキトーにまとめたのがこの記事です。
 
 <figure>
-  <img src="/assets/images/yomikaki-soroban-monogatari/edsurge-group.jpg" data-action="zoom" />
+  <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/edsurge-group.jpg" data-action="zoom" />
   <figcaption>シリコンバレーの教育ベンチャー・EdSurge社の集合写真。ぼくは写真右下。</figcaption>
 </figure>  
 
@@ -420,7 +418,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 ちなみに、ST Mathを含む多くのエドテックのソフトウェアは、基本的には[家庭向けに販売されていない](http://www.mindresearch.org/about/faq/)。学校や、もしくは地域の学校を束ねる行政区の「学区」がライセンスを購入し、学校全体や学区全体に配布する仕組みになっている。
 
-アメリカの公立校には日本ほど厳しく指定された学習指導要領が無く、また先生・学校・学区それぞれに教材を選ぶ権限が与えられている。教科書検定制度がある日本とはまさに真逆だ。この点については、以前の記事「[葛藤続きの教育十字軍・その1.5 / アメリカの教科書はなぜ重たいのか](http://chibicode.com/3-troubled-crusade-1-5/)」に詳しく書いたので割愛するが、早い話が、アメリカでは公立校にデジタル教材が普及する土壌があるということである。
+アメリカの公立校には日本ほど厳しく指定された学習指導要領が無く、また先生・学校・学区それぞれに教材を選ぶ権限が与えられている。教科書検定制度がある日本とはまさに真逆だ。この点については、以前に書いた記事「[葛藤続きの教育十字軍・その1.5 / アメリカの教科書はなぜ重たいのか](http://chibicode.com/3-troubled-crusade-1-5/)」で詳しく説明したので割愛する。まあ早い話が、アメリカでは公立校にデジタル教材が普及する土壌があるということである。
 
 ### エドテックの実装の例・ブレンド型学習
 
@@ -479,7 +477,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 では、やっぱり時代はグローバルでしょ！ということなら、「バカヤンキー」の話はどうだろうか？
 
-[![](/assets/images/yomikaki-soroban-monogatari/bakayan.jpg)](http://www.amazon.co.jp/ebook/dp/B014KQHCUU?tag=chibicode-22)
+[![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/bakayan.jpg)](http://www.amazon.co.jp/ebook/dp/B014KQHCUU?tag=chibicode-22)
 
 「[バカヤンキーでも死ぬ気でやれば世界の名門大学で戦える](http://www.amazon.co.jp/ebook/dp/B014KQHCUU?tag=chibicode-22)」は、ぼくの友人の[鈴木琢也くん](http://takuyasuzuki.com/)が2015年10月に出版した本である。「[もし元とび職の不良が世界の名門大学に入学したら・・・こうなった。カルフォルニア大学バークレー校、通称UCバークレーでの『ぼくのやったこと』](http://storys.jp/story/9679)」という、なんと[70万以上のページビュー](http://takuyasuzuki.com/?p=277)を獲得した記事が本の元ネタになっており、とりあえず内容を把握したい方は記事を先に読んでみてほしい。
 
@@ -490,7 +488,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 もちろん、「トップランクの大学に入ることを決意」から「カリフォルニア大学バークレー校に合格、卒業」の間には彼の想像を絶する努力があり、それは本書で事細かに解説されている。たとえば、カリフォルニア大学バークレー校を受験する前の2年間、彼はバークレー市にある短大に通い、その「2年間、勉強量が10時間を下回った日は一日もなかった」らしい。
 
 <figure>
-  <img src="/assets/images/yomikaki-soroban-monogatari/takuya-shu.jpg" />
+  <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/takuya-shu.jpg" />
   <figcaption>左が琢也くん。2015年5月、彼の卒業パーティーにて。</figcaption>
 </figure>  
 
@@ -510,14 +508,28 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 6. 目標を達成する
 7. 新しい目標を立てる
 
-むろん、ここにITという言葉は登場していない。上記のステップを実践するのが「人生を変える教育」だとしたら、ITは補助的存在でしかないのだ。
+むろん、ここにITという言葉は登場していない。上記のステップを実践するのが彼にとっての「人生を変える教育」だとしたら、ITは補助的存在でしかないのだ。
 
 まとめると、ビリギャルと同じように、「バカヤンキー」という21世紀の「人生を変える教育」の話においても、ITは「絶対に必要」とは言えないのである。
 
 <a id="16"></a>
 ## 16 / 「人生を変える教育」に、ITは必要か？ パート2
 
-「ビリギャル」と「バカヤンキー」は極端な例かもしれないが、両方とも「人生を変える教育」の実践例であり、21世紀の「新しい教育」であるITにはほとんど触れられていなかった。では、21世紀における「人生を変える教育」に、ITはべつに必要ないと結論づけていいのだろうか？
+「ビリギャル」と「バカヤンキー」は極端な例かもしれないが、両方とも「人生を変える教育」の実践例であり、21世紀の「新しい教育」であるITにはほとんど触れられていなかった。では、21世紀における「人生を変える教育」に、ITはそれほど必要ないと結論づけていいのだろうか？
+
+答えを急ぐ前に、反対側の視点を見てみよう。
+
+### 極端な例: 途上国の「エドテック」
+
+数カ月前に、元DeNA創業メンバーの渡辺氏が創業したエドテック企業・[Quipper](https://school.quipper.com)が[リクルートに買収された](http://jp.techcrunch.com/2015/07/03/recruit-acquired-quipper-for-4-8-billion-yen/)。Quipperは先生の業務効率化ツールを販売していて、途上国でも使われているのだが、それについて渡辺氏はこうコメントしている。
+
+> インドネシアやメキシコにはICTルームというのがあって、タブレットやPCがあります。教師の人材不足の中で、ネットを使って子どもたちに最高の教材を使わせたい、という危機感が強いのだと思います。(中略) その辺は実は日本より進んでいるかもしれません。
+
+世界レベルの教育を受けることで人生が変わる度合いは、先進国よりも途上国の子たちのほうが大きいだろう。シリコンバレーで途上国からの移民2世・3世が[活躍しているのを見ると](http://www.inc.com/magazine/201502/adam-bluestein/the-most-entrepreneurial-group-in-america-wasnt-born-in-america.html)、そう思うざるを得ない。そして、教師の人材不足が強い国では、まさにエドテックが教育の質の鍵を握っているのだ。
+
+つまり途上国の例だけを見れば、21世紀の「人生を変える教育」にITは欠かせない。「新しい教育」イコール「人生を変える教育」になるのだ。
+
+
 
 ---
 
@@ -525,8 +537,9 @@ US: for the bottom 20%, it might be needed...explain that the tech is primarily 
 
 This question causes a tension between two sides
 
-途上国 (まさに教育が人生を変える可能性が一番高い)
-http://jp.techcrunch.com/2015/07/03/recruit-acquired-quipper-for-4-8-billion-yen/
+![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/new-vs-change-education.jpg)
+
+
 
 Bootcamp - on Rebuild
 
@@ -537,6 +550,8 @@ Issue - the war between new vs. change life will continue because...
 the answer is always somewhere in the middle
 
 2種類の人間 - Edtechうぇーい、モヤモヤした気持ちを抱く人たち - その対立の理由はふたつあり、(1) 歴史 (2) 場合によって大きく違う
+
+「教育xIT」をやっているというと、ものすごく多様な意見がくるが、ふたつに分けられる
 
 
 {% include ysm-fn.html %}
