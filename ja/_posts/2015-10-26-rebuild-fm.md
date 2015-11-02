@@ -401,3 +401,5 @@ RebuildにはAftershowという、いわゆる「B面」の収録があり、本
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Enjoyed the Jobs movie, and I needed to stay until the very last moment for <a href="https://twitter.com/chibicode">@chibicode</a>. <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> <a href="https://t.co/3T1PkdfUHA">pic.twitter.com/3T1PkdfUHA</a></p>&mdash; Naoki Hiroshima (@N) <a href="https://twitter.com/N/status/660662994301382656">November 1, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ソイレント試してみたい</p>&mdash; あべちゃん (@takashabe) <a href="https://twitter.com/takashabe/status/660805607960670209">November 1, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild.fm。ソイレントのバージョン管理の話面白い</p>&mdash; ひらしー (@y05_net) <a href="https://twitter.com/y05_net/status/661069284412514304">November 2, 2015</a></blockquote>
