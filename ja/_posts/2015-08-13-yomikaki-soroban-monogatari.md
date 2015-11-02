@@ -7,8 +7,6 @@ og_image_width: 1400
 og_image_height: 933
 ---
 
-{% assign fn_index = 1 %}
-
 シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社に技術者として入社してから3年が経ちました。よい区切りなので、ぼくは教育の専門家ではないですが、教育について考えたことを、テキトーにダラダラと書き連ねたのがこの記事です。
 
 <figure>
@@ -16,6 +14,7 @@ og_image_height: 933
   <figcaption>シリコンバレーの教育ベンチャー・EdSurge社の集合写真。ぼくは写真右下。</figcaption>
 </figure>  
 
+{% assign fn_index = 1 %}
 
 ## 目次
 
