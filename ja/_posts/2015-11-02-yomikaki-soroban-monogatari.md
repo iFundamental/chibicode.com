@@ -784,6 +784,8 @@ Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.
 
 **お知らせ:** この冬(2015年12月)に関東に一時帰国する予定です。自由に使える時間があるか分かりませんが、お会いしたい方も多いです。[Facebook](http://facebook.com/shu)か[shu@chibicode.com](shu@chibicode.com)にメッセージ頂ければ嬉しいです。
 
+ちなみに、この記事は約2万8000文字・原稿用紙70枚分の長さでした。一年前に書いた翻訳記事「[ビジネス・イン・ジャパン](http://chibicode.com/doing-business-in-japan/)」も同じく約2万8000文字だったので、長文が好きな方はそちらもどうぞ。
+
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">✏️ 教育についてブログを書きました。翻訳でない長文記事はひさびさに書いたかもしれません → 読み書きそろばん物語・「新しい教育」の話をしよう <a href="https://t.co/Zdax4p2Uap">https://t.co/Zdax4p2Uap</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/661000846365212672">November 2, 2015</a></blockquote>
 
 {% include ysm-fn.html %}
