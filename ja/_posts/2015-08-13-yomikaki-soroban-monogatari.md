@@ -1,5 +1,5 @@
 ---
-title: 読み書きそろばん物語・「新しい教育」の話
+title: 読み書きそろばん物語・「新しい教育」の話をしよう
 featured: true
 date: 2015-11-02
 og_image: "http://f.cl.ly/items/0U28220y0L2I2g113X12/edsurge-group.jpg"
