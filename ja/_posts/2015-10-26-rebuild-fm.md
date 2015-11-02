@@ -1,6 +1,7 @@
 ---
 title: "Rebuild.fmのEpisode 114に出演しました"
 date: 2015-10-26
+featured: true
 ---
 
 エンジニア界で大人気のポッドキャスト・[Rebuild.fm](http://rebuild.fm)に恐れながら出演させて頂きました。リンクと、メモ用にツイート魚拓を貼っておきます。
