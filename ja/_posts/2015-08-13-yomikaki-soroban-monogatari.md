@@ -773,6 +773,6 @@ Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.
 
 ### ありがとうございました
 
-**お知らせ:** この冬(2015年12月)に一時帰国する予定です。自由に使える時間があるか分かりませんが、お会いしたい方も多いです。[Facebook](http://facebook.com/shu)か[shu@chibicode.com](shu@chibicode.com)にメッセージ頂ければ嬉しいです。
+**お知らせ:** この冬(2015年12月)に関東に一時帰国する予定です。自由に使える時間があるか分かりませんが、お会いしたい方も多いです。[Facebook](http://facebook.com/shu)か[shu@chibicode.com](shu@chibicode.com)にメッセージ頂ければ嬉しいです。
 
 {% include ysm-fn.html %}
