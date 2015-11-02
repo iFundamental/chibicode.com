@@ -635,7 +635,6 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.jp/prize.html)し、コピーライターの糸井重里さんとの[対談企画まで行われた](http://www.1101.com/peter_thiel/index.html)。糸井さんは、Zero to Oneを「まるまる２回」読み、彼にとって「それは、けっこう、めずらしいこと」だったらしい。対談の中で、[糸井さんはこう語っている](http://www.1101.com/peter_thiel/2015-04-27.html)。
 
-> **糸井:**<br>
 > いま、ティールさんが講義のなかで<br>
 > Googleがスタートしたときの話を<br>
 > されてましたけど、ぼくらの前に<br>

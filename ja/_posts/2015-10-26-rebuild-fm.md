@@ -5,19 +5,33 @@ date: 2015-10-26
 
 エンジニア界で大人気のポッドキャスト・[Rebuild.fm](http://rebuild.fm)に恐れながら出演させて頂きました。リンクと、メモ用にツイート魚拓を貼っておきます。
 
-14:30から40:30あたりまでは技術的な内容ですが、それ以外はエンジニアでなくてもわかる内容かと思います。
-
 ### リンク
 
 [http://rebuild.fm/114/](http://rebuild.fm/114/) からどうぞ。容量は60MBほどです。
 
-iPhoneで視聴される場合は、[こちらのリンク](http://cache.rebuild.fm/podcast-ep114.mp3)から視聴するか、もしくはiPhoneに標準でついてくるPodcastアプリを開き、「Rebuild」で検索してみてください。Episode 114をダウンロードすればOKです。
+> 上杉周作さんをゲストに迎えて、React, Redux, Facebook, ブートキャンプ, SF住宅事情、Airbnb, Uber, レッシグなどについて話しました。
 
-Androidで視聴される場合は、[こちらのリンク](http://cache.rebuild.fm/podcast-ep114.mp3)から視聴するか、もしくは[Podcast Addict (無料)](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=ja)をダウンロードし、「Rebuild」で検索して、Episode 114をダウンロードしてみてください。
+14:30から40:30あたりまでは技術的な内容ですが、それ以外はエンジニアでなくてもわかる内容かと思います。
+
+iPhoneで視聴される場合は、[こちらのリンクから視聴するか](http://cache.rebuild.fm/podcast-ep114.mp3)、もしくはiPhoneに標準でついてくるPodcastアプリを開き、「Rebuild」で検索してみてください。Episode 114をダウンロードすればOKです。
+
+Androidで視聴される場合は、[こちらのリンクから視聴するか](http://cache.rebuild.fm/podcast-ep114.mp3)、もしくは[Podcast Addict (無料)](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=ja)をダウンロードし、「Rebuild」で検索して、Episode 114をダウンロードしてみてください。
 
 <blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p lang="ja" dir="ltr">エンジニアに人気のポッドキャスト・ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> に出演させていただきました！前半はこちらです。後半はまた今度。14:30から40:30あたりまでは技術的な内容ですが、それ以外はエンジニアでなくてもわかる内容かと思います。 <a href="https://t.co/2O0Fcr4WUe">https://t.co/2O0Fcr4WUe</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658602940593147905">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p lang="nl" dir="ltr">114: Rebuildersland (<a href="https://twitter.com/chibicode">@chibicode</a>) <a href="https://t.co/YOXrNBC9ou">https://t.co/YOXrNBC9ou</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Rebuild Podcast (@rebuildfm) <a href="https://twitter.com/rebuildfm/status/658557468314759168">October 26, 2015</a></blockquote>
+
+### Aftershow
+
+RebuildにはAftershowという、いわゆる「B面」の収録があり、本編に比べてゆるい内容をしゃべるコーナーがあります。
+
+[http://rebuild.fm/114a/](http://rebuild.fm/114a/) からどうぞ。容量は24MBほどです。
+
+> 上杉周作さんと、Nexus 5X, Steve Jobs, Soylent, Blue Apron などについて話しました。
+
+[iPhone・Android用の視聴リンクはこちら](http://cache.rebuild.fm/podcast-ep114a.mp3)。
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Aftershow 114: Literally Dogfooding (<a href="https://twitter.com/chibicode">@chibicode</a>) <a href="https://t.co/IcOf1yUrba">https://t.co/IcOf1yUrba</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Rebuild Podcast (@rebuildfm) <a href="https://twitter.com/rebuildfm/status/659976570287722496">October 30, 2015</a></blockquote>
 
 ### ツイート魚拓
 
@@ -113,6 +127,10 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 
 <blockquote class="twitter-tweet" lang="en"><p lang="zh" dir="ltr">草泥馬🤔</p>&mdash; ねりまちゃん (@nerimarina) <a href="https://twitter.com/nerimarina/status/659229903930286080">October 28, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">アルパカの話とてもいい話だったので誰かにはなそ</p>&mdash; ねりまちゃん (@nerimarina) <a href="https://twitter.com/nerimarina/status/659353642990833668">October 28, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回のrebuildfm 新鮮！上杉周作さんの途切れないトークに汗かいた。すご過ぎ_&lt; btw…Miyagawaさんの声がハスキーに聞こえる理由わかりました！&#10;多分録音の違い？前は機械的な感じでしたが、今はとても自然な感じ。&#10;初期のSiri風より今の方が断然いいです。</p>&mdash; HanaQPT (@daysy_hana) <a href="https://twitter.com/daysy_hana/status/659281362453573636">October 28, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">（ep.114の再生始めたら、「結構」「あの」「なんか」やら多いし早口だしで聞きにくい、若さか <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ）</p>&mdash; レプリカント Steam:shell82 (@she1182) <a href="https://twitter.com/she1182/status/659263197476552705">October 28, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">この前の <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で言ってたホットリロードがある / Vue.js 1.0.0 リリースしました - vue.js <a href="https://t.co/AbrVq2zLV3">https://t.co/AbrVq2zLV3</a></p>&mdash; アヤト (@ayato_tw) <a href="https://twitter.com/ayato_tw/status/659319150767030272">October 28, 2015</a></blockquote>
@@ -136,6 +154,42 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">webエンジニアのフロントエンド疲れってあるよなって思った <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; KINGS ROADMAN (@roadmantw) <a href="https://twitter.com/roadmantw/status/659585426676576257">October 29, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">flux実装ありすぎて悩ましかったけどこれは最終形じゃないかってrebuild.fmが言ってた | Redux <a href="https://t.co/JaO7ZaXMnC">https://t.co/JaO7ZaXMnC</a></p>&mdash; kamiyaU (@fuzzy31u) <a href="https://twitter.com/fuzzy31u/status/659547702326259712">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">&quot;若い人たちにチャンスくださいよ&quot; 爆笑した <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Motohiro Takayama (@mootoh) <a href="https://twitter.com/mootoh/status/659562572966817792">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">ブートキャンプの話とか面白かった Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/5oghAu9Otp">https://t.co/5oghAu9Otp</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> via <a href="https://twitter.com/rebuildfm">@rebuildfm</a></p>&mdash; tsuyoshi shiraga (@shrk) <a href="https://twitter.com/shrk/status/659571648442425344">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">webエンジニアのフロントエンド疲れってあるよなって思った <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; KINGS ROADMAN (@roadmantw) <a href="https://twitter.com/roadmantw/status/659585426676576257">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuildfm で hot realoding という言葉を聞くとは。vue.js でもそれできるよ。</p>&mdash; kazuya kawaguchi (@kazu_pon) <a href="https://twitter.com/kazu_pon/status/659637854172131328">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">redux について熱く語られている。rebuildfm</p>&mdash; kazuya kawaguchi (@kazu_pon) <a href="https://twitter.com/kazu_pon/status/659638647679905792">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">本当に家具とメタルバンドの区別がつかない。。楽しい！ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> / “IKEA or Death” <a href="https://t.co/SDehsBDxus">https://t.co/SDehsBDxus</a></p>&mdash; Keiichi Yasu (@keiichiyasu) <a href="https://twitter.com/keiichiyasu/status/659730528812138497">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">IKEAの家具の名前かデスメタルバンドの名前かってｗ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; モリ (@m0r1) <a href="https://twitter.com/m0r1/status/659746802027986945">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で宮川さんが言ってたのコレかw IKEAの家具の名前かデスメタルのバンド名かを当てるやつ <a href="https://t.co/sql4Yho961">https://t.co/sql4Yho961</a></p>&mdash; YoshinaoTakisaka (@ysnotksk) <a href="https://twitter.com/ysnotksk/status/659748194264285185">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">アルカパとは <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ハシモトチヒロ (@chrhsmt) <a href="https://twitter.com/chrhsmt/status/659749233000599552">October 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">中国ではFワードをアルパカって言ってるって話が相当面白かった。「草泥馬」で検索。 / “Rebuild: 114: Rebuildersland (Shu Uesugi)” <a href="https://t.co/M2ehstApzg">https://t.co/M2ehstApzg</a></p>&mdash; オオカワ (@huntinggirled) <a href="https://twitter.com/huntinggirled/status/659917398737207296">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">アルパカってネット中立性の象徴だったの&#10;[Rebuild] 114: Rebuildersland (Shu Uesugi) =&gt; <a href="https://t.co/cpOGGTgzRT">https://t.co/cpOGGTgzRT</a> via <a href="https://twitter.com/PodcastAddict">@PodcastAddict</a></p>&mdash; KAWACHI Takashi (@kawachi) <a href="https://twitter.com/kawachi/status/659918201862533120">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild 114で政治の話してる衝撃！エンジニアの政治感てやっぱりロジカルな部分が出るから共感しちゃうわ</p>&mdash; たいへー@sakamorist (@supertaihei02) <a href="https://twitter.com/supertaihei02/status/660016093830905856">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">React.js Introduction For People Who Know Just Enough jQuery To Get By で React.js のメリット超絶良くわかった。 <a href="https://t.co/yeupLzjsdq">https://t.co/yeupLzjsdq</a> by <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; Junya Ishihara (@jishiha) <a href="https://twitter.com/jishiha/status/660128817265045504">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 114 アメリカ就活事情こわい…</p>&mdash; heartfield (@heartfield) <a href="https://twitter.com/heartfield/status/660304604215685121">October 31, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">最近 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で聞いたな、これｗ <a href="https://t.co/0nQLRGfmNB">https://t.co/0nQLRGfmNB</a></p>&mdash; ダークネス高野さん (@masaru_b_cl) <a href="https://twitter.com/masaru_b_cl/status/661007485675814912">November 2, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">アメリカのbootcamp商売の話、日本も就活生の面接とかしてると３年生になってハッカソンorWEB系会社インターンで一ヶ月ぐらいandroidアプリ作りました！系の多さ（体感９割以上）を見るに、日本でも流行りそう。そういう人たちは内定出しても大抵大手に行く <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; KINGS ROADMAN (@roadmantw) <a href="https://twitter.com/roadmantw/status/661034947709374464">November 2, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">Uberは需要側・共有側の両方にグロースチームをつくっていると。　┃　Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/YwzkFDiWvi">https://t.co/YwzkFDiWvi</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> <a href="https://twitter.com/rebuildfm">@rebuildfm</a>さんから</p>&mdash; Takuya Koroku (@coroMonta) <a href="https://twitter.com/coroMonta/status/661041824220360704">November 2, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">これ分かりやすいね <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a>&#10;&#10;A <a href="https://twitter.com/hashtag/ReactJS?src=hash">#ReactJS</a> Introduction For People Who Know Just Enough jQuery To Get By <a href="https://t.co/5VSyuWbfSm">https://t.co/5VSyuWbfSm</a> <a href="https://twitter.com/ReactDesigners">@reactdesigners</a>さんから</p>&mdash; izm (@imaizume) <a href="https://twitter.com/imaizume/status/661053150523035649">November 2, 2015</a></blockquote>
 
 ### ライブ前・ライブ中のツイート魚拓
 
@@ -294,3 +348,55 @@ Androidで視聴される場合は、[こちらのリンク](http://cache.rebuil
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今回すごい面白かったです。喫茶店での作業も捗りました。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; kamadango (@kamadango) <a href="https://twitter.com/kamadango/status/658551954239393793">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">今週のRebuild、久しぶりに濃いめなWeb技術の話題で、半分くらいチンプンカンプンだけど面白い。</p>&mdash; ぴんくのじょー (@joe_jia) <a href="https://twitter.com/joe_jia/status/658602350601342977">October 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuild.fmを新しく聴き始めたので暫くはやる気が保たれるだろう。</p>&mdash; やながわ理央 (@yanagawario) <a href="https://twitter.com/yanagawario/status/660055467800948736">October 30, 2015</a></blockquote>
+
+### Aftershowのツイート魚拓
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ソイレントのchangelogの話、面白い <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Yutaka Fukui (@yutakafukui) <a href="https://twitter.com/yutakafukui/status/660006733935284229">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuildfm アフターショーきてるううううう！</p>&mdash; Ogihara Ryo (@OgiharaRyo) <a href="https://twitter.com/OgiharaRyo/status/660040966905032704">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ソイレントはまさに自分がずっと求めてたものっぽい。ぜひ広まってほしいですね <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ohtysk (@ohtysk) <a href="https://twitter.com/ohtysk/status/660049873778053122">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">聞いた&#10;<a href="https://t.co/vbkRm8oppZ">https://t.co/vbkRm8oppZ</a></p>&mdash; FUNABARA Masao (@107steps) <a href="https://twitter.com/107steps/status/660703313646649344">November 1, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> 　&#10;&#10;アニメの話してwwwwwwwww</p>&mdash; 佐藤信 (@SHIELD_0753362_) <a href="https://twitter.com/SHIELD_0753362_/status/660063249673535488">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Aftershowｷﾀ━(ﾟ∀ﾟ)━! <a href="https://t.co/Zm10YpHjrR">https://t.co/Zm10YpHjrR</a></p>&mdash; トトス (@oza_shu) <a href="https://twitter.com/oza_shu/status/660079623439409152">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">日本の人はほとんどBlue Apron知らないだろーなーと思ってたけど、rebuildfmで認知度かなりあがりそう</p>&mdash; Takayuki Hasegawa (@hase1031) <a href="https://twitter.com/hase1031/status/660082981487271937">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuild.fm で紹介されてた Soylent ってスターウオーズでスカイウォーカー家の家族が飲んでたクソ不味そうな青色の飲み物 (Blue milk?) みたい <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> <a href="https://t.co/OKcWpgu61Y">https://t.co/OKcWpgu61Y</a></p>&mdash; MH (@kondoumh) <a href="https://twitter.com/kondoumh/status/660084402660110336">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Jobsの映画が新しく撮られてたなんて知らなかった！ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; トトス (@oza_shu) <a href="https://twitter.com/oza_shu/status/660090529376440320">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Soulentなんてものがあるんだ。完全栄養食ってきくと、マトリックスの世界の完全栄養食を想像しちゃいますな。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; トトス (@oza_shu) <a href="https://twitter.com/oza_shu/status/660091301656788992">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ブルーエプロンっていうサービスで料理してたんですねw料理始めたのかと思ったw <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; トトス (@oza_shu) <a href="https://twitter.com/oza_shu/status/660091507257421824">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">楽しかった。また出てくださいー！ <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; トトス (@oza_shu) <a href="https://twitter.com/oza_shu/status/660091649947602944">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> El Cpitanの話が最終的にsoylentの伏線になっててシュールwww</p>&mdash; やんま (@yanmakazuki) <a href="https://twitter.com/yanmakazuki/status/660133726844678144">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> Soylentユーザはじめて聞いた気がする。同僚が以前持ってたけど粉っぽくておいしくないといって全然飲んでなかった。会社の机にストックしてた。たぶん超初期版ですが……</p>&mdash; 向井 淳 (@jmuk) <a href="https://twitter.com/jmuk/status/660148079656472576">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild.fm聞いて soylent 発注するなど</p>&mdash; がちゃぴん先生 (@kosaki55tea) <a href="https://twitter.com/kosaki55tea/status/660162484813205504">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Soylent久々に聞いた！ネットで見つけたとき完全栄養食品みたいな紹介されてて、健康オタクとしてはすごく気になったけど食事を置き換える必要は無いかなwというか日本発売もまだっぽいしね。今はNatural Healthy Standardで満足。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; ぼん (@164_bon) <a href="https://twitter.com/164_bon/status/660240373197901824">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> で Soylent の話が。本家は日本では買えないけど、日本人向けに開発して販売してる人がいて、ココから買える → <a href="https://t.co/yHk86J6wp6">https://t.co/yHk86J6wp6</a></p>&mdash; ⿻ (@llllLoLollll) <a href="https://twitter.com/llllLoLollll/status/660240716354838528">October 30, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Soylentのバージョン1.5でお腹壊してchangelog見に行った話、声出して笑ってしまったw <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; kanemoto aka たつきち (@qckanemoto) <a href="https://twitter.com/qckanemoto/status/660272191863308288">October 31, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">ジョブズの映画はこれですね。映画「スティーブ・ジョブズ」の日本公開が2016年2月に決定 | 男子ハック <a href="https://t.co/NJgvnHNqMe">https://t.co/NJgvnHNqMe</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; トトス (@oza_shu) <a href="https://twitter.com/oza_shu/status/660276365086748672">October 31, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">最近のrebuildfmの食料にバージョン付けするという点やマウスは過去のものだという発言から、彼らは未来人または異世界線人である可能性が上げられる。&#10;いずれにせよ、シュタインズゲートの選択によって導かれたpodcastであることには変わりないだろう。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; やんま (@yanmakazuki) <a href="https://twitter.com/yanmakazuki/status/660459642821083136">October 31, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">最新のRebuild.fmで出てきた食料のくだり。バージョンとかチェンジログは出すのにプルリク受け付けない。ってところで爆笑した。</p>&mdash; ヤマザキリョウ (@ymzkryo) <a href="https://twitter.com/ymzkryo/status/660503974592643072">October 31, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">朝食をとる時間はないが栄養はしっかり摂りたいと思っている日本人は多いはずなので、soylentは流行るかも。オープンソースならぬオープンレシピというのも新しい。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Kiyoshi Akuta (@akuta_ky) <a href="https://twitter.com/akuta_ky/status/660594492714577920">October 31, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Enjoyed the Jobs movie, and I needed to stay until the very last moment for <a href="https://twitter.com/chibicode">@chibicode</a>. <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> <a href="https://t.co/3T1PkdfUHA">pic.twitter.com/3T1PkdfUHA</a></p>&mdash; Naoki Hiroshima (@N) <a href="https://twitter.com/N/status/660662994301382656">November 1, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ソイレント試してみたい</p>&mdash; あべちゃん (@takashabe) <a href="https://twitter.com/takashabe/status/660805607960670209">November 1, 2015</a></blockquote>
