@@ -844,7 +844,7 @@ Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.
 
 <figure>
   <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/thiel-itoi.jpg" data-action="zoom" />
-  <figcaption>画像は<a href="http://www.1101.com/peter_thiel/index.html">こちらのページ</a>のスクリーンショット。</figcaption>
+  <figcaption>(<a href="http://www.1101.com/peter_thiel/index.html">画像ソース</a>)</figcaption>
 </figure>
 
 「賛成する人がほとんどいない、大切な真実はなんだろう？」
