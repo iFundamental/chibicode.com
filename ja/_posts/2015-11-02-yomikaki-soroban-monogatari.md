@@ -697,7 +697,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 未来をつくる仲間を集めるのが起業家で、未来をつくる会社を助けるのが投資家である。そのどちらも経験したティール氏が、この質問を好むのも頷けるだろう。
 
-Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.jp/prize.html)し、コピーライターの糸井重里さんとの[対談企画まで行われた](http://www.1101.com/peter_thiel/index.html)。糸井さんは、Zero to Oneを「まるまる２回」読み、彼にとって「それは、けっこう、めずらしいこと」だったらしい。対談の中で、[糸井さんはこう語っている](http://www.1101.com/peter_thiel/2015-04-27.html)。
+Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.jp/prize.html)。「[ほぼ日刊イトイ新聞](http://www.1101.com/home.html)」でおなじみのコピーライター・糸井重里さんとの[対談企画まで行われた](http://www.1101.com/peter_thiel/index.html)。糸井さんは、Zero to Oneを「まるまる２回」読み、彼にとって「それは、けっこう、めずらしいこと」だったらしい。対談の中で、[糸井さんはこう語っている](http://www.1101.com/peter_thiel/2015-04-27.html)。
 
 > **糸井:**<br>
 > いま、ティールさんが講義のなかで<br>
