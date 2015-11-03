@@ -699,6 +699,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.jp/prize.html)し、コピーライターの糸井重里さんとの[対談企画まで行われた](http://www.1101.com/peter_thiel/index.html)。糸井さんは、Zero to Oneを「まるまる２回」読み、彼にとって「それは、けっこう、めずらしいこと」だったらしい。対談の中で、[糸井さんはこう語っている](http://www.1101.com/peter_thiel/2015-04-27.html)。
 
+> **糸井:**<br>
 > いま、ティールさんが講義のなかで<br>
 > Googleがスタートしたときの話を<br>
 > されてましたけど、ぼくらの前に<br>
@@ -719,8 +720,9 @@ Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.
 > 「この本の著者はそれを持ってるだろうか？」<br>
 > ということにも興味を覚えた。
 
-そして、ティール氏の「答え」も記事にある。少し長いし、本を読まれた方にとっては復習になるが、糸井さんの文体が読みやすいので、騙されたと思って読んでみてほしい。
+ティール氏の「答え」も、糸井さんが非常に読み易い文体で書いている。少し長いし、本を読まれた方にとっては復習になるが、騙されたと思って読んでみてほしい。
 
+> **ティール:**<br>
 > 多くの人たちは、<br>
 > 「資本主義」と「競争」を同義語だと考えます。<br>
 > けれども、私は<br>
@@ -835,6 +837,11 @@ Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.
 > まったくかけ離れた解釈しか出てこないのです。<br>
 > つまり「独占」について<br>
 > 十分に理解されていないということです。
+
+<figure>
+  <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/thiel-itoi.jpg" data-action="zoom" />
+  <figcaption>画像は<a href="http://www.1101.com/peter_thiel/index.html">こちらのページ</a>のスクリーンショット。</figcaption>
+</figure>
 
 「賛成する人がほとんどいない、大切な真実はなんだろう？」
 
