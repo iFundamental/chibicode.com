@@ -7,7 +7,7 @@ og_image_width: 1400
 og_image_height: 933
 ---
 
-シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社に技術者として入社してから3年が経ちました。よい区切りなので、ぼくは教育の専門家ではないですが、教育について考えたことを書き連ねてみました。
+シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社に技術者として入社してから3年が経ちました。よい区切りなので、ぼくは教育の専門家ではありませんが、教育について考えたことを書き連ねてみました。
 
 <figure>
   <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/edsurge-group.jpg" data-action="zoom" />
