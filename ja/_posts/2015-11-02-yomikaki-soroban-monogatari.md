@@ -657,7 +657,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 [![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/zero-to-one.jpg)](http://www.amazon.co.jp/ebook/dp/B00NQ3QONK?tag=chibicode-22)
 
-### 賛成する人がほとんどいない、大切な真実はなんだろう？
+「賛成する人がほとんどいない、大切な真実はなんだろう？」
 
 シリコンバレー随一の投資家・ピーター・ティール氏は、著書「[Zero to One](http://www.amazon.co.jp/ebook/dp/B00NQ3QONK?tag=chibicode-22)」の冒頭で、そんな問いを投げかけていた。Paypalの創業社長であり、のちにFacebook初の外部投資家になったティール氏は、人材や会社の良し悪しを見極めるために、この質問を訊いていたようだ。
 
@@ -812,7 +812,7 @@ Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.
 > つまり「独占」について<br>
 > 十分に理解されていないということです。
 
-### 賛成する人がほとんどいない、大切な真実はなんだろう？
+「賛成する人がほとんどいない、大切な真実はなんだろう？」
 
 もし、「教育分野」に限定してこの質問をされたら、ぼくはこう答えるだろう。
 
