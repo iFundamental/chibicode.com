@@ -38,6 +38,8 @@ RebuildにはAftershowという、いわゆる「B面」の収録があり、本
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a>: ちなみに <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> ep. 114で話したアルパカのぬいぐるみはこちらです。<a href="https://t.co/2O0Fcr4WUe">https://t.co/2O0Fcr4WUe</a> <a href="https://t.co/XrANedbOed">https://t.co/XrANedbOed</a> <a href="https://t.co/t5LnvHg9yH">pic.twitter.com/t5LnvHg9yH</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/658784786362732544">October 26, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">山登っての帰りに <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> の <a href="https://twitter.com/chibicode">@chibicode</a> さんの回聴いてたのだけど、かなりおもしろかった。ぜんぜん異なるものごとの間の関連性を見出すのが上手な人の話は楽しい</p>&mdash; Motohiro Takayama (@mootoh) <a href="https://twitter.com/mootoh/status/661871540506464256">November 4, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> は荒んだ僕の心を癒してくれる。。</p>&mdash; Ogihara Ryo (@OgiharaRyo) <a href="https://twitter.com/OgiharaRyo/status/658590031699820544">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> :114 プログラミング・ブートキャンプの話おどろき。「かつてのMBAみたいなノリで」っていう位置づけも不意を打たれた感じ。プログラマーの価値って、なんでそんなに上がり傾向なんだろう？自分もプログラマーだけど、理解できないトレンド。</p>&mdash; Taiga Tsutsumi (@nowavailable_tw) <a href="https://twitter.com/nowavailable_tw/status/658648224631160833">October 26, 2015</a></blockquote>
