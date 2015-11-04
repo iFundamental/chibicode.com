@@ -575,6 +575,11 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 > インドネシアやメキシコにはICTルームというのがあって、タブレットやPCがあります。教師の人材不足の中で、ネットを使って子どもたちに最高の教材を使わせたい、という危機感が強いのだと思います。(中略) その辺は実は日本より進んでいるかもしれません。
 
+<figure>
+  <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/indonesia.jpg" />
+  <figcaption>(<a href="http://jp.techcrunch.com/2015/07/03/recruit-acquired-quipper-for-4-8-billion-yen/">画像ソース</a>)</figcaption>
+</figure>
+
 世界レベルの教育を受けることで人生が変わる度合いは、先進国よりも途上国の子たちのほうが大きいだろう。シリコンバレーで途上国からの移民2世・3世が[活躍している姿を見ると](http://www.inc.com/magazine/201502/adam-bluestein/the-most-entrepreneurial-group-in-america-wasnt-born-in-america.html)、そう思わざるを得ない。
 
 そして、教師の人材不足が深刻な途上国では、まさにエドテックが教育の質のカギを握っているのだ。
@@ -586,6 +591,11 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 もうひとつの例は、いま米国で流行っている、社会人向けのプログラミングブートキャンプ(塾)である。
 
 ブートキャンプでは、プログラミング初心者の社会人に短期間(3ヶ月ほど)のプログラミング集中講座が行われ、生徒は卒業後、IT企業で即戦力として活躍していく。現在アメリカには[60校以上のブートキャンプ](https://www.edsurge.com/news/2015-06-08-with-over-16-000-graduates-coding-bootcamps-continue-to-stack-up)があり、[2015年には全米で1万6000人](https://www.edsurge.com/news/2015-06-08-with-over-16-000-graduates-coding-bootcamps-continue-to-stack-up)がいずれかのブートキャンプを卒業するらしい。
+
+<figure>
+  <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/hackreactor.jpg" />
+  <figcaption>(<a href="http://www.hackreactor.com/blog/ionic-framework-developers-lead-workshop-on-cross-platform-mobile-development-at-hack-reactor">画像ソース</a>)</figcaption>
+</figure>
 
 ブートキャンプがこれだけ流行っている理由はいくつかある。
 
