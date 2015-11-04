@@ -501,9 +501,9 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 ### 「人生を変える教育」の極端な例: ビリギャル
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">おはよん♡今年のハロウィン、私の中で仮装最優秀賞は間違いなくこれ。STORYS.JPの清瀬さん（笑）チームビリギャルの一員の方です♡Facebookで見て思わず保存。電車で声出して笑いました。さすがすぎる！！！！ <a href="https://t.co/zS3SpPTcK1">pic.twitter.com/zS3SpPTcK1</a></p>&mdash; 石川恋 (@renreeeen_) <a href="https://twitter.com/renreeeen_/status/660578760605888513">October 31, 2015</a></blockquote>
-
 日本では最近、「[学年ビリのギャルが1年で偏差値を40上げて慶應大学に現役合格した話](http://www.amazon.co.jp/16-ebook/dp/B00HEB8KFK?tag=chibicode-22)」という本が[累計100万部のベストセラー](http://www.asahi.com/and_M/information/pressrelease/CATP20154589.html)になり、[映画化](http://birigal-movie.jp/)もされた。内容を手短に言うと、勉強ができないギャルの高校生が、坪田信貴さんという名塾講師(本の著者)に出会い、猛勉強の結果、慶応大学に合格するという典型的なサクセスストーリー(実話)である。
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">おはよん♡今年のハロウィン、私の中で仮装最優秀賞は間違いなくこれ。STORYS.JPの清瀬さん（笑）チームビリギャルの一員の方です♡Facebookで見て思わず保存。電車で声出して笑いました。さすがすぎる！！！！ <a href="https://t.co/zS3SpPTcK1">pic.twitter.com/zS3SpPTcK1</a></p>&mdash; 石川恋 (@renreeeen_) <a href="https://twitter.com/renreeeen_/status/660578760605888513">October 31, 2015</a></blockquote>
 
 ぼくは映画は観てないが、この記事を書くためだけに、[本は最後まで読んだ](https://instagram.com/p/9Fue_NCbUO/?taken-by=chibicode)。坪田さんの鼻につく表現が多く、それのせいで良い話が台無しになっていて、久しぶりに「読んで時間を無駄にした」と思える本だった。
 
