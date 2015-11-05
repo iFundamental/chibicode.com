@@ -47,6 +47,8 @@ og_image_height: 933
 
 この記事では引用が多くなってしまったので、文中にある「{% include ysm-fnl.html %}」の記号をクリックすると引用元が表示される仕組みを作りました。(「あとで読む」アプリでは表示されないかもしれません)
 
+![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/rekishi.png)
+
 <a id="1"></a>
 ## 1 / 厚切り教育論と、アメリカ今昔物語
 
@@ -271,6 +273,8 @@ og_image_height: 933
 こうして、半世紀以上続いた「新しい教育」ブームは、一夜にして終焉を迎えた。アメリカの教育史はその後、今も続く[教育格差問題](https://en.wikipedia.org/wiki/Educational_inequality)を中心に据えて歩むこととなる。
 
 ただ、「新しい教育」の影響は現場から完全には消えず、日本ほどの詰め込み教育が施行されるには至らなかった。だから、厚切りジェイソン氏が言う「周りと合わせろ」的な同調圧力も、今のアメリカの学校では日本に比べて小さいのかもしれない。とはいえこの差は、日米の文化的な違いが大部分を占めているのかもしれないが。
+
+![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/kousatsu.png)
 
 <a id="10"></a>
 ## 10 / 「新しい教育」の日米比較 — 職業教育について
