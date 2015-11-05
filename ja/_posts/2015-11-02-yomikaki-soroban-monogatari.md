@@ -47,6 +47,8 @@ og_image_height: 933
 
 この記事では引用が多くなってしまったので、文中にある「{% include ysm-fnl.html %}」の記号をクリックすると引用元が表示される仕組みを作りました。(「あとで読む」アプリでは表示されないかもしれません)
 
+<br><br>
+
 ![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/rekishi.png)
 
 <a id="1"></a>
