@@ -124,11 +124,11 @@ title: "葛藤続きの教育十字軍・その1 / 教育とカネの話"
 
 ---
 
-1: 筆者が住むカリフォルニア州では、1978年に固定資産税の増幅幅が抑制される法律が[通ってしまった](http://bit.ly/15hc9YB)。結果どうなったかというと、人口が増えて物件の資産価値が上がっても[税収が増えず](http://bit.ly/17XNrxD)、人口増に苦しむ学校にリソースを割けなくなった。<br
-2: [ジム・クロウ法](https://ja.wikipedia.org/wiki/ジム・クロウ法)を参考に。<br
-3: 復員兵援護法について、日本語では[こちらのリンクが詳しい](http://voicejapan2.heteml.jp/janjan/living/0910/0910191892/1.php)。<br
-4: 復員兵で大学に進学したのは、97%が男性だった。<br
-5: ちなみに、カトリック教者は当時の[全人口の2割](https://en.wikipedia.org/wiki/Historical_religious_demographics_of_the_United_States)。<br
+1: 筆者が住むカリフォルニア州では、1978年に固定資産税の増幅幅が抑制される法律が[通ってしまった](http://bit.ly/15hc9YB)。結果どうなったかというと、人口が増えて物件の資産価値が上がっても[税収が増えず](http://bit.ly/17XNrxD)、人口増に苦しむ学校にリソースを割けなくなった。<br>
+2: [ジム・クロウ法](https://ja.wikipedia.org/wiki/ジム・クロウ法)を参考に。<br>
+3: 復員兵援護法について、日本語では[こちらのリンクが詳しい](http://voicejapan2.heteml.jp/janjan/living/0910/0910191892/1.php)。<br>
+4: 復員兵で大学に進学したのは、97%が男性だった。<br>
+5: ちなみに、カトリック教者は当時の[全人口の2割](https://en.wikipedia.org/wiki/Historical_religious_demographics_of_the_United_States)。
 
 ---
 
