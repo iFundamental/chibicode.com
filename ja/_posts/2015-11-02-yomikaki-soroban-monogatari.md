@@ -696,7 +696,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 <a id="18"></a>
 ## 18 / おわりに
 
-(話が少し横道に逸れることになる。これが最後の章なので、もう少しばかりお付き合い頂きたい。)
+(話が少し横道に逸れることになる。これが最後の章なので、できればあと数分ほどお付き合い頂きたい。)
 
 [![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/zero-to-one.jpg)](http://www.amazon.co.jp/ebook/dp/B00NQ3QONK?tag=chibicode-22)
 
