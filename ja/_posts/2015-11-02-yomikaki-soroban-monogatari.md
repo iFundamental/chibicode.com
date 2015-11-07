@@ -696,6 +696,8 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 <a id="18"></a>
 ## 18 / おわりに
 
+話が少し横道に逸れることになるが、これが最後の章なのでご勘弁いただきたい。
+
 [![](http://chibicode.com/assets/images/yomikaki-soroban-monogatari/zero-to-one.jpg)](http://www.amazon.co.jp/ebook/dp/B00NQ3QONK?tag=chibicode-22)
 
 「賛成する人がほとんどいない、大切な真実はなんだろう？」
@@ -748,6 +750,8 @@ Zero to Oneは[2015年度の日本ビジネス書大賞を受賞](http://biztai.
 > ということにも興味を覚えた。
 
 ティール氏の「答え」も、糸井さんが非常に読み易い文体で書いている。少し長いし、本を読まれた方にとっては復習になるが、騙されたと思って読んでみてほしい。
+
+いままでの教育の話と何の関係があるのかは、このあとすぐに説明する。
 
 > **ティール:**<br>
 > 多くの人たちは、<br>
