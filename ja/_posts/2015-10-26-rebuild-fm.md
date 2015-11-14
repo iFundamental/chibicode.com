@@ -356,6 +356,14 @@ RebuildにはAftershowという、いわゆる「B面」の収録があり、本
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuild.fmを新しく聴き始めたので暫くはやる気が保たれるだろう。</p>&mdash; やながわ理央 (@yanagawario) <a href="https://twitter.com/yanagawario/status/660055467800948736">October 30, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">おもろいな〜 Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/UFix5eW6V9">https://t.co/UFix5eW6V9</a></p>&mdash; TANIGUCHI Fumitake (@noplans) <a href="https://twitter.com/noplans/status/664338382286229504">November 11, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/ovrmrw">@ovrmrw</a> rebuild.fm 聴いてたら、Redux っていう Flux 実装が出てきたりしてて、盛り上がってるクラスタはあるようですね。<a href="https://t.co/U23jGlCy0b">https://t.co/U23jGlCy0b</a></p>&mdash; けん (@ken_zookie) <a href="https://twitter.com/ken_zookie/status/662282185039175684">November 5, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">あとrebuild.fmの114聞いてReduxの読み方をリダックスにあらためた。リドゥックスって読んでた。</p>&mdash; MIKAMI Yoshiyuki (@yoshuki) <a href="https://twitter.com/yoshuki/status/661819358969098240">November 4, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Rebuild.fmで、アルパカがインターネット中立性のシンボル…と言われてたけど、Rebuildのゲスト繋がりで、日本ではシュタインズゲートのねんどろいどが、Web業界アニオタのシンボルとして広まり、日本のWeb系会社の入り口に飾られ、打合せではアニメ談議が捗る…とか妄想した。</p>&mdash; kunai (@kunai_) <a href="https://twitter.com/kunai_/status/664602866816933888">November 12, 2015</a></blockquote>
+
 ### Aftershowのツイート魚拓
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ソイレントのchangelogの話、面白い <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Yutaka Fukui (@yutakafukui) <a href="https://twitter.com/yutakafukui/status/660006733935284229">October 30, 2015</a></blockquote>
@@ -407,3 +415,5 @@ RebuildにはAftershowという、いわゆる「B面」の収録があり、本
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">ソイレント試してみたい</p>&mdash; あべちゃん (@takashabe) <a href="https://twitter.com/takashabe/status/660805607960670209">November 1, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild.fm。ソイレントのバージョン管理の話面白い</p>&mdash; ひらしー (@y05_net) <a href="https://twitter.com/y05_net/status/661069284412514304">November 2, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">早よウォズがジョブズにコード書けない癖に！って言うシーン観たくなった。Rebuild: Aftershow 114: Literally Dogfooding (Shu Uesugi) <a href="https://t.co/qgzOVXqWSJ">https://t.co/qgzOVXqWSJ</a></p>&mdash; さとしお (@satoshihirose) <a href="https://twitter.com/satoshihirose/status/662930996719808513">November 7, 2015</a></blockquote>
