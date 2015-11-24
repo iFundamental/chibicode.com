@@ -7,6 +7,8 @@ markdown: redcarpet
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
+gems:
+  - jekyll-sitemap
 
 exclude:
   - "README.md"
