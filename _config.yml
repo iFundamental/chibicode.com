@@ -18,6 +18,7 @@ exclude:
   - "node_modules"
   - "package.json"
   - "webpack.config.js"
+  - "webpack.hot.config.js"
   - "bs-config.js"
   - "Procfile"
 defaults:
