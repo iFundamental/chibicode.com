@@ -1,5 +1,5 @@
 ---
-title: 読み書きそろばん物語・「新しい教育」の話をしよう
+title: 「新しい教育」の話をしよう
 featured: true
 very_popular: true
 date: 2015-11-02
