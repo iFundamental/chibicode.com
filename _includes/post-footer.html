@@ -1,11 +1,11 @@
 <div class="clearfix">
   <div class="left mr1">
-    <img src="{{ site.data.meta.author.image_url }}" width="75" alt="{{ site.data.meta.author.name }}" data-action="zoom" class="circle">
+    <img src="{{ site.data.author.image_url }}" width="75" alt="{{ site.data.author.name }}" data-action="zoom" class="circle">
   </div>
   <div class="overflow-hidden">
     {% if page.categories contains "en" %}
       <h4 class="mt0">
-        {{ site.data.meta.author.name}}
+        {{ site.data.author.name}}
       </h4>
       {% capture md %}{% include author-bio.md %}{% endcapture %}{{ md | markdownify }}
       <p>
@@ -13,7 +13,7 @@
       </p>
     {% else %}
       <h4 class="mt0">
-        {{ site.data.meta.author.ja_name}}
+        {{ site.data.author.ja_name}}
       </h4>
       <div class="body--ja">
         {% capture md %}{% include author-bio-jp.md %}{% endcapture %}{{ md | markdownify }}

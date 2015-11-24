@@ -2,7 +2,7 @@
   "private": true,
   "postinstall": "bundle install",
   "scripts": {
-    "jekyll": "jekyll serve -w --drafts",
+    "jekyll": "bundle exec jekyll serve -w --drafts",
     "webpack-server": "$(npm bin)/webpack-dev-server --port 8787 --config webpack.hot.config.js --content-base _site --hot",
     "browsersync": "sleep 3 && $(npm bin)/browser-sync --config bs-config.js start",
     "start": "npm run jekyll & npm run webpack-server & npm run browsersync"

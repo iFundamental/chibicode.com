@@ -1,6 +1,6 @@
 {% capture bio_string %}{% include author-bio.md %}{% endcapture %}
 {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ bio_string | markdownify | strip_html | strip_newlines }}{% endif %}{% endcapture %}
-{% capture title %}{% if page.title %}{{ page.title }}{% else %}{{ site.data.meta.site_title }}{% endif %}{% endcapture %}
+{% capture title %}{% if page.title %}{{ page.title }}{% else %}{% if page.categories contains "ja" %}{{ site.data.author.ja_name}}{% else %}{{ site.data.author.name}}{% endif %}{% endif %}{% endcapture %}
 {% capture url %}{{ site.github.url }}{{ page.url | remove:'index.html' }}{% endcapture %}
 {% capture og_image %}http://www.chibicode.com/assets/images/shu-uesugi-og.jpg{% endcapture %}
 {% if page.og_image %}{% capture og_image %}{{ page.og_image }}{% endcapture %}{% endif %}
@@ -21,7 +21,7 @@
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ title | xml_escape }}" />
-<meta name="twitter:creator" content="@{{ site.data.meta.author.twitter_user_name }}">
+<meta name="twitter:creator" content="@{{ site.data.author.twitter_user_name }}">
 <meta name="twitter:description" content="{{ description | xml_escape }}" />
 <meta name="twitter:text:description" content="{{ description | xml_escape }}" />
 <meta name="twitter:url" content="{{ url }}" />
