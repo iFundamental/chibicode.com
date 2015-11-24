@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <section>
   <div class="clearfix mxn2">
     <div class="sm-col sm-col-6 px2 mt2">
@@ -59,91 +60,8 @@ layout: default
     </div>
   </div>
 </section>
-<div class="py2 sm-show" id="j"></div>
-<section>
-  <div class="clearfix mxn2">
-    <div class="sm-col sm-col-6 px2 mt2">
-      <img src="/assets/images/shu-uesugi-2.jpg" alt="{{ site.data.author.ja_name}}" data-action="zoom" class="rounded">
-    </div>
-    <div class="sm-col sm-col-6 px2 py2">
-      <h1 class="mt0 h3">
-        {{ site.data.author.ja_name}}
-      </h1>
-      <div class="body--ja">
-        {% capture bio_string %}{% include author-bio-jp.md %}{% endcapture %}
-        {{ bio_string | markdownify }}
-        <p>
-          最近の日本語ツイートはこちら ↓
-        </p>
-      </div>
-      {% capture twitter_attrs %}
-        {% unless site.data.featured_tweet_ja.card %}
-          data-cards="hidden"
-        {% endunless %}
-        {% unless site.data.featured_tweet_ja.conversation %}
-          data-conversation="none"
-        {% endunless %}
-      {% endcapture %}
-      <blockquote class="twitter-tweet" {{ twitter_attrs }}><a href="https://twitter.com/chibicode/status/{{ site.data.featured_tweet_ja.id }}"></a></blockquote>
-    </div>
-  </div>
-</section>
-<div class="py2 sm-show"></div>
-<section>
-  <div class="clearfix mxn2">
-    <div class="sm-col sm-col-6 px2 py2">
-      <h3 class="mt0 h4 heading--ja">
-        最も読まれた記事
-      </h3>
-      <ul class="list-reset mb3">
-        {% for post in site.categories["ja"] %}
-          {% unless post.draft %}
-            {% if post.featured  %}
-              {% if post.very_popular %}
-                {% include post-list-item.html %}
-              {% endif %}
-            {% endif %}
-          {% endunless %}
-        {% endfor %}
-      </ul>
-      <h3 class="mt0 h4 heading--ja">
-        そこそこ読まれた記事
-      </h3>
-      <ul class="list-reset mb3">
-        {% for post in site.categories["ja"] %}
-          {% unless post.draft %}
-            {% if post.featured %}
-              {% unless post.very_popular %}
-                {% include post-list-item.html %}
-              {% endunless %}
-            {% endif %}
-          {% endunless %}
-        {% endfor %}
-      </ul>
-      <h3 class="mt0 h4 heading--ja">
-        その他の記事
-      </h3>
-      <ul class="list-reset mb0">
-        {% for post in site.categories["ja"] %}
-          {% unless post.draft %}
-            {% unless post.featured %}
-              {% include post-list-item.html %}
-            {% endunless %}
-          {% endunless %}
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="sm-col sm-col-6 px2 py2">
-      <h3 class="mt0 mb2 h4 heading--ja">
-        Facebookの投稿など
-      </h3>
-      <div class="mb2">
-        <div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200095587732267" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200095587732267"><p>&#x6559;&#x80b2;&#x306b;&#x3064;&#x3044;&#x3066;&#x30d6;&#x30ed;&#x30b0;&#x3092;&#x66f8;&#x304d;&#x307e;&#x3057;&#x305f;&#x3002;&#x7ffb;&#x8a33;&#x3067;&#x306a;&#x3044;&#x9577;&#x6587;&#x8a18;&#x4e8b;&#x306f;&#x3072;&#x3055;&#x3073;&#x3055;&#x306b;&#x66f8;&#x3044;&#x305f;&#x304b;&#x3082;&#x3057;&#x308c;&#x307e;&#x305b;&#x3093;&#x3002;&#x6587;&#x5b57;&#x6570;&#x6570;&#x3048;&#x305f;&#x3089;&#x7d04;2&#x4e07;8000&#x6587;&#x5b57;&#x3001;&#x539f;&#x7a3f;&#x7528;&#x7d19;70&#x679a;&#x5206;&#x3042;&#x3063;&#x305f;&#x3002;&#x305d;&#x308c;&#x3068;&#x3001;12&#x6708;&#x306b;&#x95a2;&#x6771;&#x306b;&#x4e00;&#x6642;&#x5e30;&#x56fd;&#x3057;&#x307e;&#x3059;&#x3002;&#x81ea;&#x7531;&#x6642;&#x9593;&#x3092;&#x53d6;&#x308b;&#x306e;&#x304c;&#x53b3;&#x3057;&#x305d;&#x3046;&#x306a;&#x306e;&#x3067;&#x3001;&#x4f1a;&#x3063;&#x3066;&#x3082;&#x3044;&#x3044;&#x3088;&#xff01;&#x3068;&#x3044;&#x3046;&#x65b9;&#x306f;&#x4eca;&#x306e;&#x3046;&#x3061;&#x306b;&#x30b3;&#x30e1;&#x30f3;&#x30c8;&#x304a;&#x9858;&#x3044;&#x3057;&#x307e;&#x3059;&#xff01;(&#x8ffd;&#x8a18;) &#x30e1;&#x30c3;&#x30bb;&#x30fc;&#x30b8;&#x7121;&#x3057;&#x306e;&#x53cb;&#x9054;&#x30ea;&#x30af;&#x30a8;&#x30b9;&#x30c8;&#x306f;&#x3054;&#x9060;&#x616e;&#x304f;&#x3060;&#x3055;&#x3044;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200095587732267">Sunday, November 1, 2015</a></blockquote></div></div>
-      </div>
-      <div class="mb2">
-        <div class="fb-post" data-href="https://www.facebook.com/shu/posts/4961241948654" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/4961241948654"><p>&#x3053;&#x306e;&#x305f;&#x3073;&#x3001;&#x30b7;&#x30ea;&#x30b3;&#x30f3;&#x30d0;&#x30ec;&#x30fc;&#x3092;&#x8a2a;&#x308c;&#x3066;&#x304f;&#x308c;&#x305f;&#x65e5;&#x672c;&#x4eba;&#x5b66;&#x751f;&#x5411;&#x3051;&#x306b;&#x300c;#&#x5730;&#x7344;&#x306e;&#x30b5;&#x30f3;&#x30d5;&#x30e9;&#x30f3;&#x30b7;&#x30b9;&#x30b3;&#x300d;&#x3068;&#x984c;&#x3057;&#x305f;&#x8b1b;&#x6f14;&#x3092;&#x884c;&#x3044;&#x307e;&#x3057;&#x305f;&#x3002;&#x8b1b;&#x6f14;&#x306f;1&#x6642;&#x9593;&#x307b;&#x3069;&#x3067;&#x3001;&#x5185;&#x5bb9;&#x306f;&#x30b5;&#x30f3;&#x30d5;&#x30e9;&#x30f3;&#x30b7;&#x30b9;&#x30b3;&#x306e;&#x9ad8;&#x9a30;&#x3059;&#x308b;&#x5bb6;&#x8cc3;&#x306b;&#x3064;&#x3044;&#x3066;&#x3067;&#x3059;&#x3002;&#x30b9;&#x30e9;&#x30a4;&#x30c9;&#x3068;&#x52d5;&#x753b;&#x3092;&#x30a2;&#x30c3;&#x30d7;&#x3057;&#x305f;&#x306e;&#x3067;&#x8f09;&#x305b;&#x3066;&#x304a;&#x304d;&#x307e;&#x3059;&#x3002;&#x5b66;&#x751f;&#x306e;&#x307f;&#x306a;&#x3055;&#x307e;&#x3001;&#x9060;&#x3044;&#x3068;&#x3053;&#x308d;&#x307e;&#x3067;&#x304a;&#x8d8a;&#x3057;&#x3044;&#x305f;&#x3060;&#x3044;&#x3066;&#x3042;&#x308a;&#x304c;&#x3068;&#x3046;&#x3054;&#x3056;&#x3044;&#x307e;&#x3057;&#x305f;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/4961241948654">Wednesday, September 23, 2015</a></blockquote></div></div>
-      </div>
-    </div>
-  </div>
-</section>
-<div class="py2 sm-show"></div>
+<div class="py3"></div>
+<h1 class="h2 mt0 mb1">
+  <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none">{{ site.data.author.ja_name }}</a>
+</h1>
+{% include jp-top.html %}

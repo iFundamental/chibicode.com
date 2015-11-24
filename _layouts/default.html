@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend:site.baseurl }}">
     <!-- <link rel="canonical" href="{{ site.github.url }}{{ page.url | remove:'index.html' }}/"> -->
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{% if page.categories contains "ja" %}{{ site.data.author.ja_name}}{% else %}{{ site.data.author.name}}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{% include title.html %}</title>
     {% include head.html %}
     {% unless site.github %}
       <script>
@@ -20,15 +20,17 @@
     <div class="container px2 py2">
       <header>
         <h1 class="mt1 mb1 h2 {% if page.is_post %}mx-auto lg-col-7 md-col-8 sm-col-9 muted{% endif %}">
-          <a href="{{ "/" | prepend:site.baseurl }}" class="black td-none">
-            {% if page.categories contains "ja" %}{{ site.data.author.ja_name}}{% else %}{{ site.data.author.name}}{% endif %}
-          </a>
+          <a href="{% if page.categories contains "ja" %}{{ "/jp" | prepend:site.baseurl }}{% else %}{{ "/" | prepend:site.baseurl }}{% endif %}" class="black td-none">{% include title.html %}</a>
         </h1>
       </header>
       {{ content }}
       <section class="py3 center border-top muted">
-        <a href="{{ "/" | prepend:site.baseurl }}" class="td-none bold">{% if page.categories contains "ja" %}{{ site.data.author.ja_name}}{% else %}{{ site.data.author.name}}{% endif %}</a>
+        <a href="{% if page.categories contains "ja" %}{{ "/jp" | prepend:site.baseurl }}{% else %}{{ "/" | prepend:site.baseurl }}{% endif %}" class="bold td-none">{% include title.html %}</a>
         <span class="muted">&middot;</span>
+        {% if page.categories contains "ja" %}
+          <a href="{{ "/" | prepend:site.baseurl }}" class="td-none">英語ページ</a>
+          <span class="muted">&middot;</span>
+        {% endif %}
         <a href="mailto:shu@chibicode.com" class="td-none">shu@chibicode.com</a>
         <span class="muted">&middot;</span>
         <a href="http://twitter.com/chibicode" class="td-none">@chibicode</a>
