@@ -1,4 +1,4 @@
-{% capture bio_string %}{% include author-bio.md %}{% endcapture %}
+{% capture bio_string %}{% if page.categories contains "ja" %}{% include author-bio-jp.md %}{% else %}{% include author-bio.md %}{% endif %}{% endcapture %}
 {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ bio_string | markdownify | strip_html | strip_newlines }}{% endif %}{% endcapture %}
 {% capture title %}{% if page.title %}{{ page.title }}{% else %}{% include title.html %}{% endif %}{% endcapture %}
 {% capture url %}{{ site.github.url }}{{ page.url | remove:'index.html' }}{% endcapture %}
