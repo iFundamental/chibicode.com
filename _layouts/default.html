@@ -29,8 +29,10 @@
         <span class="muted">&middot;</span>
         {% if page.categories contains "ja" %}
           <a href="{{ "/" | prepend:site.baseurl }}" class="td-none">英語ページ</a>
-          <span class="muted">&middot;</span>
+        {% else %}
+          <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none">Japanese Posts</a>
         {% endif %}
+        <span class="muted">&middot;</span>
         <a href="mailto:shu@chibicode.com" class="td-none">shu@chibicode.com</a>
         <span class="muted">&middot;</span>
         <a href="http://twitter.com/chibicode" class="td-none">@chibicode</a>
