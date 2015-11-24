@@ -8,7 +8,8 @@
         {% capture bio_string %}{% include author-bio-jp.md %}{% endcapture %}
         {{ bio_string | markdownify }}
         <p>
-          最近の日本語ツイートはこちら ↓
+          {% if page.show_en_callout %}
+            英語でも記事を書いています。<a href="{{ "/" | prepend:site.baseurl }}" class="inline--ja">こちらからどうぞ</a>。{% endif %}最近の日本語ツイートはこちら ↓
         </p>
       </div>
       {% capture twitter_attrs %}
