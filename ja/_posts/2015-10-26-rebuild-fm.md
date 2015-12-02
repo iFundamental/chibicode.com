@@ -42,6 +42,8 @@ RebuildにはAftershowという、いわゆる「B面」の収録があり、本
 
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr"><a href="https://t.co/3i6yzznCBp">https://t.co/3i6yzznCBp</a> 上杉周作さん<a href="https://twitter.com/chibicode">@chibicode</a>の回のrebuild.fmりっすんなう。おもしろいw ただangular使ってることにちょっと不安になったw</p>&mdash; Kayoko (@kayoko_coco) <a href="https://twitter.com/kayoko_coco/status/662642377132130307">November 6, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">rebuild.fm聞いて、このプレゼン読んだ。ふおおお。是非読むとおもしろいと思う！／<a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3?src=hash">#地獄のサンフランシスコ</a> - 講演のスライドと動画 <a href="https://t.co/BGLWliC91f">https://t.co/BGLWliC91f</a> <a href="https://twitter.com/chibicode">@chibicode</a>さんから</p>&mdash; ぼへぼへ (@bohebohechan) <a href="https://twitter.com/bohebohechan/status/671496313247129600">December 1, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> は荒んだ僕の心を癒してくれる。。</p>&mdash; Ogihara Ryo (@OgiharaRyo) <a href="https://twitter.com/OgiharaRyo/status/658590031699820544">October 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> :114 プログラミング・ブートキャンプの話おどろき。「かつてのMBAみたいなノリで」っていう位置づけも不意を打たれた感じ。プログラマーの価値って、なんでそんなに上がり傾向なんだろう？自分もプログラマーだけど、理解できないトレンド。</p>&mdash; Taiga Tsutsumi (@nowavailable_tw) <a href="https://twitter.com/nowavailable_tw/status/658648224631160833">October 26, 2015</a></blockquote>
