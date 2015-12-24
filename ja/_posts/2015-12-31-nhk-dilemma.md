@@ -83,6 +83,8 @@ N◯K・Eテレがやっている、日本の社会問題について語る「[�
 
 前置きがとても長くなってしまい、ダブルでごめんなさい。以下、ぼくが収録前に用意したノートの内容です。ぼくの番組での発言内容とはあまり被らないので、番組を見る前にこれらを読んでもネタバレにはならないと思います。
 
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">集合写真です。 小池さんがいないのが残念 <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://t.co/c5ub0vtZgk">https://t.co/c5ub0vtZgk</a> <a href="https://t.co/nIwWyCNi1m">pic.twitter.com/nIwWyCNi1m</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/675849643452841984">December 13, 2015</a></blockquote>
+
 ---
 
 ![経済競争](/assets/images/nhk-dilemma/notes.001.png)
@@ -96,5 +98,3 @@ N◯K・Eテレがやっている、日本の社会問題について語る「[�
 ![人工知能](/assets/images/nhk-dilemma/notes.003.png)
 
 ---
-
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">集合写真です。 小池さんがいないのが残念 <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://t.co/c5ub0vtZgk">https://t.co/c5ub0vtZgk</a> <a href="https://t.co/nIwWyCNi1m">pic.twitter.com/nIwWyCNi1m</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/675849643452841984">December 13, 2015</a></blockquote>
