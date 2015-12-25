@@ -228,7 +228,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ヤラセかどうかは実際にあなたが見て判断してほしいが、ぼくにとっては非常に興味深かった。
 
-パリのテロに関しては、VICEがISISへの潜入取材をしているのだが、その中でもISISの子どもが言っていたことが最も興味深かった。
+パリのテロに関しては、Youtubeのドキュメンタリーメディア・[VICE](https://www.youtube.com/user/VICEjpch)がISISへの潜入取材をしているのだが、その中でもISISの子どもが言っていたことが心に刺さった。
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/8Uc7Nk7BOSA" frameborder="0" allowfullscreen></iframe>
 
