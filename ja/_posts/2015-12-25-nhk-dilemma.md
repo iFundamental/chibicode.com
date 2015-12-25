@@ -303,3 +303,11 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 番組のツイッターアカウントはこちらです。
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">早いもので・・次回の放送は、2016年元日SP！10名（11名？）の論客と200名のオーディエンスによる年に一度の大討論、ご期待下さい。2016年1月1日元日、いつもより1時間早い、よる11時からの放送です！<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/670633306476576768">November 28, 2015</a></blockquote>
+
+<h3>ぼくのソーシャルメディア投稿</h3>
+
+Facebookに投稿しました。
+
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200165603562619" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200165603562619"><p>&#x30e1;&#x30ea;&#x30fc;&#x30af;&#x30ea;&#x30b9;&#x30de;&#x30b9;&#x3067;&#x3059;&#x3002;NHK&#x30fb;E&#x30c6;&#x30ec;&#x300e;&#x30cb;&#x30c3;&#x30dd;&#x30f3;&#x306e;&#x30b8;&#x30ec;&#x30f3;&#x30de;&#x300f;&#x5143;&#x65e6;&#x30b9;&#x30da;&#x30b7;&#x30e3;&#x30eb;&#x653e;&#x6620;&#x307e;&#x3067;&#x3042;&#x3068;&#x4e00;&#x9031;&#x9593;&#x3068;&#x306a;&#x308a;&#x3001;&#x756a;&#x7d44;&#x5ba3;&#x4f1d;&#x306e;&#x305f;&#x3081;&#x306b;&#x30d6;&#x30ed;&#x30b0;&#x3092;&#x66f8;&#x304d;&#x307e;&#x3057;&#x305f;&#x3002;&#x6012;&#x3089;&#x308c;&#x305d;&#x3046;&#x306a;&#x30bf;&#x30a4;&#x30c8;&#x30eb;&#x3067;&#x3059;&#x304c;&#x3001;&#x5185;&#x5bb9;&#x306f;&#x771f;&#x9762;&#x76ee;&#x3067;&#x3059;&#x3002;&#x653e;&#x9001;&#x306f;&#x5143;&#x65e6;&#x591c;11pm/NHK&#x3067;&#x3059;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200165603562619">Friday, December 25, 2015</a></blockquote></div></div><br><br>
+
+Twitterにも投稿しました。
