@@ -180,7 +180,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 ### 12 — ただ、シリコンバレーの受験競争は、精神を消耗するほど厳しいらしい
 
 - シリコンバレーの中心地にある高校は高学歴の親の子が集まるため、「良い大学に行かなければ」というプレッシャーが強いらしい。
-- 地域トップの公立高校2校の過去10年間の自殺率は、[全米平均の4~5倍](http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/)。スタンフォード大学の隣にある名門高校では、8人に1人が、過去1年間に「自殺を真剣に考えたことがある」と[解答した](http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/)。
+- シリコンバレーのトップ公立高校2校において、過去10年間の自殺率は、[全米平均の4~5倍](http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/)だった。また、スタンフォード大学の隣にある名門高校では、8人に1人が、過去1年間に「自殺を真剣に考えたことがある」と[解答した](http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/)。
 
 ### 13 — しかし、子どもに競争を避けさせると、助け合うことを嫌うようになる
 
