@@ -23,11 +23,11 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ![](/assets/images/nhk-dilemma/dilemma-web.jpg)
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">【2016元日SP】論客⑤上杉周作さん（アメリカ西海岸在住エンジニア・1988年生まれ）日本とアメリカ育ち。不定期ブロガーとしても活躍中。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a>　《上杉編予告動画はこちら！》<a href="https://t.co/IFbb8CIgCW">https://t.co/IFbb8CIgCW</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/672762344477364224">December 4, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">【2016元日SP】論客⑤上杉周作さん（アメリカ西海岸在住エンジニア・1988年生まれ）日本とアメリカ育ち。不定期ブロガーとしても活躍中。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a>　《上杉編予告動画はこちら！》<a href="https://t.co/IFbb8CIgCW">https://t.co/IFbb8CIgCW</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/672762344477364224">December 4, 2015</a></blockquote>
 
 収録は12月中旬、渋谷のNHKスタジオパークで行われたのだが、収録前、気がついたら現実逃避していた。
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">これから収録ですが渋谷ついてヤル気なくなってきたのでマルキューに退避しました <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://t.co/68T5xuXP2D">pic.twitter.com/68T5xuXP2D</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/675495738856476672">December 12, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">これから収録ですが渋谷ついてヤル気なくなってきたのでマルキューに退避しました <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://t.co/68T5xuXP2D">pic.twitter.com/68T5xuXP2D</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/675495738856476672">December 12, 2015</a></blockquote>
 
 渋谷のマルキュー(メンズ)での、チャラそうなスタッフとの会話。
 
@@ -74,7 +74,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 断言しますが、収録中に「こんなにまとまりがなくて大丈夫か」と不安になるくらい、「ニッポンのジレンマ」のヤラセ要素はゼロでした。
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">集合写真です。 小池さんがいないのが残念 <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://t.co/c5ub0vtZgk">https://t.co/c5ub0vtZgk</a> <a href="https://t.co/nIwWyCNi1m">pic.twitter.com/nIwWyCNi1m</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/675849643452841984">December 13, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">集合写真です。 小池さんがいないのが残念 <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://t.co/c5ub0vtZgk">https://t.co/c5ub0vtZgk</a> <a href="https://t.co/nIwWyCNi1m">pic.twitter.com/nIwWyCNi1m</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/675849643452841984">December 13, 2015</a></blockquote>
 
 では「カンペに書かれていたこと」と題したこの記事はいわゆる「タイトル詐欺」なのかというと、そうではありません。
 
@@ -305,7 +305,7 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 番組のツイッターアカウントはこちらです。
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">早いもので・・次回の放送は、2016年元日SP！10名（11名？）の論客と200名のオーディエンスによる年に一度の大討論、ご期待下さい。2016年1月1日元日、いつもより1時間早い、よる11時からの放送です！<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/670633306476576768">November 28, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">早いもので・・次回の放送は、2016年元日SP！10名（11名？）の論客と200名のオーディエンスによる年に一度の大討論、ご期待下さい。2016年1月1日元日、いつもより1時間早い、よる11時からの放送です！<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/670633306476576768">November 28, 2015</a></blockquote>
 
 <h3>ぼくのソーシャルメディア投稿</h3>
 
@@ -315,6 +315,6 @@ Facebookに投稿しました。
 
 Twitterにも投稿しました。
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">メリクリです。NHK・Eテレ『<a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ニッポンのジレンマ</a>』元旦スペシャル放映まであと一週間となり、番組宣伝のためにブログを書きました。タイトルはアレですが、内容は真面目です。放送は元旦夜11pm/NHKです。<a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680363172402839552">December 25, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="ja" data-cards="hidden"><p lang="ja" dir="ltr">メリクリです。NHK・Eテレ『<a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ニッポンのジレンマ</a>』元旦スペシャル放映まであと一週間となり、番組宣伝のためにブログを書きました。タイトルはアレですが、内容は真面目です。放送は元旦夜11pm/NHKです。<a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680363172402839552">December 25, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">「ニッポンのジレンマ」元旦スペシャルに出たとき、カンペに書かれていたこと <a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> via <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680364083355361280">December 25, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="ja"><p lang="ja" dir="ltr">「ニッポンのジレンマ」元旦スペシャルに出たとき、カンペに書かれていたこと <a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> via <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680364083355361280">December 25, 2015</a></blockquote>
