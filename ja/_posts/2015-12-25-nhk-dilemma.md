@@ -267,16 +267,16 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 #### 学習中の「理解度」ではなく、「気持ち」を認知する
 
-<figure>
-  <img src="http://chibicode.com/assets/images/nhk-dilemma/snowboard.jpg" />
-  <figcaption>ワイオミング州のスキーリゾートにて。</figcaption>
-</figure>
-
 アダプティブラーニングは次の10年間で大きな進歩を遂げるだろうが、ぼくは個人的に、「『学習中の理解度』ではなく、『学習中の気持ち』を認知する」人工知能に期待している。
 
 2015年夏、ぼくはとある[プログラミングのチュートリアル](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)を英語で書いたのだが、それが世界的なギークコミュニティーのHacker Newsで[週間1位の記事](https://www.instagram.com/p/494Rx7ibe0/)になり、掲載後の24時間に世界で[5万人](https://www.instagram.com/p/48q1RWCbbY/?taken-by=chibicode)に読んでもらった。
 
 なぜバズったかは分からないが、チュートリアルを書く際、ぼくはできるだけ読者の気持ちを代弁するようにしていた。「ここは面倒ですよね」とか、「ここは何か変ですよね」とか、「ここは複雑で、ここはシンプルですよね」とか。それの積み重ねが人気を呼んだのかもしれないとぼくは思っている。
+
+<figure>
+  <img src="http://chibicode.com/assets/images/nhk-dilemma/snowboard.jpg" />
+  <figcaption>ワイオミング州のスキーリゾートにて。</figcaption>
+</figure>
 
 「[頭とからだで覚える](http://www.amazon.co.jp/Head-First-Java-第2版-―頭とからだで覚えるJavaの基本/dp/4873112796?tag=chibicode-22)」シリーズを考案した、伝説的なプログラミング教師、キャシー・シエラさんは、[2015年に発売された著書](http://www.amazon.co.jp/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18?tag=chibicode-22)で以下のように語っている(意訳)。
 
