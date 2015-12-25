@@ -316,3 +316,5 @@ Facebookに投稿しました。
 Twitterにも投稿しました。
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">メリクリです。NHK・Eテレ『<a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ニッポンのジレンマ</a>』元旦スペシャル放映まであと一週間となり、番組宣伝のためにブログを書きました。タイトルはアレですが、内容は真面目です。放送は元旦夜11pm/NHKです。<a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680363172402839552">December 25, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">「ニッポンのジレンマ」元旦スペシャルに出たとき、カンペに書かれていたこと <a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> via <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680364083355361280">December 25, 2015</a></blockquote>
