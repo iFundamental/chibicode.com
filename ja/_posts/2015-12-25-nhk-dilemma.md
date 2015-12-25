@@ -21,7 +21,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 さらに2016年の「ジレンマ」特番は、出演者的にもまずい。なぜなら何かの間違いで、ぼくが呼ばれてしまったからだ。(他の論客は、みなすばらしい方々である。)
 
-![](/assets/images/nhk-dilemma/dilemma-web.jpg)
+![](http://chibicode.com/assets/images/nhk-dilemma/dilemma-web.jpg)
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">【2016元日SP】論客⑤上杉周作さん（アメリカ西海岸在住エンジニア・1988年生まれ）日本とアメリカ育ち。不定期ブロガーとしても活躍中。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a>　《上杉編予告動画はこちら！》<a href="https://t.co/IFbb8CIgCW">https://t.co/IFbb8CIgCW</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/672762344477364224">December 4, 2015</a></blockquote>
 
@@ -43,7 +43,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 ## カンペに書かれていたこと
 
 <figure>
-  <img src="/assets/images/nhk-dilemma/paper.jpg" />
+  <img src="http://chibicode.com/assets/images/nhk-dilemma/paper.jpg" />
   <figcaption>テレビ業界などでは「巻きで」は「急いで終わらせてください」という意味。</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ## ごめんなさい
 
-![](/assets/images/nhk-dilemma/paper2.jpg)
+![](http://chibicode.com/assets/images/nhk-dilemma/paper2.jpg)
 
 ↑に書いたことはぜんぶ下手な冗談です。もちろんのことながら、番組側が用意したカンペは一切ありませんでした。6時間の収録に付き合ってくれた、200名に及ぶオーディエンスの皆様が証人です。
 
@@ -96,7 +96,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ---
 
-![経済競争](/assets/images/nhk-dilemma/notes.001.png)
+![経済競争](http://chibicode.com/assets/images/nhk-dilemma/notes.001.png)
 
 ### 1 — スタートアップが死ぬ理由は競争に負けたからではない
 
@@ -202,7 +202,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ---
 
-![国際情勢](/assets/images/nhk-dilemma/notes.002.png)
+![国際情勢](http://chibicode.com/assets/images/nhk-dilemma/notes.002.png)
 
 ### 15 — 子どもの声を聞こう
 
@@ -226,7 +226,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ほかにも、2015年にアメリカ最高裁で合憲とされた同性婚についてYoutubeで検索すると、動画のトップ3は「同性婚についての、子どもたちの意見」の動画である。
 
-![](/assets/images/nhk-dilemma/gay-marriage.png)
+![](http://chibicode.com/assets/images/nhk-dilemma/gay-marriage.png)
 
 ヤラセかどうかは実際にあなたが見て判断してほしいが、ぼくにとっては非常に興味深かった。
 
@@ -255,7 +255,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ---
 
-![人工知能](/assets/images/nhk-dilemma/notes.003.png)
+![人工知能](http://chibicode.com/assets/images/nhk-dilemma/notes.003.png)
 
 ### 16 — アダプティブラーニングの向こう側
 
@@ -266,6 +266,11 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 2015年には、アダプティブラーニング業界で先をゆくKnewton社が、ベネッセ・ソフトバンクの合弁教育ベンチャーと[提携したりしている](http://itpro.nikkeibp.co.jp/atclact/activer/nkpr/RSP390887_08072015/)。
 
 #### 学習中の「理解度」ではなく、「気持ち」を認知する
+
+<figure>
+  <img src="http://chibicode.com/assets/images/nhk-dilemma/snowboard.jpg" />
+  <figcaption>ワイオミング州のスキーリゾートにて。</figcaption>
+</figure>
 
 アダプティブラーニングは次の10年間で大きな進歩を遂げるだろうが、ぼくは個人的に、「『学習中の理解度』ではなく、『学習中の気持ち』を認知する」人工知能に期待している。
 
