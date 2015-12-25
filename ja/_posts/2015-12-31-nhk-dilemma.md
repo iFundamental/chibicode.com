@@ -2,7 +2,6 @@
 title: 「ニッポンのジレンマ」元旦スペシャルに出たとき、カンペに書かれていたこと
 featured: true
 very_popular: true
-draft: true
 og_image: "http://f.cl.ly/items/340S1x1q3G421V0H390z/paper2.jpg"
 og_image_width: 1136
 og_image_height: 640
