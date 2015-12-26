@@ -210,6 +210,8 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 そんな中で、教育業界に関わっているぼくが唯一何か言えるとしたら、「子どものを声を聞いてみてはどうか」ということだ。
 
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">I expect they will have more to say tomorrow, but Ahmed&#39;s sister asked me to share this photo. A NASA shirt! <a href="http://t.co/nR4gt992gB">pic.twitter.com/nR4gt992gB</a></p>&mdash; Anil Dash (@anildash) <a href="https://twitter.com/anildash/status/644020453724585984">September 16, 2015</a></blockquote>
+
 イスラム関連で言うと、2015年9月。米テキサス州に住む14歳のイスラム教徒の少年・アーメド君が、自作のデジタル時計を高校に持って行ったところ、爆弾と勘違いされて逮捕される[事件が起きた](http://www.asahi.com/articles/ASH9K2C1RH9KUHBI008.html)。
 
 この件は「イスラム差別だ」とネットで炎上し、オバマ大統領は「ホワイトハウスにそのクールな時計を持ってきなよ」と[ツイート](https://twitter.com/POTUS/status/644193755814342656)。ザッカーバーグ氏も「[Facebookオフィスに遊びに来なよ](https://www.facebook.com/zuck/posts/10102373304096361)」と投稿し、ツイッター社も「[インターンにおいでよ](https://twitter.com/twitter/status/644261776146632704)」とツイートした。
