@@ -23,7 +23,10 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 さらに2016年の「ジレンマ」特番は、出演者的にもまずい。なぜなら何かの間違いで、ぼくが呼ばれてしまったからだ。(他の論客は、みなすばらしい方々である。)
 
-![](http://chibicode.com/assets/images/nhk-dilemma/dilemma-web.jpg)
+<figure>
+  <img src="http://chibicode.com/assets/images/nhk-dilemma/dilemma-web.jpg" />
+  <figcaption>番組のサイトは<a href="http://www.nhk.or.jp/jirenma/">こちら</a>。</figcaption>
+</figure>
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">【2016元日SP】論客⑤上杉周作さん（アメリカ西海岸在住エンジニア・1988年生まれ）日本とアメリカ育ち。不定期ブロガーとしても活躍中。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a>　《上杉編予告動画はこちら！》<a href="https://t.co/IFbb8CIgCW">https://t.co/IFbb8CIgCW</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/672762344477364224">December 4, 2015</a></blockquote>
 
@@ -108,11 +111,12 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 - ぼくもシリコンバレーのスタートアップ何社かで働いたが、創業者同士のトラブルは確かに目にしたことがあり、それゆえぼくはグレアム氏と同意見である。
 - ビジネスの競争が最も激しいとされているシリコンバレーで、「競争相手を見るな」というアドバイスは面白い。
 
-### 2 — 実力主義を信奉するのは危険
+### 2 — 完全な実力主義社会など存在しない
 
 - 人材の流動性が高いシリコンバレーは実力主義のイメージが強いが、仮にそうだとすると、次のデータはどう説明すればいいのか。
 - (1)シリコンバレーのトップ企業の管理職は78%が男性、(2)エンジニアは85%が男性、(3)取締役レベルだと89%が男性、(4)CEOレベルだと93%が男性、(5)ベンチャー投資家だと96%が男性。([ソース](https://medium.com/diversify-tech/i-m-a-white-guy-in-silicon-valley-and-i-m-done-buying-the-meritocracy-myth-2cc0ef9f9b60#.qijotcscq))
 - 「シリコンバレー = 実力が全ての世界」とするのであれば、このデータからは「男性の実力 > 女性の実力」と結論付けるしかない。だが実際には、シリコンバレーは男社会で(日本ほどではないが)、女性はキャリア面でハンデを負っている。
+- 社会的に恵まれている人たちの中でも、実力主義を宗教のように信じている人たちは、実力の劣る人たちを見て「努力不足だ」と蔑むことはしても、その後ろにある社会の不平等に気付かないことが多い気がする。あくまでぼくの偏見だが。
 - 完全な実力主義社会など存在しないことを、忘れてはいけない。
 
 ### 3 — 失敗に対する社会の態度、三段階
