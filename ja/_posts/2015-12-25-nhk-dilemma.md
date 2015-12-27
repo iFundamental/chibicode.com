@@ -280,9 +280,9 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 アダプティブラーニングは次の10年間で大きな進歩を遂げるだろうが、ぼくは個人的に、「『学習中の理解度』ではなく、『学習中の気持ち』を認知する」人工知能に期待している。
 
-2015年夏、ぼくはとある[プログラミングのチュートリアル](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)を英語で書いたのだが、それが世界的なギークコミュニティーのHacker Newsで[週間1位の記事](https://www.instagram.com/p/494Rx7ibe0/)になり、掲載後の24時間以内に世界中で[5万人](https://www.instagram.com/p/48q1RWCbbY/?taken-by=chibicode)に読んでもらった。
+2015年夏、ぼくはとある[プログラミングの入門記事](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)を英語で書いたのだが、それが世界的なギークコミュニティーのHacker Newsで[週間1位の記事](https://www.instagram.com/p/494Rx7ibe0/)になり、掲載後の24時間以内に世界中で[5万人](https://www.instagram.com/p/48q1RWCbbY/?taken-by=chibicode)に読んでもらった。
 
-なぜバズったかは分からないが、チュートリアルを書く際、ぼくはできるだけ読者の気持ちを代弁するようにしていた。「ここは面倒ですよね」とか、「ここは何か変ですよね」とか、「ここは複雑で、ここはシンプルですよね」とか。それの積み重ねが人気を呼んだのかもしれないとぼくは思っている。
+なぜバズったかは分からないが、入門記事を書く際、ぼくはできるだけ学習者の気持ちを代弁するようにしていた。「ここは面倒ですよね」とか、「ここは何か変ですよね」とか、「ここは複雑で、ここはシンプルですよね」とか。それの積み重ねが人気を呼んだのかもしれないとぼくは思っている。
 
 <figure>
   <img src="http://chibicode.com/assets/images/nhk-dilemma/snowboard.jpg" />
