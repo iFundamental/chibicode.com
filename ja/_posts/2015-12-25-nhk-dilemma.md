@@ -349,7 +349,7 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">早いもので・・次回の放送は、2016年元日SP！10名（11名？）の論客と200名のオーディエンスによる年に一度の大討論、ご期待下さい。2016年1月1日元日、いつもより1時間早い、よる11時からの放送です！<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/670633306476576768">November 28, 2015</a></blockquote>
 
-<h3>ぼくのソーシャルメディア投稿</h3>
+<h2>ぼくのソーシャルメディア投稿</h2>
 
 Facebookに投稿しました。
 
