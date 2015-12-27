@@ -2,6 +2,8 @@
 title: "ビジネス・イン・ジャパン"
 featured: true
 very_popular: true
+next_recommend_url: "http://chibicode.com/voice-exit"
+next_recommend_title: "Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話"
 list_item_comment: "3万ページビューを超えた翻訳記事です。"
 ---
 
