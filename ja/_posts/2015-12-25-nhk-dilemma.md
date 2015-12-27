@@ -5,6 +5,8 @@ very_popular: true
 og_image: "http://f.cl.ly/items/340S1x1q3G421V0H390z/paper2.jpg"
 og_image_width: 1136
 og_image_height: 640
+next_recommend_url: "http://chibicode.com/yomikaki-soroban-monogatari"
+next_recommend_title: "「新しい教育」の話をしよう"
 ---
 
 赤坂で焼き鳥を食べていたとき、政府機関で働く友人が言った言葉。

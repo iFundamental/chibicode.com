@@ -6,6 +6,8 @@ date: 2015-11-02
 og_image: "http://f.cl.ly/items/0U28220y0L2I2g113X12/edsurge-group.jpg"
 og_image_width: 1400
 og_image_height: 933
+next_recommend_url: "http://chibicode.com/sf-hell"
+next_recommend_title: "#地獄のサンフランシスコ - 講演のスライドと動画"
 ---
 
 シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社に技術者として入社してから3年が経ちました。よい区切りなので、ぼくは教育の専門家ではありませんが、教育について考えたことを書き連ねてみました。
@@ -549,7 +551,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 <figure>
   <img src="http://chibicode.com/assets/images/yomikaki-soroban-monogatari/takuya-shu.jpg" />
   <figcaption>左が琢也くん。2015年5月、彼の卒業パーティーにて。</figcaption>
-</figure>  
+</figure>
 
 中立的な意見でなくて申し訳ないが、「バカヤンキー」は「ビリギャル」より遥かに良い本だと思う。ビリギャルと違い、琢也くん本人が書いていることも大きい。とくに、社会人になって「もっと学生のころに勉強していれば良かった」と思う方に読んで欲しい。([購入リンクはこちら](http://www.amazon.co.jp/ebook/dp/B014KQHCUU?tag=chibicode-22)。)
 

@@ -20,6 +20,11 @@
         <p>
           ほかにも{{ site.categories["ja"] | size | minus:1 }}件の記事があります。<a href="{{ "/jp" | prepend:site.baseurl }}">こちらからどうぞ</a>。
         </p>
+        {% if page.next_recommend_url %}
+        <p>
+          次に読むのにおすすめは、<a href="{{ page.next_recommend_url }}" class="bold">{{ page.next_recommend_title }}</a>という記事です。
+        </p>
+        {% endif %}
       </div>
     {% endif %}
 </div>
