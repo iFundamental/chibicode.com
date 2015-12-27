@@ -26,11 +26,9 @@
       {{ content }}
       <section class="py3 center border-top muted">
         <a href="{% if page.categories contains "ja" %}{{ "/jp" | prepend:site.baseurl }}{% else %}{{ "/" | prepend:site.baseurl }}{% endif %}" class="bold td-none">{% include title.html %}</a>
-        <span class="muted">&middot;</span>
         {% if page.categories contains "ja" %}
+          <span class="muted">&middot;</span>
           <a href="{{ "/" | prepend:site.baseurl }}" class="td-none">英語ページ</a>
-        {% else %}
-          <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none">Japanese Posts</a>
         {% endif %}
         <span class="muted">&middot;</span>
         <a href="mailto:shu@chibicode.com" class="td-none">shu@chibicode.com</a>
@@ -38,6 +36,8 @@
         <a href="http://twitter.com/chibicode" class="td-none">@chibicode</a>
         <span class="muted">&middot;</span>
         <a href="http://creativecommons.org/licenses/by-sa/4.0/" class="td-none">CC BY-SA</a>
+        <span class="muted">&middot;</span>
+        Photos by <a href="http://www.leahmoriyama.com/">Leah Moriyama</a>
       </section>
     </div>
     <script>
