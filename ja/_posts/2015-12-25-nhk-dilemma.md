@@ -7,6 +7,7 @@ og_image_width: 1136
 og_image_height: 640
 next_recommend_url: "http://chibicode.com/yomikaki-soroban-monogatari"
 next_recommend_title: "「新しい教育」の話をしよう"
+list_item_comment: "「はてなブックマーク」への登録が最も多かった記事です。"
 ---
 
 赤坂で焼き鳥を食べていたとき、政府機関で働く友人が言った言葉。

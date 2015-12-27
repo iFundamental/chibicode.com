@@ -2,6 +2,7 @@
 title: "ビジネス・イン・ジャパン"
 featured: true
 very_popular: true
+list_item_comment: "3万ページビューを超えた翻訳記事です。"
 ---
 
 この記事はPatrick McKenzieさんが2014年11月7日に投稿された[Doing Business in Japan](http://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)という記事の和訳である。世界的なギークコミュニティーのHacker Newsでは異例の[800ポイント以上を獲得](https://news.ycombinator.com/item?id=8573992&utm_term=comment)したが、[はてブを見る限り](http://b.hatena.ne.jp/entry/www.kalzumeus.com/2014/11/07/doing-business-in-japan/)日本では殆ど読まれていないようなので、日本語の練習がてら翻訳することにした。むろん[Patrickさんの承諾は得ているし](https://twitter.com/patio11/status/533789680567726080)、彼は日本語も堪能なので、一通り拙訳にも目を通してもらった。

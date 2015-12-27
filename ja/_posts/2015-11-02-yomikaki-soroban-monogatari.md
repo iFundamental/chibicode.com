@@ -8,6 +8,7 @@ og_image_width: 1400
 og_image_height: 933
 next_recommend_url: "http://chibicode.com/sf-hell"
 next_recommend_title: "#地獄のサンフランシスコ - 講演のスライドと動画"
+list_item_comment: "書くのに最も苦労した記事です。"
 ---
 
 シリコンバレーの教育ベンチャー・[EdSurge](http://edsurge.com/)社に技術者として入社してから3年が経ちました。よい区切りなので、ぼくは教育の専門家ではありませんが、教育について考えたことを書き連ねてみました。

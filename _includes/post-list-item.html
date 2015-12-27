@@ -13,5 +13,12 @@
   </a>
   <br>
   <small class="muted">
-    {{ post.date | date_to_string }}</small>
+    {{ post.date | date_to_string }}
+  </small>
+  {% if post.list_item_comment %}
+  <br>
+  <small class="muted">
+    {{ post.list_item_comment }}
+  </small>
+  {% endif %}
 </li>

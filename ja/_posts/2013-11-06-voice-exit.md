@@ -3,6 +3,7 @@ title: "Yコンビネーター主催のイベントに参加してから、「�
 date: 2013-11-06
 featured: true
 very_popular: true
+list_item_comment: "当ブログの人気が出るきっかけとなった記事です。"
 ---
 
 「シリコンバレー最強のスタートアップ養成スクール」と[呼ばれる](http://goo.gl/an4vrr)Yコンビネーター。彼らが主催する起業志望者向けの[講演イベント](http://startupschool.org/)に、ぼくは先月参加してきた。
