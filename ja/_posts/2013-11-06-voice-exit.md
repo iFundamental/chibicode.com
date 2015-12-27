@@ -5,7 +5,7 @@ featured: true
 very_popular: true
 next_recommend_url: "http://chibicode.com/nhk-dilemma"
 next_recommend_title: "「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと"
-list_item_comment: "当ブログの人気が出るきっかけとなった記事です。"
+list_item_comment: "2013年に最も多く読まれました。"
 ---
 
 「シリコンバレー最強のスタートアップ養成スクール」と[呼ばれる](http://goo.gl/an4vrr)Yコンビネーター。彼らが主催する起業志望者向けの[講演イベント](http://startupschool.org/)に、ぼくは先月参加してきた。
