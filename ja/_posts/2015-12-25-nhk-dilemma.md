@@ -279,9 +279,9 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
   <figcaption>Dreamboxを利用している子どもの様子。画像ソースは<a href="https://www.youtube.com/watch?v=5V-BT-5eiyk">この動画</a>。Dreamboxの教育者向けセミナー動画は<a href="https://www.youtube.com/watch?v=wDgo_NQwXuU">こちら</a>。</figcaption>
 </figure>
 
-教育のIT化が進んでいるアメリカでは、すでにアダプティブラーニング教材が学校で使われている。中学2年生までの算数・数学のアダプティブラーニング教材を提供する[Dreambox](http://www.dreambox.com/)は、150万人の生徒と7万5000人の先生が[利用している](http://www.dreambox.com/press-releases/dreambox-learning-secures-10-million-in-series-b-funding)。
+教育のIT化が進んでいるアメリカでは、すでにアダプティブラーニング教材が学校で使われている。中学2年生までの算数・数学のアダプティブラーニング教材を提供する[Dreambox](http://www.dreambox.com/)は、2015年時点で150万人の生徒と7万5000人の先生が[利用している](http://www.dreambox.com/press-releases/dreambox-learning-secures-10-million-in-series-b-funding)。
 
-また2015年には、同じくアダプティブラーニング業界で先をゆく[Knewton](https://www.knewton.com/)社が日本展開のため、ベネッセ・ソフトバンクの合弁教育ベンチャーと[提携したりしている](http://itpro.nikkeibp.co.jp/atclact/activer/nkpr/RSP390887_08072015/)。
+また2015年には、同じくアダプティブラーニング業界で先をゆく米[Knewton](https://www.knewton.com/)社が、ベネッセ・ソフトバンクの合弁教育ベンチャーと日本展開のため[提携したりしている](http://itpro.nikkeibp.co.jp/atclact/activer/nkpr/RSP390887_08072015/)。
 
 #### 学習中の「理解度」ではなく、「気持ち」を認知する
 
