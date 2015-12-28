@@ -332,7 +332,14 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 はい、全くもってその通りなのですが、前半を適当に流したのには理由があります。
 
-アメリカではSnapchatという、遊び心たっぷりの写真・動画メッセージアプリが大流行していて、[毎日1億人](http://mashable.com/2015/11/10/snapchat-tech-valuations/)が利用し、現在の企業価値は[1.5兆円](http://mashable.com/2015/11/10/snapchat-tech-valuations/)を超えています。そんな絶好調なSnapchatの社長・スピーゲル氏(25歳)が、[とあるインタビュー](http://www.businessinsider.com/evan-spiegel-at-cannes-lions-2015-6)で言ったことが、ぼく的に2015年で最も衝撃を受けた名言だったので、共有します。
+アメリカではSnapchatという、遊び心たっぷりの写真・動画メッセージアプリが大流行していて、[毎日1億人](http://mashable.com/2015/11/10/snapchat-tech-valuations/)が利用し、現在の企業価値は[1.5兆円](http://mashable.com/2015/11/10/snapchat-tech-valuations/)を超えています。
+
+<figure>
+  <img src="http://chibicode.com/assets/images/nhk-dilemma/spiegel.jpg" />
+  <figcaption>25歳のビリオネア・スピーゲル氏。スタンフォード大学在学中に起業。(<a href="https://www.yahoo.com/style/most-fashionable-techie-ever-snapchat-1276513986355254.html">画像ソース</a>)</figcaption>
+</figure>
+
+そんな絶好調なSnapchatの社長・スピーゲル氏(25歳)が、[とあるインタビュー](http://www.businessinsider.com/evan-spiegel-at-cannes-lions-2015-6)で言ったことが、ぼく的に2015年で最も衝撃を受けた名言だったので、共有します。
 
 > In tech in particular, everyone is so serious all the time, and has these grand visions.
 >
