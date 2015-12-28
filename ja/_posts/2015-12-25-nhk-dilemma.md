@@ -380,7 +380,7 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 <p><iframe width="1280" height="720" src="https://www.youtube.com/embed/6fiMTF1C7RU" frameborder="0" allowfullscreen></iframe></p>
 
-<h2>ぼくのソーシャルメディア投稿</h2>
+<h2>ソーシャルメディア</h2>
 
 Facebookに投稿しました。
 
@@ -389,3 +389,7 @@ Facebookに投稿しました。
 Twitterにも投稿しました。
 
 <blockquote class="twitter-tweet" lang="ja" data-cards="hidden"><p lang="ja" dir="ltr">メリクリです。NHK・Eテレ『<a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ニッポンのジレンマ</a>』元日スペシャル放映まであと一週間となり、番組宣伝のためにブログを書きました。タイトルはアレですが、内容は真面目です。放送は元日夜11pm/NHKです。<a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680363172402839552">December 25, 2015</a></blockquote>
+
+著名ジャーナリスト・佐々木俊尚さんの投稿が多くリツイートされました。感謝です。
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">後半の「経済競争」という緑の見出し以降が、これからの社会のあり方を的確に予測していてめちゃめちゃ面白くてタメになります。／「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと <a href="https://t.co/2x1HKXXMtE">https://t.co/2x1HKXXMtE</a></p>&mdash; 佐々木俊尚 (@sasakitoshinao) <a href="https://twitter.com/sasakitoshinao/status/681251752189030400">December 27, 2015</a></blockquote>
