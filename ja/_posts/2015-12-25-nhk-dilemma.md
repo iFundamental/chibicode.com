@@ -360,6 +360,16 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 番組のサイトは[www.nhk.or.jp/jirenma/](http://www.nhk.or.jp/jirenma/)です。
 
+<h2>予告動画</h2>
+
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/KGq3tRWYhTM" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/n-XkKBcU1lk" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/NSYPbS1PzE8" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/6fiMTF1C7RU" frameborder="0" allowfullscreen></iframe></p>
+
 <h2>ぼくのソーシャルメディア投稿</h2>
 
 Facebookに投稿しました。
