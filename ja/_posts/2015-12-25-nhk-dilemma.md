@@ -336,7 +336,7 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 <figure>
   <img src="http://chibicode.com/assets/images/nhk-dilemma/spiegel.jpg" />
-  <figcaption>25歳のビリオネア・スピーゲル氏。スタンフォード大学在学中に起業。(<a href="https://www.yahoo.com/style/most-fashionable-techie-ever-snapchat-1276513986355254.html">画像ソース</a>)</figcaption>
+  <figcaption>25歳のビリオネア、Snapchat CEOのスピーゲル氏。スタンフォード大学在学中に起業。(<a href="https://www.yahoo.com/style/most-fashionable-techie-ever-snapchat-1276513986355254.html">画像ソース</a>)</figcaption>
 </figure>
 
 そんな絶好調なSnapchatの社長・スピーゲル氏(25歳)が、[とあるインタビュー](http://www.businessinsider.com/evan-spiegel-at-cannes-lions-2015-6)で言ったことが、ぼく的に2015年で最も衝撃を受けた名言だったので、共有します。
