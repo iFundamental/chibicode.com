@@ -369,7 +369,7 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 <h2>予告動画</h2>
 
-<p>ハタチのときに買った、Armani Exchangeのシルバーのベルベットジャケットを未だに着ています。</p>
+<p>ハタチのときに無理して買った、Armani Exchangeのシルバーのベルベットジャケットを未だに着ています。</p>
 
 <p><iframe src="//giphy.com/embed/ZjlKamu3nunVS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
 
