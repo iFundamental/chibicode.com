@@ -171,7 +171,7 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 ### 9 — シェアリングエコノミーは競争なのか、それとも共生なのか？その2
 
-- サンフランシスコでは「召使い」サービスが大流行中。誰でもタクシー運転者になれる[Uber](https://www.uber.com/)や[Lyft](http://www.lyft.com)、外食のテイクアウト代行の[Doordash](https://www.doordash.com/)や[Postmates](https://postmates.com/)、スーパーの買い物代行の[Instacart](https://www.instacart.com/)、犬の散歩代行の[Wag!](https://wagwalking.com/)、洗濯代行の[Washio](http://www.getwashio.com/)、何でも代行の[TaskRabbit](https://www.taskrabbit.com/)など。サンフランシスコは「ご主人様と召使いの都」になりつつあり、昔のヨーロッパの封建社会に向かって時間が逆行しているようで滑稽である。
+- サンフランシスコでは「召使い」サービスが大流行中。誰でもタクシー運転者になれる[Uber](https://www.uber.com/)、外食のテイクアウト代行の[Doordash](https://www.doordash.com/)、スーパーの買い物代行の[Instacart](https://www.instacart.com/)、犬の散歩代行の[Wag!](https://wagwalking.com/)、洗濯代行の[Washio](http://www.getwashio.com/)、何でも代行の[TaskRabbit](https://www.taskrabbit.com/)など。サンフランシスコは「ご主人様と召使いの都」になりつつあり、昔のヨーロッパの封建社会に向かって時間が逆行しているようで滑稽である。
 - 俯瞰して見ると、エリート志向のテクノロジー企業で働く「金はあるが時間がない」人たちが、同じように「金はあるが時間がない」人たち向けにサービスを作っているように思える。そのために、「金はないが時間がある」ひとたちを召使いとして使っている。
 - 問題なのは、金持ちは召使いサービスを使えば時間の余裕はできるが、実際に召使いとして働いている人は得られる賃金が低いため、働けど働けど金に余裕ができない点である。
 
