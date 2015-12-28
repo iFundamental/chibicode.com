@@ -362,6 +362,8 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 <h2>予告動画</h2>
 
+<p><iframe src="//giphy.com/embed/ZjlKamu3nunVS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
+
 <h3>1. 本番前舞台裏編</h3>
 
 <p><iframe width="1280" height="720" src="https://www.youtube.com/embed/KGq3tRWYhTM" frameborder="0" allowfullscreen></iframe></p>
