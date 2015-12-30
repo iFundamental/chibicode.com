@@ -372,6 +372,10 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 ぼくも常に真面目すぎる人間なので、これからはもう少し適当なアウトプットを増やそうと思いました。2016年の目標は「志低く」。この記事の前半はその第一歩です。
 
+最後に念のため、NHKの方々はこの記事の宣伝効果をポジティブに受け取って下さったそうです。
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/d_doridori">@d_doridori</a> ご指摘ごもっともです。ぼくも自分はクズだと思っていますが、番組の担当ディレクターの方(名は伏せています)には公開前に確認を取りましたし、またプロデューサーの丸山さんも以下のようなコメントを残して下さりました。 <a href="https://t.co/CbWmLuKJhT">pic.twitter.com/CbWmLuKJhT</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/682088566445314048">December 30, 2015</a></blockquote>
+
 ## 「ニッポンのジレンマ」2016年の元日SPは1月1日夜11時からNHKで
 
 つまり、紅白を見終えたら24時間くらい「チャンネルはそのままで！」ということです。
