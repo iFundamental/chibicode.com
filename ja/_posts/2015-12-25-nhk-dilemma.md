@@ -33,6 +33,22 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">【2016元日SP】論客⑤上杉周作さん（アメリカ西海岸在住エンジニア・1988年生まれ）日本とアメリカ育ち。不定期ブロガーとしても活躍中。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a>　《上杉編予告動画はこちら！》<a href="https://t.co/IFbb8CIgCW">https://t.co/IFbb8CIgCW</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/672762344477364224">December 4, 2015</a></blockquote>
 
+番組紹介:
+
+> 2012年元日「震災の年から希望の年へ」を放送して以来、世代間格差、働き方、この国のカタチなど多様なテーマを多角的に議論してきた「ニッポンのジレンマ」。
+
+> 18歳選挙権が施行され世界が新たな局面に突入しようとする2016年、テーマとするのは「“競争”と“共生”のジレンマ」だ。
+
+> 資本主義の原理「自由な“競争”」と民主主義が目指す「平等な“共生”」の両立は、本当に実現されているのか？
+
+> 年齢制限を1975年以降生まれに変更、新世代の起業家や気鋭の学者らの議論に、 SNSでスタジオ内外から若者たちの声を重ね、ジレンマを乗り越える術を探る。
+
+> <strong>MC</strong>：古市憲寿 (社会学者)、青井実アナウンサー、桑子真帆アナウンサー<br>
+> <strong>論客</strong>：安田洋祐 (経済学者)、堀口美奈 (マルチリンガル)、先崎彰容 (日本思想史研究者)、三浦瑠麗 (国際政治学者)、上杉周作 (元ニート)、佐藤航陽 (メタップス CEO)、
+浦野 幸 (Nicogory CEO)、大澤 聡 (批評家)、蛭間芳樹 (政府系金融機関勤務)、隠岐さや香 (科学技術史研究者)、小池龍之介 (僧侶)
+
+---
+
 収録は12月中旬、渋谷のNHKスタジオパークで行われたのだが、収録前、気がついたら現実逃避していた。
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">これから収録ですが渋谷ついてヤル気なくなってきたのでマルキューに退避しました <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://t.co/68T5xuXP2D">pic.twitter.com/68T5xuXP2D</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/675495738856476672">December 12, 2015</a></blockquote>
