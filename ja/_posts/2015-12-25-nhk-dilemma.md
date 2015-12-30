@@ -374,7 +374,7 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 最後に念のため、NHKの方々はこの記事の宣伝効果をポジティブに受け取って下さりました。
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/d_doridori">@d_doridori</a> ご指摘ごもっともです。ぼくも自分はクズだと思っていますが、番組の担当ディレクターの方(名は伏せています)には公開前に確認を取りましたし、またプロデューサーの丸山さんも以下のようなコメントを残して下さりました。 <a href="https://t.co/CbWmLuKJhT">pic.twitter.com/CbWmLuKJhT</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/682088566445314048">December 30, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en" data-conversation="none"><p lang="ja" dir="ltr"><a href="https://twitter.com/d_doridori">@d_doridori</a> ご指摘ごもっともです。ぼくも自分はクズだと思っていますが、番組の担当ディレクターの方(名は伏せています)には公開前に確認を取りましたし、またプロデューサーの丸山さんも以下のようなコメントを残して下さりました。 <a href="https://t.co/CbWmLuKJhT">pic.twitter.com/CbWmLuKJhT</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/682088566445314048">December 30, 2015</a></blockquote>
 
 「テレビのようなオールド・メディアで働く人たちは、冗談が通じない人たちなんだろう」と決めてかかるほうが、ぼくは失礼だと思っています。
 
