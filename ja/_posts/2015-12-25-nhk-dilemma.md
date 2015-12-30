@@ -380,7 +380,7 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 > ご指摘ごもっともです。ぼくも自分はクズだと思っていますが、番組の担当ディレクターの方(名は伏せています)には公開前に確認を取りましたし (<a href="http://chibicode.com/assets/images/nhk-dilemma/permission.png" target="_blank">スクリーンショット</a>)、またプロデューサーの丸山さんも以下のようなコメントを残して下さりました。
 
-[丸山プロデューサー](http://www.amazon.co.jp/すべての仕事は「肯定」から始まる-丸山俊一/dp/4479794859?tag=chibicode-22)のコメント:
+[丸山プロデューサー](http://www.amazon.co.jp/すべての仕事は「肯定」から始まる-丸山俊一/dp/4479794859?tag=chibicode-22)の公開コメント:
 
 > 上杉さん、ありがとうございます。今度は、いろいろと準備していただいたテーマで、また各論を、ぜひ。「ボケて！」この次は、ちゃんとカンペ出しますから（笑）。(<a href="http://chibicode.com/assets/images/nhk-dilemma/maruyama.png" target="_blank">スクリーンショット</a>)
 
