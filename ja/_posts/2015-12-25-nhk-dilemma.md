@@ -22,13 +22,13 @@ list_item_comment: "2015年に最も多く読まれました。「はてなブ�
 
 ## NHKにようこそ
 
-NHK・Eテレがやっている、日本の社会問題について語る「[ニッポンのジレンマ](http://www.nhk.or.jp/jirenma/)」という番組がある。年にいちど2時間半の特番が組まれるのだけれど、その放送日は、除夜の鐘つきが終わって、みんなが社会問題とかすっかり忘れてしまった後の「元日夜」11pmだ。タイミング的にまずい気がする。
+NHK・Eテレがやっている、日本の社会問題について語る「[ニッポンのジレンマ](http://www.nhk.or.jp/jirenma/20160101.html)」という番組がある。年にいちど2時間半の特番が組まれるのだけれど、その放送日は、除夜の鐘つきが終わって、みんなが社会問題とかすっかり忘れてしまった後の「元日夜」11pmだ。タイミング的にまずい気がする。
 
 さらに2016年の「ジレンマ」特番は、出演者的にもまずい。なぜなら何かの間違いで、ぼくが呼ばれてしまったからだ。(他の論客は、みなすばらしい方々である。)
 
 <figure>
   <img src="http://chibicode.com/assets/images/nhk-dilemma/dilemma-web.jpg" />
-  <figcaption>番組のサイトは<a href="http://www.nhk.or.jp/jirenma/">こちら</a>。</figcaption>
+  <figcaption>番組のサイトは<a href="http://www.nhk.or.jp/jirenma/20160101.html">こちら</a>。</figcaption>
 </figure>
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">【2016元日SP】論客⑤上杉周作さん（アメリカ西海岸在住エンジニア・1988年生まれ）日本とアメリカ育ち。不定期ブロガーとしても活躍中。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a>　《上杉編予告動画はこちら！》<a href="https://t.co/IFbb8CIgCW">https://t.co/IFbb8CIgCW</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/672762344477364224">December 4, 2015</a></blockquote>
@@ -396,7 +396,7 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">先日『ジレンマ2016元日SP』収録にご参加頂いた皆様、ありがとうございました。収録中のツイートは2240を記録。いよいよ放送まで1週間、放送中もぜひ#ジレンマ2016でご参加下さい！Eテレ、元日23時から。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/680402693697867777">December 25, 2015</a></blockquote>
 
-番組のサイトは<a href="http://www.nhk.or.jp/jirenma/">www.nhk.or.jp/jirenma/</a>です。
+番組のサイトは<a href="http://www.nhk.or.jp/jirenma/20160101.html">こちらです</a>。
 
 <h2>予告動画</h2>
 
