@@ -396,7 +396,7 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">先日『ジレンマ2016元日SP』収録にご参加頂いた皆様、ありがとうございました。収録中のツイートは2240を記録。いよいよ放送まで1週間、放送中もぜひ#ジレンマ2016でご参加下さい！Eテレ、元日23時から。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/680402693697867777">December 25, 2015</a></blockquote>
 
-番組のサイトは[www.nhk.or.jp/jirenma/](http://www.nhk.or.jp/jirenma/)です。
+番組のサイトは<a href="http://www.nhk.or.jp/jirenma/">www.nhk.or.jp/jirenma/</a>です。
 
 <h2>予告動画</h2>
 
