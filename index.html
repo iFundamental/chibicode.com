@@ -19,9 +19,8 @@ layout: default
         {% endunless %}
       {% endcapture %}
       <p>
-        For Japanese readers: <a href="{{ "/jp" | prepend:site.baseurl }}" class="inline--ja">日本語の記事はこちらです</a>。
+        <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none"><img src="/assets/images/jp.svg" width="40" class="inline-block align-middle" /></a> <a href="{{ "/jp" | prepend:site.baseurl }}" class="inline--ja" style="font-weight: bold;">日本語ページはこちら</a><span class="bold">。</span>
       </p>
-      <blockquote class="twitter-tweet" {{ twitter_attrs }}><a href="https://twitter.com/chibicode/status/{{ site.data.featured_tweet.id }}"></a></blockquote>
     </div>
   </div>
 </section>
@@ -29,6 +28,12 @@ layout: default
 <section>
   <div class="clearfix mxn2">
     <div class="sm-col sm-col-6 px2 py2">
+      <h3 class="mt0 h4">
+        Featured Tweet
+      </h3>
+      <div class="mb3">
+        <blockquote class="twitter-tweet" {{ twitter_attrs }}><a href="https://twitter.com/chibicode/status/{{ site.data.featured_tweet.id }}"></a></blockquote>
+      </div>
       <h3 class="mt0 h4">
         Featured Posts
       </h3>
