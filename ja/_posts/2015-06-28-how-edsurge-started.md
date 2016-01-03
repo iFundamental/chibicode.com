@@ -3,6 +3,8 @@ title: "もっとも真実に近い文を書こう。とある教育メディア
 featured: true
 very_popular: true
 list_item_comment: "ぼくが働いているEdSurge社の成り立ちについて。"
+next_recommend_url: "http://chibicode.com/3-troubled-crusade-1-5/"
+next_recommend_title: "アメリカの教科書はなぜ重たいのか"
 ---
 
 ![](http://chibicode.com/assets/images/how-edsurge-started/edsurge-logo.png)
