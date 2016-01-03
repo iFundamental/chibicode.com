@@ -2,6 +2,7 @@
 title: "もっとも真実に近い文を書こう。とある教育メディアがシリコンバレーで生まれた話"
 featured: true
 very_popular: true
+list_item_comment: "ぼくが働いているEdSurge社の成り立ちについて。"
 ---
 
 ![](http://chibicode.com/assets/images/how-edsurge-started/edsurge-logo.png)
