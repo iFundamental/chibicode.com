@@ -2,6 +2,7 @@
 title: "アメリカの教科書はなぜ重たいのか"
 featured: true
 very_popular: true
+list_item_comment: "タイトルに反して、日本の教育史の話です。"
 ---
 
 およそ3年前、スティーブ・ジョブズが亡くなった数ヶ月後、アップルは教育関連のイベントを開いた。キメ台詞は「[教科書を再発明する](http://www.itmedia.co.jp/pcuser/articles/1201/20/news017.html)」で、壇上に立ったフィル・シラー氏は「新しいiBooksを使えば、デジタル教科書がiPadで読めます」と自慢気だった。
