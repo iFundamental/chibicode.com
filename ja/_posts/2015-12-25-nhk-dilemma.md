@@ -343,6 +343,8 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 ## ありがとうございました
 
+<p><iframe src="//giphy.com/embed/ZjlKamu3nunVS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
+
 友人が「シリコンバレーはオタクの芸能界」と言っていましたが、そんなシリコンバレーには舞台裏を公開する文化があります。ブログ・勉強会・講演・パネルディスカッション・オープンソースなどを通じ、業界全体の発展のため、各企業がノウハウを惜しみなく共有する文化です。
 
 この記事に書いたことは、テレビに出たぼくの舞台裏です。誰かの役に立てばうれしいです。
@@ -385,38 +387,6 @@ Snapchatは[2015年](http://techcrunch.com/2015/01/28/snaptags/)、友だち追�
 > 上杉さん、ありがとうございます。今度は、いろいろと準備していただいたテーマで、また各論を、ぜひ。「ボケて！」この次は、ちゃんとカンペ出しますから（笑）。(<a href="http://chibicode.com/assets/images/nhk-dilemma/maruyama.png" target="_blank">スクリーンショット</a>)
 
 ぼくは以前、「テレビのようなオールド・メディアで働く人たちは、冗談が通じない人たちなんだろう」と思っていましたが、それは大きな間違いであり、そう思うこと自体、たいへん失礼なことだと痛感しました。
-
-## 「ニッポンのジレンマ」2016年の元日SPは1月1日夜11時からNHK・Eテレで
-
-番組のFacebookページはこちらです。
-
-<div class="fb-post" data-href="https://www.facebook.com/nhkdilemma/posts/782807221823657" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/nhkdilemma/posts/782807221823657"><p>&#x300c;&#x30cb;&#x30c3;&#x30dd;&#x30f3;&#x306e;&#x30b8;&#x30ec;&#x30f3;&#x30de;2016&#x5143;&#x65e5;SP &quot;&#x7af6;&#x4e89;&quot;&#x3068;&quot;&#x5171;&#x751f;&quot;&#x306e;&#x30b8;&#x30ec;&#x30f3;&#x30de;&#x300d;&#x5927;&#x53ce;&#x9332;&#x6628;&#x65e5;&#x7121;&#x4e8b;&#x53ce;&#x9332;&#x3092;&#x7d42;&#x3048;&#x307e;&#x3057;&#x305f;&#x3002;90&#x5206;&#xd7;3&#x30e9;&#x30a6;&#x30f3;&#x30c9;&#x3068;&#x3044;&#x3046;&#x9577;&#x4e01;&#x5834;&#x3002;&#x591a;&#x58eb;&#x6e08;&#x3005;&#x306e;&#x8ad6;&#x5ba2;&#x306e;&#x7686;&#x69d8;&#x3001;&#x53d6;&#x6750;&#x306b;&#x5fdc;&#x3058;&#x3066;&#x304f;&#x3060;&#x3055;&#x3063;&#x305f;&#x5800;&#x6c5f;&#x8cb4;&#x6587;&#x3055;&#x3093;&amp;&#x6c60;&#x5185;&#x6075;&#x3055;&#x3093;&amp;&#x5ddd;&#x4e0a;&#x91cf;&#x751f;&#x3055;&#x3093;&#x3001;&#x305d;&#x3057;&#x3066;200&#x540d;&#x306b;&#x53ca;&#x3076;...</p>Posted by <a href="https://www.facebook.com/nhkdilemma/">『ニッポンのジレンマ』</a> on&nbsp;<a href="https://www.facebook.com/nhkdilemma/posts/782807221823657">Saturday, December 12, 2015</a></blockquote></div></div><br><br>
-
-番組のツイッターアカウントはこちらです。
-
-<blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">先日『ジレンマ2016元日SP』収録にご参加頂いた皆様、ありがとうございました。収録中のツイートは2240を記録。いよいよ放送まで1週間、放送中もぜひ#ジレンマ2016でご参加下さい！Eテレ、元日23時から。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/680402693697867777">December 25, 2015</a></blockquote>
-
-番組のサイトは<a href="http://www.nhk.or.jp/jirenma/20160101.html">こちらです</a>。
-
-<h2>予告動画</h2>
-
-<p><iframe src="//giphy.com/embed/ZjlKamu3nunVS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
-
-<h3>1. 本番前舞台裏編</h3>
-
-<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/KGq3tRWYhTM" frameborder="0" allowfullscreen></iframe></p>
-
-<h3>2. ベーシックインカム編</h3>
-
-<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/n-XkKBcU1lk" frameborder="0" allowfullscreen></iframe></p>
-
-<h3>3. グローバルと宗教編</h3>
-
-<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/NSYPbS1PzE8" frameborder="0" allowfullscreen></iframe></p>
-
-<h3>4. 人工知能と未来編</h3>
-
-<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/6fiMTF1C7RU" frameborder="0" allowfullscreen></iframe></p>
 
 <h2>ソーシャルメディア</h2>
 
