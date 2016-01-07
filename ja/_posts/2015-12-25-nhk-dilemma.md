@@ -31,8 +31,6 @@ NHK・Eテレがやっている、日本の社会問題について語る「[ニ
   <figcaption>番組のサイトは<a href="http://www.nhk.or.jp/jirenma/20160101.html">こちら</a>。</figcaption>
 </figure>
 
-<blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">【2016元日SP】論客⑤上杉周作さん（アメリカ西海岸在住エンジニア・1988年生まれ）日本とアメリカ育ち。不定期ブロガーとしても活躍中。<a href="https://t.co/I7ETa5M1JL">https://t.co/I7ETa5M1JL</a>　《上杉編予告動画はこちら！》<a href="https://t.co/IFbb8CIgCW">https://t.co/IFbb8CIgCW</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; nhk_jirenma (@nhk_jirenma) <a href="https://twitter.com/nhk_jirenma/status/672762344477364224">December 4, 2015</a></blockquote>
-
 番組紹介:
 
 > 2012年元日「震災の年から希望の年へ」を放送して以来、世代間格差、働き方、この国のカタチなど多様なテーマを多角的に議論してきた「ニッポンのジレンマ」。
