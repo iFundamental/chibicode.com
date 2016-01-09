@@ -8,8 +8,8 @@
   --ja-font-family: "游ゴシック体", "Yu Gothic", YuGothic, SF UI Text,Roboto,Helvetica Neue,Helvetica,sans-serif;
   --ja-body-font-weight: 400;
   --body-font-size: 1rem;
-  --black: #212121;
-  --body-color: #414141;
+  --black: #111;
+  --body-color: #333;
   --link-color: #D81B60;
   --border-color: #eee;
   --space-1: .75rem;
@@ -21,6 +21,10 @@
   --heading-font-weight: 600;
   --line-height-ja: 1.8;
   --monospace-font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+body {
+  background-color: #fbfbfb;
 }
 
 body, .regular {
