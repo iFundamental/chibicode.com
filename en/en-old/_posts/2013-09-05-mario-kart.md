@@ -1,6 +1,5 @@
 ---
 title: The Mario Kart Principle of Education
-featured: true
 ---
 
 ![](http://chibicode.com/assets/images/mario-kart/1.jpg)
