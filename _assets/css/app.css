@@ -154,7 +154,7 @@ p img, figure img {
 }
 
 .btn-outline {
-  border-color: --btn-outline-border-color;
+  border-color: var(--btn-outline-border-color);
 }
 
 .btn-outline:hover,
