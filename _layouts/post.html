@@ -12,9 +12,18 @@ layout: default
     </header>
 
     <section class="mb3 js-post-content {% if page.categories contains "ja" %}body--ja{% endif %}">
-      {% if page.ts %}
+      {% if page.ts or page.prev %}
       <p class="p1 bg-darken-1 rounded">
-        This post is written in <a href="http://www.buzzfeed.com/charliewarzel/why-twitters-newest-tweetstormtm-trend-must-be-stopped">Tweetstorm™</a> form.
+        {% if page.ts %}
+          This post is written in <a href="http://www.buzzfeed.com/charliewarzel/why-twitters-newest-tweetstormtm-trend-must-be-stopped">Tweetstorm™</a> form.
+        {% endif %}
+        {% if page.prev %}
+          {% if page.categories contains "ja" %}
+            <a href="{{ page.prev | prepend: "/" | prepend:site.baseurl }}">前の記事はこちら</a>。
+          {% else %}
+            Continued from <a href="{{ page.prev | prepend: "/" | prepend:site.baseurl }}">Previous Article</a>.
+          {% endif %}
+        {% endif %}
       </p>
       {% endif %}
       {{content}}
