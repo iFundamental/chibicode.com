@@ -55,7 +55,7 @@ layout: default
           {% endunless %}
         {% endfor %}
         <li class="mt2">
-          <a href="{{ "/archive" | prepend:site.baseurl }}" class="td-none bold center block p1 rounded btn btn-outline bg-white">View Archive <span class="muted">({{ site.categories["en"] | size }} Posts)</span></a>
+          <a href="{{ "/archive" | prepend:site.baseurl }}" class="td-none bold center block p1 rounded btn btn-outline bg-white">View Archive <span class="muted">({{ site.categories["en"] |  where:"draft",null | size }} Posts)</span></a>
         </li>
       </ul>
     </div>
