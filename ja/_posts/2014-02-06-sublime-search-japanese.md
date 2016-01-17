@@ -137,5 +137,3 @@ Gifアニメーションの作り方ですが、わたしは[ScreenFlow](http://
 最近はReadme.mdなどにもGifアニメーションが使われていますね([使用例](https://github.com/fphilipe/PHFComposeBarView))。下のようにYouTubeビデオの宣伝にも使えます。音声無しの自動再生ができますからね。
 
 ![](http://f.cl.ly/items/2x0g0g3O1n2A180Y3I1s/video.gif)
-
-(動画リンク:[HTMLとCSSを学び始めたばかりの人にオススメの「HTMLスケッチ」](/post/73885599344/html-css-html-by-ellekasai/))
