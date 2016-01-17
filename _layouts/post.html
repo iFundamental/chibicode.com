@@ -9,11 +9,6 @@ layout: default
       <section class="muted mb1">
         <time datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time>
       </section>
-      <section>
-        <!-- NOTE: Do not try to center these buttons via text-align. That was causing a bug on mobile Chrome
-                   where the page size shrinks then enlarges on page load. -->
-        {% include tweet-buttons.html %}
-      </section>
     </header>
 
     <section class="mb3 js-post-content {% if page.categories contains "ja" %}body--ja{% endif %}">
