@@ -151,3 +151,8 @@ p img, figure img {
   margin-right: auto;
   text-align: center;
 }
+
+.btn-outline:hover,
+.btn-outline:active {
+  box-shadow: none;
+}

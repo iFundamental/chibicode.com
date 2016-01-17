@@ -9,7 +9,7 @@
       </h4>
       {% capture md %}{% include author-bio.md %}{% endcapture %}{{ md | markdownify }}
       <p>
-        There are {{ site.categories["en"] | size | minus:1 }} more posts on this blog. <a href="{{ "/" | prepend:site.baseurl }}">You can read them here</a>.
+        There are {{ site.categories["en"] | size | minus:1 }} more posts on this blog. <a href="{{ "/archive" | prepend:site.baseurl }}">You can read them here</a>.
       </p>
     {% else %}
       <h4 class="mt0">
