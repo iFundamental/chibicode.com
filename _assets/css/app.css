@@ -11,6 +11,7 @@
   --black: #111;
   --body-color: #333;
   --link-color: #D81B60;
+  --btn-outline-border-color: #bbb;
   --border-color: #eee;
   --space-1: .75rem;
   --space-2: 1.5rem;
@@ -152,7 +153,12 @@ p img, figure img {
   text-align: center;
 }
 
+.btn-outline {
+  border-color: --btn-outline-border-color;
+}
+
 .btn-outline:hover,
 .btn-outline:active {
+  border-color: currentcolor;
   box-shadow: none;
 }
