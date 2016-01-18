@@ -21,7 +21,7 @@ layout: default
           {% if page.categories contains "ja" %}
             <a href="{{ page.prev | prepend: "/" | prepend:site.baseurl }}">前の記事はこちら</a>。
           {% else %}
-            Continued from <a href="{{ page.prev | prepend: "/" | prepend:site.baseurl }}">Previous Article</a>.
+            Continued from <a href="{{ page.prev | prepend: "/" | prepend:site.baseurl }}">the previous article</a>.
           {% endif %}
         {% endif %}
       </p>
