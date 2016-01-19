@@ -8,9 +8,10 @@ layout: default
       <img src="/assets/images/shu-uesugi.jpg" alt="{{ site.data.author.name}}" data-action="zoom" class="rounded">
     </div>
     <div class="sm-col sm-col-6 px2 py2">
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">メリクリです。NHK・Eテレ『<a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ニッポンのジレンマ</a>』元旦スペシャル放映まであと一週間となり、番組宣伝のためにブログを書きました。タイトルはアレですが、内容は真面目です。放送は元旦夜11pm/NHKです。<a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680363172402839552">December 25, 2015</a></blockquote>
+      {% capture bio_string %}{% include author-bio.md %}{% endcapture %}
+      {{ bio_string | markdownify }}
       <div class="mb2">
-        <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none"><img src="/assets/images/jp.svg" width="30" class="inline-block align-middle" /></a> <a href="{{ "/jp" | prepend:site.baseurl }}" class="inline--ja">日本語はこちら</a> <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none"><img src="/assets/images/jp.svg" width="30" class="inline-block align-middle" /></a>
+        <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none"><img src="/assets/images/jp.svg" width="30" class="inline-block align-middle" /></a> <a href="{{ "/jp" | prepend:site.baseurl }}" class="inline--ja">日本語はこちら</a>
       </div>
       <div>
         <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/chibicode" data-widget-id="687931410464792577"  data-chrome="nofooter" data-height="350">Tweets by @chibicode</a>
@@ -38,11 +39,10 @@ layout: default
         Other Posts
       </h3>
       <ul class="list-reset mb0">
-        {% for post in site.categories["en"] limit:5 %}
-          {% unless post.draft %}
-            {% unless post.featured %}
-              {% include post-list-item.html %}
-            {% endunless %}
+        {% assign posts = (site.categories["en"] | where:"draft",null) %}
+        {% for post in posts limit:5 %}
+          {% unless post.featured %}
+            {% include post-list-item.html %}
           {% endunless %}
         {% endfor %}
         <li class="mt2">
