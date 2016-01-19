@@ -8,5 +8,5 @@ This Tweet inspired me to post the job ads I wrote at [EdSurge](http://edsurge.c
 
 Here we go:
 
-- [EdSurge is Looking for a Software Engineer](https://github.com/chibicode/careers.edsurge.com/blob/gh-pages/_posts/2014-03-10-software-engineer.md)" (Written in Jan 2014)
+- [EdSurge is Looking for a Software Engineer](https://github.com/chibicode/careers.edsurge.com/blob/gh-pages/_posts/2014-03-10-software-engineer.md) (Written in Jan 2014)
 - [EdSurge is Looking for a Rails Engineer with a solid understanding of JavaScript](https://github.com/chibicode/careers.edsurge.com/blob/gh-pages/_posts/2015-08-31-rails-dev.md) (Written in August 2015)
