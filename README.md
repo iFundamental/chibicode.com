@@ -1,8 +1,6 @@
 # [Shu Uesugi's Blog](http://chibicode.com)
 
-![](https://cloud.githubusercontent.com/assets/992008/12419451/0a956e36-be6b-11e5-8ddf-4569bf89d385.jpg)
-
-2015 Copyright Shusaku Uesugi.
+![Shu Uesugi](https://cloud.githubusercontent.com/assets/992008/12419519/8a0135a6-be6b-11e5-963d-6b29f528e7e1.jpg)
 
 ## Installation
 
