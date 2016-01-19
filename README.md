@@ -5,6 +5,11 @@
 ## Installation
 
 ```
+bundle install
 npm install
 npm start
 ```
+
+## More Notes
+
+- After updating CSS/JS, use `webpack -p` before pushing to GitHub.
