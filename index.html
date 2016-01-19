@@ -27,11 +27,9 @@ layout: default
         Featured Posts
       </h3>
       <ul class="list-reset mb3">
-        {% for post in site.categories["en"] %}
+        {% for post in site.categories["en-popular"] %}
           {% unless post.draft %}
-            {% if post.featured %}
-              {% include post-list-item.html %}
-            {% endif %}
+            {% include post-list-item.html %}
           {% endunless %}
         {% endfor %}
       </ul>
@@ -39,11 +37,9 @@ layout: default
         Other Posts
       </h3>
       <ul class="list-reset mb0">
-        {% assign posts = (site.categories["en"] | where:"draft",null) %}
+        {% assign posts = (site.categories["en-others"] | where:"draft",null) %}
         {% for post in posts limit:5 %}
-          {% unless post.featured %}
-            {% include post-list-item.html %}
-          {% endunless %}
+          {% include post-list-item.html %}
         {% endfor %}
         <li class="mt2">
           <a href="{{ "/archive" | prepend:site.baseurl }}" class="td-none bold center block p1 rounded btn btn-outline bg-white">View Archive <span class="muted">({{ site.categories["en"] |  where:"draft",null | size }} Posts)</span></a>
