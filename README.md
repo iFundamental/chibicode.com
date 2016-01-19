@@ -1,6 +1,6 @@
 # [Shu Uesugi's Blog](http://chibicode.com)
 
-[![](https://img.shields.io/badge/twitter-%40chibicode-d81b60.svg)](http://twitter.com/chibicode)
+![](https://cloud.githubusercontent.com/assets/992008/12419451/0a956e36-be6b-11e5-8ddf-4569bf89d385.jpg)
 
 2015 Copyright Shusaku Uesugi.
 
