@@ -162,3 +162,7 @@ p img, figure img {
   border-color: currentcolor;
   box-shadow: none;
 }
+
+.main-header .twitter-tweet {
+  margin-bottom: 0 !important;
+}
