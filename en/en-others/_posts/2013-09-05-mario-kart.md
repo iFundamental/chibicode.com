@@ -4,9 +4,7 @@ title: The Mario Kart Principle of Education
 
 ![](http://chibicode.com/assets/images/mario-kart/1.jpg)
 
-(Note: this article was originally [posted to Medium](https://medium.com/who-i-am/597e51e988db).)
-
-When I was seven years old, I played [Super Mario Kart](http://en.wikipedia.org/wiki/Super_Mario_Kart) almost every day. The first game of the Mario Kart Series, it was also the first game I’d bought that didn’t have an ending. Mario Kart wasn’t something you beat—you could always continue playing. I played days after days—by myself to finish Mario Circuit 1 in under a minute, or against my little brother on Battle Mode.
+When I was eight years old, I played [Super Mario Kart](http://en.wikipedia.org/wiki/Super_Mario_Kart) almost every day. The first game of the Mario Kart Series, it was also the first game I’d bought that didn’t have an ending. Mario Kart wasn’t something you beat—you could always continue playing. I played days after days—by myself to finish Mario Circuit 1 in under a minute, or against my little brother on Battle Mode.
 
 But above all, I remember its Grand Prix (GP) Mode most vividly. In GP, you compete against 7 computer-controlled characters (CPU) in a series of five races. For each race, the first player to finish gets 9 points, the second gets 6, the third gets 3, the fourth gets 1, and the rest gets 0. Your goal is to win the most number of points in total.
 
