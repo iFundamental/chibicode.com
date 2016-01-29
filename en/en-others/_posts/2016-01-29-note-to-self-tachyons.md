@@ -13,3 +13,17 @@ The author of Bootstrap then said:
 > This is just a different way of doing it though—put it all in the HTML, or put it in the CSS. Or both.
 
 I think before React came out, more people were reusing CSS classes, because HTML reuse was less common (there were Rails partials, but React pushed the idea of componetization further). But now that we're moving to the React world, reusing HTML is becoming much more common, and as long as those HTML components are reusable, it's okay if CSS classes that those HTML components use are not.
+
+## Memo: The Difference between [BassCSS](http://basscss.com/) and [Tachyons](http://tachyons.io/)
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/4lpine">@4lpine</a> what would you say is the difference between tachyons and basscss? i&#39;m currently a basscss user but have no clue if i should switch.</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/693146325735464960">January 29, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> Same OOCSS philosophy, different approach. Tachyons classes consist of single declarations which make it a bit more flexible …</p>&mdash; John Otander (@4lpine) <a href="https://twitter.com/4lpine/status/693148779483009024">January 29, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> … And shorter class names that typically have more options. Tachyons takes composability to the extreme …</p>&mdash; John Otander (@4lpine) <a href="https://twitter.com/4lpine/status/693149073017180161">January 29, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> … That may or may not be good for your use case. I think you can’t go wrong choosing either. Just depends on preferences …</p>&mdash; John Otander (@4lpine) <a href="https://twitter.com/4lpine/status/693149256660561920">January 29, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> … I found once I learned the naming patterns of Tachyons, I found myself extremely productive using it. And enjoying the flexblty</p>&mdash; John Otander (@4lpine) <a href="https://twitter.com/4lpine/status/693149650568634368">January 29, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> A good discussion to read that might be more enlightening than what I can do in 140 chars : )&#10;&#10;<a href="https://t.co/Pb6XowiGPe">https://t.co/Pb6XowiGPe</a></p>&mdash; John Otander (@4lpine) <a href="https://twitter.com/4lpine/status/693149922095312896">January 29, 2016</a></blockquote>
