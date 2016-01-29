@@ -2,7 +2,7 @@
 title: "Note to self: How is tachyons different from inline styles?"
 ---
 
-@4lpine pointed me to a great discussion on GitHub: [How is tachyons different from inline styles?](https://github.com/tachyons-css/tachyons/issues/12#issuecomment-59828967). In particular the author of [tachyons](http://tachyons.io/) said:
+[@4lpine](https://twitter.com/4lpine) pointed me to a great discussion on GitHub: [How is tachyons different from inline styles?](https://github.com/tachyons-css/tachyons/issues/12#issuecomment-59828967). In particular the author of [tachyons](http://tachyons.io/) said:
 
 > *"You lose the flexibility to change the properties of multiple related elements at the same time:"*
 >
