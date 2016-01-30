@@ -7,7 +7,13 @@ layout: default
     <header class="mb2">
       <h1 class="mt0 mb1 {% if page.categories contains "ja" %}heading--ja{% endif %}">{{ page.title }}</h1>
       <section class="muted mb1">
-        <time datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date_to_string }}</time>
+        <time datetime="{{ page.date | date_to_xmlschema}}">
+          {% if page.categories contains "ja" %}
+            {{ page.date | date: "%Y年%m月%d日" }}
+          {% else %}
+            {{ page.date | date_to_string }}
+          {% endif %}
+        </time>
       </section>
     </header>
 
