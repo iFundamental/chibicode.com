@@ -19,6 +19,11 @@
   {% endif %}
   <br>
   <small class="muted">
-    {{ post.date | date_to_string }}
+    {% if post.categories contains "ja" %}
+      {{ post.date | date: "%Y年%-m月%-d日" }}
+    {% else %}
+      {{ post.date | date_to_string }}
+    {% endif %}
+
   </small>
 </li>
