@@ -7,7 +7,7 @@ draft: true
 今年のアカデミー賞にノミネートされた「[マネー・ショート](http://www.moneyshort.jp/)」を観てきた。原作「[世紀の空売り](http://www.amazon.co.jp/世紀の空売り　世界経済の破綻に賭けた男たち-文春文庫-マイケル・ルイス-ebook/dp/B019F9BL0E?tag=chibicode-22)」は、同じく映画化された「[マネー・ボール](http://www.amazon.co.jp/ebook/dp/B00CPW2Z9U?tag=chibicode-22)」と並ぶ、ベストセラー作家・マイケル・ルイス氏の代表作である。原作も良かったが、映画も笑いたっぷりで素晴らしかった。日本での公開は3月4日らしい。
 
 <figure>
-  <img src="/assets/images/about-chibicode/the-big-short.jpg" />
+  <img src="/assets/images/tanpopo-anne-nintendo/the-big-short.jpg" />
 <figcaption><a href="http://top.tsite.jp/entertainment/cinema/i/27218466/index">画像元</a>・映画『マネー・ショート 華麗なる大逆転』より。(C)2015 Paramount Pictures. All Rights Reserved.</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ draft: true
 アメリカの「出会い系サイト」は「婚活」の意味合いが強く、しかも利用頻度が多い。シカゴ大のCacioppo教授の研究によると、2005年から2012年の間、アメリカで結婚したカップルの約35%が出会い系サイトで出会っており、「職場」「友人の紹介」「学校」を通じて出会った割合の「合計」(33%)よりも高い。しかも、オンラインでの出会いは近年、増加傾向にあるという。
 
 <figure>
-  <img src="/assets/images/about-chibicode/how-americans-meet.png" />
+  <img src="/assets/images/tanpopo-anne-nintendo/how-americans-meet.png" />
 <figcaption>Aziz Ansari著"<a href="http://www.amazon.co.jp/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG?tag=chibicode-22">Modern Romance</a>"より。スタンフォード大のRosenfeld教授が行った研究でも、似たような結果が出ている。</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ draft: true
 
 まだプロフィールを書いてはおらず、アイデア出しの段階だが、なかなかこれが難しい。多様性の国で、エリート社会のアメリカにおいては、ぼくは経歴も趣味も特筆すべきものが無い。抜きん出るためには、自分の人生を振り返って、なにか特別なアピールポイントを探す必要がある。
 
-![](/assets/images/about-chibicode/sf-cafe.jpg)
+![](/assets/images/tanpopo-anne-nintendo/sf-cafe.jpg)
 
 そう思いたち、サンフランシスコでいちばん洒落たカフェに行き、自分史を復習してみた。まわりの人たちがコードを書いたり、起業の話をして盛り上がる中、数時間かけて過去のことを掘り起こしてみた。しかし残念なことに、出会い系アプリに書けるようなネタは見つからず、ほとんどが黒歴史だった。
 
@@ -48,11 +48,11 @@ draft: true
 
 5万人近い方に読まれた[前回の記事](http://chibicode.com/nhk-dilemma/)の最後に、「今年は志の低い文章を書くつもり」と記したが、しょっぱなからその通りになった。自己満足の記事を毛嫌いする方は、ここでページを閉じてほしい。
 
-もう少し具体的に言うと、ぼくはこの1年半の間に3ヶ所、「子供のころに憧れていた場所」を訪れた。それが表題の「タンポポ丘・アンネの家・任天堂」で、それぞれを訪れたときに感じたことを記事にしてみた。
+もう少し具体的に言うと、ぼくはこの1年半の間に3ヶ所、「子供のころに憧れていた場所」を訪れていたことを思い出した。それが表題の「タンポポ丘・アンネの家・任天堂」で、それぞれを訪れたときに感じたことを記事にしてみた。
 
 本題に入る前に、「そもそもアンタは誰だ」と思った方向けに、簡単な自己紹介を貼っておく。NHK・Eテレ「[ニッポンのジレンマ・2016年元日スペシャル](http://chibicode.com/nhk-dilemma/)」に出演したときのものだ。
 
-![上杉周作 プロフィール](/assets/images/about-chibicode/dilemma.jpg)
+![上杉周作 プロフィール](/assets/images/tanpopo-anne-nintendo/dilemma.jpg)
 
 ---
 
@@ -60,22 +60,22 @@ draft: true
 
 2014年7月。夏休みにアメリカから一時帰国していたぼくは、ファッ◯ン・ホットな昼下がりに、弱冷房の効いた電車を2時間乗り継いで、千葉県佐倉市にある臼井駅を訪れた。
 
-![](/assets/images/about-chibicode/usui.jpg)
+![](/assets/images/tanpopo-anne-nintendo/usui.jpg)
 
 この町は、去年の紅白にも出ていた[Bump of Chicken](http://www.bumpofchicken.com/)のメンバーの故郷である。ぼくは中学1年から親の都合でアメリカに引っ越したのだけれど、すぐさま中2病を発症し、当時流行っていたFlash動画をきっかけにバンプの曲を聞くようになった。臼井に来たのは聖地巡りというわけだ。
 
 臼井は想像していた以上に田舎で、多くの家が庭づくりに精を出していた。駅の隣には、ヒット曲「[天体観測](https://www.youtube.com/watch?v=j7CDb610Bg0)」の歌い出しにあった「フミキリ」があり、
 
-![](/assets/images/about-chibicode/usui2.jpg)
+![](/assets/images/tanpopo-anne-nintendo/usui2.jpg)
 
 同じくヒット曲「[車輪の唄](https://www.youtube.com/watch?v=x9S9oygUEW0)」の歌詞にあった「線路沿いの下り坂」が伸びていた。
 
-![](/assets/images/about-chibicode/usui3.jpg)
+![](/assets/images/tanpopo-anne-nintendo/usui3.jpg)
 
 熱心なバンプ信者はゆかりの場所をいろいろと回るらしいが、ぼくの目的地はひとつ。それは「宿内公園」という高台にある公園で、「くだらない唄」「続・くだらない唄」という曲に出てくる「湖の見えるタンポポ丘」という場所だった。
 
 タンポポは咲いてなかったが、のどかな公園だった。「湖」とは[印旛沼](https://ja.wikipedia.org/wiki/%E5%8D%B0%E6%97%9B%E6%B2%BC)のことで、丘の上から印旛沼を向いて撮った写真がこちら。子連れのママが二人、近くのベンチに座っていたので、自撮りをする勇気は出なかった。
 
-![](/assets/images/about-chibicode/tanpopo.jpg)
+![](/assets/images/tanpopo-anne-nintendo/tanpopo.jpg)
 
 ### 「輝かしいどうのこうの」
