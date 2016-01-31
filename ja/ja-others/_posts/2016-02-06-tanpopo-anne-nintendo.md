@@ -16,7 +16,7 @@ draft: true
 
 ![](/assets/images/tanpopo-anne-nintendo/usui.jpg)
 
-この町は、去年の紅白にも出ていた[Bump of Chicken](http://www.bumpofchicken.com/)のメンバーの故郷である。ぼくは中学1年から親の都合でアメリカに引っ越したのだけれど、すぐさま中2病を発症し、当時流行っていたFlash動画をきっかけにバンプの曲を聞くようになった。臼井に来たのは聖地巡りというわけだ。
+この町は、去年の紅白に初出場した[Bump of Chicken](http://www.bumpofchicken.com/)のメンバーの故郷である。ぼくは中学1年から親の都合でアメリカに引っ越したのだけれど、すぐさま中2病を発症し、当時流行っていたFlash動画をきっかけにバンプの曲を聞くようになった。臼井に来たのは聖地巡りというわけだ。
 
 臼井は想像していた以上に田舎で、多くの家が庭づくりに精を出していた。駅の近くには、ヒット曲「[天体観測](https://www.youtube.com/watch?v=j7CDb610Bg0)」の歌い出しにあった「フミキリ」があり、
 
@@ -38,7 +38,7 @@ draft: true
 
 「湖の見える タンポポ丘の 桜の木の下で」から始まる、「続・くだらない唄」という曲が、バンプの中ではいちばん好きだった。なかなか難しいギターソロも、一生懸命練習した。([歌詞](http://www.utamap.com/showkasi.php?surl=B06661)/[iTunes](https://geo.itunes.apple.com/jp/album/the-living-dead/id201489745?))
 
-特に好きだったのが、田舎出身の「僕」が、都会に出てきたときのことを振り返る[フレーズ](ttp://www.utamap.com/showkasi.php?surl=B06661)。
+特に好きだったのが、田舎出身の「僕」が、都会に出てきたときのことを振り返る[フレーズ](http://www.utamap.com/showkasi.php?surl=B06661)。
 
 > ここで手にした「輝かしいどうのこうの」に<br>
 > それよりも輝かしい あの日が<br>
