@@ -460,7 +460,7 @@ Patrick McKenzie<br>
 
 ## 追記
 
-公開後の更新履歴は[こちら](https://github.com/chibicode/chibicode/commits/gh-pages/_posts/2014-11-26-1.md)。記事の推敲を担当してくれた[@ellekasai](https://twitter.com/ellekasai)、翻訳ミスを15箇所くらい直してくれたPatrickさん、ありがとう。
+記事の推敲を担当してくれた[@ellekasai](https://twitter.com/ellekasai)、翻訳ミスを15箇所くらい直してくれたPatrickさん、ありがとう。
 
 ### 関連ツイート
 
