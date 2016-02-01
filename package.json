@@ -3,6 +3,7 @@
   "scripts": {
     "jekyll": "bundle exec jekyll serve -w --drafts --future --incremental",
     "webpack-server": "webpack-dev-server --port 8787 --config webpack.hot.config.js --content-base _site --hot",
+    "assets": "webpack -p && git add . && git commit -m 'Assets' && git push",
     "start": "npm run jekyll & npm run webpack-server"
   },
   "dependencies": {
