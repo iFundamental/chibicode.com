@@ -35,12 +35,12 @@ layout: default
         Other Posts
       </h3>
       <ul class="list-reset mb0">
-        {% assign posts = (site.categories["en-others"] | where:"draft",null) %}
-        {% for post in posts limit:5 %}
+        {% assign other_posts = (site.categories["en-others"] | where:"draft",false ) %}
+        {% for post in other_posts limit:5 %}
           {% include post-list-item.html %}
         {% endfor %}
         <li class="mt2">
-          <a href="{{ "/archive" | prepend:site.baseurl }}" class="td-none bold center block p1 rounded btn btn-outline bg-white">View Archive <span class="muted">({{ site.categories["en"] |  where:"draft",null | size }} Posts)</span></a>
+          <a href="{{ "/archive" | prepend:site.baseurl }}" class="td-none bold center block p1 rounded btn btn-outline bg-white">View Archive <span class="muted">({{ site.categories["en"] |  where:"draft",false | size }} Posts)</span></a>
         </li>
       </ul>
     </div>
