@@ -8,7 +8,9 @@ permalink: :title
 # description: "..."
 gems:
   - jekyll-sitemap
-  - jekyll-gist
+  # Use <div data-gist-id="..."></div> instead
+  # https://github.com/blairvanderhoof/gist-embed
+  # - jekyll-gist
 
 exclude:
   - "README.md"

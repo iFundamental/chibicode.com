@@ -4,6 +4,7 @@ require('./js/transition.js');
 require('./js/zoom.js');
 require('./js/jquery.fitvids.js');
 require('./js/bigfoot.js');
+require('./js/gist-embed.js');
 
 import $ from 'jquery';
 

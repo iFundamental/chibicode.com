@@ -8,12 +8,12 @@
     <!-- <link rel="canonical" href="{{ site.github.url }}{{ page.url | remove:'index.html' }}/"> -->
     <title>{% if page.title %}{{ page.title }} | {% endif %}{% include title.html %}</title>
     {% include head.html %}
-    {% unless site.github %}
-      <script>
-        document.write('<script src="' + window.location.origin + '/webpack-dev-server.js"></scr' + 'ipt>');
-      </script>
-    {% endunless %}
-    <script src="/assets/bundle.js"></script>
+    {% if site.github %}
+      <script src="/assets/bundle.js"></script>
+    {% else %}
+      <script src="http://localhost:8787/webpack-dev-server.js"></script>
+      <script src="http://localhost:8787/assets/bundle.js"></script>
+    {% endif %}
   </head>
   <body>
     <div class="py2 sm-show"></div>

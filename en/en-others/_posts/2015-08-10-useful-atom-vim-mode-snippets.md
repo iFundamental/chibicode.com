@@ -8,10 +8,10 @@ Here are some of the customization code I wrote on `~/.atom/init.coffee` and `~/
 
 Using <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>Space</kbd>.
 
-{% gist 8d803f9c81265c8c1f72 %}
+<div data-gist-id="8d803f9c81265c8c1f72"></div>
 
 ### Move Three Lines at a Time
 
 Using capital <kbd>J</kbd>/<kbd>K</kbd>.
 
-{% gist eda0e18c47b9652d7e56 %}
+<div data-gist-id="eda0e18c47b9652d7e56"></div>
