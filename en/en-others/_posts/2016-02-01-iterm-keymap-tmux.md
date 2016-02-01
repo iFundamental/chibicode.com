@@ -12,4 +12,4 @@ Use this ASCII table ([source](http://www.asciitable.com/)) to look up HEX codes
 
 ## My `.tmux.conf`:
 
-{% gist https://gist.github.com/chibicode/be90cd2678d59269b271 %}
+{% gist be90cd2678d59269b271 %}
