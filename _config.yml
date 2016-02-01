@@ -1,6 +1,5 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 permalink: :title
-markdown: redcarpet
 
 # This causes an error on GitHub pages, so disabled until 3.0 comes out
 # highlighter: null
@@ -9,6 +8,7 @@ markdown: redcarpet
 # description: "..."
 gems:
   - jekyll-sitemap
+  - jekyll-gist
 
 exclude:
   - "README.md"
@@ -35,6 +35,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      draft: false
       centered_layout: true
   -
     scope:
