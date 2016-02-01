@@ -8,7 +8,7 @@ permalink: :title
 # description: "..."
 gems:
   - jekyll-sitemap
-  # Use <div data-gist-id="..."></div> instead
+  # Use <div data-gist-id="..." data-gist-file="..."></div> instead for performance reasons
   # https://github.com/blairvanderhoof/gist-embed
   # - jekyll-gist
 
