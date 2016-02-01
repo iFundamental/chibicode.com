@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "jekyll": "bundle exec jekyll serve -w --drafts --future",
+    "jekyll": "bundle exec jekyll serve -w --drafts --future --incremental",
     "webpack-server": "webpack-dev-server --port 8787 --config webpack.hot.config.js --content-base _site --hot",
     "start": "npm run jekyll & npm run webpack-server"
   },
