@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 今年のアカデミー賞にノミネートされた「[マネー・ショート](http://www.moneyshort.jp/)」を観てきた。原作「[世紀の空売り](http://www.amazon.co.jp/世紀の空売り　世界経済の破綻に賭けた男たち-文春文庫-マイケル・ルイス-ebook/dp/B019F9BL0E?tag=chibicode-22)」は、同じく映画化された「[マネー・ボール](http://www.amazon.co.jp/ebook/dp/B00CPW2Z9U?tag=chibicode-22)」と並ぶ、ベストセラー作家・マイケル・ルイス氏の代表作である。原作も良かったが、映画も笑いたっぷりで素晴らしかった。日本での公開は3月4日らしい。
 
 <figure>
