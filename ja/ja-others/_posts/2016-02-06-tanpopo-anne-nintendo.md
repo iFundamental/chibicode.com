@@ -1,7 +1,12 @@
 ---
 title: 「タンポポ丘・アンネの家・任天堂」に置いてきたもの
 draft: true
-# The og image should be Nintendo's
+og_image: "http://f.cl.ly/items/0v3r3i1X323c0T3V011U/nintendo1.jpg"
+og_image_width: 1080
+og_image_height: 686
+next_recommend_url: "http://chibicode.com/nhk-dilemma"
+next_recommend_title: "「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと"
+list_item_comment: "誰にも得にならない、ぼくの自分語りです。"
 ---
 
 この記事は、ぼくの自分語りです。しかもクソ長いので、延々と続く壮大なマスターベーションです。エモい文章を毛嫌いする方は、今すぐページを閉じてください。この先に、
@@ -346,4 +351,10 @@ draft: true
 
 ![](/assets/images/tanpopo-anne-nintendo/wakayama.jpg)
 
-80半ばの祖父母は、[ぼくが元日に出演したテレビ番組](http://chibicode.com/nhk-dilemma)を、深夜放送なのにもかかわらず観てくれていた。NHKだから、和歌山のど田舎でも映るのだ。母はそのとき昏睡状態で、放映直後に亡くなったのだけれど、祖父母が母の代わりに観てくれていたと知って、ほんの少し気が楽になった。
+80半ばの祖父母は、[ぼくが元日に出演したテレビ番組](http://chibicode.com/nhk-dilemma)を、深夜放送なのにもかかわらず観てくれていた。NHKだから、和歌山のド田舎でも映るのだ。母はそのとき昏睡状態で、[放映直後に亡くなった](http://chibicode.com/aaron/)のだけれど、祖父母が母の代わりに観てくれていたと知って、ほんの少し気が楽になった。
+
+次の日の朝、ぼくは和歌山を後にして、今度は大阪に住む父方の祖父母を訪ねた。父方の祖父母としばらく過ごした後は神戸に寄って友人に会い、夜に京都に向かった。最終の新幹線で横浜に戻らなければならなかったので、スーツケース片手に走り回ったのを覚えている。
+
+
+
+京都での
