@@ -1,5 +1,5 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-permalink: :title
+permalink: /:title/
 
 # This causes an error on GitHub pages, so disabled until 3.0 comes out
 # highlighter: null
