@@ -210,7 +210,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 <figcaption>路上の音楽家にも日本文化？が浸透していた。</figcaption>
 </figure>
 
-第二の理由は、ぼくは「[さよならを待つふたりのために](http://www.amazon.co.jp/gp/product/4001164051?tag=chibicode-22)」という小説を[2014年に読んで感動した](http://localhost:4000/the-fault-in-our-stars)のだが、物語の中盤の舞台がアムステルダムだったからだ。ちなみにこの本は「[きっと、星のせいじゃない。](http://www.foxmovies-jp.com/kitto-hoshi/)」という名で映画化もされており、ぼくの母校があるピッツバーグ市が序盤のロケ地になった。
+第二の理由は、ぼくは「[さよならを待つふたりのために](http://www.amazon.co.jp/gp/product/4001164051?tag=chibicode-22)」という小説を[2014年に読んで感動した](http://chibicode.com/the-fault-in-our-stars)のだが、物語の中盤の舞台がアムステルダムだったからだ。ちなみにこの本は「[きっと、星のせいじゃない。](http://www.foxmovies-jp.com/kitto-hoshi/)」という名で映画化もされており、ぼくの母校があるピッツバーグ市が序盤のロケ地になった。
 
 ### アンネの家
 
