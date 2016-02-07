@@ -125,7 +125,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 <figcaption><a href="http://www.amazon.co.jp/アージュ-君が望む永遠-Latest-Edition-初回版/dp/B0010Y92N6?tag=chibicode-22">画像元: Amazon.co.jp</a></figcaption>
 </figure>
 
-上記の3作は名作と評されていて、なかでも「[君が望む永遠](http://www.amazon.co.jp/アージュ-君が望む永遠-Latest-Edition-初回版/dp/B0010Y92N6?tag=chibicode-22)」には、進撃の巨人の作者の諫山氏(1歳年上)もインタビューで[言及している](http://white-screen.jp/?p=32621)。
+上記の3作は名作と評されていて、なかでも「[君が望む永遠](http://www.amazon.co.jp/アージュ-君が望む永遠-Latest-Edition-初回版/dp/B0010Y92N6?tag=chibicode-22)」には、「進撃の巨人」の作者の諫山氏(1歳年上)もインタビューで[言及している](http://white-screen.jp/?p=32621)。
 
 > アージュっていう会社の「君が望む永遠」という名作ゲームにはまったんですね。その後のラノベとかいろんなものに影響を与えた作品なんですけど。
 
