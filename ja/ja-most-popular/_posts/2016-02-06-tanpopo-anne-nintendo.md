@@ -13,7 +13,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 「そもそもアンタは誰だ」と思った方向けに、簡単な自己紹介を貼っておきます。NHK・Eテレ「[ニッポンのジレンマ・2016年元日スペシャル](http://chibicode.com/nhk-dilemma/)」に出演したときのものです。
 
-![上杉周作 プロフィール](/assets/images/tanpopo-anne-nintendo/dilemma.jpg)
+![上杉周作 プロフィール](http://chibicode.com/assets/images/tanpopo-anne-nintendo/dilemma.jpg)
 
 「88年生まれということは、30歳を目前にしてこんな自己満記事を書いているのか」と思われるかもしれませんが、弁解の余地もございません。
 
@@ -23,7 +23,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 2014年の夏。アメリカから一時帰国していたぼくは、フ◯ッキン・ホットな昼下がりに、弱冷房の効いた電車を2時間乗り継いで、千葉県佐倉市にある臼井駅を訪れた。
 
-![](/assets/images/tanpopo-anne-nintendo/usui.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/usui.jpg)
 
 この街は、去年の紅白に初出場した[Bump of Chicken](http://www.bumpofchicken.com/)のメンバーの故郷であり、ぼくにとっての聖地である。ぼくは中学1年から親の都合でアメリカに引っ越したのだけれど、すぐさま中2病を発症し、当時流行っていたバンプのFlash動画をきっかけに彼らの曲を聞くようになった。
 
@@ -35,11 +35,11 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 臼井は想像していた以上に田舎で、そこら中の家が庭づくりに精を出していた。駅の近くには、ヒット曲「[天体観測](https://www.youtube.com/watch?v=j7CDb610Bg0)」の歌い出しにあった「フミキリ」があり、
 
-![](/assets/images/tanpopo-anne-nintendo/usui2.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/usui2.jpg)
 
 同じくヒット曲「[車輪の唄](https://www.youtube.com/watch?v=x9S9oygUEW0)」の歌詞にあった「線路沿いの下り坂」が伸びていた。
 
-![](/assets/images/tanpopo-anne-nintendo/usui3.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/usui3.jpg)
 
 熱心なバンプ信者はゆかりの場所をいろいろと回るらしいが、ぼくの目的地はただひとつ。それは「くだらない唄」「続・くだらない唄」という、彼らのインディーズ時代の曲に出てくる「湖の見えるタンポポ丘」という場所だった。
 
@@ -47,7 +47,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 丘の上から湖を向いて撮った写真がこちら。子連れのママが二人、近くのベンチに座りながらぼくを不審者のように見ていたので、記念の自撮りができなかったことが悔やまれる。
 
-![](/assets/images/tanpopo-anne-nintendo/tanpopo.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/tanpopo.jpg)
 
 13年も憧れていたタンポポ丘には、駅から徒歩10分であっさりと着いてしまった。そしてタンポポ丘に、タンポポは咲いていなかった。
 
@@ -108,7 +108,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 何百回もソフトをダウンロードするにつれ、ソフトに対する情熱もぼくにインストールされていった (我ながら痛いセリフだ)。当時中学生だった著名ブロガー・イケダハヤトさんが[連載を持っていた](http://www.ikedahayato.com/20151130/48982096.html)PCソフト雑誌「ネットランナー」も、アメリカまで取り寄せて購読していた。
 
-![](/assets/images/tanpopo-anne-nintendo/netrunner.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/netrunner.jpg)
 
 自分でプログラミングしてなにか開発することも試みたけど、頭が悪すぎて一度も上手くいかなかった。けれども諦めきれず、情報系の大学に進学し、いまは仕事でコードを書いている。
 
@@ -121,7 +121,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 プレイしたソフトはほとんど覚えてないのだけれど、「[君が望む永遠](https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%8C%E6%9C%9B%E3%82%80%E6%B0%B8%E9%81%A0)」「[家族計画](https://ja.wikipedia.org/wiki/%E5%AE%B6%E6%97%8F%E8%A8%88%E7%94%BB_(%E3%82%B2%E3%83%BC%E3%83%A0))」「[クロスチャンネル](https://ja.wikipedia.org/wiki/CROSS%E2%80%A0CHANNEL)」は完全クリアした。それぞれのゲームには5~7人の彼女候補が用意されており、1回のプレイごとに主人公は1人としか結ばれないため、完全クリアするには何度もプレイしなくてはならない。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/kiminozo.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/kiminozo.jpg" />
 <figcaption><a href="http://www.amazon.co.jp/アージュ-君が望む永遠-Latest-Edition-初回版/dp/B0010Y92N6?tag=chibicode-22">画像元: Amazon.co.jp</a></figcaption>
 </figure>
 
@@ -135,13 +135,13 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 日本の学校には小6までしか行かず、活字だけの本を読む習慣が無かったぼくの貧相な日本語力は、2ちゃんねるとエロゲーが礎となっている。
 
-これは結構なコンプレックスで、たまに賢い人が「私は本をたくさん読む子だった」とか言うのを聞くと、「自分は下等な人間なのか。ゲスの極みオタクなのか」と落ち込んでいたものだ。最近になってやっと、「本以外本じゃないの」という固定概念は捨てることができたけれど。
+これは結構なコンプレックスで、たまに賢い人が「私は本をたくさん読む子だった」とか言うのを聞くと、「自分は下等な人間なのか。[ゲスの極みオタクなのか](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B9%E3%81%AE%E6%A5%B5%E3%81%BF%E4%B9%99%E5%A5%B3%E3%80%82)」と落ち込んでいたものだ。最近になってやっと、「[本以外本じゃないの](https://www.youtube.com/watch?v=Ae6gQmhaMn4)」という固定概念は捨てることができたけれど。
 
 ### 東京！一人暮らしだモナ
 
 2ちゃんねる発のプチ小説といえば、当時は「[電車男](http://www.amazon.co.jp/電車男-中野-独人/dp/4104715018?tag=chibicode-22)」が有名だったが、ぼくは「[東京！一人暮らしだモナ](http://monahokan.web.fc2.com/monadouwa/hitori/index.htm)」というシリーズの大ファンだった。
 
-![](/assets/images/tanpopo-anne-nintendo/mona.png)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/mona.png)
 
 2ちゃんねるのマスコット「[モナー](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%83%BC)」が、社会人になり上京して一人暮らしをするという話で、アスキーアートを使って表現された。モナーに彼女ができたり、同じアパートの住人と一悶着あったりと、笑いあり涙ありの物語だった。2ちゃんねるに張り付いて、2年くらいは毎日読み続けた記憶がある。
 
@@ -167,7 +167,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 タンポポ丘から10ヶ月後の、2015年の春。シリコンバレーの[Quora](http://www.quora.com/)社で働いていたときの[同僚](https://www.linkedin.com/in/matyastamas)の結婚式が、エーゲ海に浮かぶギリシャのサントリーニ島で行われたので、リゾート気分で参加してきた。
 
-![](/assets/images/tanpopo-anne-nintendo/matyas.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/matyas.jpg)
 
 結婚式のちょうど1ヶ月後、ギリシャは[デフォルト危機](http://www.nikkeibp.co.jp/atcl/matome/15/325410/070100060/)に陥った。たぶん、ぼくが行ったせいだ。
 
@@ -175,38 +175,38 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 チェコでは、ネットで知り合ったプログラマーの友人にプラハを案内してもらい、
 
-![](/assets/images/tanpopo-anne-nintendo/czech.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/czech.jpg)
 
 スイスでは、大学の後輩にチューリッヒのGoogleオフィスを案内してもらい、
 
-![](/assets/images/tanpopo-anne-nintendo/swiss.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/swiss.jpg)
 
 オランダでは、ネットで知り合った日本の友人が留学していたロッテルダムを訪れ、
 
-![](/assets/images/tanpopo-anne-nintendo/rotterdam.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/rotterdam.jpg)
 
 ベルギーでは、ブリュッセルの楽器博物館に行き (ぼくはトランペット・ユーフォニアム・ギター・ベース・ドラムができる)、
 
-![](/assets/images/tanpopo-anne-nintendo/belgium.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/belgium.jpg)
 
 フランスでは、友人とチャリでパリ市内を回った。
 
-![](/assets/images/tanpopo-anne-nintendo/paris.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/paris.jpg)
 
 ### アムステルダム
 
 オランダでは、ロッテルダム以外にアムステルダムも訪れた。
 
-同性婚・売春・大麻が合法であるオランダ最大の街は、昼と夜で全く違う顔を持っている。昼は美術館と博物館を回り、夜は飾り窓地区でセックスショーを見て、人生観をアップグレードしてきた。ちなみに一人旅だったが、下半身がまったく乗り気にならなかったので売春はしていない。
+同性婚・売春・大麻が合法であるオランダ最大の街は、昼と夜で正反対の顔を持っている。昼は美術館と博物館を回り、夜は[飾り窓地区](https://ja.wikipedia.org/wiki/%E9%A3%BE%E3%82%8A%E7%AA%93)でセックスショーを見て、人生観をアップグレードしてきた。ちなみに一人旅だったが、下半身がまったく乗り気にならなかったので売春はしていない。
 
-![](/assets/images/tanpopo-anne-nintendo/amsterdam1.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/amsterdam1.jpg)
 
-![](/assets/images/tanpopo-anne-nintendo/amsterdam2.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/amsterdam2.jpg)
 
 アムステルダムに寄った第一の理由は、[2015年から日本国籍者がオランダで労働許可無く就労できるようになった](http://www.lifehacker.jp/2015/05/150529holland_japanese.html)からである。ビザのハードルが米・加・豪や欧州他国より低くなり、しかもオランダは英語が通じるため、これから日本人の移住者が増えるだろう。だから、オランダでもっとも栄えているアムステルダムを見ておきたかったのだ。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/amsterdam3.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/amsterdam3.jpg" />
 <figcaption>路上の音楽家にも日本文化？が浸透していた。</figcaption>
 </figure>
 
@@ -216,7 +216,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 小説では、主人公たちが市内にあるアンネ・フランクの家を訪れるシーンがある。だが、そのことをぼくはすっかり忘れていた。最後の日、しかも閉館時間の2時間前に思い出し、冷たい雨にうたれながら1時間並んだ末、ぎりぎりでアンネ宅にあがらせてもらえた。
 
-![](/assets/images/tanpopo-anne-nintendo/anne-haus.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/anne-haus.jpg)
 
 順路は、父オットー・フランクが持っていた会社の倉庫と事務所からはじまる。事務所の従業員が協力者となり、隠れ家の食料を調達していたのだが、ナチス襲撃の際には協力者たちも逮捕されてしまった。
 
@@ -237,7 +237,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 3階に上ると、有名な「動く本棚」があった。その本棚の裏には隠れ家へと繋がる扉があり、アンネを含む8人が暮らしていた部屋を見ることができる。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/bookcase.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/bookcase.jpg" />
 <figcaption>By Bungle (Own work) <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:AnneFrankHouse_Bookcase.jpg">Wikimedia Commons</a></figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 そういえば、まだ小学生になりたてのころ、学研まんがの「世界の伝記: アンネ・フランク」を読んでいたのを思い出した。アンネの生涯を、小さい子どもにでも分かるように漫画で解説してくれる本だ。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/gakken-manga.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/gakken-manga.jpg" />
 <figcaption><a href="http://www.amazon.co.jp/gp/product/4082400230?tag=chibicode-22" target="_blank">Amazonリンク</a></figcaption>
 </figure>
 
@@ -259,13 +259,13 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 ### あ！これ進研ゼミでやったやつだ！
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/challenge.png" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/challenge.png" />
 <figcaption><a href="http://www.benesse.co.jp/zemi/trial/sho5/" target="_blank">画像はベネッセのサイトより。</a></figcaption>
 </figure>
 
-かわりに思い出したのは、当時購読していたベネッセ・進研ゼミの通信講座「チャレンジ」だった。学校の勉強は嫌いだったし、本を読む子ではなかったけれど、学研まんがのように漫画で教えてくれる教材は好きだった。
+アンネのかわりに思い出したのは、当時購読していたベネッセ・進研ゼミの通信講座「チャレンジ」だった。
 
-進研ゼミの教材も、イラストが中心だったので気に入っていた。
+学校は嫌いだったし、本を読む子ではなかったけれど、学研まんが「世界の伝記」シリーズのように、漫画で勉強を教えてくれる教材は好きだった。進研ゼミの教材も、イラストが中心だったので気に入っていた。ぼくの学習スタイルは視覚型らしい。
 
 ここで、当時の進研ゼミの仕組みを説明しておこう。
 
@@ -278,7 +278,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 ただ、算数など「積み重ねの科目」ならまだしも、それ以外の「暗記科目」においては、家庭内で飛び級してもあまり役に立たない。学校では4年生の社会=地理、チャレンジでは6年生の社会=日本史といったぐあいに、同時にこなす科目が増えるだけだ。「あ！これ進研ゼミでやったやつだ！」と、テストでドヤ顔することもできない。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/shinken-zemi.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/shinken-zemi.jpg" />
 <figcaption><a href="http://bokete.jp/boke/3182118" target="_blank">画像ソース</a></figcaption>
 </figure>
 
@@ -299,7 +299,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 意外と、お金は無駄にならなかったのかもしれない。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/fonts.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/fonts.jpg" />
 <figcaption>デザイナーとして働いていたとき、ぼくの部屋のドアに貼っていたフォントのポスター。いつも部屋に引きこもっていたぼくとは対照的に、「Hi!」の二文字がやかましかった。</figcaption>
 </figure>
 
@@ -308,7 +308,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 後から知ったことだが、日本の90年代は[DTP](https://ja.wikipedia.org/wiki/DTP)(デスクトップパブリッシング、パソコンで出版物のデザインをする作業)が広まった時期だったらしい。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/eva.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/eva.jpg" />
 <figcaption><a href="http://neweva.blog103.fc2.com/blog-entry-3757.html" target="_blank">画像ソース</a></figcaption>
 </figure>
 
@@ -356,25 +356,25 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 アンネの家から7ヶ月後の、2016年の年明け。母の葬式の翌日、ぼくは朝一の飛行機で関空に飛び、バスと電車を3時間乗り継いで和歌山の田舎に向かった。身体を悪くして母の最期に立ち会えなかった、母方の祖父母に会うために。
 
-![](/assets/images/tanpopo-anne-nintendo/wakayama.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/wakayama.jpg)
 
 80半ばの祖父母は、[ぼくが元日に出演したテレビ番組](http://chibicode.com/nhk-dilemma)を、深夜放送なのにもかかわらず観てくれていた。NHKだから、和歌山のド田舎でも映るのだ。母はそのとき昏睡状態で、[放映直後に亡くなった](http://chibicode.com/aaron/)のだけれど、祖父母が母の代わりに観てくれていたと知って、ほんの少し気が楽になった。
 
 次の日の朝、ぼくは和歌山を後にして、今度は大阪に住む父方の祖父母を訪ねた。大阪でしばらく過ごした後は神戸に寄って友人に会い、夜に京都に向かった。最終の新幹線で横浜に戻らなければならなかったので、スーツケース片手に走り回ったのを覚えている。
 
-![](/assets/images/tanpopo-anne-nintendo/kyoto.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/kyoto.jpg)
 
 京都での用事はふたつあった。まず、京都に住む友だち夫婦に先月、あたらしい家族の一員が加わったので、その一家を訪ねに行くこと。子ども好きのぼくとしては、「いつ赤ちゃんを抱っこするの？今でしょ！」という下心があった。その子が大きくなってからでは遅いのだ。
 
 そしてもうひとつは、京都に本社がある任天堂を見に行くため。もちろん中には入れないが、小さいころから最も憧れていた会社だったので、建物だけでもひと目みたかったのだ。京都には何度も訪れていたけど、任天堂がある方角には足を踏み入れたことがなかった。
 
-友だち一家に遅れる旨を伝え、京都駅から烏丸線に乗り十条駅に向かう。この烏丸線だが、18歳で初めて京都に一人旅で来た時は、「烏丸」を「とりまる」と読んでいた。よく見たら漢字が違う。日本の固有名詞は、ぼくのような海外勢にはもぅﾏﾁﾞ無理。である。
+友だち一家に遅れる旨を伝え、京都駅から烏丸線に乗り十条駅に向かう。この烏丸線だが、18歳で初めて京都に一人旅で来た時は、「烏丸」を「とりまる」と読んでいた。よく見たら漢字が違う。日本の固有名詞は、ぼくのような海外勢には[もぅﾏﾁﾞ無理](http://matome.naver.jp/odai/2138235609401083301)。である。
 
 ### 任天堂教
 
 十条駅から歩いて約10分。夢にまで見て、ついでにGoogleのストリートビューでも見た、任天堂の新社屋に到着した。
 
-![](/assets/images/tanpopo-anne-nintendo/nintendo2.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/nintendo2.jpg)
 
 シリコンバレー在住歴5年で、その間日本に情報を発信し続けてきたぼくは、かなりの数の日本人を現地で案内した。ぼくが勤務してる会社のオフィスに加え、友人がいるアップル、グーグル、フェイスブックなどを案内してきた。
 
@@ -398,7 +398,7 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 新社屋から数分歩くと、旧社屋に到着する。
 
-![](/assets/images/tanpopo-anne-nintendo/nintendo3.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/nintendo3.jpg)
 
 任天堂に来た理由はもうひとつあった。半年前に亡くなった故・岩田前社長を追悼するためだ。もともと岩田社長を尊敬していたというのもあるけど、それよりも彼は母と同い年で、ふたりとも癌で亡くなっているということが他人事に思えなかったのだ。
 
@@ -432,7 +432,7 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 
 マリオは死んでも生き返る。でも人生は、残りが1機しかないマリオなのだ。
 
-![](/assets/images/tanpopo-anne-nintendo/nintendo1.jpg)
+![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/nintendo1.jpg)
 
 残り1機の人生を全うして、母や岩田社長はあの世に行ってしまった。
 
@@ -449,7 +449,7 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 なかでも特殊なハマり方をしたのは、スーファミ版のマリオカートだった。このことは2年半前に[英語で書いた](http://chibicode.com/mario-kart/)のだが、日本語には訳していなかったので、この機会にグダグダと語らせてもらおう。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/mariobart.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/mariobart.jpg" />
 <figcaption>サンフランシスコ近郊の路線図を、スーファミ版のマリオカート風に描いたもの。<a href="http://www.shareasale.com/r.cfm?B=137801&U=389818&M=10782&affTrack=ikbkaj7mda0002cl001s3&urllink=www.imagekind.com%2FBay-Area-Rapid-Transit-Map--Mario-Kart-Style_art%3FIMID%3D4e6228fb-7850-40a7-b0ab-203e8e9965be" target="_blank">画像ソース</a></figcaption>
 </figure>
 
@@ -470,7 +470,7 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 それに気づいたぼくは、ひたすら「速いCPU」をアイテムで妨害し、「遅いCPU」に勝たせようとした。5レース終了後、CPUのスコアがもっとも均一になるようにする遊びを編み出したのだ。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/sansuu.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/sansuu.jpg" />
 <figcaption><a href="http://www.amazon.co.jp/算数おもしろ大事典IQ-増補改訂版-秋山久義/dp/4053038634?tag=chibicode-22" target="_blank">Amazonリンク</a></figcaption>
 </figure>
 
@@ -481,6 +481,8 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 8歳のぼくは、ゲームの中で共産主義の社会を創り、そこの独裁者として君臨した。デスノートの夜神月もびっくりである。
 
 いまのぼくはリベラルな資本主義者だが、たまにブログなどで[格差問題について語ったりしている](http://chibicode.com/sf-hell/)。もしかしたら、20年前のなごりなのかもしれない。
+
+---
 
 ## 終章・誰かが憧れた世界
 
@@ -507,7 +509,7 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 この記事は、ぼくが子どものころ憧れていた場所に、アラサーになってから行ってみて、思い出したことをそのまま書いた記事である。ほかにも憧れていた場所に行った経験は何度かあるけど、さすがに長過ぎるので、「タンポポ丘・アンネの家・任天堂」だけに絞って書いた。
 
 <figure>
-  <img src="/assets/images/tanpopo-anne-nintendo/berlin.jpg" />
+  <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/berlin.jpg" />
 <figcaption>小学生のころに手塚治虫の「<a href="http://www.amazon.co.jp/アドルフに告ぐ　1-手塚治虫-ebook/dp/B00JPXEVE4?tag=chibicode-22">アドルフに告ぐ</a>」を読んで以来、憧れていた街・ベルリン。2014年9月撮影。</figcaption>
 </figure>
 
@@ -531,7 +533,9 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 
 それを意識するかしないか、幸せだと感じるか感じないかは人それぞれだ。ただ、幸せだと感じることができれば、空っぽな人生も少しは楽しめるのかな、と思う。
 
-### ありがとうございました
+---
+
+### 読んでくださり、ありがとうございました
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">🆕 あたらしいブログ記事を書きました。こういうタイプの記事は書くのが最初で最後になるかもしれません。→ 「タンポポ丘・アンネの家・任天堂」に置いてきたもの <a href="https://t.co/E22TPsA3gd">https://t.co/E22TPsA3gd</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/696147666669948929">February 7, 2016</a></blockquote>
 
