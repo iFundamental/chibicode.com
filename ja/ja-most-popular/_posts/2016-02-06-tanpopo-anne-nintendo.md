@@ -535,15 +535,7 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 
 ---
 
-## 読んでくださり、ありがとうございました
-
-ツイッターでこの記事をシェアしてくださった方の多くから「想像以上にエモかった」とのコメントをいただきました。喜ぶべきかどうか分かりません。
-
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">🆕 あたらしいブログ記事を書きました。こういうタイプの記事は書くのが最初で最後になるかもしれません。→ 「タンポポ丘・アンネの家・任天堂」に置いてきたもの <a href="https://t.co/E22TPsA3gd">https://t.co/E22TPsA3gd</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/696147666669948929">February 7, 2016</a></blockquote>
-
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200227971441777" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200227971441777"><p>&#x3042;&#x305f;&#x3089;&#x3057;&#x3044;&#x30d6;&#x30ed;&#x30b0;&#x8a18;&#x4e8b;&#x3092;&#x66f8;&#x304d;&#x307e;&#x3057;&#x305f;&#x3002;&#x3053;&#x3046;&#x3044;&#x3046;&#x30bf;&#x30a4;&#x30d7;&#x306e;&#x8a18;&#x4e8b;&#x306f;&#x66f8;&#x304f;&#x306e;&#x304c;&#x6700;&#x521d;&#x3067;&#x6700;&#x5f8c;&#x306b;&#x306a;&#x308b;&#x304b;&#x3082;&#x3057;&#x308c;&#x307e;&#x305b;&#x3093;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200227971441777">Saturday, February 6, 2016</a></blockquote></div></div>
-
-### 追記
+## 追記
 
 「誰かが憧れた世界」つながりで、司馬遼太郎の子ども向けの随筆「[二十一世紀に生きる君たちへ](https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B8%96%E7%B4%80%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%B8)」より。
 
@@ -560,3 +552,11 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 > 「田中くん、ちょっとうかがいますが、あなたが今歩いている、二十一世紀とは、どんな世の中でしょう。」
 >
 > そのように質問して、君たちに教えてもらいたいのだが、ただ残念にも、その「未来」という街角には、私はもういない。
+
+### ソーシャルメディア
+
+ツイッターでこの記事をシェアしてくださった方の多くから「想像以上にエモかった」とのコメントをいただきました。喜ぶべきかどうか分かりません。
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">🆕 あたらしいブログ記事を書きました。こういうタイプの記事は書くのが最初で最後になるかもしれません。→ 「タンポポ丘・アンネの家・任天堂」に置いてきたもの <a href="https://t.co/E22TPsA3gd">https://t.co/E22TPsA3gd</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/696147666669948929">February 7, 2016</a></blockquote>
+
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200227971441777" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200227971441777"><p>&#x3042;&#x305f;&#x3089;&#x3057;&#x3044;&#x30d6;&#x30ed;&#x30b0;&#x8a18;&#x4e8b;&#x3092;&#x66f8;&#x304d;&#x307e;&#x3057;&#x305f;&#x3002;&#x3053;&#x3046;&#x3044;&#x3046;&#x30bf;&#x30a4;&#x30d7;&#x306e;&#x8a18;&#x4e8b;&#x306f;&#x66f8;&#x304f;&#x306e;&#x304c;&#x6700;&#x521d;&#x3067;&#x6700;&#x5f8c;&#x306b;&#x306a;&#x308b;&#x304b;&#x3082;&#x3057;&#x308c;&#x307e;&#x305b;&#x3093;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200227971441777">Saturday, February 6, 2016</a></blockquote></div></div>
