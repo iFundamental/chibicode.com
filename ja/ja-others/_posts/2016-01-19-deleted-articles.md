@@ -23,6 +23,7 @@ title: "削除したブログ記事集"
 - [Waza](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2013-01-26-waza.md) (2013年1月26日)
 - [マイクロソフトの「Surface」について、シリコンバレーに住む元デザイナーが思うこと。](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2012-06-25-surface.md) (2012年6月25日)
 - [TEDxUTokyoのスピーチの原稿](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2012-06-13-tedxutokyo-speech-draft.md) (2012年6月13日)
+- [1.どうでもいい話 2.一番学んだこと 3.ハスラーになりたい学生へ](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2012-03-12-doudemo-ii-hanashi.md) (2012年3月12日)
 - [ジョブズ氏へ ― わたしがはじめて「当たり前」を疑ったのは…](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2011-10-05-dear-jobs.md) (2011年10月5日)
 - [20歳を過ぎてからプログラミングを学ぼうと決めた人たちへ](http://www.slideshare.net/ShuUesugi/20-9290892)
 - [コーラの競争相手はペプシではない](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2011-07-19-coke-pepsi.md) (2011年7月19日)
