@@ -20,3 +20,6 @@ title: "削除したブログ記事集"
 - [名君になりたいのか、名人になりたいのか、それとも名作を作りたいのか](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2013-06-26-mei (2013-06-26kun-meijin-meisa年u.月d)日)
 - [Waza](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2013-01-26-waza.md) (2013年1月26日)
 - [TEDxUTokyoのスピーチの原稿](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2012-06-13-tedxutokyo-speech-draft.md) (2012年6月13日)
+- [ジョブズ氏へ ― わたしがはじめて「当たり前」を疑ったのは…](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2011-10-05-dear-jobs.md) (2011年10月5日)
+- [コーラの競争相手はペプシではない](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2011-07-19-coke-pepsi.md) (2011年7月19日)
+- [慶應SFCでの講演のあとがき。](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2011-07-16-keio-talk.md) (2011年7月16日)
