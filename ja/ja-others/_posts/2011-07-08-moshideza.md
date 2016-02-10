@@ -4,6 +4,8 @@ title: 慶應SFCで行った講演「もしデザイナー歴２ヶ月半の若�
 
 2011年7月8日に行いました。[Togetterまとめはこちら](http://togetter.com/li/159103)。
 
+![](http://chibicode.com/assets/images/moshideza/moshideza.jpg)
+
 ### パート1
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/UTm9Mklw1C0" frameborder="0" allowfullscreen></iframe>
