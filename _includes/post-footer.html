@@ -18,7 +18,7 @@
       <div class="body--ja">
         {% capture md %}{% include author-bio-jp.md %}{% endcapture %}{{ md | markdownify }}
         <p>
-          ほかにも{{ site.categories["ja"] | size | where:"draft",false | minus:1 }}件の記事があります。<a href="{{ "/jp" | prepend:site.baseurl }}" class="bold">こちらからどうぞ</a>。{% if page.next_recommend_url %}おすすめは、<a href="{{ page.next_recommend_url }}" class="bold">{{ page.next_recommend_title }}</a>という記事です。{% endif %}
+          ほかにも{{ site.categories["ja"] | size | where:"draft",false | minus:1 }}件の記事があります。<a href="{{ "/jp" | prepend:site.baseurl }}" class="bold">こちらからどうぞ</a>。{% if page.next_recommend_url %}おすすめは、<a href="{{ page.next_recommend_url }}" class="bold">{{ page.next_recommend_title }}</a>という記事です。{% endif %}自分の過去については<a href="http://chibicode.com/tanpopo-anne-nintendo/" class="bold">「タンポポ丘・アンネの家・任天堂」に置いてきたもの</a>という記事に書いています。
         </p>
       </div>
     {% endif %}
