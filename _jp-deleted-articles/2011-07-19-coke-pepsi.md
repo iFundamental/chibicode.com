@@ -12,7 +12,7 @@ title: コーラの競争相手はペプシではない
 
 **コーラの競争相手はペプシではない**
 
-&gt; コカ・コーラとペプシコーラのアメリカ2大コーラ会社はコーラを中心に同じような清涼飲料水のラインナップをそろえ、世界各地で激しいマーケティング競争を繰り広げた。--[コーラ戦争](http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%A9%E6%88%A6%E4%BA%89)
+>  コカ・コーラとペプシコーラのアメリカ2大コーラ会社はコーラを中心に同じような清涼飲料水のラインナップをそろえ、世界各地で激しいマーケティング競争を繰り広げた。--[コーラ戦争](http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%A9%E6%88%A6%E4%BA%89)
 
 コカ・コーラの「競合製品」はペプシで、ダイエットコークの「競合製品」はダイエットペプシ。だけど「競争相手」は違うかもしれない。
 
@@ -32,7 +32,7 @@ title: コーラの競争相手はペプシではない
 
 **クラウドの競争相手は家賃かもしれない**
 
-&gt; First, make a product that a billion people will fall in love with and use for the rest of their lives. Second, make it easy for a single-digit percentage of them to pay you a few bucks a month once in a while. Finally, make sure your variable costs are low enough that you can make a mountain of profit if you get #1 and #2 right. --[Phil Libin, CEO Evernote](http://toddsattersten.com/2010/02/fixed-to-flexible-interview-with-evernote-ceo-phil-libin.html)
+>  First, make a product that a billion people will fall in love with and use for the rest of their lives. Second, make it easy for a single-digit percentage of them to pay you a few bucks a month once in a while. Finally, make sure your variable costs are low enough that you can make a mountain of profit if you get #1 and #2 right. --[Phil Libin, CEO Evernote](http://toddsattersten.com/2010/02/fixed-to-flexible-interview-with-evernote-ceo-phil-libin.html)
 
 「人々が一生使うような素晴らしい商品を作り、それを毎月課金するだけだ。」そう言い切ったのはEvernote CEOのPhil Libin氏。EvernoteやDropboxといったコンシューマー向けのクラウドはみんなフリーミアム号に乗ってるわけだけれど。
 
@@ -70,7 +70,7 @@ title: コーラの競争相手はペプシではない
 
 **意中の人はもう落とされている**
 
-&gt; ぼくが一生懸命楽しませようと色々しても 一歩引いた感じで愛想笑いの様な表情しかしないのに 同僚のイケメンが話しかけた時のあの笑顔 次第にボディタッチが増え気が付けば二人ででかける仲に --[Vipperなぼく:ちょっと気になる子が目の前でモテ男に口説き落とされてる光景を見る絶望感](http://blog.livedoor.jp/news23vip/archives/3732875.html)
+>  ぼくが一生懸命楽しませようと色々しても 一歩引いた感じで愛想笑いの様な表情しかしないのに 同僚のイケメンが話しかけた時のあの笑顔 次第にボディタッチが増え気が付けば二人ででかける仲に --[Vipperなぼく:ちょっと気になる子が目の前でモテ男に口説き落とされてる光景を見る絶望感](http://blog.livedoor.jp/news23vip/archives/3732875.html)
 
 だらだらと書いてしまったが、ぼくが言いたいことはこうだ。
 
