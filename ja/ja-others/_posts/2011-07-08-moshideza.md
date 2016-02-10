@@ -2,7 +2,7 @@
 title: 慶應SFCで行った講演「もしデザイナー歴２ヶ月半の若者がデザインの話をしたら」
 ---
 
-2011年7月8日に行いました。[Togetterまとめはこちら](http://togetter.com/li/159103)。
+2011年7月8日に行いました。23歳だったころです。[Togetterまとめはこちら](http://togetter.com/li/159103)。
 
 ![](http://chibicode.com/assets/images/moshideza/moshideza.jpg)
 
