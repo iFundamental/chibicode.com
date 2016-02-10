@@ -21,7 +21,7 @@ title: "削除したブログ記事集"
 - [名君になりたいのか、名人になりたいのか、それとも名作を作りたいのか](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2013-06-26-meikun-meijin-meisaku.md) (2013年6月26日)
 - [「いままで集められなかったデータが集まる」という決まり文句はタブー](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2013-05-28-new-data.md) (2013年5月28日)
 - [Waza](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2013-01-26-waza.md) (2013年1月26日)
-- [マイクロソフトの「Surface」について、シリコンバレーに住む元デザイナーが思うこと。](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2012-06-25-surface) (2012年6月25日)
+- [マイクロソフトの「Surface」について、シリコンバレーに住む元デザイナーが思うこと。](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2012-06-25-surface.md) (2012年6月25日)
 - [TEDxUTokyoのスピーチの原稿](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2012-06-13-tedxutokyo-speech-draft.md) (2012年6月13日)
 - [ジョブズ氏へ ― わたしがはじめて「当たり前」を疑ったのは…](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2011-10-05-dear-jobs.md) (2011年10月5日)
 - [20歳を過ぎてからプログラミングを学ぼうと決めた人たちへ](http://www.slideshare.net/ShuUesugi/20-9290892)
