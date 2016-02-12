@@ -3,8 +3,6 @@ title: 「タンポポ丘・アンネの家・任天堂」に置いてきたも�
 og_image: "http://f.cl.ly/items/0v3r3i1X323c0T3V011U/nintendo1.jpg"
 og_image_width: 1080
 og_image_height: 686
-next_recommend_url: "http://chibicode.com/nhk-dilemma"
-next_recommend_title: "「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと"
 list_item_comment: "ぼくの自己紹介的な記事です。"
 ---
 

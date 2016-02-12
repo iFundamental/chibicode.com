@@ -1,10 +1,6 @@
 ---
 title: "Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話"
 date: 2013-11-06
-
-
-next_recommend_url: "http://chibicode.com/nhk-dilemma"
-next_recommend_title: "「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと"
 list_item_comment: "2013年に最も多く読まれました。"
 ---
 
