@@ -462,9 +462,7 @@ Patrick McKenzie<br>
 
 記事の推敲を担当してくれた[@ellekasai](https://twitter.com/ellekasai)、翻訳ミスを15箇所くらい直してくれたPatrickさん、ありがとう。
 
-### 関連ツイート
-
-<blockquote class="twitter-tweet" lang="en"><p>半年ぶりに日本語でブログを書きました。日本在住アメリカ人エンジニアの<a href="https://twitter.com/patio11">@patio11</a>さんが書いた名記事の拙訳です→ ビジネス・イン・ジャパン <a href="http://t.co/X0Qqu67ncx">http://t.co/X0Qqu67ncx</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/537253247359389697">November 25, 2014</a></blockquote>
+### Patrickさんのツイート
 
 <blockquote class="twitter-tweet" lang="en"><p>Shu Uesugi (<a href="https://twitter.com/chibicode">@chibicode</a>) did a Japanese translation of my &quot;Doing Business in Japan&quot; article. It is *amazing*. <a href="http://t.co/PGhC5ocuIf">http://t.co/PGhC5ocuIf</a></p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/537252154629558274">November 25, 2014</a></blockquote>
 
