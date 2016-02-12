@@ -15,6 +15,9 @@ layout: default
           {% endif %}
         </time>
       </section>
+      <div style="min-height: 35px">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.author.twitter_user_name }}" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
+      </div>
     </header>
 
     <section class="mb3 js-post-content {% if page.categories contains "ja" %}body--ja{% endif %}">
@@ -41,6 +44,9 @@ layout: default
       {% endif %}
       {{content}}
     </section>
+    <p class="mb1">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.author.twitter_user_name }}" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
+    </p>
 
     <div class="py1 sm-show"></div>
     <footer>
@@ -49,7 +55,10 @@ layout: default
       </section>
 
       <section class="mb3">
-        {% include tweet-buttons.html %}
+        <!-- NOTE: Do not try to center these buttons via text-align. That was causing a bug on mobile Chrome
+                   where the page size shrinks then enlarges on page load. -->
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.author.twitter_user_name }}" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
+        <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-count="true" data-dnt="true" data-size="large" data-show-screen-name="false"></a>
       </section>
     </footer>
   </article>
