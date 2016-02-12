@@ -20,23 +20,21 @@
         <p>
           ほかにも{{ site.categories["ja"] | size | where:"draft",false | minus:1 }}件の記事があります。<a href="{{ "/jp" | prepend:site.baseurl }}" class="bold">こちらからどうぞ</a>。
         </p>
-        <ul>
-          {% if page.next_recommend_url %}
-          <li>
-            今回の記事を気に入って頂けた方には、<a href="{{ page.next_recommend_url }}" class="bold">{{ page.next_recommend_title }}</a>という記事をおすすめします。
-          </li>
-          {% endif %}
-          {% unless page.url == "/nhk-dilemma/" %}
-          <li>
-            もっとも読まれた記事は、<a href="http://chibicode.com/nhk-dilemma/" class="bold">「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと</a>という記事です。
-          </li>
-          {% endunless %}
-          {% unless page.url == "/tanpopo-anne-nintendo/" %}
-          <li>
-            自分の過去については<a href="http://chibicode.com/tanpopo-anne-nintendo/" class="bold">「タンポポ丘・アンネの家・任天堂」に置いてきたもの</a>という記事に書いています。
-          </li>
-          {% endunless %}
+        {% if page.next_recommend_url %}
+        <p>
+          今回の記事を気に入って頂けた方には、<a href="{{ page.next_recommend_url }}" class="bold">{{ page.next_recommend_title }}</a>という記事をおすすめします。
         </p>
+        {% endif %}
+        {% unless page.url == "/nhk-dilemma/" %}
+        <p>
+          もっとも読まれた記事は、<a href="http://chibicode.com/nhk-dilemma/" class="bold">「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと</a>という記事です。
+        </p>
+        {% endunless %}
+        {% unless page.url == "/tanpopo-anne-nintendo/" %}
+        <p>
+          自分の過去については<a href="http://chibicode.com/tanpopo-anne-nintendo/" class="bold">「タンポポ丘・アンネの家・任天堂」に置いてきたもの</a>という記事に書いています。
+        </p>
+        {% endunless %}
       </div>
     {% endif %}
 </div>
