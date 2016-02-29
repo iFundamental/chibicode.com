@@ -119,4 +119,4 @@ Facebookに合格したときのぼくの履歴書はこちら (受験時は20�
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Friend made a list of top internship offers 💰 <a href="http://t.co/faEonGfjwd">pic.twitter.com/faEonGfjwd</a></p>&mdash; Tiffany Zhong (@tzhongg) <a href="https://twitter.com/tzhongg/status/536565474041937921">November 23, 2014</a></blockquote>
 
-何が言いたいかというと、シリコンバレー・サンフランシスコのインターンの相場観は、エンジニアに限ればこんな感じなのです。エンジニア以外の職種でも、上記の半分は下らないでしょう。ビザを人質に取るということの意味がお分かり頂けたら幸いです。
+何が言いたいかというと、シリコンバレー・サンフランシスコのインターンの相場観は、エンジニアに限ればこんな感じなのです。エンジニア以外の職種でも、最低限、上記の半分は下らないでしょう。ビザを人質に取られるということはどういうことか、お分かり頂けたら幸いです。
