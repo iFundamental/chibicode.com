@@ -118,3 +118,5 @@ Facebookに合格したときのぼくの履歴書はこちら (受験時は20�
 (下の画像の「k」とは「1000ドル」、「mo」とは「month (月)」、「housing」とは「家賃補助」という意味です)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Friend made a list of top internship offers 💰 <a href="http://t.co/faEonGfjwd">pic.twitter.com/faEonGfjwd</a></p>&mdash; Tiffany Zhong (@tzhongg) <a href="https://twitter.com/tzhongg/status/536565474041937921">November 23, 2014</a></blockquote>
+
+何が言いたいかというと、シリコンバレー・サンフランシスコのインターンの相場観は、エンジニアに限ればこんな感じなのです。エンジニア以外の職種でも、上記の半分は下らないでしょう。ビザを人質に取るということの意味がお分かり頂けたら幸いです。
