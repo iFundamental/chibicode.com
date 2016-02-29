@@ -113,6 +113,8 @@ Facebookに合格したときのぼくの履歴書はこちら (受験時は20�
 
 余談ですが、「アメリカで働きやすくなるということは、アメリカで学部留学をする最大のメリット」という趣旨の話を、大阪の高校生の子たちに講演でしたことがあります。[講演のスライドはこちら](http://chibicode.com/osaka)。
 
-最後に、当時(7-8年前)よりエンジニアの給料は新卒もインターンも1.5倍以上になっています。以下は2014年に、シリコンバレーのVCの方がアンケートベースで集めたインターンの給料だそうです。2014年夏のFacebookのインターンは月給+家賃補助で$7800と、ぼくの時代と比べて5年間で$2000もアップしたようです。(下の画像の「k」とは「1000ドル」、「mo」とは「month (月)」、「housing」とは「家賃補助」という意味です)
+最後に、当時(7-8年前)よりエンジニアの給料は新卒もインターンも1.5倍以上になっています。以下は2014年に、シリコンバレーのVCの方がアンケートベースで集めたインターンの給料だそうです。2014年夏のFacebookのインターンは月給+家賃補助で$7800と、ぼくの時代と比べて5年間で$2000もアップしたようです。
+
+(下の画像の「k」とは「1000ドル」、「mo」とは「month (月)」、「housing」とは「家賃補助」という意味です)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Friend made a list of top internship offers 💰 <a href="http://t.co/faEonGfjwd">pic.twitter.com/faEonGfjwd</a></p>&mdash; Tiffany Zhong (@tzhongg) <a href="https://twitter.com/tzhongg/status/536565474041937921">November 23, 2014</a></blockquote>
