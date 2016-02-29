@@ -101,6 +101,6 @@ TechCrunch Japan2月26日記載「**[日本の若者の「夢の実現」か「�
 
 当時のぼくのスペックは、ビザは永住権保持(駐在員だった父親が取得してくれた)、全米トップクラスのカーネギーメロン大学のコンピューターサイエンス学部の学部生で、成績はほぼオールAで学年トップクラスでした。
 
-ちなみに、当時(7-8年前)よりエンジニアの給料は新卒もインターンも1.5倍以上になっています。以下は2014年11月に、アンケートベースで集めたインターンの給料だそうです。2014年夏のFacebookのインターンは月給+家賃補助で$7800と、ぼくの時代と比べて5年間で$2000もアップしたようです。
+ちなみに、当時(7-8年前)よりエンジニアの給料は新卒もインターンも1.5倍以上になっています。以下は2014年11月に、アンケートベースで集めたインターンの給料だそうです。2014年夏のFacebookのインターンは月給+家賃補助で$7800と、ぼくの時代と比べて5年間で$2000もアップしたようです。(下の画像の「k」とは「1000ドル」という意味です)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Friend made a list of top internship offers 💰 <a href="http://t.co/faEonGfjwd">pic.twitter.com/faEonGfjwd</a></p>&mdash; Tiffany Zhong (@tzhongg) <a href="https://twitter.com/tzhongg/status/536565474041937921">November 23, 2014</a></blockquote>
