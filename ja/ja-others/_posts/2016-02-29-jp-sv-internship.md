@@ -76,7 +76,7 @@ TechCrunch Japan2月26日記載「**[日本の若者の「夢の実現」か「�
 >
 > インターンのようなTraining目的の旅行の場合は、以下のように報酬は貰えないことになっています。
 >
-> "Participating in a training program that is not designed primarily to provide employment. Will receive no payment or income from a U.S. based company/entity, other than an expense allowance or expense reimbursement related to traveler’s stay. "
+> "Participating in a training program that is not designed primarily to provide employment. Will receive no payment or income from a U.S. based company/entity, other than an expense allowance or expense reimbursement related to traveler’s stay."
 
 [資料へのリンクはこちら](https://travel.state.gov/content/dam/visas/BusinessVisa%20Purpose%20Listings%20March%202014%20flier.pdf)。
 
