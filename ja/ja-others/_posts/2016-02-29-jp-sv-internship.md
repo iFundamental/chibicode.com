@@ -2,7 +2,7 @@
 title: シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ
 ---
 
-以下の騒動になる前に、ぼくにも「弊社で無給でインターンさせてください！労働できるビザはありませんが」とメッセージが来たことがあります。該当する学生さん(とくにトビタテ留学Japanなどで来られてる方)は読んでおいてください。
+以下の騒動になる前に、ぼくにも「弊社で無給でインターンさせてください！労働できるビザはありませんが」とメッセージが来たことがあります。該当する学生さん(とくに観光ビザや学生ビザで来られてる方、トビタテ留学Japanなどを受けようと考えられてる方)は読んでおいてください。
 
 日経新聞2月25日記載「**[邦人インターンらの未払い給与支払い命令　米労働省、ＶＣに](http://www.nikkei.com/article/DGXLASGM25H53_V20C16A2000000/)**」より
 
@@ -34,7 +34,7 @@ TechCrunch Japan2月26日記載「**[日本の若者の「夢の実現」か「�
 >
 > このあたりの話を聞いている中で、ウッザマン氏からは「インターンは自分の仕事がインポータントなモノだと思っている。（だから自分のレポートが）クライアントに行ってしまっていると思っているのではないか」という発言があった。書き手の業界では著名な媒体に1本記事を書いただけで「○○で執筆経験アリ」とドヤ顔なプロフィールを書くライターなどもいる。そんな人も見てきた僕としては、ウッザマン氏の発言について言ってしまう気持ちは分からなくもない…というかよく分かるのだ。だけど、流暢な日本語で「日本の若者達に夢と希望を与えたい」と語ってくれた同氏の口からそんな発言を聞くと少し悲しくなる。何よりもまず、僕はインターン側からも話を聞いているのだから。
 
-そして、シリコンバレーのVCである[校條さん](https://www.facebook.com/hmenjo)のコメント:
+そして、シリコンバレーのVCである[校條さん](https://www.facebook.com/hmenjo)の[コメント](https://www.facebook.com/hmenjo/posts/10154060950627147):
 
 > アメリカという移民国家で働くことと人を採用することにはそれなりの知識と覚悟が必要です。
 >
@@ -54,7 +54,7 @@ TechCrunch Japan2月26日記載「**[日本の若者の「夢の実現」か「�
 >
 > （注）因みに、以上は私の個人的な経験から来る見解です。詳細は、弁護士にご相談ください。移民法に関しては、Immigration Lawyerに相談されることをお勧めします。
 
-校條さんの追記:
+校條さんの[追記](https://www.facebook.com/hmenjo/posts/10154061014907147):
 
 > ある有能な弁護士からさっそく以下の情報をいただきました。ただし、これは米国労働省の見解であり、インターン生が正しいビザを保有していることを暗黙の前提としています。
 >
@@ -64,7 +64,7 @@ TechCrunch Japan2月26日記載「**[日本の若者の「夢の実現」か「�
 
 [資料へのリンクはこちら](http://www.dol.gov/whd/regs/compliance/whdfs71.pdf)。
 
-校條さんの追記、その2:
+校條さんの追記、[その2](https://www.facebook.com/hmenjo/posts/10154061087772147):
 
 > 今度は、ビザ関係の資料をいただきました。
 >
@@ -73,6 +73,14 @@ TechCrunch Japan2月26日記載「**[日本の若者の「夢の実現」か「�
 > "Participating in a training program that is not designed primarily to provide employment. Will receive no payment or income from a U.S. based company/entity, other than an expense allowance or expense reimbursement related to traveler’s stay. "
 
 [資料へのリンクはこちら](https://travel.state.gov/content/dam/visas/BusinessVisa%20Purpose%20Listings%20March%202014%20flier.pdf)。
+
+校條さんの追記、[その3](https://www.facebook.com/hmenjo/posts/10154061109057147):
+
+> ある弁護士によると、「インターンは原則Temporary worker trainee (H3) or Exchange Visitor (J) visa が必須」だそうです。
+>
+> だから、ESTA（ビザなし入国）で来る方が研鑽を積むには、インターンとは呼ばないほうがいいのかもしれません。
+>
+> （関係ある方は、弁護士に確認をお勧めします。）
 
 Drivemodeを運営されている古賀さんのコメント:
 
