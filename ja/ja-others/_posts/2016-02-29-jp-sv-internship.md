@@ -124,3 +124,9 @@ Facebookに合格したときのぼくの履歴書はこちら (受験時は20�
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Friend made a list of top internship offers 💰 <a href="http://t.co/faEonGfjwd">pic.twitter.com/faEonGfjwd</a></p>&mdash; Tiffany Zhong (@tzhongg) <a href="https://twitter.com/tzhongg/status/536565474041937921">November 23, 2014</a></blockquote>
 
 何が言いたいかというと、シリコンバレー・サンフランシスコのインターンの相場観は、エンジニアに限ればこんな感じなのです。エンジニア以外の職種でも、最低限、上記の半分は下らないでしょう。ビザを人質に取られるということはどういうことか、お分かり頂けたら幸いです。
+
+### ソーシャルメディア
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">まとめました → シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ <a href="https://t.co/TbuI9rfvE2">https://t.co/TbuI9rfvE2</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/704453994161315841">February 29, 2016</a></blockquote>
+
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200261881809515" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200261881809515"><p>&#x307e;&#x3068;&#x3081;&#x307e;&#x3057;&#x305f;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200261881809515">Monday, February 29, 2016</a></blockquote></div></div>
