@@ -119,7 +119,7 @@ Facebookに合格したときのぼくの履歴書はこちら。受験時は20�
 
 「どうやってインターンを見つけたのですか」と日本から来られる学生さんに聞かれることが多いのですが、「アメリカの名門大学に通っていれば、企業側が必死になって大学までやってくるので、受動的な学生でも面接くらいはゲットできる」と答えています。企業の説明会なども大学で行われます。
 
-ちなみに留学生でも、学部留学で専攻と同じ分野のインターンであれば[CPTという就労許可が出ます](http://internationaloffice.berkeley.edu/students/current/f-1/curricular_practical_training)。卒業後は[OPTという労働許可も出ます](http://internationaloffice.berkeley.edu/students/training/f-1)。アメリカの大学を出ていれば、労働許可が切れたあとの就労ビザも出やすいと言われています。
+ちなみに留学生でも、学部留学で専攻と同じ分野のインターンであれば[CPTという就労許可が出ます](http://internationaloffice.berkeley.edu/students/current/f-1/curricular_practical_training)。卒業後は[OPTという労働許可も出ます](http://internationaloffice.berkeley.edu/students/training/f-1)。アメリカの大学を出ていれば、労働許可が切れたあとの就労ビザも取得しやすいと言われています。
 
 余談ですが、「アメリカで働きやすくなるということは、アメリカで学部留学をする最大のメリット」という趣旨の話を、2013年に大阪の高校生の子たちに講演させていただきました。[講演のスライドはこちら](http://chibicode.com/osaka)。
 
