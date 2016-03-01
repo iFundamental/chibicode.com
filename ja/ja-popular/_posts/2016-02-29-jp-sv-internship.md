@@ -135,6 +135,8 @@ Facebookに合格したときのぼくの履歴書はこちら。受験時は20�
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">彼のようにグリーンカードがない人は「特に」ビザについては事前にリサーチしまくることをお勧めする。。下手すると記録に残り、将来移民局に質問とかされて面倒になることも。外国で働くには空気や水並みに大切なビザ。 <a href="https://t.co/FmmDgMFvpL">https://t.co/FmmDgMFvpL</a></p>&mdash; Tomo Matsu (@Mokomoko924) <a href="https://twitter.com/Mokomoko924/status/704460217170395136">March 1, 2016</a></blockquote>
 
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">学生できてても、日本食レストランとかでバイトしていて、違法行為をしてしまっている日本人は多い。同時に、それを狙ってる雇う側もいる。<a href="https://t.co/qbjWWuhSxv">https://t.co/qbjWWuhSxv</a></p>&mdash; atsuya takagi (@atsuya) <a href="https://twitter.com/atsuya/status/704487218459643904">March 1, 2016</a></blockquote>
+
 無給インターンによって生じるかもしれないリスクを負いたくない方は、研修用のビザとも言われ給料も出る「J-1ビザ」のスポンサーになってくれる企業を探してください。
 
 ぼくの友人で、日本の大学を休学し、シリコンバレーの名だたる企業にJ-1ビザで有給インターンをしていた方は数人います。「その人たちを紹介して」というリクエストもぼくによく来るのですが、みな忙しいので、仲が良い人からお願いされたとき以外は断っています。
