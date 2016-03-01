@@ -127,6 +127,10 @@ Facebookに合格したときのぼくの履歴書はこちら。受験時は20�
 
 何が言いたいかというと、シリコンバレー・サンフランシスコのインターンの相場観は、エンジニアに限ればこんな感じなのです。エンジニア以外の職種でも、最低限、上記の半分は下らないでしょう。ビザを人質に取られるということはどういうことか、お分かり頂けたら幸いです。
 
+### それでも来たいという学生さんへ
+
+「J-1ビザ」のスポンサーになってくれる企業を探してください。詳しくは、[ぼくの友人が運営しているブログの記事](http://theintern.jp/2016/01/25/jvisa/)をご覧ください。
+
 ### ソーシャルメディア
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">まとめました → シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ <a href="https://t.co/TbuI9rfvE2">https://t.co/TbuI9rfvE2</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/704453994161315841">February 29, 2016</a></blockquote>
