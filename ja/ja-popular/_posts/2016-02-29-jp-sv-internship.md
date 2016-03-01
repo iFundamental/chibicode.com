@@ -169,6 +169,20 @@ J-1について詳しくは、[ぼくの友人が運営しているブログの�
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> ありがとうございます。関係者のお話をまとめさせて頂いただけなので偉そうなことは言えませんが、取材を通して今まで気付いていなかった課題を知りました。上杉さんとも何かの機会にお話できれば幸いです！</p>&mdash; Yuhei Iwamoto (@yuheiwmt) <a href="https://twitter.com/yuheiwmt/status/704529320211910657">March 1, 2016</a></blockquote>
 
+### 追記: 企業側の視点について
+
+> フェノックスでは、投資先の評価や主に日本にいる顧客への調査報告書の作成など付加価値の高い業務にインターンが携わっているにもかかわらず、最低賃金や時間外労働の対価を支払っていなかったことが違法と指摘された (日経新聞)
+
+これを読んで「日本にいる顧客はFenoxにカモにされているのか？」と思われた方は、こちらの記事をご覧ください。知人でぼくがとても信頼している、塩野さんの記事です。
+
+[シリコンバレーで、日本企業は「いいカモ」なのか](https://newspicks.com/news/1420307/)
+
+### 追記: Googleの検索結果
+
+ぼくのInstagramより。このワードで1位を取りたいと思っています。
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BCZe3gKibcv/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">書いて数時間で2位まできた</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Shu Uesugi (@chibicode) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-01T05:09:46+00:00">Feb 29, 2016 at 9:09pm PST</time></p></div></blockquote>
+
 ### 追記: ぼくのソーシャルメディア
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">まとめました → シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ <a href="https://t.co/TbuI9rfvE2">https://t.co/TbuI9rfvE2</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/704453994161315841">February 29, 2016</a></blockquote>
