@@ -147,7 +147,7 @@ J-1について詳しくは、[ぼくの友人が運営しているブログの�
 
 ### 追記: ぼくがQuora社でデザイナーになったときの履歴書
 
-なぜかぼくの履歴書についての反応がツイッターで多かったので、5年前の2011年春、23歳になりたてのときの履歴書も掲載しておきます。
+なぜかぼくの履歴書についての反応がツイッターで多かったので、5年前の2011年春、23歳になりたてのときの履歴書も掲載しておきます。InDesign CS5で作成し、利用したフォントは[National](https://vllg.com/klim/national)でした。
 
 <img src="http://chibicode.com/assets/images/jp-sv-internship/resume-quora.png" data-action="zoom" />
 
