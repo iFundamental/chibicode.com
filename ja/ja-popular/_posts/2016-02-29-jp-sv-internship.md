@@ -133,11 +133,15 @@ Facebookに合格したときのぼくの履歴書はこちら。受験時は20�
 
 何が言いたいかというと、シリコンバレー・サンフランシスコのインターンの相場観は、エンジニアに限ればこんな感じなのです。エンジニア以外の職種でも、最低限、上記の半分は下らないでしょう。ビザを人質に取られるということはどういうことか、お分かり頂けたら幸いです。
 
+ちなみに、これらはインターンの給料なので、正社員の給料はもっと高いです。新卒の給料は、だいたいインターンの1.25倍以上です。
+
 ### それでも来たいという学生さんへ
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">彼のようにグリーンカードがない人は「特に」ビザについては事前にリサーチしまくることをお勧めする。。下手すると記録に残り、将来移民局に質問とかされて面倒になることも。外国で働くには空気や水並みに大切なビザ。 <a href="https://t.co/FmmDgMFvpL">https://t.co/FmmDgMFvpL</a></p>&mdash; Tomo Matsu (@Mokomoko924) <a href="https://twitter.com/Mokomoko924/status/704460217170395136">March 1, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">学生できてても、日本食レストランとかでバイトしていて、違法行為をしてしまっている日本人は多い。同時に、それを狙ってる雇う側もいる。<a href="https://t.co/qbjWWuhSxv">https://t.co/qbjWWuhSxv</a></p>&mdash; atsuya takagi (@atsuya) <a href="https://twitter.com/atsuya/status/704487218459643904">March 1, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">とにかく本当にビザは大事だと、たった２カ国だけど海外で働いていて思う。無給だろうが労働は労働なのでビザ必要だし、でもそれをよくわかってないで甘く見ている人も多い。海外で働きたいならビザは何より気をつけなきゃいけない。下手したらその国から追い出されたりもう入れなくなったりするので。</p>&mdash; Yuka Masuda (@yukamasuda) <a href="https://twitter.com/yukamasuda/status/704636540207636484">March 1, 2016</a></blockquote>
 
 無給インターンによって生じるリスクを負いたくない方は、研修用のビザとも言われ給料も出る「J-1ビザ」のスポンサーになってくれる企業を探してください。無給インターンに比べ、難易度はケタ違いに難しいですが。
 
