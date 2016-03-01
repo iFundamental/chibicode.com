@@ -145,13 +145,19 @@ J-1について詳しくは、[ぼくの友人が運営しているブログの�
 
 ここまで書いておいて自分勝手ですが、ぼくは親がグリーンカード(永住権)を取ってくれたお陰でビザの問題を完全にスルーできたので、ぼくにビザについて相談されてもお断りします。あらかじめご了承ください。
 
-### サンフランシスコの不動産投資家、芝山さんのツイート:
+### 追記: ぼくがQuora社でデザイナーになったときの履歴書
+
+なぜかぼくの履歴書についての反応がツイッターで多かったので、5年前の2011年春、23歳になりたてのときの履歴書も掲載しておきます。
+
+<img src="http://chibicode.com/assets/images/jp-sv-internship/resume-quora.png" data-action="zoom" />
+
+### 追記: サンフランシスコの不動産投資家、芝山さんのツイート:
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">こうやってナイーブな日本人学生から$999徴収したりする業者さんもいるし。現代版奴隷商人？⇒短期無給インターンシップ参加者募集｜アメリカインターンシップの世界へとびだせ <a href="https://t.co/CCWiEshTWz">https://t.co/CCWiEshTWz</a> <a href="https://t.co/K6r7isTuWT">pic.twitter.com/K6r7isTuWT</a></p>&mdash; Gen Shibayama (@gshibayama) <a href="https://twitter.com/gshibayama/status/704381246885920768">February 29, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">彼の地での無給インターンについての上杉君の見解⇒シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ by <a href="https://twitter.com/chibicode">@chibicode</a> <a href="https://t.co/UEvNRa5mfj">https://t.co/UEvNRa5mfj</a></p>&mdash; Gen Shibayama (@gshibayama) <a href="https://twitter.com/gshibayama/status/704469097208279042">March 1, 2016</a></blockquote>
 
-### ぼくのソーシャルメディア
+### 追記: ぼくのソーシャルメディア
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">まとめました → シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ <a href="https://t.co/TbuI9rfvE2">https://t.co/TbuI9rfvE2</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/704453994161315841">February 29, 2016</a></blockquote>
 
