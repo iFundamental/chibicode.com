@@ -153,9 +153,15 @@ J-1について詳しくは、[ぼくの友人が運営しているブログの�
 
 ### 追記: サンフランシスコの不動産投資家、芝山さんのツイート:
 
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">彼の地での無給インターンについての上杉君の見解⇒シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ by <a href="https://twitter.com/chibicode">@chibicode</a> <a href="https://t.co/UEvNRa5mfj">https://t.co/UEvNRa5mfj</a></p>&mdash; Gen Shibayama (@gshibayama) <a href="https://twitter.com/gshibayama/status/704469097208279042">March 1, 2016</a></blockquote>
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">こうやってナイーブな日本人学生から$999徴収したりする業者さんもいるし。現代版奴隷商人？⇒短期無給インターンシップ参加者募集｜アメリカインターンシップの世界へとびだせ <a href="https://t.co/CCWiEshTWz">https://t.co/CCWiEshTWz</a> <a href="https://t.co/K6r7isTuWT">pic.twitter.com/K6r7isTuWT</a></p>&mdash; Gen Shibayama (@gshibayama) <a href="https://twitter.com/gshibayama/status/704381246885920768">February 29, 2016</a></blockquote>
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">彼の地での無給インターンについての上杉君の見解⇒シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ by <a href="https://twitter.com/chibicode">@chibicode</a> <a href="https://t.co/UEvNRa5mfj">https://t.co/UEvNRa5mfj</a></p>&mdash; Gen Shibayama (@gshibayama) <a href="https://twitter.com/gshibayama/status/704469097208279042">March 1, 2016</a></blockquote>
+### 追記: [TechCrunch Japanの記事](http://jp.techcrunch.com/2016/02/26/fenox/)を書かれた岩本さんのツイート:
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">シリコンバレー・サンフランシスコでのインターンシップを考えている学生さんへ <a href="https://t.co/EuTBtgbwPk">https://t.co/EuTBtgbwPk</a> <a href="https://twitter.com/chibicode">@chibicode</a>さんから</p>&mdash; Yuhei Iwamoto (@yuheiwmt) <a href="https://twitter.com/yuheiwmt/status/704473371757514752">March 1, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> ありがとうございます。関係者のお話をまとめさせて頂いただけなので偉そうなことは言えませんが、取材を通して今まで気付いていなかった課題を知りました。上杉さんとも何かの機会にお話できれば幸いです！</p>&mdash; Yuhei Iwamoto (@yuheiwmt) <a href="https://twitter.com/yuheiwmt/status/704529320211910657">March 1, 2016</a></blockquote>
 
 ### 追記: ぼくのソーシャルメディア
 
