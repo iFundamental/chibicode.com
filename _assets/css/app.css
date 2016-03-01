@@ -56,7 +56,7 @@ iframe {
   box-sizing: border-box;
 }
 
-.gist, .twitter-tweet {
+.gist, .twitter-tweet, .instagram-media {
   margin-bottom: var(--space-2) !important;
 }
 
