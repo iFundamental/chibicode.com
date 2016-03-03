@@ -171,6 +171,14 @@ J-1について詳しくは、[ぼくの友人が運営しているブログの�
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> ありがとうございます。関係者のお話をまとめさせて頂いただけなので偉そうなことは言えませんが、取材を通して今まで気付いていなかった課題を知りました。上杉さんとも何かの機会にお話できれば幸いです！</p>&mdash; Yuhei Iwamoto (@yuheiwmt) <a href="https://twitter.com/yuheiwmt/status/704529320211910657">March 1, 2016</a></blockquote>
 
+### 追記: この記事へのカナダからの反応
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">カナダの場合、コープ、ワーホリ、ポスグラ等の制度があり、また比較的取りやすいという事もあり、多くの場合は就労ビザ（または就労してもよい期間）を確保し働く事が可能ですが、それでも以下の記事のような事例は少なからずあります。 <a href="https://t.co/j1Q0ikOslL">https://t.co/j1Q0ikOslL</a></p>&mdash; バンクーバーのうぇぶ屋 (@WebyaInVan) <a href="https://twitter.com/WebyaInVan/status/704748793825247235">March 1, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ビザは外国人である以上一生つきまとう問題。カナダは学生（ビザ保有者）でも時間制限つきで働けたり、COOP（インターンシップ）ビザなども整備されているので比較的働きやすいとは思うけど、違法労働にならないように＆足元を見た企業に騙されないように注意が必要。</p>&mdash; Pitomie＠カナダ (@Pitomie) <a href="https://twitter.com/Pitomie/status/705124336781242368">March 2, 2016</a></blockquote>
+
+カナダにクリエイター留学をしたいという方は、「[バンクーバーのうぇぶ屋](http://webya.opdsgn.com/)」ことセナさんが率いる[Frog](https://frogagent.com/)の門を叩いてみてください。友人が何人もお世話になっています。
+
 ### 追記: 企業側の視点について
 
 > フェノックスでは、投資先の評価や主に日本にいる顧客への調査報告書の作成など付加価値の高い業務にインターンが携わっているにもかかわらず、最低賃金や時間外労働の対価を支払っていなかったことが違法と指摘された (日経新聞)
