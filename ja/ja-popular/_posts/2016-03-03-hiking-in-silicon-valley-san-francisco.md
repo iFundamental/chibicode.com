@@ -19,7 +19,7 @@ North Bay・サンフランシスコ(SF)市内・East Bay・Penninsula/South Bay
 
 サンフランシスコから、ゴールデンゲートブリッジを渡って北にあるハイキングコースです。シリコンバレーからは遠いです。
 
-おすすめ順にならべています。
+おすすめ順に並べています。
 
 ### Alamere Falls
 
@@ -63,7 +63,7 @@ North Bay・サンフランシスコ(SF)市内・East Bay・Penninsula/South Bay
 
 車が無い場合はぜひ市内のハイキングコースへ。どこへもバスやUberなどで行くことができます。
 
-おすすめ順にならべています。
+おすすめ順に並べています。
 
 ### Land's End
 
@@ -83,14 +83,14 @@ https://www.instagram.com/p/0gxVeqibc4/ + Mari's + https://www.instagram.com/p/B
 
 ## East Bay
 
-おすすめ順にならべています。
+おすすめ順に並べています。
 
 - Mission Peak ![]()
 - Redwood Regional Park https://www.instagram.com/p/1-8hWTCbRt/
 
 ## Peninsula / South Bay
 
-おすすめ順にならべています。
+おすすめ順に並べています。
 
 - Big Basin State Park https://www.instagram.com/p/p2ljAjCbTa/ https://www.instagram.com/p/p4OlryibSQ/
 - Castle Rock State Park ![]()
