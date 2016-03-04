@@ -61,13 +61,52 @@ North Bay・サンフランシスコ(SF)市内・East Bay・Penninsula/South Bay
 
 車が無い場合はぜひ市内のハイキングコースへ。どこへもバスやUberなどで行くことができます。
 
+### Land's End
+
+ぼくが思うに、サンフランシスコ市内で最も綺麗なハイキングコースです。
+
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/0gxVeqibc4/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-22T01:46:19+00:00">Mar 21, 2015 at 6:46pm PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 Land's end
-https://www.instagram.com/p/0gxVeqibc4/
+https://www.instagram.com/p/0gxVeqibc4/ + Mari's + https://www.instagram.com/p/BBgptFECbW0/?taken-by=chibicode
 
-Año Nuevo State Park
-https://www.instagram.com/p/0dgu_nibVN/
+- Corona Heights Park ![]()
+- Bernal Heights Park https://www.instagram.com/p/1ZX3A0CbXU/ https://www.instagram.com/p/1ZXjodibWy/
+- Twin Peaks ![]()
+- Grand View Park https://www.instagram.com/p/pPOF2pibbm/
+- Fort Funston => gotta get a photo from wikipedia
 
+## East Bay
+
+- Mission Peak ![]()
+- Redwood Regional Park https://www.instagram.com/p/1-8hWTCbRt/
+
+## Peninsula / South Bay
+
+- Big Basin State Park https://www.instagram.com/p/p2ljAjCbTa/ https://www.instagram.com/p/p4OlryibSQ/
+- Castle Rock State Park ![]()
+- Año Nuevo State Park https://www.instagram.com/p/0dgu_nibVN/
+- San Bruno Mountain County Park ![]()
+- Mori Point https://www.instagram.com/p/uVQhwjiba_/?taken-by=chibicode
+- Sweeney Ridge https://www.instagram.com/p/1rDewPiben/
+- Sawyer Camp Trail https://www.instagram.com/p/zGnBN5Cbdp/
+- Purisima Creek Redwoods Open Space Preserve https://www.instagram.com/p/nkI6uYibRQ/ https://www.instagram.com/p/nmtX8QibVz/
+- Edgewood Park & Natural Preserve [MISSING PHOTO => gotta use wikipedia ]
+- Rancho San Antonio Open Space Preserve https://www.instagram.com/p/4L2LbqCbUw/
+- Monte Bello Open Space Preserve https://www.instagram.com/p/00BG7-CbQa/
+- Portola Redwoods State Park https://commons.wikimedia.org/wiki/File:Portola_Redwoods_State_Park,_ferns.jpg
+- Russian Ridge Open Space Preserve ![]()
+- Windy Hill Open Space Preserve ![]()
+- Uvas Canyon County Park https://www.instagram.com/p/lV5IaribaA/ https://www.instagram.com/p/lV5NsfCbaM/
+- Mills Canyon Park https://www.instagram.com/p/yT06KYibXr/
+- Laurelwood Park ![]()
+- Water Dog Lake Park ![]()
+- Shoreline Park https://www.instagram.com/p/l5sJ94ibSS/?taken-by=chibicode
+
+## Yosemite
+
+- Mist Trail
 
 ## X
 
