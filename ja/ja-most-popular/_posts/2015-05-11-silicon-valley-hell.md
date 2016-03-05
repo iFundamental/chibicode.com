@@ -368,3 +368,7 @@ next_recommend_title: "#地獄のサンフランシスコ - 講演のスライ�
 2015年9月に「[#地獄のサンフランシスコ](http://chibicode.com/sf-hell)」という講演を行いました。サンフランシスコの高騰する家賃についての話です。
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">シリコンバレーを訪れてくれた日本の学生向けに講演をしました。タイトルは「<a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3?src=hash">#地獄のサンフランシスコ</a>」で、サンフランシスコの高騰する家賃についてです。 💸&#10;&#10;スライドと動画はこちら! → <a href="http://t.co/NLjSnrNMmO">http://t.co/NLjSnrNMmO</a> <a href="http://t.co/r2wasZiQBK">pic.twitter.com/r2wasZiQBK</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/646838522599477248">September 24, 2015</a></blockquote>
+
+### 追記その2
+
+「[シリコンバレー・サンフランシスコのハイキングコースまとめ](http://chibicode.com/hiking-in-silicon-valley-san-francisco)」という記事を書きました。
