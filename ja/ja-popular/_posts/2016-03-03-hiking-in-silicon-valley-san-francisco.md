@@ -455,7 +455,7 @@ Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+L
 
 ## ありがとうございました
 
-シリコンバレー・サンフランシスコにお越しの際は、最新のテクノロジーだけでなく、ベイエリアの大自然とも戯れてやってください。
+シリコンバレー・サンフランシスコにお越しの際は、最新のテクノロジーだけでなく、ベイエリアの大自然とも戯れてやってください。普通の運動着・運動靴で大丈夫です。4月から11月くらいまでは雨がほとんど降らないので、雨天中止を心配する必要もないですよ。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">シリコンバレー・サンフランシスコのハイキングコースまとめ <a href="https://t.co/4KN3Aph4r4">https://t.co/4KN3Aph4r4</a> <a href="https://t.co/kj6RXUcXHD">pic.twitter.com/kj6RXUcXHD</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/706038641877889029">March 5, 2016</a></blockquote>
 
