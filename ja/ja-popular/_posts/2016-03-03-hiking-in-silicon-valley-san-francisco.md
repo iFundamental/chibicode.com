@@ -1,8 +1,8 @@
 ---
 title: シリコンバレー・サンフランシスコのハイキングコースまとめ
-og_image: "http://f.cl.ly/items/3n2x3w26072R3J1t2N2K/glacier-point.jpg"
-og_image_width: 1400
-og_image_height: 1098
+og_image: "http://f.cl.ly/items/1l2A3Z3n3g0S1x3q2E3R/og-image.jpg"
+og_image_width: 1200
+og_image_height: 1016
 ---
 
 シリコンバレー・サンフランシスコ近辺、通称「ベイエリア」は自然がとても綺麗です。だから、こちらに住むIT企業勤務の方に「週末は何してるの?」と聞くと、「ハイキングとかに行ってるよ」と帰ってくる確率が非常に高い。
