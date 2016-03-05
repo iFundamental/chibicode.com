@@ -117,6 +117,24 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 ![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/corona-heights.jpg)
 
+### Dolores Park
+
+サンフランシスコで最も賑わう公園です。特に天気の良い週末だとお祭り騒ぎになります。ハイキングコースではありませんが、アクセスも良く、遠くまで見晴らしが良い公園なので特別に追加しました。日本から訪れてくださる方をほぼ確実に連れて行っています。
+
+ぼく的には、16th StreetのBart(地下鉄)の駅 → グラフィティアートの路地裏・[Clarion Alley](https://www.google.com/maps/place/Clarion+Alley,+San+Francisco,+CA+94110/@37.7629287,-122.4239129,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7e2324d0126b:0xc72dbc26b16992f5) → ショッピングストリート・Valencia St. → Dolores Park → ゲイタウン・Castro → Corona Heights Park → CastroからMUNI(地下鉄)でUnion Squareへ、という下町観光ルートがおすすめです。
+
+
+- おすすめ度: ★★★★☆
+- [Google Maps](https://www.google.com/maps/place/Mission+Dolores+Park/@37.7597769,-122.429257,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7e1779aa70a7:0xa618e4eff1228d60)
+
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BBgeAkLCbQ_/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-02-08T01:45:33+00:00">Feb 7, 2016 at 5:45pm PST</time></p></div></blockquote>
+
+動画バージョン:
+
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BBgNXDNibdv/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A video posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-02-07T23:20:05+00:00">Feb 7, 2016 at 3:20pm PST</time></p></div></blockquote>
+
+ちなみにSF市内で最も大きい公園は「ゴールデンゲートパーク」です。NYのセントラルパークと似ていますが、中心地からかなり離れています。公園内に美術館や博物館、日本庭園などがあります。
+
 ### Twin Peaks
 
 こちらもサンフランシスコを一望できます。Corona Heightsはローカルな感じですが、Twin Peaksはガイドブックにも載っている観光地です。景色は抜群に綺麗ですが、中心地からやや遠く、徒歩でたどり着くのは大変です。車で行きましょう。写真は友人の[Jay君](https://www.facebook.com/jayhori)と行ったとき。
