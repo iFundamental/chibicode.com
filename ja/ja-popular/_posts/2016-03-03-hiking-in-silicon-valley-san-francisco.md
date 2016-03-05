@@ -1,5 +1,5 @@
 ---
-title: シリコンバレー・サンフランシスコのハイキングコースまとめ
+title: シリコンバレー・サンフランシスコ観光者向け、ハイキングコースまとめ
 og_image: "http://f.cl.ly/items/1l2A3Z3n3g0S1x3q2E3R/og-image.jpg"
 og_image_width: 1200
 og_image_height: 1016
