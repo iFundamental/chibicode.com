@@ -317,7 +317,7 @@ Google本社の真裏にある湖とウォーキングコースで、ピクニ�
 
 日本から某自治体の研修ツアーで来られた学生さんたちを誘拐して連れて行きました。研修ツアーの何倍も楽しかったと言ってくれました。
 
-![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/uvas-canyon.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/uvas-canyon.jpg)
 
 ### Purisima Creek Redwoods Open Space Preserve
 
