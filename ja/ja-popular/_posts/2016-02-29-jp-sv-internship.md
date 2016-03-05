@@ -1,5 +1,7 @@
 ---
 title: シリコンバレーでインターンしたい学生さんへ
+next_recommend_url: "http://chibicode.com/hiking-in-silicon-valley-san-francisco/"
+next_recommend_title: "シリコンバレー・サンフランシスコ観光者向け、ハイキングコースまとめ "
 ---
 
 この記事は、
