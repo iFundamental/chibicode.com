@@ -178,7 +178,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 ![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/hiking.004.png)
 
-高速道路92号線 (Hayward Bridge) より北がPeninsula、そして南がSouth Bayと呼ばれ、South Bayの文字通り「谷 (valley)」側にシリコンバレーがあります。South Bayの南には太平洋との間に山があり、ここにハイキングコースが集中しています。
+高速道路92号線 (Hayward Bridge) より北がPeninsula (半島)、そして南がSouth Bayと呼ばれ、South Bayの文字通り「谷 (valley)」側にシリコンバレーがあります。South Bayの南には太平洋との間に山があり、ここにハイキングコースが集中しています。
 
 ぼくの独断と偏見で、おすすめ順に並べています。
 
