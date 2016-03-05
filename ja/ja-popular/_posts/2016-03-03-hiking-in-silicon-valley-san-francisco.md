@@ -348,16 +348,6 @@ Castle Rockとさほど離れていないハイキングコース。こちらは
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/zGnBN5Cbdp/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-02-15T01:24:31+00:00">Feb 14, 2015 at 5:24pm PST</time></p></div></blockquote>
 
-### Edgewood Park & Natural Preserve
-
-スタンフォードの西にあるハイキングコースです。お手軽に行けます。写真は撮ってなかったので割愛。
-
-- おすすめ度: ★★☆☆☆
-- 所要時間: 2時間 (約7キロ)
-- 運転時間: シリコンバレーから30分
-- [Bay Area Hiker](http://bahiker.com/southbayhikes/edgewood.html)
-- [Google Maps](https://www.google.com/maps/place/Edgewood+Park+%26+Natural+Preserve/@37.4663347,-122.2827915,15z/data=!4m2!3m1!1s0x0:0xad8169ab8b2598eb)
-
 ### Russian Ridge Open Space Preserve
 
 Castle Rockの隣にあるコース。草原がメインで、初心者向けです。
@@ -369,6 +359,16 @@ Castle Rockの隣にあるコース。草原がメインで、初心者向けで
 - [Google Maps](https://www.google.com/maps/place/Russian+Ridge/@37.321592,-122.2035722,17z/data=!3m1!4b1!4m2!3m1!1s0x808faef5d963fb55:0x741b80b5acac8b98)
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/russian-ridge.jpg)
+
+### Edgewood Park & Natural Preserve
+
+スタンフォードの西にあるハイキングコースです。お手軽に行けます。写真は撮ってなかったので割愛。
+
+- おすすめ度: ★★☆☆☆
+- 所要時間: 2時間 (約7キロ)
+- 運転時間: シリコンバレーから30分
+- [Bay Area Hiker](http://bahiker.com/southbayhikes/edgewood.html)
+- [Google Maps](https://www.google.com/maps/place/Edgewood+Park+%26+Natural+Preserve/@37.4663347,-122.2827915,15z/data=!4m2!3m1!1s0x0:0xad8169ab8b2598eb)
 
 ### Portola Redwoods State Park
 
