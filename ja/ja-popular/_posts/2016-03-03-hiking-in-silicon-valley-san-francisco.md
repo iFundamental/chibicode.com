@@ -11,11 +11,18 @@ og_image_height: 1016
 
 ## まえがき
 
-North Bay・サンフランシスコ(SF)市内・East Bay・Penninsula/South Bay (シリコンバレー)の順に紹介していきます。
+- North Bay
+- サンフランシスコ(SF)市内
+- East Bay
+- Penninsula/South Bay (シリコンバレー)
+
+の順に紹介していきます。土地勘が無い方向けの全体図はこちら。
 
 ![シリコンバレー サンフランシスコ 地図](/assets/images/hiking-in-silicon-valley-san-francisco/map.jpg)
 
-ハイキング中、ぼくは地図を使わずに[Bay Area Hiker](http://bahiker.com/)のハイキングガイドを利用しています。コース中、どこで曲がればいいかを太字で書いてくれているので分かりやすいです。それぞれのコースごとにリンクを貼っておきます。ちなみに山では電波が通じにくいので、ガイドはあらかじめ印刷するか、スマホでスクリーンショットを撮っておくのをおすすめします。
+ハイキング中、ぼくは地図を使わずに[Bay Area Hiker](http://bahiker.com/)のハイキングガイドを利用しています。コース中、どこで曲がればいいかを太字で書いてくれているので分かりやすいです。ここでは、それぞれのコースごとにガイドのリンクを貼っておきます。
+
+ちなみに山では電波が通じにくいので、ガイドはあらかじめ印刷するか、スマホでスクリーンショットを撮っておくのをおすすめします。
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/bahiker.png)
 
@@ -23,7 +30,7 @@ Bay Area Hikerに登録されてるハイキングコースは、地図に載せ
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/all-bahiker-hikes.jpg)
 
-ぼくが行ったことがあるコースはこの1割にも満たないでしょうが、順に紹介させてもらいます。掲載している写真はすべてぼくのスマホやカメラで撮影したものです。
+ぼくが行ったことがあるコースはこの1割にも満たないでしょうが、順に紹介させてもらいます。掲載している写真は全てぼくのスマホやカメラで撮影したものです。
 
 ## North Bayのハイキングコース
 
