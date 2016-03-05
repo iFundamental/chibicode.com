@@ -340,7 +340,7 @@ Castle Rockとさほど離れていないハイキングコース。こちらは
 
 ### Sawyer Camp Trail
 
-サンフランシスコ空港の少し南にある山の上のランニング・サイクリングコースです。湖の隣を走れてとても綺麗です。
+サンフランシスコ空港の南にある山の上のランニング・サイクリングコースです。湖の隣を走れます。
 
 - おすすめ度: ★★☆☆☆
 - 運転時間: シリコンバレーから30分
@@ -350,7 +350,7 @@ Castle Rockとさほど離れていないハイキングコース。こちらは
 
 ### Edgewood Park & Natural Preserve
 
-スタンフォードのすぐ西にあるハイキングコースです。近くて短くて手軽に行けます。写真は撮ってなかったので割愛。
+スタンフォードの西にあるハイキングコースです。お手軽に行けます。写真は撮ってなかったので割愛。
 
 - おすすめ度: ★★☆☆☆
 - 所要時間: 2時間 (約7キロ)
@@ -360,7 +360,7 @@ Castle Rockとさほど離れていないハイキングコース。こちらは
 
 ### Russian Ridge Open Space Preserve
 
-Castle Rockの隣りにあるコース。草原がメインで、初心者向けです。
+Castle Rockの隣にあるコース。草原がメインで、初心者向けです。
 
 - おすすめ度: ★★☆☆☆
 - 所要時間: 2時間 (約6キロ)
@@ -372,7 +372,7 @@ Castle Rockの隣りにあるコース。草原がメインで、初心者向け
 
 ### Portola Redwoods State Park
 
-Big Basinのやや北にあるコースです。ほとんど山の中です。遠くて長い割に景色もそこまで良いわけではなかった気がします。写真は割愛。
+Big Basinの北にあるコースです。ほとんど山の中です。遠くてコースが長い割に、景色もそこまで良いわけではなかった気がします。写真は割愛。
 
 - おすすめ度: ★★☆☆☆
 - 所要時間: 3.5時間 (約12キロ)
@@ -399,7 +399,7 @@ PenninsulaとSouth Bayの境目 (92号線) に位置する、高台のある公�
 
 Laurelwood Park ([Google Maps](https://www.google.com/maps/place/Laurelwood+Park/@37.5242527,-122.3228662,17z/data=!3m1!4b1!4m2!3m1!1s0x808f9fa52732d6fd:0x3e9cafe9b58dc5e0?hl=en-US)):
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/laurelwood-park.jpg)
+![](/assets/images/hiking-in-silicon-valley-san-francisco/laurelwood.jpg)
 
 Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+Lake+Park/@37.5221603,-122.3259174,14.8z/data=!4m7!1m4!3m3!1s0x808f9fa52732d6fd:0x3e9cafe9b58dc5e0!2sLaurelwood+Park!3b1!3m1!1s0x0000000000000000:0x032eaea8fb27d938?hl=en-US)):
 
@@ -419,7 +419,7 @@ Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+L
 
 ### Mist Trail
 
-5~6時間かかる、11キロのハイキングコースです。2つの巨大な滝のそばを歩きます。
+5~6時間かかる、11キロのハイキングコースです。ふたつの巨大な滝のそばを歩きます。
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/mist1.jpg)
 
