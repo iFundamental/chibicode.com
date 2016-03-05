@@ -153,6 +153,15 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/1ZX3A0CbXU/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-04-13T01:20:25+00:00">Apr 12, 2015 at 6:20pm PDT</time></p></div></blockquote>
 
+### Grand View Park
+
+サンフランシスコの西側の住宅街・Sunnset地区にある高台の公園。Moroga Stepsという、アートが描かれた階段が公園の西にあります([Google Maps](https://www.google.com/maps/place/16th+Avenue+Tiled+Steps/@37.755115,-122.472922,16.98z/data=!4m2!3m1!1s0x0000000000000000:0x3d5b0419554cd6ed))。
+
+- おすすめ度: ★★★☆☆
+- [Google Maps](https://www.google.com/maps/place/Grand+View+Park/@37.755115,-122.472922,16.98z/data=!4m2!3m1!1s0x0000000000000000:0x6957dbab1942eef7)
+
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/pPOF2pibbm/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-06-14T20:25:55+00:00">Jun 14, 2014 at 1:25pm PDT</time></p></div></blockquote>
+
 ### Fort Funston
 
 海沿いのビーチで、サンフランシスコ有数のドッグ・パークです。週末に行くと犬がたくさんいます。街の外れにあるので車が必要ですが、犬好きな方はぜひ。写真は撮っていなかったので割愛。
@@ -366,6 +375,7 @@ Castle Rockとさほど離れていないハイキングコース。こちらは
 
 - おすすめ度: ★★☆☆☆
 - 運転時間: シリコンバレーから30分
+- [Bay Area Hiker](http://bahiker.com/southbayhikes/sawyercamp.html)
 - [Google Maps](https://www.google.com/maps/place/Sawyer+Camp+Trail/@37.5184066,-122.3806095,13.35z/data=!4m2!3m1!1s0x808f758585ac4cc5:0x5d360fb9b6d56eaa)
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/zGnBN5Cbdp/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-02-15T01:24:31+00:00">Feb 14, 2015 at 5:24pm PST</time></p></div></blockquote>
@@ -415,7 +425,7 @@ Big Basinの北にあるコースです。ほとんど山の中です。遠く�
 
 ### Laurelwood Parkと、Water Dog Lake Park
 
-PenninsulaとSouth Bayの境目 (92号線) に位置する、高台のある公園です。家からそこまで遠くないので、仕事後とかにのんびりしに行っていました。
+PenninsulaとSouth Bayの境目 (92号線) に位置する、高台のある公園です。裏山みたいな存在。家からそこまで遠くないので、仕事後とかにのんびりしに行っていました。
 
 - おすすめ度: ★☆☆☆☆
 
@@ -452,6 +462,29 @@ Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+L
 ![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mist4.jpg)
 
 ![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mist5.jpg)
+
+## 追記: 執筆時点でまだ行けてないが、近々行ってみたいハイキングコース
+
+[Bay Area Hikerの人気ハイキングコース](http://bahiker.com/extras/best.html)を参考にしました。ガイドのリンクをそれぞれ貼っています。
+
+### North Bay
+
+- [Angel Island State Park](http://bahiker.com/northbayhikes/angelisland.html)
+- [Mount Tamalpais State Park](http://bahiker.com/northbayhikes/stinson.html)
+- [Tomales Bay State Park](http://bahiker.com/northbayhikes/tomales.html)
+- [Cataract Falls](http://bahiker.com/northbayhikes/cataractfalls.html)
+
+### East Bay
+
+- [Mount Diablo State Park](http://bahiker.com/eastbayhikes/mdsp/mcep.html)
+- [Briones Regional Park](http://bahiker.com/eastbayhikes/bcbriones.html)
+- [Tilden Regional Park](http://bahiker.com/eastbayhikes/tilden.html)
+
+### Peninsula / South Bay
+
+- [San Pedro Valley Park](http://bahiker.com/southbayhikes/sanpedro.html)
+- [Black Mountain](http://bahiker.com/southbayhikes/ranchoblack.html)
+- [McNee Ranch State Park](http://bahiker.com/southbayhikes/mcneeranch.html)
 
 ## ありがとうございました
 
