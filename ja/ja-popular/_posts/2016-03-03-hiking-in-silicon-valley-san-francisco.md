@@ -7,7 +7,7 @@ og_image_height: 1016
 
 シリコンバレー・サンフランシスコ近辺、通称「ベイエリア」は自然がとても綺麗です。だから、こちらに住むIT企業勤務の方に「週末は何してるの?」と聞くと、「ハイキングとかに行ってるよ」と返される確率がけっこう高い。
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/jack-interview.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/jack-interview.png)
 
 ぼくも去年に車を廃車にするまでは頻繁にハイキングに行っていました。というわけで、ぼくが制覇したことのあるシリコンバレー・サンフランシスコのハイキングコースをまとめてみたいと思います。
 
@@ -20,23 +20,23 @@ og_image_height: 1016
 
 の順に紹介していきます。土地勘が無い方向けの全体図はこちら。
 
-![シリコンバレー サンフランシスコ 地図](/assets/images/hiking-in-silicon-valley-san-francisco/map.jpg)
+![シリコンバレー サンフランシスコ 地図](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/map.jpg)
 
 ハイキング中、ぼくは地図を使わずに[Bay Area Hiker](http://bahiker.com/)のハイキングガイドを利用しています。コース中、どこで曲がればいいかを太字で書いてくれているので分かりやすいです。ここでは、それぞれのコースごとにガイドのリンクを貼っておきます。
 
 ちなみに山では電波が通じにくいので、ガイドはあらかじめ印刷するか、スマホでスクリーンショットを撮っておくのをおすすめします。
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/bahiker.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/bahiker.png)
 
 Bay Area Hikerに登録されてるハイキングコースは、地図に載せるとこんな感じ。赤い印があるところは全てハイキングコースです。
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/all-bahiker-hikes.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/all-bahiker-hikes.jpg)
 
 ぼくが行ったことがあるコースはこの1割にも満たないでしょうが、順に紹介させてもらいます。掲載している写真は全てぼくのスマホやカメラで撮影したものです。
 
 ## North Bayのハイキングコース
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.001.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/hiking.001.png)
 
 サンフランシスコから、ゴールデンゲートブリッジを渡って北にあるハイキングコースです。シリコンバレーからは遠いです。
 
@@ -67,7 +67,7 @@ Bay Area Hikerに登録されてるハイキングコースは、地図に載せ
 - 運転時間: サンフランシスコから1時間
 - [Google Maps](https://www.google.com/maps/place/Muir+Woods+National+Monument/@37.8994588,-122.5981928,13.71z/data=!4m2!3m1!1s0x0000000000000000:0x7aff587668ffaff9)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/muir-woods.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/muir-woods.jpg)
 
 ### Marin Headlands
 
@@ -78,11 +78,11 @@ Bay Area Hikerに登録されてるハイキングコースは、地図に載せ
 - 運転時間: サンフランシスコから20分
 - [Google Maps](https://www.google.com/maps/place/Point+Bonita+Lighthouse/@37.8349458,-122.5241935,13.83z/data=!4m2!3m1!1s0x0000000000000000:0xf3cd0c79c28533b8)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/marin-headlands.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/marin-headlands.jpg)
 
 ## サンフランシスコ市内のハイキングコース
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.002.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/hiking.002.png)
 
 車が無い場合はぜひ市内のハイキングコースへ。中心地からバスやUberなどで行くことができます。
 
@@ -100,7 +100,7 @@ Land's End Labyrinthは海沿いの崖の上にあり、魔法陣が並べられ
 
 Sutro Bathsは太平洋が見渡せる絶景ポイントです。[Youtuberのマリちゃん](https://www.facebook.com/mari.hikita)と行ったときの写真。
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/lands-end.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/lands-end.jpg)
 
 夕日が沈むときに来ると最高にロマンチックです。ぼくは一人で行くことのほうが多いですが。
 
@@ -115,7 +115,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 - おすすめ度: ★★★★☆
 - [Google Maps](https://www.google.com/maps/place/Corona+Heights+Park/@37.7653122,-122.4385846,15z/data=!4m2!3m1!1s0x0:0x25fcb2334c926ac5)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/corona-heights.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/corona-heights.jpg)
 
 ### Twin Peaks
 
@@ -124,7 +124,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 - おすすめ度: ★★★★☆
 - [Google Maps](https://www.google.com/maps/place/Twin+Peaks+Summit/@37.7521704,-122.4496148,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7de2acf071b7:0xb2cfa1c901ae6e6d)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/twin-peaks.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/twin-peaks.jpg)
 
 ### Bernal Heights Park
 
@@ -144,7 +144,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 ## East Bayのハイキングコース
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.003.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/hiking.003.png)
 
 サンフランシスコからベイブリッジという橋を渡った東側がEast Bayです。再開発が進む街・オークランドと、カリフォルニア大学バークレー校がある場所です。
 
@@ -160,7 +160,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 - [Bay Area Hiker](http://bahiker.com/eastbayhikes/missionpeak.html)
 - [Google Maps](https://www.google.com/maps/place/Ohlone+Regional+Wilderness+Trail/@37.5055098,-121.9083112,17.22z/data=!4m2!3m1!1s0x0000000000000000:0x86b02c9c56d7c26b?hl=en-US)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mission-peak.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mission-peak.jpg)
 
 ### Redwood Regional Park
 
@@ -176,7 +176,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 ## Peninsula / South Bayのハイキングコース
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.004.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/hiking.004.png)
 
 高速道路92号線 (Hayward Bridge) より北がPeninsula、そして南がSouth Bayと呼ばれ、South Bayの文字通り「谷 (valley)」側にシリコンバレーがあります。South Bayの南には太平洋との間に山があり、ここにハイキングコースが集中しています。
 
@@ -192,9 +192,9 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 - [Bay Area Hiker](http://bahiker.com/southbayhikes/castlerock.html)
 - [Google Maps](https://www.google.com/maps/place/Castle+Rock+State+Park/@37.2306972,-122.0977209,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4c9073ff198b:0x78dc81cb01bb4750?hl=en-US)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/castle-rock-1.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/castle-rock-1.jpg)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/castle-rock-2.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/castle-rock-2.jpg)
 
 ### Big Basin State Park
 
@@ -224,7 +224,7 @@ Google本社の真裏にある湖とウォーキングコースで、ピクニ�
 
 カヤックで必死にカモを追うMさん。ちなみに、カヤックはSF市内のゴールデンゲートパーク内でもできます。
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/kayak.gif)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/kayak.gif)
 
 ### Mori Point
 
@@ -235,11 +235,11 @@ Google本社の真裏にある湖とウォーキングコースで、ピクニ�
 - 運転時間: シリコンバレーから45分
 - [Google Maps](https://www.google.com/maps/place/Pacifica+Beach+Park/@37.6329252,-122.4945654,18.04z/data=!4m7!1m4!3m3!1s0x808f7a5e0827d0e9:0xcdba1d9e561d572b!2sMori+Point!3b1!3m1!1s0x0000000000000000:0x8696073e67be333b)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mori-point-1.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mori-point-1.jpg)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mori-point-2.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mori-point-2.jpg)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mori-point-3.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mori-point-3.jpg)
 
 ### Año Nuevo State Park
 
@@ -314,7 +314,7 @@ Castle Rockとさほど離れていないハイキングコース。こちらは
 - [Bay Area Hiker](http://bahiker.com/southbayhikes/whsrhg.html)
 - [Google Maps](https://www.google.com/maps/place/Windy+Hill+Parking/@37.375449,-122.223284,16z/data=!4m2!3m1!1s0x0:0x8f4299f640271cf2?hl=en-US)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/windy-hill.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/windy-hill.jpg)
 
 ### San Bruno Mountain County Park
 
@@ -326,7 +326,7 @@ Castle Rockとさほど離れていないハイキングコース。こちらは
 - [Bay Area Hiker](http://bahiker.com/southbayhikes/sanbrunosummit.html)
 - [Google Maps](https://www.google.com/maps/place/San+Bruno+Mountain+Ridge+Trail/@37.6964399,-122.4339454,17z/data=!4m7!1m4!3m3!1s0x808f7eb1ecd54be7:0x2b3013881bef2512!2s555+Guadalupe+Canyon+Pkwy,+Brisbane,+CA+94005!3b1!3m1!1s0x0000000000000000:0x92d9905dac9090ce)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/san-bruno-mountain.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/san-bruno-mountain.jpg)
 
 ### Sweeney Ridge
 
@@ -360,7 +360,7 @@ Castle Rockの隣にあるコース。草原がメインで、初心者向けで
 - [Bay Area Hiker](http://bahiker.com/southbayhikes/russianridge.html)
 - [Google Maps](https://www.google.com/maps/place/Russian+Ridge/@37.321592,-122.2035722,17z/data=!3m1!4b1!4m2!3m1!1s0x808faef5d963fb55:0x741b80b5acac8b98)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/russian-ridge.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/russian-ridge.jpg)
 
 ### Edgewood Park & Natural Preserve
 
@@ -401,15 +401,15 @@ PenninsulaとSouth Bayの境目 (92号線) に位置する、高台のある公�
 
 Laurelwood Park ([Google Maps](https://www.google.com/maps/place/Laurelwood+Park/@37.5242527,-122.3228662,17z/data=!3m1!4b1!4m2!3m1!1s0x808f9fa52732d6fd:0x3e9cafe9b58dc5e0?hl=en-US)):
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/laurelwood.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/laurelwood.jpg)
 
 Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+Lake+Park/@37.5221603,-122.3259174,14.8z/data=!4m7!1m4!3m3!1s0x808f9fa52732d6fd:0x3e9cafe9b58dc5e0!2sLaurelwood+Park!3b1!3m1!1s0x0000000000000000:0x032eaea8fb27d938?hl=en-US)):
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/water-dog-lake-park.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/water-dog-lake-park.jpg)
 
 ## おまけ: ヨセミテ国立公園
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.005.png)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/hiking.005.png)
 
 ヨセミテ国立公園はシリコンバレーから東に5時間運転したところにあります。「むき出しの大自然」という言葉がしっくりきます。キャンプ場が予約いっぱいで取れず、山の外のモーテルに泊まりましたが、次はキャンプ場に泊まって星を見たいですね。
 
@@ -417,21 +417,21 @@ Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+L
 
 車で行けるヨセミテの絶景スポットです。Macの壁紙の世界が堪能できます。
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/glacier-point.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/glacier-point.jpg)
 
 ### Mist Trail
 
 5~6時間かかる、11キロのハイキングコースです。ふたつの巨大な滝のそばを歩きます。
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mist1.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mist1.jpg)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mist2.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mist2.jpg)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mist3.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mist3.jpg)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mist4.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mist4.jpg)
 
-![](/assets/images/hiking-in-silicon-valley-san-francisco/mist5.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/mist5.jpg)
 
 ## ありがとうございました
 
