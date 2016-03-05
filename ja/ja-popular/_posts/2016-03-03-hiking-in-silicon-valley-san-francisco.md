@@ -455,7 +455,7 @@ Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+L
 
 ![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/hiking.005.png)
 
-ヨセミテ国立公園はシリコンバレーから東に5時間運転したところにあります。「むき出しの大自然」という言葉がしっくりきます。キャンプ場が予約いっぱいで取れず、山の外のモーテルに泊まりましたが、次はキャンプ場に泊まって星を見たいですね。
+ヨセミテ国立公園はシリコンバレーから東に5時間運転したところにあります。「むき出しの大自然」という言葉がしっくりきます。キャンプ場が予約いっぱいで取れず、山の外のモーテルに泊まりましたが、次はキャンプ場に泊まって星を見たいですね。テントが無くても、キャンプ場には[Housekeeping Camp](https://www.yelp.com/biz/yosemite-housekeeping-camp-yosemite-national-park)という簡易宿泊所があるようです。
 
 ### Glacier Point
 
