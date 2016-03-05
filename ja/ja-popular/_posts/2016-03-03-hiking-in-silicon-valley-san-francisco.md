@@ -69,7 +69,7 @@ Bay Area Hikerに登録されてるハイキングコースは、地図に載せ
 
 ### Marin Headlands
 
-ゴールデンゲートブリッジを渡った向こう側にある山岳地帯です。見どころはPoint Bonita Lighthouseという、岬にある灯台です (オープン時間は限られています)。Muir Woodsの帰りに、亡くなった母と一緒に行きました。写真左は弟です。
+ゴールデンゲートブリッジを渡った向こう側にある山岳地帯です。見どころはPoint Bonita Lighthouseという、岬にある灯台です (オープン時間は限られています)。こちらも亡くなった母とMuir Woodsの帰りに行きました。写真左は弟です。
 
 - おすすめ度: ★★☆☆☆
 - 所要時間: 1時間
@@ -82,7 +82,7 @@ Bay Area Hikerに登録されてるハイキングコースは、地図に載せ
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.002.png)
 
-車が無い場合はぜひ市内のハイキングコースへ。どこへもバスやUberなどで行くことができます。
+車が無い場合はぜひ市内のハイキングコースへ。中心地からバスやUberなどで行くことができます。
 
 ぼくの独断と偏見で、おすすめ順に並べています。
 
@@ -96,7 +96,7 @@ Land's End Labyrinthは海沿いの崖の上にあり、魔法陣が並べられ
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/0gxVeqibc4/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-22T01:46:19+00:00">Mar 21, 2015 at 6:46pm PDT</time></p></div></blockquote>
 
-Sutro Bathは太平洋が見渡せる絶景です。[Youtuberのマリちゃん](https://www.facebook.com/mari.hikita)と行ったときの写真。
+Sutro Bathsは太平洋が見渡せる絶景ポイントです。[Youtuberのマリちゃん](https://www.facebook.com/mari.hikita)と行ったときの写真。
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/lands-end.jpg)
 
@@ -104,11 +104,11 @@ Sutro Bathは太平洋が見渡せる絶景です。[Youtuberのマリちゃん]
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BBgptFECbW0/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-02-08T03:27:45+00:00">Feb 7, 2016 at 7:27pm PST</time></p></div></blockquote>
 
-Sutro Bathsには駐車場もあるので、時間がない場合はハイキングをせず直接ここに来ましょう。バスかUberで行けます。Golden Gate Bridgeからの帰りにぜひ。
+Sutro Bathsには駐車場もあるので、時間がない場合はハイキングをせず直接ここに来ましょう。Golden Gate Bridgeからの帰りに寄れる位置にあります。
 
 ### Corona Heights Park
 
-サンフランシスコを一望できる丘です。アメリカ最大級のゲイタウン・Castroから歩いてすぐなので、車がない方におすすめです。日本から訪ねてくださる方をよくこちらに案内しています (写真の男性もそうです)。ユニオンスクエアからは地下鉄のMUNIに乗ってCastro駅下車、そこから徒歩10分です。
+サンフランシスコを一望できる丘です。アメリカ最大級のゲイタウン・Castroから歩いてすぐなので、車が無い方におすすめです。日本から訪ねてくださる方をよくこちらに案内しています (写真の男性もそうです)。ユニオンスクエアからは地下鉄のMUNIに乗ってCastro駅下車、そこから徒歩10分です。
 
 - おすすめ度: ★★★★☆
 - [Google Maps](https://www.google.com/maps/place/Corona+Heights+Park/@37.7653122,-122.4385846,15z/data=!4m2!3m1!1s0x0:0x25fcb2334c926ac5)
@@ -126,7 +126,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 ### Bernal Heights Park
 
-こちらもサンフランシスコを一望できます。Corona Heightsと同じようにローカルな場所です。Corona Heightsよりややアクセスが悪いので星3つにしましたが、景色は素敵です。ユニオンスクエアから徒歩で行く場合は、Bartの24th St駅から徒歩25分です。シリコンバレー側から車で行くと、Corona HeightsやTwin Peaksよりも近いです。
+こちらもサンフランシスコを一望できます。Corona Heightsと同じようにローカルな場所です。Corona Heightsよりややアクセスが悪いので星3つにしましたが、景色は素敵です。ユニオンスクエアから徒歩で行く場合は、地下鉄Bartの24th St駅から徒歩25分です。シリコンバレー側から車で行くと、Corona HeightsやTwin Peaksよりも近いです。
 
 - おすすめ度: ★★★☆☆
 - [Google Maps](https://www.google.com/maps/place/Bernal+Heights+Park/@37.7429269,-122.4155741,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7e5a9201398d:0xf661a235eb3db0d3)
@@ -143,6 +143,8 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 ## East Bayのハイキングコース
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.003.png)
+
+サンフランシスコからベイブリッジという橋を渡った東側がEast Bayです。再開発が進む街・オークランドと、カリフォルニア大学バークレー校がある場所です。
 
 ぼくの独断と偏見で、おすすめ順に並べています。
 
@@ -174,13 +176,13 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/hiking.004.png)
 
-92号線 (Hayward Bridge) より北がPeninsula、そして南がSouth Bayと呼ばれ、South Bayの文字通り「谷 (valley)」側にシリコンバレーがあります。South Bayの南には太平洋との間に山があり、ここにハイキングコースが集中しています。
+高速道路92号線 (Hayward Bridge) より北がPeninsula、そして南がSouth Bayと呼ばれ、South Bayの文字通り「谷 (valley)」側にシリコンバレーがあります。South Bayの南には太平洋との間に山があり、ここにハイキングコースが集中しています。
 
 ぼくの独断と偏見で、おすすめ順に並べています。
 
 ### Castle Rock State Park
 
-山の上からの壮大なパノラマが堪能できます。シリコンバレーからそこまで遠くなく、距離もほどほどです。South Bayでぼくが最も多く足を運んだハイキングコースです。写真は[YouTuberのマリちゃんたち](https://www.facebook.com/mari.hikita)と。
+山の上からの壮大なパノラマが堪能できます。シリコンバレーからそこまで遠くなく、ハイキングの距離もほどほどです。South Bayでぼくが最も多く足を運んだハイキングコースかもしれません。写真は[YouTuberのマリちゃんたち](https://www.facebook.com/mari.hikita)と。
 
 - おすすめ度: ★★★★★
 - 所要時間: 3時間 (約9キロ)
@@ -194,7 +196,7 @@ Sutro Bathsには駐車場もあるので、時間がない場合はハイキン
 
 ### Big Basin State Park
 
-South Bayで(たぶん)最も人気のハイキングコースです。最も人気のWaterfall Loopというルートでは、いくつかの滝を見ることができます。シリコンバレーから2時間かかり、ハイキング自体も6時間かかるので、丸一日使うつもりで行きましょう。大人数で行くと楽しいです。滝の水量は冬と春が最も多いです。
+South Bayで(たぶん)最も人気のハイキングコースです。Waterfall Loopという定番ルートではいくつかの滝を見ることができます。シリコンバレーから2時間かかり、ハイキング自体も6時間かかるので、丸一日使うつもりで行きましょう。大人数で行くと楽しいです。滝は冬と春に水量が増えます。
 
 - おすすめ度: ★★★★☆
 - 所要時間: 6時間 (約18キロ)
@@ -210,7 +212,7 @@ South Bayで(たぶん)最も人気のハイキングコースです。最も人
 
 ### Shoreline Park
 
-Google本社の真裏にある湖とウォーキングコースで、ピクニックやカヤックのレンタルなどができます。湖のほとりにはカフェもあります。Google本社を訪れる際にはぜひ寄ってほしい場所です。何度訪れたか分かりません。ちなみに、カヤックはSF市内のゴールデンゲートパーク内でもできます。
+Google本社の真裏にある湖とウォーキングコースで、ピクニックをしたり、カヤックのレンタルなどができます。湖のほとりにはカフェもあります。Google本社を訪れる際にはぜひ寄ってほしい場所です。
 
 - おすすめ度: ★★★★☆
 - 運転時間: シリコンバレー中心地のGoogle本社から運転して5分
@@ -218,13 +220,13 @@ Google本社の真裏にある湖とウォーキングコースで、ピクニ�
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/l5sJ94ibSS/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-03-23T22:11:09+00:00">Mar 23, 2014 at 3:11pm PDT</time></p></div></blockquote>
 
-カヤックで必死にカモを追うMさん。
+カヤックで必死にカモを追うMさん。ちなみに、カヤックはSF市内のゴールデンゲートパーク内でもできます。
 
 ![](/assets/images/hiking-in-silicon-valley-san-francisco/kayak.gif)
 
 ### Mori Point
 
-ぼくの家から近いので、何度も足を運んでいた海岸沿いの丘です。ビーチの近くに車を泊めて海岸沿いを散歩し、南にある丘を登れば雄大な眺めが待っています。写真はWebマガジン「[はっちすたじお](http://hatchstudioinc.com/)」を運営するbooさん(顔出しNG)。
+ぼくの家から近いので、何度も足を運んだ海岸沿いの丘です。ビーチの近くに車を泊めて海岸沿いを散歩し、南にある丘を登れば雄大な眺めが待っています。写真はWebマガジン「[はっちすたじお](http://hatchstudioinc.com/)」を運営するbooさん(顔出しNG)。
 
 - おすすめ度: ★★★★☆
 - 所要時間: 駐車場から丘の上までは往復1時間ほど
@@ -239,9 +241,9 @@ Google本社の真裏にある湖とウォーキングコースで、ピクニ�
 
 ### Año Nuevo State Park
 
-冬になると野生のゾウアザラシの婚活パーティーをツアーで見ることができます。交尾とも言う。[詳細はこちら](http://www.parks.ca.gov/?page_id=523)。アザラシめっちゃおった。
+冬になると野生のゾウアザラシの婚活パーティーをツアーで見ることができます。交尾とも言う。[詳細はこちら](http://www.parks.ca.gov/?page_id=523)。
 
-- おすすめ度: ★★★★☆
+- おすすめ度: ★★★★☆ (冬のみ)
 - 所要時間: 3時間 (ツアー)
 - 運転時間: シリコンバレーから1時間~1時間半
 - [Google Maps](https://www.google.com/maps/place/A%C3%B1o+Nuevo+State+Park/@37.143,-122.3400449,15z/data=!4m2!3m1!1s0x0:0xbc276df92b2e3ea4)
