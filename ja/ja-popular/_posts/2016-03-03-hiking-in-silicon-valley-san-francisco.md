@@ -3,6 +3,8 @@ title: シリコンバレー・サンフランシスコ観光者向け、ハイ�
 og_image: "http://f.cl.ly/items/1l2A3Z3n3g0S1x3q2E3R/og-image.jpg"
 og_image_width: 1200
 og_image_height: 1016
+next_recommend_url: "http://chibicode.com/sf-hell"
+next_recommend_title: "#地獄のサンフランシスコ - 講演のスライドと動画"
 ---
 
 シリコンバレー・サンフランシスコ近辺、通称「ベイエリア」は自然がとても豊かです。だから、こちらに住むIT企業勤務の方に「週末は何してるの?」と聞くと、「ハイキングに行ってるよ」と返される確率がけっこう高い。
