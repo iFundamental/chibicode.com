@@ -488,6 +488,12 @@ Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+L
 - [Tomales Bay State Park](http://bahiker.com/northbayhikes/tomales.html)
 - [Cataract Falls](http://bahiker.com/northbayhikes/cataractfalls.html)
 
+### San Francisco
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">SF市内のハイキングはLands Endも良いけど、Presidioループもとても良いです↓ ⇒シリコンバレー・サンフランシスコ観光者向け、ハイキングコースまとめ | 上杉周作 <a href="https://t.co/bFJNtprgkK">https://t.co/bFJNtprgkK</a> <a href="https://t.co/iOar7nlpXe">pic.twitter.com/iOar7nlpXe</a></p>&mdash; Gen Shibayama (@gshibayama) <a href="https://twitter.com/gshibayama/status/706602548124209154">March 6, 2016</a></blockquote>
+
+Presidioループはレンタサイクルと車でよく行きますが、歩いたことはなかったんですよね。レンタサイクルの場合、Fisherman's Wharfでチャリを借り、海岸沿いを走ってGolden Gate Bridgeまで行き、そのまま橋を渡ってNorth Bayの港町・Sausalitoまで行き、最後にSausalitoからフェリーでFisherman's Wharfまで戻るコースがおすすめです。
+
 ### East Bay
 
 - [Mount Diablo State Park](http://bahiker.com/eastbayhikes/mdsp/mcep.html)
