@@ -649,6 +649,8 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 (余談だが、先日ぼくはRebuild.fmという、日本のエンジニアに最も人気のポッドキャストに[ゲスト出演させてもらった](http://chibicode.com/rebuild-fm)。その際にブートキャンプの裏事情について語ったので、興味がある方は[聴いてみてほしい](http://chibicode.com/rebuild-fm)。)
 
+追記 (2016/3/3): [Forbes Japanにもハックリアクターの記事が掲載されていました](http://forbesjapan.com/articles/detail/11424)。
+
 ### 「ビリギャル・バカヤンキー」v.s.「途上国のエドテック・プログラミングブートキャンプ」
 
 21世紀の「人生を変える教育」の形はひとつではない。
