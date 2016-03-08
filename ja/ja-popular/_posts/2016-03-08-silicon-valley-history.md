@@ -520,4 +520,4 @@ og_image_height: 800
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/hacking-for-defense-poster2.jpg)
 
-2015年度の日本ビジネス書大賞を受賞した、ピーターティールの「[ゼロ・トゥ・ワン](http://www.amazon.co.jp/ゼロ・トゥ・ワン　君はゼロから何を生み出せるか-ピーター・ティール-ebook/dp/B00NQ3QONK?tag=chibicode-22)」も、ティールが講師をした[スタンフォードのとある授業(2012年)](http://blakemasters.com/peter-thiels-cs183-startup)が元になっているので、Hacking for Defenseの授業内容も近々書籍化されるかもしれないですね。
+2015年度の日本ビジネス書大賞を受賞した、ピーター・ティール氏の「[ゼロ・トゥ・ワン](http://www.amazon.co.jp/ゼロ・トゥ・ワン　君はゼロから何を生み出せるか-ピーター・ティール-ebook/dp/B00NQ3QONK?tag=chibicode-22)」も、ティール氏が講師をした[スタンフォードのとある授業(2012年)](http://blakemasters.com/peter-thiels-cs183-startup)が元になっているので、Hacking for Defenseの授業内容もいつか書籍化されるかもしれないですね。
