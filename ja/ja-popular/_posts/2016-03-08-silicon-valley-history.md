@@ -12,9 +12,11 @@ og_image_height: 800
 
 その晩、参加者が泊まっていたホテルの一室を借り、ツアーで疲れた学生さんたちを労うべく、「**シリコンバレー式・自分を変える最強のエロビデオ鑑賞会**」を開かせてもらいました。
 
+![](http://chibicode.com/assets/images/silicon-valley-history/rsvp1.png)
+
 ツアーのFacebookグループで告知したところ、たくさんの人が集まってくれました。
 
-![](http://chibicode.com/assets/images/silicon-valley-history/rsvp.png)
+![](http://chibicode.com/assets/images/silicon-valley-history/rsvp2.png)
 
 「**シリコンバレー式・自分を変える最強のエロビデオ鑑賞会**」の様子。ちなみにイベント名の元ネタは[この本です](http://www.amazon.co.jp/シリコンバレー式-自分を変える最強の食事-デイヴ・アスプリー/dp/4478039674?tag=chibicode-22)。
 
