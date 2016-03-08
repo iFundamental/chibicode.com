@@ -1,7 +1,48 @@
 ---
 title: あなたが知らないシリコンバレーの歴史
 draft: true
+og_image: "http://f.cl.ly/items/0N1K3E143b1t3X0k0F1H/og-image.jpg"
+og_image_width: 1280
+og_image_height: 800
 ---
+
+こないだ、某自治体主催の学生・社会人向けシリコンバレーツアーに現地人として招かれ、最終日のビジネスプランコンテストで審査員を務めさせてもらいました。
+
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BCS-ounCbVn/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-02-27T16:32:41+00:00">Feb 27, 2016 at 8:32am PST</time></p></div></blockquote>
+
+その晩、参加者が泊まっていたホテルの一室を借り、ツアーで疲れた学生さんたちを労うべく、「**シリコンバレー式・自分を変える最強のエロビデオ鑑賞会**」を開かせてもらいました。
+
+ツアーのFacebookグループで告知したところ、たくさんの人が集まってくれました。
+
+![](http://chibicode.com/assets/images/silicon-valley-history/rsvp.png)
+
+「**シリコンバレー式・自分を変える最強のエロビデオ鑑賞会**」の様子。ちなみにイベント名の元ネタは[この本です](http://www.amazon.co.jp/シリコンバレー式-自分を変える最強の食事-デイヴ・アスプリー/dp/4478039674?tag=chibicode-22)。
+
+![](http://chibicode.com/assets/images/silicon-valley-history/edited.jpg)
+
+ビデオのあまりの過激さに、こちらの学生さんの中ではイノベーションが起きているようです。
+
+![](http://chibicode.com/assets/images/silicon-valley-history/edited.gif)
+
+鑑賞会は大盛況で、実際に見たエロビデオもグループ内でシェアしたところ、参加者ほぼ全員から「いいね」を頂きました。
+
+![](http://chibicode.com/assets/images/silicon-valley-history/after.png)
+
+## ごめんなさい
+
+・・・というのはもちろん冗談です。上のスクリーンショットも合成です。実際に鑑賞したのは、スタンフォード大で教鞭をとるスティーブ・ブランク教授の講義動画でした。
+
+[![](http://chibicode.com/assets/images/silicon-valley-history/textbook.jpg)](http://www.amazon.co.jp/G-ebook/dp/B01AN97VJK?tag=chibicode-222)
+
+ブランク氏は会社を8つ創業し、そのうち4つを上場させた元連続起業家です。「[リーンスタートアップ](http://www.amazon.co.jp/リーン・スタートアップ　ムダのない起業プロセスでイノベーションを生みだす-エリック-リース-ebook/dp/B00F3UTIQY?tag=chibicode-22)」ブームを巻き起こしたエリック・リース氏はブランク氏の教え子で、ブランク氏自身も「[アントレプレナーの教科書](http://www.amazon.co.jp/G-ebook/dp/B01AN97VJK?tag=chibicode-22)」という本を書いています。
+
+ただ、今回鑑賞したのはブランク氏の起業についてではなく、シリコンバレーの歴史についての彼の講演でした。彼は1978年、25歳のときにシリコンバレーに移住し、以来38年間住み続けていて、古株ならではなのか歴史にも詳しいのです。
+
+この講演はちょうど1年前にGigazineが[日本語に訳して](http://gigazine.net/news/20150202-silicon-valley-secret-history/)いたのですが、訳が微妙だったので、ぼくなりに、動画に字幕を入れる形で再度訳させてもらいました。
+
+前置きはここらへんにして、その字幕付き動画のキャプチャを下に載せたので、ぜひご覧ください。ちなみに、[オリジナルの動画はこちらから見れます](https://www.youtube.com/watch?v=8uA2bLrl_9Q)が、字幕付き動画は許可を得れなかったのでご覧になれません。また、講演の中で冗長だとぼくが判断した部分はカットしています。
+
+## スティーブ・ブランク シリコンバレーの知られざる歴史
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/001.jpg)
 
@@ -470,3 +511,13 @@ draft: true
 ![](http://chibicode.com/assets/images/silicon-valley-history/233.jpg)
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/234.jpg)
+
+## あとがき
+
+[彼の講演で使われた資料は全てこちらに載っています](http://steveblank.com/secret-history/)。
+
+また、スタンフォードでは2016年の春から、"Hacking for Defense"という新しい授業ができるようで、ブランク氏も教師陣の一人だとか。アメリカが現在直面している国防の問題に、優秀なスタンフォード生が取り組む授業だそうです。
+
+![](http://chibicode.com/assets/images/hacking-for-defense-poster2.jpg)
+
+[授業について詳しくはこちら](http://steveblank.com/2016/01/26/hacking-for-defense-stanford/)。
