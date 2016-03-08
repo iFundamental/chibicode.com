@@ -22,13 +22,9 @@ og_image_height: 800
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/edited.jpg)
 
-ビデオのあまりの過激さに、こちらの学生さんの中ではイノベーションが起きているようです。
+ビデオのあまりの過激さに、こちらの学生さんの中ではイノベーションが起きていたようです。
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/edited.gif)
-
-鑑賞会は大盛況で、実際に見たエロビデオもグループ内でシェアしたところ、多くの参加者から「いいね」を頂きました。
-
-![](http://chibicode.com/assets/images/silicon-valley-history/after.png)
 
 ## ごめんなさい
 
