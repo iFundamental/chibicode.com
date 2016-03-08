@@ -26,13 +26,15 @@ og_image_height: 800
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/edited.gif)
 
-鑑賞会は大盛況で、実際に見たエロビデオもグループ内でシェアしたところ、参加者ほぼ全員から「いいね」を頂きました。
+鑑賞会は大盛況で、実際に見たエロビデオもグループ内でシェアしたところ、多くの参加者から「いいね」を頂きました。
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/after.png)
 
 ## ごめんなさい
 
-・・・というのはもちろん冗談です。上のスクリーンショットも合成です。実際に鑑賞したのは、スタンフォード大で教鞭をとるスティーブ・ブランク教授の講義動画でした。
+・・・エロビデオ鑑賞会というのは、もちろん冗談です。上のスクリーンショットも合成です。
+
+実際に鑑賞したのは、スタンフォード大で教鞭をとるスティーブ・ブランク教授の講義動画でした。
 
 [![](http://chibicode.com/assets/images/silicon-valley-history/textbook.jpg)](http://www.amazon.co.jp/G-ebook/dp/B01AN97VJK?tag=chibicode-222)
 
