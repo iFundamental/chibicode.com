@@ -518,6 +518,6 @@ og_image_height: 800
 
 また、スタンフォードでは2016年の春から、"Hacking for Defense"という新しい授業ができるようで、ブランク氏も教師陣の一人だとか。アメリカが現在直面している国防の問題に、優秀なスタンフォード生が取り組む授業だそうです。[授業について詳しくはこちら](http://steveblank.com/2016/01/26/hacking-for-defense-stanford/)。
 
-![](http://chibicode.com/assets/images/hacking-for-defense-poster2.jpg)
+![](http://chibicode.com/assets/images/silicon-valley-history/hacking-for-defense-poster2.jpg)
 
 2015年度の日本ビジネス書大賞を受賞した、ピーターティールの「[ゼロ・トゥ・ワン](http://www.amazon.co.jp/ゼロ・トゥ・ワン　君はゼロから何を生み出せるか-ピーター・ティール-ebook/dp/B00NQ3QONK?tag=chibicode-22)」も、ティールが講師をした[スタンフォードのとある授業(2012年)](http://blakemasters.com/peter-thiels-cs183-startup)が元になっているので、Hacking for Defenseの授業内容も近々書籍化されるかもしれないですね。
