@@ -10,7 +10,7 @@ og_image_height: 800
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BCS-ounCbVn/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-02-27T16:32:41+00:00">Feb 27, 2016 at 8:32am PST</time></p></div></blockquote>
 
-その晩、参加者が泊まっていたホテルの一室を借り、ツアーで疲れた学生さんたちを労うべく、「**シリコンバレー式・自分を変える最強のエロビデオ鑑賞会**」を開かせてもらいました。
+その晩、参加者が泊まっていたホテルの一室を借り、ツアーで疲れた学生さんたちを労うべく、「**シリコンバレー式・自分を変える最強のエ◯ビデオ鑑賞会**」を開かせてもらいました。(伏字は検索エンジン対策です)
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/rsvp1.png)
 
@@ -18,7 +18,7 @@ og_image_height: 800
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/rsvp2.png)
 
-「**シリコンバレー式・自分を変える最強のエロビデオ鑑賞会**」の様子。ちなみにイベント名の元ネタは[この本です](http://www.amazon.co.jp/シリコンバレー式-自分を変える最強の食事-デイヴ・アスプリー/dp/4478039674?tag=chibicode-22)。
+「**シリコンバレー式・自分を変える最強のエ◯ビデオ鑑賞会**」の様子。ちなみにイベント名の元ネタは[この本です](http://www.amazon.co.jp/シリコンバレー式-自分を変える最強の食事-デイヴ・アスプリー/dp/4478039674?tag=chibicode-22)。
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/edited.jpg)
 
@@ -26,9 +26,13 @@ og_image_height: 800
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/edited.gif)
 
+鑑賞会は大盛況で、実際に見たエ◯ビデオもグループ内でシェアしたところ、多くの参加者から「いいね」を頂きました。
+
+![](http://chibicode.com/assets/images/silicon-valley-history/after.png)
+
 ## ごめんなさい
 
-・・・エロビデオ鑑賞会というのは、もちろん冗談です。上のスクリーンショットも合成です。
+・・・エ◯ビデオ鑑賞会というのは、もちろん冗談です。上のスクリーンショットも合成です。
 
 実際に鑑賞したのは、スタンフォード大で教鞭をとるスティーブ・ブランク教授の講義動画でした。
 
