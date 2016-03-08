@@ -54,6 +54,8 @@ og_image_height: 800
 
 ## スティーブ・ブランク シリコンバレーの知られざる歴史
 
+画像が234枚ありますが、画質を落としたので、全部で5MBしかありません。ご安心ください。
+
 ![](http://chibicode.com/assets/images/silicon-valley-history/001.jpg)
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/002.jpg)
