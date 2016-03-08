@@ -515,6 +515,12 @@ Presidioループはレンタサイクルと車でよく行きますが、歩い
 
 ([Amazonリンク](http://www.amazon.co.jp/ebook/dp/B01BUUQG9W?tag=chibicode-22))
 
+## 追記: サンフランシスコについて詳しく知りたい方へ
+
+こちらの講演をどうぞ。
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">シリコンバレーを訪れてくれた日本の学生向けに講演をしました。タイトルは「<a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3?src=hash">#地獄のサンフランシスコ</a>」で、サンフランシスコの高騰する家賃についてです。 💸&#10;&#10;スライドと動画はこちら! → <a href="http://t.co/NLjSnrNMmO">http://t.co/NLjSnrNMmO</a> <a href="http://t.co/r2wasZiQBK">pic.twitter.com/r2wasZiQBK</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/646838522599477248">September 24, 2015</a></blockquote>
+
 ## ありがとうございました
 
 シリコンバレー・サンフランシスコにお越しの際は、最新のテクノロジーだけでなく、ベイエリアの大自然とも戯れてやってください。普通の運動着・運動靴で大丈夫です。4月から11月くらいまでは雨がほとんど降らないので、雨天中止を心配する必要もないですよ。

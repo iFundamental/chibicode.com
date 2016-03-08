@@ -535,3 +535,9 @@ og_image_height: 800
 ![](http://chibicode.com/assets/images/silicon-valley-history/hacking-for-defense-poster2.jpg)
 
 2015年度の日本ビジネス書大賞を受賞した、ピーター・ティール氏の「[ゼロ・トゥ・ワン](http://www.amazon.co.jp/ゼロ・トゥ・ワン　君はゼロから何を生み出せるか-ピーター・ティール-ebook/dp/B00NQ3QONK?tag=chibicode-22)」も、ティール氏が講師をした[スタンフォードのとある授業(2012年)](http://blakemasters.com/peter-thiels-cs183-startup)が元になっているので、Hacking for Defenseの授業内容もいつか書籍化されるかもしれないですね。
+
+## 追記: サンフランシスコの歴史
+
+サンフランシスコの歴史の一部を知りたい方は、こちらの講演をどうぞ。ちなみに、サンフランシスコやシリコンバレーにはじめて人が大量にやってきたのは、19世紀半ばのゴールドラッシュのときでした。
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">シリコンバレーを訪れてくれた日本の学生向けに講演をしました。タイトルは「<a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3?src=hash">#地獄のサンフランシスコ</a>」で、サンフランシスコの高騰する家賃についてです。 💸&#10;&#10;スライドと動画はこちら! → <a href="http://t.co/NLjSnrNMmO">http://t.co/NLjSnrNMmO</a> <a href="http://t.co/r2wasZiQBK">pic.twitter.com/r2wasZiQBK</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/646838522599477248">September 24, 2015</a></blockquote>

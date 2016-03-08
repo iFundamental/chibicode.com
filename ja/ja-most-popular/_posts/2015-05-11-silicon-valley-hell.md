@@ -371,4 +371,10 @@ next_recommend_title: "#地獄のサンフランシスコ - 講演のスライ�
 
 ### 追記その2
 
-「[シリコンバレー・サンフランシスコのハイキングコースまとめ](http://chibicode.com/hiking-in-silicon-valley-san-francisco)」という記事を書きました。
+シリコンバレーでハイキングを楽しみたい方はこちらの記事をどうぞ。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">シリコンバレー・サンフランシスコのハイキングコースまとめ <a href="https://t.co/4KN3Aph4r4">https://t.co/4KN3Aph4r4</a> <a href="https://t.co/kj6RXUcXHD">pic.twitter.com/kj6RXUcXHD</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/706038641877889029">March 5, 2016</a></blockquote>
+
+## ソーシャルメディア
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">「恐怖、シリコンバレーの真実！！！」「<a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC?src=hash">#地獄のシリコンバレー</a>」についての私見 <a href="http://t.co/U4PHPE1FHD">http://t.co/U4PHPE1FHD</a> via <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/597972315670908928">May 12, 2015</a></blockquote>
