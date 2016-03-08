@@ -502,6 +502,7 @@ Presidioループはレンタサイクルと車でよく行きますが、歩い
 
 ### Peninsula / South Bay
 
+- [Stanford Dish](https://www.yelp.com/biz/the-dish-stanford-foothills-palo-alto)
 - [San Pedro Valley Park](http://bahiker.com/southbayhikes/sanpedro.html)
 - [Black Mountain](http://bahiker.com/southbayhikes/ranchoblack.html)
 - [McNee Ranch State Park](http://bahiker.com/southbayhikes/mcneeranch.html)
