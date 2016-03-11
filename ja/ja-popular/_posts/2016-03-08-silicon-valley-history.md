@@ -65,9 +65,9 @@ og_image_height: 800
 
 画像が234枚ありますが、画質を落としたので、全部で5MBしかありません。ご安心ください。
 
-<img src="http://chibicode.com/assets/images/silicon-valley-history/tap-or-click.png" class="js-sv-history-img" />
-
 <img src="http://chibicode.com/assets/images/silicon-valley-history/001.jpg" class="js-sv-history-img" />
+
+<img src="http://chibicode.com/assets/images/silicon-valley-history/tap-or-click.png" class="js-sv-history-img" />
 
 <img src="http://chibicode.com/assets/images/silicon-valley-history/002.jpg" class="js-sv-history-img" />
 
