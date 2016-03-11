@@ -12,4 +12,9 @@ $(function() {
   $.bigfoot();
   $('a[href^="http"]').not('a[href^="http://chibicode.com"]').attr('target','_blank');
   $(".js-post-content").fitVids({ customSelector: "iframe[src*='slideshare.net']" });
+
+  $(".js-sv-history-img").click(function () {
+    var scrollTop = $(window).scrollTop();
+    $(window).scrollTop(scrollTop + $(this).parent().outerHeight(true));
+  });
 });

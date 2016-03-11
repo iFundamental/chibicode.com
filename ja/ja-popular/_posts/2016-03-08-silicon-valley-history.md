@@ -65,473 +65,477 @@ og_image_height: 800
 
 画像が234枚ありますが、画質を落としたので、全部で5MBしかありません。ご安心ください。
 
-![](http://chibicode.com/assets/images/silicon-valley-history/001.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/tap-or-click.png" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/002.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/001.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/003.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/002.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/004.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/003.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/005.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/004.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/006.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/005.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/007.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/006.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/008.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/007.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/009.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/008.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/010.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/009.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/011.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/010.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/012.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/011.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/013.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/012.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/014.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/013.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/015.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/014.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/016.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/015.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/017.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/016.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/018.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/017.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/019.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/018.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/020.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/019.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/021.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/020.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/022.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/021.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/023.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/022.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/024.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/023.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/025.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/024.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/026.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/tap-or-click.png" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/027.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/025.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/028.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/026.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/029.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/027.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/030.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/028.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/031.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/029.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/032.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/030.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/033.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/031.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/034.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/032.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/035.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/033.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/036.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/034.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/037.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/035.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/038.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/036.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/039.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/037.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/040.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/038.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/041.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/039.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/042.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/040.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/043.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/041.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/044.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/042.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/045.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/043.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/046.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/044.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/047.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/045.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/048.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/046.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/049.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/047.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/050.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/048.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/051.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/049.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/052.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/050.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/053.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/051.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/054.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/052.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/055.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/053.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/056.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/054.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/057.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/055.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/058.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/056.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/059.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/057.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/060.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/058.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/061.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/059.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/062.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/060.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/063.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/061.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/064.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/062.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/065.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/063.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/066.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/064.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/067.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/065.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/068.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/066.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/069.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/067.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/070.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/068.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/071.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/069.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/072.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/070.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/073.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/071.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/074.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/072.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/075.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/073.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/076.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/074.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/077.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/075.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/078.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/076.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/079.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/077.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/080.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/078.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/081.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/079.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/082.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/080.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/083.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/081.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/084.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/082.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/085.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/083.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/086.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/084.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/087.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/085.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/088.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/086.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/089.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/087.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/090.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/088.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/091.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/089.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/092.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/090.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/093.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/091.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/094.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/092.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/095.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/093.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/096.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/094.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/097.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/095.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/098.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/096.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/099.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/097.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/100.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/098.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/101.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/099.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/102.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/100.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/103.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/101.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/104.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/102.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/105.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/103.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/106.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/104.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/107.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/105.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/108.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/106.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/109.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/107.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/110.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/108.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/111.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/109.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/112.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/110.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/113.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/111.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/114.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/112.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/115.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/113.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/116.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/114.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/117.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/115.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/118.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/116.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/119.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/117.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/120.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/118.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/121.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/119.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/122.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/120.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/123.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/121.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/124.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/122.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/125.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/123.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/126.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/124.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/127.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/125.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/128.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/126.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/129.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/127.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/130.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/128.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/131.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/129.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/132.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/130.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/133.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/131.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/134.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/132.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/135.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/133.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/136.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/134.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/137.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/135.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/138.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/136.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/139.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/137.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/140.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/138.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/141.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/139.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/142.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/140.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/143.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/141.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/144.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/142.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/145.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/143.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/146.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/144.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/147.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/145.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/148.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/146.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/149.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/147.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/150.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/148.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/151.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/149.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/152.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/150.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/153.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/151.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/154.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/152.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/155.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/153.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/156.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/154.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/157.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/155.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/158.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/156.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/159.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/157.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/160.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/158.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/161.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/159.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/162.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/160.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/163.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/161.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/164.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/162.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/165.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/163.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/166.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/164.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/167.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/165.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/168.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/166.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/169.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/167.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/170.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/168.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/171.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/169.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/172.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/170.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/173.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/171.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/174.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/172.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/175.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/173.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/176.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/174.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/177.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/175.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/178.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/176.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/179.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/177.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/180.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/178.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/181.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/179.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/182.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/180.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/183.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/181.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/184.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/182.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/185.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/183.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/186.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/184.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/187.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/185.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/188.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/186.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/189.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/187.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/190.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/188.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/191.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/189.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/192.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/190.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/193.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/191.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/194.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/192.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/195.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/193.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/196.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/194.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/197.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/195.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/198.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/196.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/199.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/197.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/200.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/198.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/201.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/199.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/202.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/200.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/203.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/201.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/204.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/202.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/205.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/203.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/206.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/204.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/207.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/205.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/208.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/206.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/209.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/207.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/210.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/208.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/211.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/209.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/212.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/210.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/213.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/211.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/214.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/212.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/215.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/213.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/216.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/214.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/217.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/215.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/218.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/216.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/219.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/217.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/220.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/218.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/221.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/219.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/222.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/220.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/223.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/221.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/224.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/222.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/225.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/223.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/226.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/224.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/227.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/225.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/228.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/226.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/229.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/227.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/230.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/228.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/231.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/229.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/232.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/230.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/233.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/231.jpg" class="js-sv-history-img" />
 
-![](http://chibicode.com/assets/images/silicon-valley-history/234.jpg)
+<img src="http://chibicode.com/assets/images/silicon-valley-history/232.jpg" class="js-sv-history-img" />
+
+<img src="http://chibicode.com/assets/images/silicon-valley-history/233.jpg" class="js-sv-history-img" />
+
+<img src="http://chibicode.com/assets/images/silicon-valley-history/234.jpg" class="js-sv-history-img" />
 
 ## あとがき
 
