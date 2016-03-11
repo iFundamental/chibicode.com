@@ -65,6 +65,8 @@ og_image_height: 800
 
 ### 講演の動画
 
+字幕付きです。
+
 <iframe width="960" height="720" src="https://www.youtube.com/embed/N0NNgfguR9g" frameborder="0" allowfullscreen></iframe>
 
 ### 講演の動画のキャプチャ
