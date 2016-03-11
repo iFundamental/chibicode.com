@@ -59,9 +59,15 @@ og_image_height: 800
 
 ![](http://chibicode.com/assets/images/silicon-valley-history/steveblank-email.png)
 
-前置きはここらへんにして、その字幕付き動画のキャプチャを下に載せたので、ぜひご覧ください。ちなみに、[オリジナルの動画はこちらから見れます](https://www.youtube.com/watch?v=8uA2bLrl_9Q)が、字幕付き動画は許可を得れなかったのでご覧になれません。また、講演の中で冗長だとぼくが判断した部分はカットしています。
+前置きはここらへんにして、その字幕付き動画のキャプチャを下に載せたので、ぜひご覧ください。また、講演の中で冗長だとぼくが判断した部分はカットしています。
 
 ## スティーブ・ブランク シリコンバレーの知られざる歴史
+
+### 講演の動画
+
+<iframe width="960" height="720" src="https://www.youtube.com/embed/N0NNgfguR9g" frameborder="0" allowfullscreen></iframe>
+
+### 講演の動画のキャプチャ
 
 画像が234枚ありますが、画質を落としたので、全部で5MBしかありません。ご安心ください。
 
