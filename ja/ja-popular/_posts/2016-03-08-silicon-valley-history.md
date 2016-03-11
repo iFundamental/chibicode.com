@@ -1,6 +1,5 @@
 ---
 title: あなたが知らないシリコンバレーの歴史
-draft: true
 og_image: "http://f.cl.ly/items/1w0r3p223i3j1L3i1r1j/og.jpg"
 og_image_width: 1520
 og_image_height: 800
