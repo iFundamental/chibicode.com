@@ -55,11 +55,11 @@ og_image_height: 800
 
 彼の講演はちょうど1年前にGigazineが[日本語に訳して](http://gigazine.net/news/20150202-silicon-valley-secret-history/)いたのですが、訳が微妙だったので、ぼくなりに、動画に字幕を入れる形で再度訳させてもらいました。
 
+むろん、翻訳の許可もご本人から頂きました。
+
+![](http://chibicode.com/assets/images/silicon-valley-history/steveblank-email.png)
+
 前置きはここらへんにして、その字幕付き動画のキャプチャを下に載せたので、ぜひご覧ください。ちなみに、[オリジナルの動画はこちらから見れます](https://www.youtube.com/watch?v=8uA2bLrl_9Q)が、字幕付き動画は許可を得れなかったのでご覧になれません。また、講演の中で冗長だとぼくが判断した部分はカットしています。
-
-もちろん、翻訳の許可もご本人から頂きました。
-
-![](http://chibicode.com/assets/images/silicon-valley-history/steveblank.png)
 
 ## スティーブ・ブランク シリコンバレーの知られざる歴史
 
