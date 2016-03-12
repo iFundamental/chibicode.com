@@ -4,6 +4,11 @@ og_image: "http://f.cl.ly/items/1w0r3p223i3j1L3i1r1j/og.jpg"
 og_image_width: 1520
 og_image_height: 800
 list_item_comment: "第二次世界大戦がシリコンバレーを生んだ話。"
+
+# NOTE: ###################################
+# JS required for this page is in app.js.
+# Search for js-sv-history-img
+###########################################
 ---
 
 こないだ、日本の某自治体が主催する学生・社会人向けシリコンバレーツアーに現地人として招かれ、最終日のビジネスプランコンテストで審査員を務めさせてもらいました。
