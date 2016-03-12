@@ -560,3 +560,13 @@ og_image_height: 800
 サンフランシスコの歴史の一部を知りたい方は、こちらの講演をどうぞ。ちなみに、サンフランシスコやシリコンバレーにはじめて人が大量にやってきたのは、19世紀半ばのゴールドラッシュのときでした。
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">シリコンバレーを訪れてくれた日本の学生向けに講演をしました。タイトルは「<a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3?src=hash">#地獄のサンフランシスコ</a>」で、サンフランシスコの高騰する家賃についてです。 💸&#10;&#10;スライドと動画はこちら! → <a href="http://t.co/NLjSnrNMmO">http://t.co/NLjSnrNMmO</a> <a href="http://t.co/r2wasZiQBK">pic.twitter.com/r2wasZiQBK</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/646838522599477248">September 24, 2015</a></blockquote>
+
+## ソーシャルメディア
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ブログ書きました → あなたが知らないシリコンバレーの歴史 <a href="https://t.co/53Xipsemxc">https://t.co/53Xipsemxc</a> <a href="https://t.co/roaAoldDCW">pic.twitter.com/roaAoldDCW</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/708446668732145664">March 12, 2016</a></blockquote>
+
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200279131440745" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200279131440745"><p>&#x30b7;&#x30ea;&#x30b3;&#x30f3;&#x30d0;&#x30ec;&#x30fc;&#x306e;&#x6b74;&#x53f2;&#x306b;&#x3064;&#x3044;&#x3066;&#x306e;&#x8b1b;&#x6f14;&#x3092;&#x548c;&#x8a33;&#x3057;&#x307e;&#x3057;&#x305f;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200279131440745">Friday, March 11, 2016</a></blockquote></div></div>
+
+著名人の小飼弾さんもシェアして下さいました。
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">面白いという言葉が不謹慎かもしれんが面白い &lt; あなたが知らないシリコンバレーの歴史 <a href="https://t.co/GjvdAqU9bE">https://t.co/GjvdAqU9bE</a> via <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; Dan Kogai (@dankogai) <a href="https://twitter.com/dankogai/status/708507898226192384">March 12, 2016</a></blockquote>
