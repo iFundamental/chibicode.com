@@ -135,6 +135,8 @@ list_item_comment: "第二次世界大戦がシリコンバレーを生んだ話
 
 <img src="http://chibicode.com/assets/images/silicon-valley-history/026.jpg" class="js-sv-history-img" />
 
+(↑ 12月の間違いでした。)
+
 <img src="http://chibicode.com/assets/images/silicon-valley-history/027.jpg" class="js-sv-history-img" />
 
 <img src="http://chibicode.com/assets/images/silicon-valley-history/028.jpg" class="js-sv-history-img" />
@@ -148,6 +150,8 @@ list_item_comment: "第二次世界大戦がシリコンバレーを生んだ話
 <img src="http://chibicode.com/assets/images/silicon-valley-history/032.jpg" class="js-sv-history-img" />
 
 <img src="http://chibicode.com/assets/images/silicon-valley-history/033.jpg" class="js-sv-history-img" />
+
+(↑ 空爆機 → 爆撃機です。日本語の戦争用語の知識ゼロで翻訳したので失礼しました。)
 
 <img src="http://chibicode.com/assets/images/silicon-valley-history/034.jpg" class="js-sv-history-img" />
 
