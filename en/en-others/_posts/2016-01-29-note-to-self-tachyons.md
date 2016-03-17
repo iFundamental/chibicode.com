@@ -27,3 +27,5 @@ I think before React came out, more people were reusing CSS classes, because HTM
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> … I found once I learned the naming patterns of Tachyons, I found myself extremely productive using it. And enjoying the flexblty</p>&mdash; John Otander (@4lpine) <a href="https://twitter.com/4lpine/status/693149650568634368">January 29, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> A good discussion to read that might be more enlightening than what I can do in 140 chars : )&#10;&#10;<a href="https://t.co/Pb6XowiGPe">https://t.co/Pb6XowiGPe</a></p>&mdash; John Otander (@4lpine) <a href="https://twitter.com/4lpine/status/693149922095312896">January 29, 2016</a></blockquote>
+
+See also: [Building and Shipping Functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/)
