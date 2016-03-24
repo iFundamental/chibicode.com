@@ -9,8 +9,6 @@ title: "削除したブログ記事集"
 - [「人生は一度きりなのだから楽しもう」という言葉は受け入れられない](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-05-16-enjoy-life.md) (2014年05月16日)
 - [「一定の条件を満たす人しか、好きには生きれない」](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-05-14-do-what-you-want.md) (2014年5月14日)
 - [「アスペ日記」](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-05-09-aspergers.md) (2014年5月9日)
-- [若者に機会だけ与えてはいけない](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-05-04-opportunities-vs-challenges.md) (2014年5月4日)
-- [「夢を探すな」](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-04-22-senna.md) (2014年4月22日)
 - [ひきこもっています](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-03-26-hikikomori.md) (2014年3月26日)
 - [ネットで文章を書くときに二番目に気を遣っていること](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-03-05-tips2.md) (2014年3月5日)
 - [「日本発のサービスがアメリカでユーザーを増やす方法を知りたいです」](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2014-03-02-japan-to-the-world.md) (2014年3月2日)
