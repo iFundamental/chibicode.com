@@ -2,9 +2,7 @@
 title: "若者に機会だけ与えてはいけない"
 ---
 
-シリコンバレーの先輩の方々のお力添えにより、お世辞にも活躍しているとは言えない自分ですが、このような機会を先日頂きました。
-
-<blockquote class="twitter-tweet" lang="en"><p>山本一太内閣府特命担当大臣(<a href="https://twitter.com/ichita_y">@ichita_y</a>)と夕食を同席させて頂きました！直滑降ストリーム、いつか参加させてもらいたいです😆 <a href="http://t.co/sYprMVwSPW">pic.twitter.com/sYprMVwSPW</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/461365618206191616">April 30, 2014</a></blockquote>
+シリコンバレーの先輩の方々のお力添えにより、お世辞にも活躍しているとは言えない自分ですが、このような機会を先日頂きました。山本一太内閣府特命担当大臣と夕食を同席させて頂いたのです。
 
 <blockquote class="twitter-tweet" lang="en"><p>シリコンバレーで遭遇した恐るべき２０代のもう１人、<a href="https://twitter.com/search?q=%23%E4%B8%8A%E6%9D%89%E5%91%A8%E4%BD%9C&amp;src=hash">#上杉周作</a> 氏。小学校卒業と同時に渡米。大学でコンピュータサイエンスを専攻。Apple等のインターンを経て、現在は教育系ベンチャーのEdSurgeでプログラマー兼デザイナーとして活躍。 <a href="http://t.co/dDAmnyzILo">pic.twitter.com/dDAmnyzILo</a></p>&mdash; 山本一太 (@ichita_y) <a href="https://twitter.com/ichita_y/statuses/463341507420762113">May 5, 2014</a></blockquote>
 
@@ -23,5 +21,3 @@ title: "若者に機会だけ与えてはいけない"
 また、この記事を書いたせいで、もうこういう会に呼ばれることはないと拝察しています。けれども、[以前も書いた通り](http://naze.chibicode.com/why-blog/)、わたしはまわりの期待の賞味期限がもうすぐ切れるところなので、どちみちこのような機会は二度と来ないでしょう。なので、恩知らずと言われようが、煮て食おうと焼いて食おうとお好きなようにという心構えを保ちつつ、迫り来る平凡な毎日に臨む所存でございます。
 
 <blockquote class="twitter-tweet" lang="en"><p>今回も面白い&gt;&gt; 若者に機会だけ与えてはいけない <a href="http://t.co/fBR0YN8T7b">http://t.co/fBR0YN8T7b</a> via <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; Hitoshi Hokamura 外村仁 (@hokayan) <a href="https://twitter.com/hokayan/statuses/464439078679638016">May 8, 2014</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en"><p>幸せかは条件にもよるかも。「うちの家族・友達・恋人はすごい」は関係が続く限り賞味期限切れないけど、「若いのにすごい」は年取って頭角表さなかったら賞味期限切れるよね。“<a href="https://twitter.com/ellekasai">@ellekasai</a>: 当の本人よりも、可能性を信じてくれる人が周りにたくさんいてくれるのは、幸せなことです。”</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/465155850018258944">May 10, 2014</a></blockquote>
