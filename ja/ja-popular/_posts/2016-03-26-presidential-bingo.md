@@ -3,6 +3,8 @@ title: 進学校の中高生と、アメリカ大統領選ビンゴで遊んだ�
 og_image: "http://f.cl.ly/items/2z2X1P0O0I0t2Q383K0j/og-image.jpg"
 og_image_width: 1440
 og_image_height: 810
+next_recommend_url: "http://chibicode.com/silicon-valley-history"
+next_recommend_title: "あなたが知らないシリコンバレーの歴史"
 ---
 
 春休みがある3月には、たくさんの日本人学生さんがシリコンバレー・サンフランシスコを訪れます。3週間前にも大学生向けの研修ツアーがあり、ぼくも現地人としてセッションをさせていただきました。その内容を「[あなたが知らないシリコンバレーの歴史](http://chibicode.com/silicon-valley-history/)」という記事にしたところ、2万人近い方が読んで下さりました。感謝です。
@@ -312,7 +314,7 @@ og_image_height: 810
 
 マイナスな点としては、Screenflowには漢字入力のバグがあり、[バグレポートを提出した](https://twitter.com/chibicode/status/702640351018758144)ものの未だに直っていません。
 
-こないだの記事「[あなたの知らないシリコンバレーの歴史](http://chibicode.com/silicon-valley-history/)」の動画も、同じくScreenFlowで編集しています。
+こないだの記事「[あなたが知らないシリコンバレーの歴史](http://chibicode.com/silicon-valley-history/)」の動画も、同じくScreenFlowで編集しています。
 
 ### 追記: ビンゴの景品
 
