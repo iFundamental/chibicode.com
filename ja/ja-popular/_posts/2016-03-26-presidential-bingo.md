@@ -228,7 +228,7 @@ next_recommend_title: "あなたが知らないシリコンバレーの歴史"
 
 ![](http://chibicode.com/assets/images/presidential-bingo/sanders6.jpg)
 
-**解説**: 「アメリカ人が、残業しまくる日本人より働いているなんてありえない」と思った方のために、実際に[OECDのサイト](https://stats.oecd.org/Index.aspx?DataSetCode=ANHRS#)から数字を取ってきてみましょう。すると、この通り。
+**解説**: 「アメリカ人が、残業しまくる日本人より働いているなんてありえない」と思った方のために、実際に[OECDのサイト](https://stats.oecd.org/Index.aspx?DataSetCode=ANHRS#)から数字を取ってきてみましょう。すると、データ上はアメリカのほうが日本より労働時間が長いのです。
 
 ![](http://chibicode.com/assets/images/presidential-bingo/oecd-labor-stat.png)
 
@@ -318,7 +318,7 @@ next_recommend_title: "あなたが知らないシリコンバレーの歴史"
 
 ### 追記: ビンゴの景品
 
-ぼくが読み終わった本を3冊持ってきて景品にしました。ぼくはビジネス書より新書派なので、3冊とも新書です。
+ぼくが読み終わった本を3冊持ってきて景品にしました。
 
 - **[そうだったのか！アメリカ / 池上彰](http://www.amazon.co.jp/ebook/dp/B00C7PU88U?tag=chibicode-22)** - アメリカについて詳しくない方に最もおすすめできる本です。たとえば、「アメリカの人口の9割が神の存在を信じている ([2014年時点](http://www.pewforum.org/2015/11/03/u-s-public-becoming-less-religious/))」などの事実が初耳の方はぜひご一読を。
 - **[(株)貧困大国アメリカ / 堤未果](http://www.amazon.co.jp/株-貧困大国アメリカ-岩波新書-堤-未果/dp/4004314305?tag=chibicode-22)** - 「貧困大国アメリカ」「沈みゆく大国アメリカ」シリーズは現在5冊出ていて、アメリカの格差社会の惨状が良く描かれています。「アメリカにいつか住んでみたい」と思う方は、5冊とも読んで考え直してみてください。内容がやや高度ですが、東大合格率トップ10の進学校に通う子たちなら理解できると判断しました。
