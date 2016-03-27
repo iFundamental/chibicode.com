@@ -64,7 +64,7 @@ next_recommend_title: "あなたが知らないシリコンバレーの歴史"
 
 少なくともぼくが通ってきたアメリカの大学や職場においては、政治についての会話は日常茶飯事でした。ランチの話題が昨晩のスピーチやディベートの内容になることもしょっちゅうです。選挙戦は[スポーツの試合](https://www.youtube.com/watch?v=3saU5racsGE)とさして変わらない気がします。
 
-ぼくは日本の大学に行ったことも、日本の職場で働いたこともありませんが、聞くところによると、日本では大学や職場での政治議論がそれほど盛んではないそうです。とはいえ、アメリカ大統領選の投票率は[日本の国政選挙のそれと大差はない](https://en.wikipedia.org/wiki/Voter_turnout_in_the_United_States_presidential_elections)こと、また選挙費用が日本より遥かに多いことを考えれば、アメリカも手放しに褒められたものではありません。
+ぼくは日本の大学に行ったことも、日本の職場で働いたこともありませんが、聞くところによると、日本では大学や職場での政治議論がそれほど盛んではないそうです。とはいえ、アメリカ大統領選の投票率は[日本の国政選挙のそれと大差はない](https://en.wikipedia.org/wiki/Voter_turnout_in_the_United_States_presidential_elections)こと、また選挙費用が日本より遥かに高いことを考えれば、アメリカも手放しに褒められたものではありません。
 
 さて、ぼくは2010年に新卒で[Palantir](http://techcrunch.com/2015/12/23/palantir-has-raised-880-million-at-a-20-billion-valuation/)というベンチャーにエンジニアとして入りました。ぼくが入社したとき、Palantirの評価額は[1000億円弱](http://techcrunch.com/2010/06/25/palantir-the-next-billion-dollar-company-raises-90-million/)でしたが、現在は評価額が[約2兆円](http://techcrunch.com/2015/12/23/palantir-has-raised-880-million-at-a-20-billion-valuation/)と大成功していて、ちまたでは「ユニコーン企業」と呼ばれています。
 
