@@ -10,7 +10,7 @@ import $ from 'jquery';
 
 $(function() {
   $.bigfoot();
-  $('a[href^="http"]').not('a[href^="http://chibicode.com"]').attr('target','_blank');
+  $('a[href^="http"]').attr('target','_blank');
   $(".js-post-content").fitVids({ customSelector: "iframe[src*='slideshare.net']" });
 
   $(".js-sv-history-img").click(function () {
