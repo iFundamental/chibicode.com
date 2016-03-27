@@ -130,7 +130,7 @@ next_recommend_title: "あなたが知らないシリコンバレーの歴史"
 
 ![](http://chibicode.com/assets/images/presidential-bingo/trump4.jpg)
 
-**解説**: [専門家のコンセンサス](https://www.youtube.com/watch?v=vU8dCYocuyI)は「予算はトランプ氏の試算の数倍以上になる」「メキシコが費用を払うわけがない」「そもそも壁を作っても意味が無い」とのこと。なぜ意味が無いかというと、メキシコの不法移民の半数近くは「ビザを取得し合法的に入国 → ビザが切れても滞在」という[方法を使っていたり](http://www.politifact.com/punditfact/statements/2015/sep/08/jorge-ramos/ramos-40-undocumented-immigrants-come-air/)、違法ドラッグも[キャノン砲で壁を越えて打ち込まれたりするから](http://www.cnn.com/2013/02/28/us/border-smugglers-cannon/)だそうです。
+**解説**: [専門家のコンセンサス](https://www.youtube.com/watch?v=vU8dCYocuyI)は「予算はトランプ氏の試算の数倍以上になる」「メキシコが費用を払うわけがない」「そもそも壁を作っても意味が無い」とのこと。なぜ意味が無いかというと、メキシコからの不法移民の半数近くは「ビザを取得し合法的に入国 → ビザが切れても滞在」という[方法を使っていたり](http://www.politifact.com/punditfact/statements/2015/sep/08/jorge-ramos/ramos-40-undocumented-immigrants-come-air/)、違法ドラッグも[キャノン砲で壁を越えて打ち込まれたりするから](http://www.cnn.com/2013/02/28/us/border-smugglers-cannon/)だそうです。
 
 ### トランプ氏3文字目: 「蛇」
 
