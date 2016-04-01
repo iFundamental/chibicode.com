@@ -154,12 +154,6 @@ RebuildにはAftershowという、いわゆる「B面」の収録があり、本
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">Reduxの生まれたきっかけがHot Reloadingだったという話は知らなかったので驚いた。 <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Yuki Kodama (@kuy) <a href="https://twitter.com/kuy/status/659403241298329601">October 28, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">&quot;若い人たちにチャンスくださいよ&quot; 爆笑した <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Motohiro Takayama (@mootoh) <a href="https://twitter.com/mootoh/status/659562572966817792">October 29, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">ブートキャンプの話とか面白かった Rebuild: 114: Rebuildersland (Shu Uesugi) <a href="https://t.co/5oghAu9Otp">https://t.co/5oghAu9Otp</a> <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a> via <a href="https://twitter.com/rebuildfm">@rebuildfm</a></p>&mdash; tsuyoshi shiraga (@shrk) <a href="https://twitter.com/shrk/status/659571648442425344">October 29, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">webエンジニアのフロントエンド疲れってあるよなって思った <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; KINGS ROADMAN (@roadmantw) <a href="https://twitter.com/roadmantw/status/659585426676576257">October 29, 2015</a></blockquote>
-
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">flux実装ありすぎて悩ましかったけどこれは最終形じゃないかってrebuild.fmが言ってた | Redux <a href="https://t.co/JaO7ZaXMnC">https://t.co/JaO7ZaXMnC</a></p>&mdash; kamiyaU (@fuzzy31u) <a href="https://twitter.com/fuzzy31u/status/659547702326259712">October 29, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">&quot;若い人たちにチャンスくださいよ&quot; 爆笑した <a href="https://twitter.com/hashtag/rebuildfm?src=hash">#rebuildfm</a></p>&mdash; Motohiro Takayama (@mootoh) <a href="https://twitter.com/mootoh/status/659562572966817792">October 29, 2015</a></blockquote>
