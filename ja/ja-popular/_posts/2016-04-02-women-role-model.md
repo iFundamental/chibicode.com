@@ -50,7 +50,7 @@ JK起業家というジャンルはつい最近知った。昨年度末、[亡�
 
 ![](/assets/images/women-role-model/rolemodel-jp.jpg)
 
-また、以前お付き合いさせてもらっていたElleのインタビュー記事を先月読んだのだが、そういえば彼女も「日本の女性のロールモデルになりたい」と言っていたのを思い出した。わずか2年ほどで、日本の新卒営業職からカナダの現地企業のクリエイターに転身した彼女を、憧れの目で見る女性はぼくの知る限りでも多い。
+また、以前お付き合いさせてもらっていたElleのインタビュー記事を先月読んだのだが、そういえば彼女も「日本の女性のロールモデルになりたい」と言っていたのを思い出した。わずか2年ほどで、日本の新卒営業職からカナダの現地企業のクリエイターに転身した彼女を、憧れの目で見る女性はぼくの知る限りでも多い。(ちなみに、[彼女をメンタリングしていたときに書いた記事はこちら](http://chibicode.com/40-emails)。)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">Frogにインタビューしていただきましたっヽ(=▽=)ﾉ💖<br><br>クリエイターへの転身から最短距離を走り､バンクーバーの現地企業でUIデベロッパー/デザイナーとして働いているElleさん | Frog <a href="https://t.co/KRYPTmsnUA">https://t.co/KRYPTmsnUA</a></p>&mdash; Elle Kasai (@ellekasai) <a href="https://twitter.com/ellekasai/status/713093283526774784">March 24, 2016</a></blockquote>
 
