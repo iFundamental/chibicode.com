@@ -42,7 +42,7 @@ JK起業家というジャンルはつい最近知った。昨年度末、[亡�
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">これですよ、これ。今はいい時代です！/ プログラミングスキルがあれば学歴なんていらない。17歳女子高生が大学進学をやめて挑む初起業。 — Medium <a href="https://t.co/QGbOTEq3aq">https://t.co/QGbOTEq3aq</a> <a href="https://t.co/y2uSA8Chmg">pic.twitter.com/y2uSA8Chmg</a></p>&mdash; イケダハヤト (@IHayato) <a href="https://twitter.com/IHayato/status/711010758142906369">March 19, 2016</a></blockquote>
 
-ブームなのかは分からないけれど、JK起業家に憧れているJKたちは、ツイッターを見る限り沢山いるようだった。JKたちのツイートはまるでアイドルのファンであるかのようで、この中から将来、第二波のJK起業家たちが出てくるのだろうかと思ったりした。どこもかしこも活躍する女性のロールモデル不足が嘆かれている日本だが、それを解決する手がかりが見えた気がする。
+ブームなのかは分からないけれど、JK起業家に憧れているJKたちは、ツイッターを見る限り沢山いるようだった。JKたちはまるでアイドルのファンであるかのようで、この中から将来、第二波のJK起業家たちが出てくるのだろうか、AKBに倣って「JK起業家研究生」たちが出てくるのだろうか、などと思ったりした。どこもかしこも活躍する女性のロールモデル不足が嘆かれている日本だが、それを解決する手がかりが見えた気がする。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">私事ですが【大事なお知らせ】です！ 最後までお読みいただけると嬉しいです😢🙏🏼<a href="https://twitter.com/hashtag/JCJK%E8%AA%BF%E6%9F%BB%E9%9A%8A?src=hash">#JCJK調査隊</a> <a href="https://t.co/13TqPAAoLU">pic.twitter.com/13TqPAAoLU</a></p>&mdash; ✎いちむら すずか (@s0417i) <a href="https://twitter.com/s0417i/status/715545277558468608">March 31, 2016</a></blockquote>
 
