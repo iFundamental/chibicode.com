@@ -40,8 +40,7 @@ title: 翻訳記事からブロガーライフをはじめよう
 
 - [Noteに怯える書籍編集者たち](http://blogos.com/article/160551/)
 - [ぼくがnoteに興奮する理由。これまで、ネットの記事は「無料だから」ちゃんと読まれていなかった。](http://www.ikedahayato.com/20160117/52780377.html)
-- [SNSが若者の恋愛にもたらした壁](https://note.mu/yuuuuuiiiii/n/n00dd718aa1c4)
-- [なぜ、女子はこじらせるのか](https://note.mu/yuuuuuiiiii/n/n5873e003b1ea)
+- [SNSが若者の恋愛にもたらした壁](https://note.mu/yuuuuuiiiii/n/n00dd718aa1c4) / [なぜ、女子はこじらせるのか](https://note.mu/yuuuuuiiiii/n/n5873e003b1ea)
 
 その二日後の、3月31日:
 
