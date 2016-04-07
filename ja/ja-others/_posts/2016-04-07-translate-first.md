@@ -2,7 +2,7 @@
 title: 翻訳記事からブロガーライフをはじめよう / ハーバード大教授「崩壊したアイビーリーグを立て直せるのは学力テストだけ」
 ---
 
-ぼくの記事 (2016年3月11日、震災から5年めの日に公開。ページビューは2万を超えました):
+ぼくの記事 (2016年3月11日、震災から5年たった日に公開。ページビューは2万を超えました):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ブログ書きました → あなたが知らないシリコンバレーの歴史 <a href="https://t.co/53Xipsemxc">https://t.co/53Xipsemxc</a> <a href="https://t.co/roaAoldDCW">pic.twitter.com/roaAoldDCW</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/708446668732145664">March 12, 2016</a></blockquote>
 
