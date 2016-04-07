@@ -17,7 +17,7 @@ Patrick McKenzieさん (Twitter: [@patio11](https://twitter.com/patio11))はア�
 
 日本のビジネス慣習を海外に紹介している記事なので、「忙しいから、日本人なら誰でも知ってることをわざわざ読みたくない」と思う気持ちも分かる。あえて余計なことを言うと、この記事のポイントの一つは「日本人は多忙である」なのだが、それが「忙しくて読めない」と重なってメタ的に面白い。
 
-ちなみに訳者はシリコンバレー在住・26歳の見習いエンジニアである (Twitter: [@chibicode](https://twitter.com/chibicode))。12歳からアメリカに住んでいるので、日本で働いたことはない。
+ちなみに訳者はシリコンバレー在住・26歳の見習いエンジニアである (注: 執筆当時)。12歳からアメリカに住んでいるので、日本で働いたことはない。
 
 記事の最後にぼくの意見も書いているので、そちらもあわせてどうぞ。
 
@@ -439,6 +439,8 @@ Patrick McKenzie<br>
 [patrick@kalzumeus.com](mailto:patrick@kalzumeus.com)<br>
 [http://www.kalzumeus.com](http://www.kalzumeus.com)
 
+元記事: [Doing Business in Japan](http://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)
+
 ---
 
 ## 訳者の感想
@@ -452,11 +454,6 @@ Patrick McKenzie<br>
 **感想その4:** 国外向けにソフトウェアを販売しているPatrickさんは、ビジネスモデル的に日本にしがらみが無いからこそ、ここまで踏み込んだ文章を書けるのかもしれない。日本にいる外国人で、このような記事を書きたくても立場的に書けない人は多いのだろう。
 
 「高技能移民を受け入れるか否か」はよく議論されることだが、一番大切なのは、当事者である高技能移民の方々が「ここがヘンだよ」と恐れず言える環境を整えることだと思う。
-
----
-
-訳者(上杉周作)への連絡は、[shu@chibicode.com](mailto:shu@chibicode.com)からどうぞ。
-
 
 ## 追記
 
