@@ -22,7 +22,7 @@ title: 翻訳記事からブロガーライフをはじめよう
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ピンカーのような知識人の意見はとても重要だと思うけど、そういう人たちの意見が日本語に訳され広く認知されることは少ない。なぜなら彼らの英語はとても難しく書かれており、かなり複雑な問題に答えようとしているから。しかし人は簡単で単純な答えに走りたがる。</p>&mdash; Kodai Kusano (@kodaikusano) <a href="https://twitter.com/kodaikusano/status/708724371813060608">March 12, 2016</a></blockquote>
 
-10日後の、3月22日にKodaiくんからきたメッセージ (注: Digital Nativeはぼくが以前作ったMedium.com上の記事コレクションみたいなもの):
+10日後の、3月22日にKodaiくんからきたメッセージ。 **どうやら、Kodaiくんは上記のピンカー氏の記事を翻訳したので、ぼくが以前作っていたMediumの記事コレクションに寄稿したいとのことらしい。**
 
 ![](http://chibicode.com/assets/images/translate-first/convo1.png)
 
@@ -42,7 +42,7 @@ title: 翻訳記事からブロガーライフをはじめよう
 - [ぼくがnoteに興奮する理由。これまで、ネットの記事は「無料だから」ちゃんと読まれていなかった。](http://www.ikedahayato.com/20160117/52780377.html)
 - [SNSが若者の恋愛にもたらした壁](https://note.mu/yuuuuuiiiii/n/n00dd718aa1c4) / [なぜ、女子はこじらせるのか](https://note.mu/yuuuuuiiiii/n/n5873e003b1ea)
 
-その二日後の、3月31日:
+その二日後の3月31日に彼が翻訳記事を公開:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">スティーブンピンカー教授の記事を翻訳しました。note初投稿です。 ハーバード大教授「崩壊したアイビーリーグを立て直せるのは学力テストだけ」｜Kodai Kusano｜note（ノート） <a href="https://t.co/DOWxrGnbOh">https://t.co/DOWxrGnbOh</a></p>&mdash; Kodai Kusano (@kodaikusano) <a href="https://twitter.com/kodaikusano/status/715690681839144960">April 1, 2016</a></blockquote>
 
