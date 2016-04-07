@@ -21,11 +21,9 @@ draft: true
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ピンカーのような知識人の意見はとても重要だと思うけど、そういう人たちの意見が日本語に訳され広く認知されることは少ない。なぜなら彼らの英語はとても難しく書かれており、かなり複雑な問題に答えようとしているから。しかし人は簡単で単純な答えに走りたがる。</p>&mdash; Kodai Kusano (@kodaikusano) <a href="https://twitter.com/kodaikusano/status/708724371813060608">March 12, 2016</a></blockquote>
 
-10日後の、3月22日にKodaiくんからきたメッセージ:
+10日後の、3月22日にKodaiくんからきたメッセージ (注: Digital Nativeはぼくが以前作ったMedium.com上の記事コレクションみたいなもの):
 
 ![](http://chibicode.com/assets/images/translate-first/convo1.png)
-
-(注: Digital Nativeはぼくが以前作ったMedium.com上の記事コレクションみたいなもの)
 
 その一週間後の、3月29日に彼に送ったメッセージ:
 
