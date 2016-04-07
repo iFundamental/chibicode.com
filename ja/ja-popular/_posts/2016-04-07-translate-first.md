@@ -167,3 +167,12 @@ Kodaiくんはきちんとピンカー氏に許可をとっていたし、ぼく
 ちゃんとKodaiくんに許可とってます。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">情報化された今の時代でも、意外と高い言語の壁。ただ英語になっているだけで読まれていない貴重な情報はたくさんあります。英語の少し得意な人の、ちょっとした空き時間を使い、新しい情報を提供できるのはとてもコスパがいいと思います。 <a href="https://t.co/99TN7Vgtt1">https://t.co/99TN7Vgtt1</a></p>&mdash; Kodai Kusano (@kodaikusano) <a href="https://twitter.com/kodaikusano/status/717979916973674496">April 7, 2016</a></blockquote>
+
+### ぼくの翻訳記事一覧
+
+- [あなたが知らないシリコンバレーの歴史](http://chibicode.com/silicon-valley-history/)
+- [EdSurgeとはどんな会社か？とある教育メディアがシリコンバレーで生まれた話](http://chibicode.com/how-edsurge-started/)
+- [ビジネス・イン・ジャパン](http://chibicode.com/doing-business-in-japan/)
+- [Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという](http://chibicode.com/voice-exit/)
+- [「保険」「鋭いナイフ」「小便飲まずして泣くべからず」](http://chibicode.com/aaron/)
+- [ブログを書く理由 ](http://chibicode.com/why-blog/)
