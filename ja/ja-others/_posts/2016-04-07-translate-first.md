@@ -139,7 +139,9 @@ Noteの公式アカウントもツイート:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">Frogにインタビューしていただきましたっヽ(=´▽=)ﾉ💖<br><br>クリエイターへの転身から最短距離を走り､バンクーバーの現地企業でUIデベロッパー/デザイナーとして働いているElleさん | Frog <a href="https://t.co/KRYPTmsnUA">https://t.co/KRYPTmsnUA</a></p>&mdash; Elle Kasai (@ellekasai) <a href="https://twitter.com/ellekasai/status/713093283526774784">March 24, 2016</a></blockquote>
 
-というわけで、結論:「翻訳記事からブロガーライフをはじめよう」
+###というわけで、結論
+
+翻訳記事からブロガーライフをはじめよう。
 
 ## 追記
 
