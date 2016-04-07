@@ -140,4 +140,3 @@ Noteの公式アカウントもツイート:
 記事の最後にその記事をシェアしたツイートを埋め込むと、リツイートやフォローしてくれる人が増えます。というわけで:
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">まとめた。<a href="https://twitter.com/kodaikusano">@kodaikusano</a>くんにも記事掲載の許可とった。 → 翻訳記事からブロガーライフをはじめよう / ハーバード大教授「崩壊したアイビーリーグを立て直せるのは学力テストだけ」 <a href="https://t.co/I2xe7IdPDV">https://t.co/I2xe7IdPDV</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/717977808673189888">April 7, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
