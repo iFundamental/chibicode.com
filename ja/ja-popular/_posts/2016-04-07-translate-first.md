@@ -32,6 +32,10 @@ title: 翻訳記事からブロガーライフをはじめよう
 
 ![](http://chibicode.com/assets/images/translate-first/convo3.png)
 
+![](http://chibicode.com/assets/images/translate-first/convo4.png)
+
+![](http://chibicode.com/assets/images/translate-first/convo5.png)
+
 送ったリンク:
 
 - [Noteに怯える書籍編集者たち](http://blogos.com/article/160551/)
