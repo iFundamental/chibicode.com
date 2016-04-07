@@ -1,5 +1,5 @@
 ---
-title: 翻訳記事からブロガーライフをはじめよう
+title: 翻訳記事からブロガーライフをはじめよう / ハーバード大教授「崩壊したアイビーリーグを立て直せるのは学力テストだけ」
 draft: true
 ---
 
@@ -23,15 +23,15 @@ draft: true
 
 10日後の、3月22日にKodaiくんからきたメッセージ:
 
-![](/assets/images/translate-first/convo1.png)
+![](http://chibicode.com/assets/images/translate-first/convo1.png)
 
 (注: Digital Nativeはぼくが以前作ったMedium.com上の記事コレクションみたいなもの)
 
 その一週間後の、3月29日に彼に送ったメッセージ:
 
-![](/assets/images/translate-first/convo2.png)
+![](http://chibicode.com/assets/images/translate-first/convo2.png)
 
-![](/assets/images/translate-first/convo3.png)
+![](http://chibicode.com/assets/images/translate-first/convo3.png)
 
 送ったリンク:
 
@@ -78,7 +78,7 @@ draft: true
 
 Newspicksでもピックされはじめる:
 
-![](/assets/images/translate-first/np.png)
+![](http://chibicode.com/assets/images/translate-first/np.png)
 
 記事がツイッター上の有名人の間で読まれはじめる:
 
@@ -132,6 +132,6 @@ Noteの公式アカウントもツイート:
 
 はてブが1500近くついていました。たぶん、10万近い人が読んだのではないだろうか。
 
-![](/assets/images/translate-first/language.png)
+![](http://chibicode.com/assets/images/translate-first/language.png)
 
 というわけで、結論:「翻訳記事からブロガーライフをはじめよう」
