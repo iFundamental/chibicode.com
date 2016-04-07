@@ -148,6 +148,16 @@ Noteの公式アカウントもツイート:
 
 ## 追記
 
+### できれば元記事の著者に許可をとりましょう
+
+Kodaiくんはきちんとピンカー氏に許可をとっていたし、ぼくも毎度心がけています。著名人でもたいてい喜んでOKしてくれますよ。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ただ翻訳すればいいってものじゃなくて、きちんと元記事の人からの許可取らないといけないと思う。許可を取らずにただ翻訳して、あとで問題起こす人が絶えなさそう。</p>&mdash; yuki (@_yukiabe) <a href="https://twitter.com/_yukiabe/status/718067857502957568">April 7, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">Kusanoさんもshuさんもきちんと許可を取ってらしたのが記事中から見られた。これが翻訳記事を構成する上で最も大切なことだと思う。</p>&mdash; yuki (@_yukiabe) <a href="https://twitter.com/_yukiabe/status/718068690516881410">April 7, 2016</a></blockquote>
+
+### ソーシャルメディア
+
 記事の最後にその記事をシェアしたツイートやFBの投稿を埋め込むと、リツイートやフォローしてくれる人が増えます。というわけで:
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">まとめた。<a href="https://twitter.com/kodaikusano">@kodaikusano</a>くんにも記事掲載の許可とった。 → 翻訳記事からブロガーライフをはじめよう / ハーバード大教授「崩壊したアイビーリーグを立て直せるのは学力テストだけ」 <a href="https://t.co/I2xe7IdPDV">https://t.co/I2xe7IdPDV</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/717977808673189888">April 7, 2016</a></blockquote>
