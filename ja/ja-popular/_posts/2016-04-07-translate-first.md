@@ -128,7 +128,7 @@ Noteの公式アカウントもツイート:
 
 ぼくも、2014年に書いた[ビジネス・イン・ジャパン](http://chibicode.com/doing-business-in-japan/)という翻訳記事ではじめて、ひとつの記事が3万人以上の方に読まれました。原文は1万単語以上、翻訳した日本語の文字数は3万文字弱でした:
 
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/4373847864169" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/4373847864169"><p>&#x534a;&#x5e74;&#x3076;&#x308a;&#x306b;&#x65e5;&#x672c;&#x8a9e;&#x3067;&#x30d6;&#x30ed;&#x30b0;&#x3092;&#x66f8;&#x304d;&#x307e;&#x3057;&#x305f;&#x3002;&#x65e5;&#x672c;&#x5728;&#x4f4f;&#x30a2;&#x30e1;&#x30ea;&#x30ab;&#x4eba;&#x30a8;&#x30f3;&#x30b8;&#x30cb;&#x30a2;&#x306e;Patrick&#x3055;&#x3093;&#x304c;&#x66f8;&#x3044;&#x305f;&#x540d;&#x8a18;&#x4e8b;&#x306e;&#x62d9;&#x8a33;&#x3067;&#x3059;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/4373847864169">Tuesday, November 25, 2014</a></blockquote></div></div>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">1年半ぶりに読み返したのでシェア → ビジネス・イン・ジャパン <a href="https://t.co/T3YxEHA4yU">https://t.co/T3YxEHA4yU</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/718229902454091776">April 8, 2016</a></blockquote>
 
 友達のElleも、無名だった2013年に「[言葉からウェブデザインを始めよう](https://justinjackson.ca/words_ja.html)」という記事を翻訳したところ:
 

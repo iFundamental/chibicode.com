@@ -462,3 +462,7 @@ Patrick McKenzie<br>
 <blockquote class="twitter-tweet" lang="en"><p>Shu Uesugi (<a href="https://twitter.com/chibicode">@chibicode</a>) did a Japanese translation of my &quot;Doing Business in Japan&quot; article. It is *amazing*. <a href="http://t.co/PGhC5ocuIf">http://t.co/PGhC5ocuIf</a></p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/537252154629558274">November 25, 2014</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/elm200">@elm200</a> 原文を書いた者です。ありがとうございます。難しいところもありますが、日本に引っ越して初めて「ここがホームだ」と感じました。それも投稿にいれようと思ったが、個人事情が読者にとってそんなに重要ではないと思った面もあったし、言葉で気持ちを伝えられないかと思いました。</p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/537259824023474177">November 25, 2014</a></blockquote>
+
+### 訳者のツイート
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">1年半ぶりに読み返したのでシェア → ビジネス・イン・ジャパン <a href="https://t.co/T3YxEHA4yU">https://t.co/T3YxEHA4yU</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/718229902454091776">April 8, 2016</a></blockquote>
