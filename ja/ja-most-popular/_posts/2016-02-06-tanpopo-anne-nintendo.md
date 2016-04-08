@@ -595,11 +595,11 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 
 > 10代・20代で道を間違えたら、そのあといくら出世しても、「私の名刺には◯と書いています」としか言えなくなるのではないか。人生を巻き戻して、自分にない「心」と「頭の中」を拾ってくることなんて出来やしない。
 
-こう書いたのも、ぼくが数年前に見たメグ・ジェイさんのTED動画「[30歳は昔の20歳ではありません](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20?language=ja)」に影響されたからかもしれない。
+こう書いたのも、数年前に見たメグ・ジェイさんのTED動画「[30歳は昔の20歳ではありません](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20?language=ja)」に、ぼくはかなり影響されたからかもしれない。
 
 <iframe src="https://embed-ssl.ted.com/talks/lang/ja/meg_jay_why_30_is_not_the_new_20.html" width="854" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
 
-[文字起こしはこちら](http://logmi.jp/22205)。とくに印象に残った部分のキャプチャを貼っておく。
+[文字起こしはこちら](http://logmi.jp/22205)。とくに印象に残っていた箇所のキャプチャを貼っておく。
 
 ![](/assets/images/tanpopo-anne-nintendo/meg-jay-1.jpg)
 
