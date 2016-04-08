@@ -591,6 +591,47 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 >
 > そのように質問して、君たちに教えてもらいたいのだが、ただ残念にも、その「未来」という街角には、私はもういない。
 
+### メグ・ジェイ
+
+> 10代・20代で道を間違えたら、そのあといくら出世しても、「私の名刺には◯と書いています」としか言えなくなるのではないか。人生を巻き戻して、自分にない「心」と「頭の中」を拾ってくることなんて出来やしない。
+
+こう書いたのも、ぼくが数年前に見たメグ・ジェイさんのTED動画「[30歳は昔の20歳ではありません](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20?language=ja)」に影響されたからかもしれない。
+
+<iframe src="https://embed-ssl.ted.com/talks/lang/ja/meg_jay_why_30_is_not_the_new_20.html" width="854" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
+
+[文字起こしはこちら](http://logmi.jp/22205)。とくに印象に残った部分のキャプチャを貼っておく。
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-1.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-2.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-3.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-4.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-5.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-6.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-7.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-8.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-9.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-10.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-11.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-12.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-13.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-14.jpg)
+
+![](/assets/images/tanpopo-anne-nintendo/meg-jay-15.jpg)
+
+
 ### ソーシャルメディア
 
 ツイッターでこの記事をシェアしてくださった方の多くから「想像以上にエモかった」とのコメントをいただきました。喜ぶべきかどうか分かりません。
