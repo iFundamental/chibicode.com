@@ -75,6 +75,15 @@ list_item_comment: "第二次世界大戦がシリコンバレーを生んだ話
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/N0NNgfguR9g" frameborder="0" allowfullscreen></iframe>
 
+### 講演のスライド
+
+ちなみに、スライドの操作方法は以下の通りです。
+
+- **スマホからは**、画面の右半分をタップすれば先に進み、左半分をタップすれば戻ります。
+- **PCからは**、画面の右半分/左半分をクリックすると移動できます。また、いちど画面をクリックした後ならば、**左右の矢印キーで移動できます**。
+
+<script async class="speakerdeck-embed" data-id="2b337190a63749e49e44009e5e7654fa" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### 講演の動画のキャプチャ
 
 画像が234枚ありますが、画質を落としたので、全部で5MBしかありません。ご安心ください。
