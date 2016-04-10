@@ -59,4 +59,6 @@ og_image_height: 1325
 
 <blockquote class="twitter-tweet"  data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">27/たしかにマーク・ザッカーバーグやイーロン・マスクなどのラスボス感は半端ないですが、うちの社長のように柔よく剛を制すタイプのラスボスがいるゲームも魅力的です。というわけで、以上連続ツイートでした。ツイートはこちらにまとめときます。<a href="https://t.co/XI1m2Jrkzs">https://t.co/XI1m2Jrkzs</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719023612515069952">April 10, 2016</a></blockquote>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">ツイートをまとめ終えました → うちの社長のエピソード <a href="https://t.co/xwq7fJlQmu">https://t.co/xwq7fJlQmu</a> <a href="https://t.co/ton0p7x1ds">pic.twitter.com/ton0p7x1ds</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719026973410861058">April 10, 2016</a></blockquote>
+
 ベッツィーのスピーチを読みたい方は「**[EdSurgeとはどんな会社か？とある教育メディアがシリコンバレーで生まれた話](http://chibicode.com/how-edsurge-started/)**」という記事をどうぞ。
