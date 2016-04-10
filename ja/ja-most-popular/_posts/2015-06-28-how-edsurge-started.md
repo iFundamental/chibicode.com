@@ -306,3 +306,9 @@ EdSurgeは「学ぶ人」の味方でありたい。生徒も「学ぶ人」で�
   <img src="http://chibicode.com/assets/images/how-edsurge-started/cover.jpg" />
   <figcaption>2014年11月、EdSurge社員の集合写真。ぼくはいちばん左下。</figcaption>
 </figure>
+
+## 追記
+
+2016年4月9日に[「うちの社長のエピソード」というタイトルの追記記事を書きました](http://chibicode.com/betsy-anecdotes/)。
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">ツイートをまとめ終えました → うちの社長のエピソード <a href="https://t.co/xwq7fJlQmu">https://t.co/xwq7fJlQmu</a> <a href="https://t.co/ton0p7x1ds">pic.twitter.com/ton0p7x1ds</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719026973410861058">April 10, 2016</a></blockquote>
