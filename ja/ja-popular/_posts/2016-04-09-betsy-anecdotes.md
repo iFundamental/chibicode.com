@@ -1,5 +1,8 @@
 ---
 title: うちの社長のエピソード
+og_image: "http://f.cl.ly/items/3a2N2T0V223v3F3h2W05/medallion-og.jpg"
+og_image_width: 1400
+og_image_height: 1325
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">1/実験的に連続ツイート。以前書いた弊社の成り立ちについての記事「EdSurgeとはどんな会社か？」<a href="https://t.co/Kw6pfUFGkj">https://t.co/Kw6pfUFGkj</a>が好評だったので、創業社長・ベッツィーのエピソードを紹介します。ツイートは<a href="https://t.co/XI1m2Jrkzs">https://t.co/XI1m2Jrkzs</a>にまとめます。</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719019558195998720">April 10, 2016</a></blockquote>
@@ -55,3 +58,5 @@ title: うちの社長のエピソード
 <blockquote class="twitter-tweet"  data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">26/余談ですが、「ベンチャーに転職したいが、どうやって会社を選べばいいか」とアドバイスを求められたとき、ぼくは「もしそのベンチャーの管理職が中ボス、幹部層が大ボス、社長がラスボスのゲームをプレイするとしたら、そのゲームはどのくらい面白いだろうか？」と答えるようにしています。</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719023485322788865">April 10, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet"  data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">27/たしかにマーク・ザッカーバーグやイーロン・マスクなどのラスボス感は半端ないですが、うちの社長のように柔よく剛を制すタイプのラスボスがいるゲームも魅力的です。というわけで、以上連続ツイートでした。ツイートはこちらにまとめときます。<a href="https://t.co/XI1m2Jrkzs">https://t.co/XI1m2Jrkzs</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719023612515069952">April 10, 2016</a></blockquote>
+
+ベッツィーのスピーチを読みたい方は「**[EdSurgeとはどんな会社か？とある教育メディアがシリコンバレーで生まれた話](http://chibicode.com/how-edsurge-started/)**」という記事をどうぞ。
