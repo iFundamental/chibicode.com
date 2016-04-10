@@ -41,6 +41,8 @@ og_image_height: 1325
 
 <blockquote class="twitter-tweet"  data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">18/「周、あなたの話は彼ほどドラマチックではないかもね。でも、何か似てるところがあるとは思わない？あなたがシリコンバレーで選んだ道、あなたの友達が日本で選んだ道、どちらの道が正しいとか、偉いとかはない。でも、それぞれの道と道の間はこれから、どんどん開いていくとは思うよ。」</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719022096257421313">April 10, 2016</a></blockquote>
 
+(追記: ベッツィーは「でも、友達でいれば、いつでも会えるよね」とも言ってくれました。)
+
 <blockquote class="twitter-tweet"  data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">19/最後のエピソードは、ぼくが見た、彼女についての話です。車を停めたあと、ベッツィーとぼくは教育系のイベントの会場に入りました。業界の有名人であるベッツィーは案の定、ほとんどの人と知り合いでした。ひとりも顔見知りがいなかったぼくは、彼女に付き添って人々に挨拶をしていきました。</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719022245142597632">April 10, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet"  data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">20/弊社は教育系のメディアで、ベッツィーは経営者兼記者でもあるので、彼女はイベントの主催者を取材しはじめます。一通り終えたころ、講演の時間になり、ぼくとベッツィーは席につきました。<br>「サンノゼ市では初のエドテック(教育×IT)イベントへようこそ！」<br>主催者がマイクに喋りかける。</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719022436209917952">April 10, 2016</a></blockquote>
