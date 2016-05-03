@@ -45,5 +45,3 @@ title: 「継続は力なり」の「力」って何だ
 アメリカのミズーリ州で行われる世界最大級のRuby on Railsのカンファレンス「[Railsconf 2016](http://railsconf.com/)」に向かう飛行機のなかで、ぼんやりとそんなことを考えていた。
 
 <blockquote class="twitter-tweet" data-lang="en" data-cards="hidden"><p lang="ja" dir="ltr">「継続は力なり」の「力」って何だ <a href="https://t.co/FT91KQtUqO">https://t.co/FT91KQtUqO</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/727641844805341184">May 3, 2016</a></blockquote>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fshu%2Fposts%2F10200384902124946&width=500" width="500" height="235" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
