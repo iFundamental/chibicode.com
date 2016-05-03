@@ -43,3 +43,5 @@ title: 「継続は力なり」の「力」って何だ
 しかし、あなたの知り合いが何かを継続した結果、説得力を失い続けているのであれば、それはきちんと指摘してあげるべきだと思う。
 
 アメリカのミズーリ州で行われる世界最大級のRuby on Railsのカンファレンス「[Railsconf 2016](http://railsconf.com/)」に向かう飛行機のなかで、ぼんやりとそんなことを考えていた。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">「継続は力なり」の「力」って何だ <a href="https://t.co/FT91KQtUqO">https://t.co/FT91KQtUqO</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/727641844805341184">May 3, 2016</a></blockquote>
