@@ -66,4 +66,6 @@ Ruby生みの親のMatz氏:
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/yukihiro_matz">@yukihiro_matz</a> 米国在住、Railsconfに参加中の者です。米国の場合(1)1%対99%の貧富の格差(2)製造業の衰退(3)IT業界の台頭が表面化しているため、成長産業であるIT業界に参戦する機会を与えられるという文脈でプログラミング教育がもてはやされてる印象です</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/728055761692069888">May 5, 2016</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">日本だと(1)マシ(2)途中?(3)途中? かな。ビルゲイツの「ナードにやさしくしーや、ゆくゆくはその下で働く機会があるやろうから」っていう言葉も米国だと具体例に溢れてるけど、日本やとまだ実感ないもんなあ。 <a href="https://t.co/8IkwnniuXA">https://t.co/8IkwnniuXA</a></p>&mdash; 大森 康隆@留守家族生活中... (@omoriyasutaka) <a href="https://twitter.com/omoriyasutaka/status/728060947131039744">May 5, 2016</a></blockquote>
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> 結局はIT産業への期待度の反映なのかもしれませんね。</p>&mdash; Yukihiro Matsumoto (@yukihiro_matz) <a href="https://twitter.com/yukihiro_matz/status/728064789029609472">May 5, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
