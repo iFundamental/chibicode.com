@@ -51,3 +51,9 @@ title: 「継続は力なり」の「力」って何だ
 アメリカのミズーリ州で行われる世界最大級のRuby on Railsのカンファレンス「[Railsconf 2016](http://railsconf.com/)」に向かう飛行機のなかで、ぼんやりとそんなことを考えていた。
 
 <blockquote class="twitter-tweet" data-lang="en" data-cards="hidden"><p lang="ja" dir="ltr">「継続は力なり」の「力」って何だ <a href="https://t.co/FT91KQtUqO">https://t.co/FT91KQtUqO</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/727641844805341184">May 3, 2016</a></blockquote>
+
+## 追記
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/yukihiro_matz">@yukihiro_matz</a> 米国在住、Railsconfに参加中の者です。米国の場合(1)1%対99%の貧富の格差(2)製造業の衰退(3)IT業界の台頭が表面化しているため、成長産業であるIT業界に参戦する機会を与えられるという文脈でプログラミング教育がもてはやされてる印象です</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/728055761692069888">May 5, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/chibicode">@chibicode</a> 結局はIT産業への期待度の反映なのかもしれませんね。</p>&mdash; Yukihiro Matsumoto (@yukihiro_matz) <a href="https://twitter.com/yukihiro_matz/status/728064789029609472">May 5, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
