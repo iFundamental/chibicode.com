@@ -20,7 +20,7 @@ title: 「継続は力なり」の「力」って何だ
 
 プログラミング未経験で、IT・教育・行政などの関連業界とも一切関りのない人が、なんとなく「プログラミングを義務教育化するべきだ」と言い、子供向けのプログラミング塾を開講したとする。その人自身はなにも教えられないが必死に講師を集め、「なんでお前がプログラミング塾やるの？」と陰口を叩かれながらも、みごと数年間で百人規模のプログラミング大好きっ子を輩出した。
 
-そのタイミングで「プログラミングを義務教育化するべきだ」と言えば、「主張した時点では説得力がなかったが、その主張のもと何かを継続した結果、説得力がついた」ケースに当てはまる。
+そのタイミングで「プログラミングを義務教育化するべきだ」と言えば、「主張した時点では説得力がなかったが、その主張のもと何かを継続した結果、説得力が(以前に比べれば)ついた」ケースに当てはまる。
 
 ### 4. 何かを継続した結果、説得力を失った
 
@@ -57,6 +57,8 @@ title: 「継続は力なり」の「力」って何だ
 Ruby生みの親のMatz氏:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">日本ではプログラミング経験者でもプログラミング教育に反対の人が目立つ。海外ではあまり反対は目立たない。違いはどこにあるのかな？</p>&mdash; Yukihiro Matsumoto (@yukihiro_matz) <a href="https://twitter.com/yukihiro_matz/status/725206942868606977">April 27, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">所得だ・・・ <a href="https://t.co/HaotEhIpe9">https://t.co/HaotEhIpe9</a></p>&mdash; ゆっけ（蘇る鈴木佑輔） (@trinity_site) <a href="https://twitter.com/trinity_site/status/727560376745754625">May 3, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/yukihiro_matz">@yukihiro_matz</a> 米国在住、Railsconfに参加中の者です。米国の場合(1)1%対99%の貧富の格差(2)製造業の衰退(3)IT業界の台頭が表面化しているため、成長産業であるIT業界に参戦する機会を与えられるという文脈でプログラミング教育がもてはやされてる印象です</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/728055761692069888">May 5, 2016</a></blockquote>
 
