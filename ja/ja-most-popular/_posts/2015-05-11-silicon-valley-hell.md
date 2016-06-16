@@ -327,7 +327,7 @@ next_recommend_title: "#地獄のサンフランシスコ - 講演のスライ�
 
 > ありがとうございます。一つ一つのツイートに対して答えていただけてとても嬉しいです！あと、([“シリコンバレーの真実！！！”(?)への反応いろいろ。](http://togetter.com/li/808007)を読んで)これだけ反論する人がいることを知らなかったので驚きました。
 
-質問がございましたら、いつでも[shu@chibicode.com](shu@chibicode.com)にメールください。[ぼくのFacebook宛](http://facebook.com/shu)でもOKです。
+質問がございましたら、いつでも[shu@chibicode.com](shu@chibicode.com)にメールください。
 
 ## ツイートなど
 

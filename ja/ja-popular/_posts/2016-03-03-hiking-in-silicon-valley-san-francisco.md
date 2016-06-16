@@ -526,5 +526,3 @@ Water Dog Lake Park ([Google Maps](https://www.google.com/maps/place/Water+Dog+L
 シリコンバレー・サンフランシスコにお越しの際は、最新のテクノロジーだけでなく、ベイエリアの大自然とも戯れてやってください。普通の運動着・運動靴で大丈夫です。4月から11月くらいまでは雨がほとんど降らないので、雨天中止を心配する必要もないですよ。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">シリコンバレー・サンフランシスコのハイキングコースまとめ <a href="https://t.co/4KN3Aph4r4">https://t.co/4KN3Aph4r4</a> <a href="https://t.co/kj6RXUcXHD">pic.twitter.com/kj6RXUcXHD</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/706038641877889029">March 5, 2016</a></blockquote>
-
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200268777741909" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200268777741909"><p>&#x81ea;&#x7136;&#x304c;&#x597d;&#x304d;&#x306a;&#x65b9;&#x3001;&#x304a;&#x5f85;&#x3061;&#x3057;&#x3066;&#x3044;&#x307e;&#x3059;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200268777741909">Saturday, March 5, 2016</a></blockquote></div></div>

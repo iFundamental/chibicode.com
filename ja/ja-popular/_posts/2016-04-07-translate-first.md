@@ -162,8 +162,6 @@ Kodaiくんはきちんとピンカー氏に許可をとっていたし、ぼく
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">まとめた。<a href="https://twitter.com/kodaikusano">@kodaikusano</a>くんにも記事掲載の許可とった。 → 翻訳記事からブロガーライフをはじめよう / ハーバード大教授「崩壊したアイビーリーグを立て直せるのは学力テストだけ」 <a href="https://t.co/I2xe7IdPDV">https://t.co/I2xe7IdPDV</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/717977808673189888">April 7, 2016</a></blockquote>
 
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200339986122074" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200339986122074"><p>&#x307e;&#x3068;&#x3081;&#x307e;&#x3057;&#x305f;&#x3002;&#x305d;&#x3057;&#x3066;&#x3001;&#x3069;&#x3061;&#x3089;&#x304b;&#x3068;&#x3044;&#x3046;&#x3068;&#x3053;&#x306e;&#x8a18;&#x4e8b;&#x3088;&#x308a;&#x3082;&#x3001;&#x8a18;&#x4e8b;&#x5185;&#x3067;&#x7d39;&#x4ecb;&#x3057;&#x305f;Kodai Kusano&#x304f;&#x3093;&#x306e;&#x7ffb;&#x8a33;&#x8a18;&#x4e8b;&#x306e;&#x307b;&#x3046;&#x3092;&#x8aad;&#x3093;&#x3067;&#x304f;&#x3060;&#x3055;&#x3044;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200339986122074">Thursday, April 7, 2016</a></blockquote></div></div>
-
 ちゃんとKodaiくんに許可とってます。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">情報化された今の時代でも、意外と高い言語の壁。ただ英語になっているだけで読まれていない貴重な情報はたくさんあります。英語の少し得意な人の、ちょっとした空き時間を使い、新しい情報を提供できるのはとてもコスパがいいと思います。 <a href="https://t.co/99TN7Vgtt1">https://t.co/99TN7Vgtt1</a></p>&mdash; Kodai Kusano (@kodaikusano) <a href="https://twitter.com/kodaikusano/status/717979916973674496">April 7, 2016</a></blockquote>

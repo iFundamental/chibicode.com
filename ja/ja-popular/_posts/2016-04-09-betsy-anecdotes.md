@@ -63,6 +63,4 @@ og_image_height: 1325
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">ツイートをまとめ終えました → うちの社長のエピソード <a href="https://t.co/xwq7fJlQmu">https://t.co/xwq7fJlQmu</a> <a href="https://t.co/ton0p7x1ds">pic.twitter.com/ton0p7x1ds</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719026973410861058">April 10, 2016</a></blockquote>
 
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200345217332851" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200345217332851"><p>&#x9023;&#x7d9a;&#x30c4;&#x30a4;&#x30fc;&#x30c8;&#x306a;&#x308b;&#x3082;&#x306e;&#x306b;&#x30c8;&#x30e9;&#x30a4;&#x3057;&#x3066;&#x307f;&#x307e;&#x3057;&#x305f;&#x3002;27&#x30c4;&#x30a4;&#x30fc;&#x30c8;&#x3076;&#x3093;&#x3001;&#x30d6;&#x30ed;&#x30b0;&#x306b;&#x307e;&#x3068;&#x3081;&#x307e;&#x3057;&#x305f;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200345217332851">Saturday, April 9, 2016</a></blockquote></div></div>
-
 ベッツィーのスピーチを読みたい方は「**[EdSurgeとはどんな会社か？とある教育メディアがシリコンバレーで生まれた話](http://chibicode.com/how-edsurge-started/)**」という記事をどうぞ。

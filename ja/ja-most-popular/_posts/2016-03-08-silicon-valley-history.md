@@ -583,5 +583,3 @@ list_item_comment: "第二次世界大戦がシリコンバレーを生んだ話
 ブランク氏本人にもシェアしてもらいました。
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="ja" dir="ltr">あなたが知らないシリコンバレーの歴史 <a href="https://t.co/RH72sZKLzb">https://t.co/RH72sZKLzb</a> thx to <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; steve blank (@sgblank) <a href="https://twitter.com/sgblank/status/709131082067681282">March 13, 2016</a></blockquote>
-
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200279131440745" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shu/posts/10200279131440745"><p>&#x30b7;&#x30ea;&#x30b3;&#x30f3;&#x30d0;&#x30ec;&#x30fc;&#x306e;&#x6b74;&#x53f2;&#x306b;&#x3064;&#x3044;&#x3066;&#x306e;&#x8b1b;&#x6f14;&#x3092;&#x548c;&#x8a33;&#x3057;&#x307e;&#x3057;&#x305f;&#x3002;</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200279131440745">Friday, March 11, 2016</a></blockquote></div></div>
