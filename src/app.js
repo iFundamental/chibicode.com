@@ -10,6 +10,7 @@ import $ from 'jquery'
 window.$ = $
 
 $(function() {
+  // Breaks on jQuery 3 https://github.com/lemonmade/bigfoot/issues/54
   $.bigfoot()
   $('a[href^="http"]').attr('target','_blank')
   $(".js-post-content").fitVids({ customSelector: "iframe[src*='slideshare.net']" })

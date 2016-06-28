@@ -16,7 +16,7 @@
     "colors.css": "^3.0.0",
     "css-loader": "^0.23.1",
     "fastclick": "^1.0.6",
-    "jquery": "^3.0.0",
+    "jquery": "^2.2.4",
     "npm-check": "^5.2.2",
     "postcss": "^5.0.21",
     "postcss-cssnext": "^2.6.0",
