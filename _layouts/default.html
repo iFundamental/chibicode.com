@@ -47,15 +47,13 @@
       {% else %}
         "ph3 f2-ns f3 mt0 mb5-ns mb4 lh-solid fw6 tracked-tight ttl tc moon-gray"
       {% endif %}>
-      <a href="{% if page.categories contains "ja" %}/jp{% else %}/{% endif %}" class="no-underline">
-        {% if page.home  %}
-          Shu Uesugi
-        {% else if page.categories contains "ja" %}
-          上杉周作
-        {% else %}
-          Shu Uesugi
-        {% endif %}
-      </a>
+      {% if page.home  %}
+        <a href="/" class="no-underline">Shu Uesugi</a>
+      {% else if page.categories contains "ja" %}
+        <a href="/jp" class="no-underline">上杉周作</a>
+      {% else %}
+        <a href="/" class="no-underline">Shu Uesugi</a>
+      {% endif %}
     </h2>
     <div class="container center ph3">
       <div class="mb6">
