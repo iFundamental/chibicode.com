@@ -28,6 +28,10 @@ a:hover, a:focus {
   color: #D81B60;
 }
 
+a.ba:hover, a.ba:focus {
+  border-color: #D81B60;
+}
+
 .lh-jp {
   line-height: 1.8;
 }
