@@ -1,28 +1,33 @@
-baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+baseurl: ""
 permalink: /:title/
 
-# This causes an error on GitHub pages, so disabled until 3.0 comes out
-# highlighter: null
-
-# This is used by feed.xml. Uncomment if you want to use it.
-# description: "..."
+title: Shu Uesugi
+description: "Shu Uesugi's Personal Site."
 gems:
   - jekyll-sitemap
+  # Japanese version of the site
+  # - jekyll-seo-tag
+  - jekyll-feed
   # Use <div data-gist-id="..." data-gist-file="..."></div> instead for performance reasons
   # https://github.com/blairvanderhoof/gist-embed
   # - jekyll-gist
 
+future: true
+
 exclude:
+  - "src"
   - "README.md"
+  - "LICENSE.md"
   - "CNAME"
   - "Gemfile"
   - "Gemfile.lock"
   - "node_modules"
   - "package.json"
   - "webpack.config.js"
-  - "webpack.hot.config.js"
-  - "bs-config.js"
   - "Procfile"
+  - "npm-debug.log"
+  - "server.js"
+
 defaults:
   -
     scope:

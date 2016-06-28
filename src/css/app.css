@@ -1,0 +1,151 @@
+@import "tachyons/src/tachyons.css";
+
+body {
+  font-family: SF UI Text,Roboto,Helvetica Neue,Helvetica,sans-serif;
+  color: #4c4c4c;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #111;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6, strong, .fw6 {
+  font-weight: 600;
+}
+
+a:hover, a:focus {
+  color: #D81B60;
+}
+
+.lh-jp {
+  line-height: 1.8;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  max-width: 35rem;
+}
+
+.gist,
+.twitter-tweet,
+.instagram-media,
+.fluid-width-video-wrapper,
+.ted-embed {
+  max-width: 100% !important;
+  box-sizing: border-box;
+  margin-bottom: 1.5rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;
+}
+
+.post-content {
+  & p,
+  & ul {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  & ul {
+    padding-left: 2rem;
+  }
+
+  & li {
+    margin-bottom: 0.5rem;
+  }
+
+  & h2 {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
+    color: #111;
+  }
+
+  & h3 {
+    font-size: 1.25rem;
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
+    color: #111;
+  }
+
+  & blockquote {
+    margin-left: 0;
+    padding-left: 1rem;
+    border-color: #eee;
+    border-left-width: 0.5rem;
+    border-left-style: solid;
+  }
+
+  & figure {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  & figcaption {
+    display: block;
+    text-align: center;
+    color: #999;
+    font-size: 0.85rem;
+  }
+
+  & img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  & hr {
+    border-top: 1px solid #eee;
+    border-bottom: none;
+    margin: 3rem 0 1.5rem;
+  }
+
+  & code, & kbd {
+    background-color: #eee;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  }
+
+  & pre {
+    background-color: #eee;
+    padding: 0.75rem;
+    overflow-x: auto;
+  }
+}
+
+@media (--breakpoint-large) {
+  html {
+    font-size: 18px;
+  }
+}
+
+@media (--breakpoint-not-small) {
+  .f0-ns {
+    font-size: 6rem;
+  }
+
+  .tracked-f0-ns {
+    letter-spacing: -0.1em;
+  }
+
+  .lh-f0-ns {
+    line-height: 0.8;
+  }
+}

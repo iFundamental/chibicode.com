@@ -1,54 +1,34 @@
 ---
 layout: default
+home: true
 ---
 
-<section class="main-header">
-  <div class="clearfix mxn2">
-    <div class="sm-col sm-col-6 px2 mt2">
-      <img src="/assets/images/shu-uesugi.jpg" alt="{{ site.data.author.name}}" data-action="zoom" class="rounded">
-    </div>
-    <div class="sm-col sm-col-6 px2 py2">
-      {% capture bio_string %}{% include author-bio.md %}{% endcapture %}
-      {{ bio_string | markdownify }}
-      <div class="mb2">
-        <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none"><img src="/assets/images/jp.svg" width="30" class="inline-block align-middle" /></a> <a href="{{ "/jp" | prepend:site.baseurl }}" class="inline--ja">日本語はこちら</a>
-      </div>
-      <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s what I&#39;m coding at <a href="https://twitter.com/EdSurge">@EdSurge</a> - a project called <a href="https://twitter.com/EdSurgConcierge">@EdSurgConcierge</a>, built with <a href="https://twitter.com/reactjs">@reactjs</a>. <a href="https://t.co/uBat4JF9Pw">https://t.co/uBat4JF9Pw</a> <a href="https://t.co/qeGtw8LW1V">pic.twitter.com/qeGtw8LW1V</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/700800010468757505">February 19, 2016</a></blockquote>
-    </div>
-  </div>
-</section>
-<div class="py1 sm-show"></div>
-<section>
-  <div class="clearfix mxn2">
-    <div class="sm-col sm-col-6 px2 py2">
-      <h3 class="mt0 h4">
-        Featured Posts
-      </h3>
-      <ul class="list-reset mb3">
-        {% for post in site.categories["en-popular"] %}
-          {% unless post.draft %}
-            {% include post-list-item.html %}
-          {% endunless %}
-        {% endfor %}
-      </ul>
-      <h3 class="mt0 h4">
-        Other Posts
-      </h3>
-      <ul class="list-reset mb0">
-        {% assign other_posts = (site.categories["en-others"] | where:"draft",false ) %}
-        {% for post in other_posts limit:5 %}
-          {% include post-list-item.html %}
-        {% endfor %}
-        <li class="mt2">
-          <a href="{{ "/archive" | prepend:site.baseurl }}" class="td-none bold center block p1 rounded btn btn-outline bg-white">View Archive <span class="muted">({{ site.categories["en"] |  where:"draft",false | size }} Posts)</span></a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</section>
-<div class="py4"></div>
-<h1 class="h2 mt0 mb1">
-  <a href="{{ "/jp" | prepend:site.baseurl }}" class="td-none">{{ site.data.author.ja_name }}</a>
-</h1>
-{% include jp-top.html %}
-{% include github-corner.html %}
+<img src="/assets/images/shu-uesugi-dilemma.gif" class="br2 mb4 center db" alt="Shu Uesugi" />
+<div class="post-content lh-copy">
+  <p class="f4 center">
+    <strong>Hello!</strong> I'm a designer/developer based in San Francisco Bay Area. I now work for <a href="http://edsurge.com/">EdSurge</a>. For Japanese readers: <a href="/jp">日本語コンテンツはこちら</a>!
+  </p>
+  <p>
+    Fun Facts:
+  </p>
+  <ul>
+    <li>
+      I write at <a href="http://blog.chibicode.com" class="fw6">blog.chibicode.com</a>.
+    </li>
+    <li>
+      My Twitter is <a href="http://twitter.com/chibicode" class="fw6">@chibicode</a>. So is my <a href="http://github.com/chibicode">GitHub</a>. I also have <a href="http://linkedin.com/in/chibicode">LinkedIn</a>. You can email me at <a href="mailto:shu@chibicode.com">shu@chibicode.com</a>.
+    </li>
+    <li>
+      My most read post is "<a href="http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/">React.js Introduction For People Who Know Just Enough jQuery To Get By</a>" (600+ pts on <a href="https://news.ycombinator.com/item?id=9856855">HN</a>).
+    </li>
+    <li>
+      I was born and raised in Japan. I moved to the U.S. when I was 12 and have attended Carnegie Mellon University. I had interned at Apple and Facebook and worked at Palantir and Quora before joining EdSurge.
+    </li>
+    <li>
+      The animated GIF above is from a popular Japanese TV show (日本のジレンマ) which aired on New Year's Day 2016. They found me through my <a href="/jp">Japanese blog</a> and invited me as a pundit, even though I had no idea what I was saying.
+    </li>
+    <li>
+      Again, I write at <a href="http://blog.chibicode.com" class="fw6">blog.chibicode.com</a> if you want to learn more about me. Or you can follow me on <a href="http://twitter.com/chibicode" class="fw6">Twitter</a>.
+    </li>
+  </ul>
+</div>

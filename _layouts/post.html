@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<main class="py2 clearfix">
-  <article class="mx-auto lg-col-7 md-col-8 sm-col-9">
-    <header class="mb2">
-      <h1 class="mt0 mb1 {% if page.categories contains "ja" %}heading--ja{% endif %}">{{ page.title }}</h1>
-      <section class="muted mb1">
+<main>
+  <article>
+    <header class="mb4">
+      <h1 class="mt0 mb1 f2 lh-title">{{ page.title }}</h1>
+      <section class="silver mb2">
         <time datetime="{{ page.date | date_to_xmlschema}}">
           {% if page.categories contains "ja" %}
             {{ page.date | date: "%Y年%-m月%-d日" }}
@@ -16,50 +16,52 @@ layout: default
         </time>
       </section>
       <div style="min-height: 35px">
-        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.author.twitter_user_name }}" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="chibicode" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
       </div>
     </header>
 
-    <section class="mb3 post-content js-post-content {% if page.categories contains "ja" %}body--ja{% endif %}">
-      {% if page.ts or page.prev or page.draft %}
-      <p class="p1 bg-darken-1 rounded">
-        {% if page.ts %}
-          This post is written in <a href="http://www.buzzfeed.com/charliewarzel/why-twitters-newest-tweetstormtm-trend-must-be-stopped">Tweetstorm™</a> form.
-        {% endif %}
-        {% if page.prev %}
-          {% if page.categories contains "ja" %}
-            <a href="{{ page.prev | prepend: "/" | prepend:site.baseurl }}">前の記事はこちら</a>。
-          {% else %}
-            Continued from <a href="{{ page.prev | prepend: "/" | prepend:site.baseurl }}">the previous article</a>.
-          {% endif %}
-        {% endif %}
-        {% if page.draft %}
-          {% if page.categories contains "ja" %}
-            この記事は下書きです。シェアしないでください。
-          {% else %}
-            This post is a draft. Please don't tweet/share.
-          {% endif %}
-        {% endif %}
-      </p>
-      {% endif %}
+    <section class="mb6 post-content js-post-content {% if page.categories contains "ja" %}lh-jp{% else %}lh-copy{% endif %}">
       {{content}}
     </section>
-    <p class="mb1">
-      <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.author.twitter_user_name }}" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
-    </p>
 
-    <div class="py1 sm-show"></div>
     <footer>
-      <section class="py3 border-top">
-        {% include post-footer.html %}
+      {% if page.categories contains "en" %}
+        <section class="mb4 post-content lh-copy">
+          <h2 class="tc">Shu Uesugi</h2>
+          <p>
+            I'm a designer/developer based in San Francisco Bay Area. I now work for <a href="http://edsurge.com/">EdSurge</a>. You can email me at <a href="mailto:shu@chibicode.com">shu@chibicode.com</a> or find me on <a href="http://twitter.com/chibicode">Twitter</a>, <a href="http://github.com/chibicode">GitHub</a>, and <a href="http://linkedin.com/in/chibicode">LinkedIn</a>.
+          </p>
+      {% else %}
+        <section class="mb4 post-content lh-jp">
+          <h2 class="tc">上杉周作</h2>
+          <p>
+            <img src="/assets/images/shu-uesugi-dilemma.gif" class="br2 db" alt="Shu Uesugi" />
+          </p>
+          <p>
+            88年生まれ、日本とアメリカ育ち。シリコンバレー在住のエンジニアです。Twitterは<a href="http://twitter.com/chibicode">@chibicode</a>、メールは<a href="mailto:shu@chibicode.com">shu@chibicode.com</a>へ。
+          </p>
+          <p>
+            略歴: カーネギーメロン大学卒。学位はComputer Science学士・Human-Computer Interaction修士。Apple・Facebook・Palantirでエンジニア職、Quoraでデザイナー職を経験。その後半年間日本でニートになり、2012年9月よりシリコンバレーの教育ベンチャー・EdSurgeに就職。<a href="http://chibicode.com/nhk-dilemma">NHK・Eテレ「ニッポンのジレンマ 2016年元日SP」に出演</a>。
+          </p>
+        {% endif %}
       </section>
-
-      <section class="mb3">
+      <section class="mb6">
         <!-- NOTE: Do not try to center these buttons via text-align. That was causing a bug on mobile Chrome
                    where the page size shrinks then enlarges on page load. -->
-        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.data.author.twitter_user_name }}" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="chibicode" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
         <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-count="true" data-dnt="true" data-size="large" data-show-screen-name="false"></a>
       </section>
+      <div class="tc">
+        {% if page.categories contains "en" %}
+          <a href="/" class="f2-ns f3 fw6 tracked-tight no-underline">
+            → home ←
+          </a>
+        {% else %}
+          <a href="/jp" class="f2-ns f3 fw6 tracked-tight no-underline">
+            → 他の記事を読む ←
+          </a>
+        {% endif %}
+      </div>
     </footer>
   </article>
 </main>

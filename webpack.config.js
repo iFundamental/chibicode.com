@@ -1,28 +1,27 @@
-var webpack = require("webpack");
+var path = require('path')
+var webpack = require('webpack')
+var postcssImport = require('postcss-import')
+var postcssCssnext = require('postcss-cssnext')
 
 module.exports = {
-  context: __dirname + '/_assets',
-  entry: ['./app.js'],
-
+  context: path.join(__dirname, '/src'),
+  entry: {
+    bundle: ['./app.js']
+  },
   output: {
-    filename: 'bundle.js',
-    path: __dirname + '/assets',
-    publicPath: '/assets/'
+    filename: '[name].js',
+    path: path.join(__dirname, 'dist')
   },
   module: {
     loaders: [
       {
+        test: /\.css$/,
+        loader: 'style-loader!css-loader!postcss-loader'
+      },
+      {
         test: /\.js$/,
         exclude: /node_modules/,
-        loader: 'babel-loader',
-      },
-      {
-        test: /\.css$/,
-        loader: 'style-loader!css-loader!cssnext-loader'
-      },
-      {
-        test: /\.woff($|\?)|\.woff2($|\?)|\.ttf($|\?)|\.eot($|\?)|\.svg($|\?)/,
-        loader: 'url-loader'
+        loader: 'babel-loader'
       }
     ]
   },
@@ -34,11 +33,12 @@ module.exports = {
       $: "jquery",
       jQuery: "jquery",
       "window.jQuery": "jquery"
-    }),
-    new webpack.optimize.UglifyJsPlugin({
-      compress: {
-        warnings: false
-      }
     })
-  ]
+  ],
+  postcss: function (webpack) {
+    return [
+      postcssImport({ addDependencyTo: webpack }),
+      postcssCssnext
+    ]
+  }
 }

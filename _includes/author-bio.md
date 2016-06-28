@@ -1,1 +1,0 @@
-I'm a designer/developer based in San Francisco Bay Area. I currently work for [EdSurge](http://edsurge.com). You can email me at [shu@chibicode.com](mailto:shu@chibicode.com) or find me on [Twitter](http://twitter.com/chibicode), [GitHub](http://github.com/chibicode), and [LinkedIn](http://linkedin.com/in/chibicode).

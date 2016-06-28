@@ -1,0 +1,88 @@
+---
+layout: default
+home: true
+categories: ["ja"]
+---
+
+<img src="/assets/images/shu-uesugi-dilemma.gif" class="br2 mb4 center db" alt="Shu Uesugi" />
+<div class="post-content lh-jp mb5">
+  <p class="f4 center">
+    はじめまして、<strong>上杉周作</strong>と申します。88年生まれ、日本とアメリカ育ち。教育について考えるのが好きな、シリコンバレー在住のエンジニアです。
+  </p>
+  <p>
+    ぼくについて:
+  </p>
+  <ul>
+    <li>
+      Twitterアカウントは<a href="http://twitter.com/chibicode" class="fw6">@chibicode</a>です。メールは<a href="mailto:shu@chibicode.com" class="fw6">shu@chibicode.com</a>へどうぞ。GitHubは<a href="http://github.com/chibicode">こちら</a>。
+    </li>
+    <li>
+      略歴: カーネギーメロン大学卒。学位はComputer Science学士・Human-Computer Interaction修士。Apple・Facebook・Palantirでエンジニア職、Quoraでデザイナー職を経験。その後半年間日本でニートになり、2012年9月よりシリコンバレーの教育ベンチャー・<a href="http://edsurge.com">EdSurge</a>に就職。
+    </li>
+    <li>
+      上の動画は、NHK・Eテレ「ニッポンのジレンマ 2016年元日SP」に論客として出演したときのものです。出演後、『<a href="/nhk-dilemma">「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと</a>』という記事を書きました。
+    </li>
+    <li>
+      ほかにも、自己紹介的な記事も書きました → 『<a href="/tanpopo-anne-nintendo">「タンポポ丘・アンネの家・任天堂」に置いてきたもの</a>』
+    </li>
+    <li>
+      <a href="/">英語ページはこちら</a>。
+    </li>
+  </ul>
+</div>
+<div class="mb5">
+  <h2 class="mt0 f4">最も読まれた記事 <span class="silver">(初めて訪問してくださった方はこちらから)</span></h2>
+  <ul class="list pl0 m0 lh-jp">
+    {% for post in site.categories["ja-most-popular"] %}
+      {% unless post.draft %}
+        <li class="mb4">
+          <a href="{{ post.url }}" class="no-underline">{{ post.title }}</a>
+          <br>
+          <span class="silver">{{ post.date | date: "%Y年%-m月%-d日" }}</span>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+<div class="mb5">
+  <h2 class="mt0 f4">その他の記事</h2>
+  <ul class="list pl0 m0 lh-jp">
+    {% for post in site.categories["ja-popular"] %}
+      {% unless post.draft %}
+        <li class="mb4">
+          <a href="{{ post.url }}" class="no-underline">{{ post.title }}</a>
+          <br>
+          <span class="silver">{{ post.date | date: "%Y年%-m月%-d日" }}</span>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+<div class="mb5">
+  <h2 class="mt0 f4">黒歴史の記事</h2>
+  <ul class="list pl0 m0 silver lh-jp">
+    {% for post in site.categories["ja-others"] %}
+      {% unless post.draft %}
+        <li class="mb4">
+          <a href="{{ post.url }}" class="no-underline">{{ post.title }}</a>
+          <br>
+          <span class="moon-gray">{{ post.date | date: "%Y年%-m月%-d日" }}</span>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+<div class="mb5">
+  <h2 class="mt0 f4">Twitter</h2>
+  <div class="post-content">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ブログ書きました → あなたが知らないシリコンバレーの歴史 <a href="https://t.co/53Xipsemxc">https://t.co/53Xipsemxc</a> <a href="https://t.co/roaAoldDCW">pic.twitter.com/roaAoldDCW</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/708446668732145664">March 12, 2016</a></blockquote>
+
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">🆕 あたらしいブログ記事を書きました。こういうタイプの記事は書くのが最初で最後になるかもしれません。→ 「タンポポ丘・アンネの家・任天堂」に置いてきたもの <a href="https://t.co/E22TPsA3gd">https://t.co/E22TPsA3gd</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/696147666669948929">February 7, 2016</a></blockquote>
+
+    <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">メリクリです。NHK・Eテレ『<a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ニッポンのジレンマ</a>』元日スペシャル放映まであと一週間となり、番組宣伝のためにブログを書きました。タイトルはアレですが、内容は真面目です。放送は元日夜11pm/NHKです。<a href="https://t.co/dMvRoxuUgB">https://t.co/dMvRoxuUgB</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E2016?src=hash">#ジレンマ2016</a> <a href="https://twitter.com/hashtag/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E?src=hash">#ジレンマ</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/680363172402839552">December 25, 2015</a></blockquote>
+
+    <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">✏️ 教育についてブログを書きました。翻訳でない長文記事はひさびさに書いたかもしれません → 読み書きそろばん物語・「新しい教育」の話をしよう <a href="https://t.co/Zdax4p2Uap">https://t.co/Zdax4p2Uap</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/661000846365212672">November 2, 2015</a></blockquote>
+
+    <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">シリコンバレーを訪れてくれた日本の学生向けに講演をしました。タイトルは「<a href="https://twitter.com/hashtag/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3?src=hash">#地獄のサンフランシスコ</a>」で、サンフランシスコの高騰する家賃についてです。 💸&#10;&#10;スライドと動画はこちら! → <a href="http://t.co/NLjSnrNMmO">http://t.co/NLjSnrNMmO</a> <a href="http://t.co/r2wasZiQBK">pic.twitter.com/r2wasZiQBK</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/646838522599477248">September 24, 2015</a></blockquote>
+  </div>
+</div>

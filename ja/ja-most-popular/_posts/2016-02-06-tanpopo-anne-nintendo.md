@@ -597,7 +597,7 @@ DSが発売された直後で、まだWiiが発売される前の2005年春。�
 
 こう書いたのも、数年前に見たメグ・ジェイさんのTED動画「[30歳は昔の20歳ではありません](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20?language=ja)」に、ぼくはかなり影響されたからかもしれない。
 
-<iframe src="https://embed-ssl.ted.com/talks/lang/ja/meg_jay_why_30_is_not_the_new_20.html" width="854" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
+<iframe class="ted-embed" src="https://embed-ssl.ted.com/talks/lang/ja/meg_jay_why_30_is_not_the_new_20.html" width="854" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
 
 [文字起こしはこちら](http://logmi.jp/22205)。とくに印象に残っていた箇所のキャプチャを貼っておく。
 
