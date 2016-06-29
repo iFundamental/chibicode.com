@@ -201,16 +201,14 @@ list_item_comment: "ぼくの自己紹介的な記事です。"
 
 ![](http://chibicode.com/assets/images/tanpopo-anne-nintendo/amsterdam2.jpg)
 
-アムステルダムに寄った第一の理由は、[2015年から日本国籍者がオランダで労働許可無く就労できるようになった](http://www.lifehacker.jp/2015/05/150529holland_japanese.html)からである。ビザのハードルが米・加・豪や欧州他国より低くなり、しかもオランダは英語が通じるため、これから日本人の移住者が増えるだろう。だから、オランダでもっとも栄えているアムステルダムを見ておきたかったのだ。
-
 <figure>
   <img src="http://chibicode.com/assets/images/tanpopo-anne-nintendo/amsterdam3.jpg" />
-<figcaption>路上の音楽家にも日本文化？が浸透していた。</figcaption>
+<figcaption>路上の音楽家。</figcaption>
 </figure>
 
-第二の理由は、ぼくは「[さよならを待つふたりのために](http://www.amazon.co.jp/gp/product/4001164051?tag=chibicode-22)」という小説を[2014年に読んで感動した](http://chibicode.com/the-fault-in-our-stars)のだが、物語の中盤の舞台がアムステルダムだったからだ。ちなみにこの本は「[きっと、星のせいじゃない。](http://www.foxmovies-jp.com/kitto-hoshi/)」という名で映画化もされており、ぼくの母校があるピッツバーグ市が序盤のロケ地になった。
-
 ### アンネの家
+
+アムステルダムに寄った理由のひとつは、ぼくは「[さよならを待つふたりのために](http://www.amazon.co.jp/gp/product/4001164051?tag=chibicode-22)」という小説を[2014年に読んで感動した](http://chibicode.com/the-fault-in-our-stars)のだが、物語の中盤の舞台がアムステルダムだったからだ。ちなみにこの本は「[きっと、星のせいじゃない。](http://www.foxmovies-jp.com/kitto-hoshi/)」という名で映画化もされており、ぼくの母校があるピッツバーグ市が序盤のロケ地になった。
 
 小説では、主人公たちが市内にあるアンネ・フランクの家を訪れるシーンがある。だが、そのことをぼくはすっかり忘れていた。最後の日、しかも閉館時間の2時間前に思い出し、冷たい雨にうたれながら1時間並んだ末、ぎりぎりでアンネ宅にあがらせてもらえた。
 
