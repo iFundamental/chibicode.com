@@ -4,7 +4,8 @@
     "jekyll:watch": "bundle exec jekyll serve --drafts --incremental",
     "build:watch": "webpack -p --watch",
     "webpack-dev-server": "node server.js",
-    "browser-sync": "browser-sync start --proxy \"localhost:4000\" --files \"_site/**/*.html\" --no-notify --no-open"
+    "browser-sync": "browser-sync start --proxy \"localhost:4000\" --files \"_site/**/*.html\" --no-notify --no-open",
+    "start": "bundle exec jekyll build --drafts && forego start"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",
