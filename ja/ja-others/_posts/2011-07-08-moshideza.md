@@ -29,7 +29,3 @@ title: 慶應SFCで行った講演「もしデザイナー歴２ヶ月半の若�
 ### パート6
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/wMv7lwTCt0Q" frameborder="0" allowfullscreen></iframe>
-
-## 講演のあとがき
-
-[こちらから読めます](https://github.com/chibicode/chibicode.com/blob/gh-pages/_jp-deleted-articles/2011-07-16-keio-talk.md)。
