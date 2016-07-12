@@ -1,7 +1,7 @@
 @import "tachyons/src/tachyons.css";
 
 body {
-  font-family: SF UI Text,Roboto,Helvetica Neue,Helvetica,sans-serif;
+  font-family: "SF UI Text", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #4c4c4c;
   line-height: 1.6;
   font-weight: 300;
