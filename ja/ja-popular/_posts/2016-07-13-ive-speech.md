@@ -1,6 +1,11 @@
 ---
 title: 絆
+og_image: "http://f.cl.ly/items/2G3m142h0v2Z0O0Z2S3H/new-orleans-heart.jpg"
+og_image_width: 1080
+og_image_height: 1080
 ---
+
+![](/assets/images/ive-speech/new-orleans-heart.jpg)
 
 2011年10月。スティーブ・ジョブズ氏の追悼式で、長年彼と二人三脚を続けてきたデザイナー、ジョニー・アイブ氏が行った[スピーチより](http://fortune.com/2011/10/24/jonathan-ive-on-steve-jobs-and-the-fragility-of-ideas/)抜粋。すでにいろいろな訳がありますが、これは筆者の訳文です。
 
