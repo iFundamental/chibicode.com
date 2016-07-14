@@ -1,5 +1,5 @@
 ---
-title: 絆
+title: くだらない絆
 og_image: "http://f.cl.ly/items/2G3m142h0v2Z0O0Z2S3H/new-orleans-heart.jpg"
 og_image_width: 1080
 og_image_height: 1080
