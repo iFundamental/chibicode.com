@@ -39,20 +39,6 @@ categories: ["ja"]
   </div>
 </div>
 <div class="mb5">
-  <h2 class="mt0 f4">最新記事</h2>
-  <ul class="list pl0 m0 lh-jp">
-    {% for post in site.categories["ja-most-recent"] %}
-      {% unless post.draft %}
-        <li class="mb4">
-          <a href="{{ post.url }}" class="no-underline">{{ post.title }}</a>
-          <br>
-          <span class="silver">{{ post.date | date: "%Y年%-m月%-d日" }}</span>
-        </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-</div>
-<div class="mb5">
   <h2 class="mt0 f4">最も読まれた記事 <span class="silver">(初めて訪問してくださった方はこちらから)</span></h2>
   <ul class="list pl0 m0 lh-jp">
     {% for post in site.categories["ja-most-popular"] %}
