@@ -5,8 +5,6 @@ og_image_width: 1080
 og_image_height: 1080
 ---
 
-![](/assets/images/ive-speech/new-orleans-heart.jpg)
-
 2011年10月、スティーブ・ジョブズ氏の追悼式で、長年彼と二人三脚を続けてきたデザイナー、ジョニー・アイブ氏が行った[スピーチより](http://fortune.com/2011/10/24/jonathan-ive-on-steve-jobs-and-the-fragility-of-ideas/)抜粋します。すでにいろいろな訳が[ありますが](https://maclalala2.wordpress.com/2011/10/30/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%96%E3%81%AE%E8%BF%BD%E6%82%BC%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81/)、以下は筆者の訳です。
 
 > スティーブは幾度となく、私にこう話しかけてきたものです。
