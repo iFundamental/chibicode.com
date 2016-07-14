@@ -93,6 +93,7 @@ a.ba:hover, a.ba:focus {
 
   & blockquote {
     margin-left: 0;
+    margin-right: 0;
     padding-left: 1rem;
     border-color: #eee;
     border-left-width: 0.5rem;
