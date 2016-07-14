@@ -18,4 +18,9 @@ $(function() {
     var scrollTop = $(window).scrollTop()
     $(window).scrollTop(scrollTop + $(this).parent().outerHeight(true))
   })
+  $('.js-kurorekishi').click((e) => {
+    e.preventDefault()
+    $('.js-kurorekishi-to-remove').hide()
+    $('.js-kurorekishi-item').show()
+  })
 })

@@ -58,6 +58,10 @@ a.ba:hover, a.ba:focus {
   display: block !important;
 }
 
+.hidden {
+  display: none;
+}
+
 .post-content {
   & p,
   & ul {

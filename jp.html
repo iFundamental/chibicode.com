@@ -64,14 +64,14 @@ categories: ["ja"]
         </li>
       {% endunless %}
     {% endfor %}
-  </ul>
-</div>
-<div class="mb5">
-  <h2 class="mt0 f4">黒歴史の記事</h2>
-  <ul class="list pl0 m0 silver lh-jp">
+    <li class='js-kurorekishi-to-remove'>
+      <a href="#" class="no-underline js-kurorekishi">黒歴史の記事を読む</a>
+      <br>
+      <span class="silver">{{ site.categories["ja-others"] | size }}件の記事があります</span>
+    </li>
     {% for post in site.categories["ja-others"] %}
       {% unless post.draft %}
-        <li class="mb4">
+        <li class="mb4 hidden js-kurorekishi-item silver">
           <a href="{{ post.url }}" class="no-underline">{{ post.title }}</a>
           <br>
           <span class="moon-gray">{{ post.date | date: "%Y年%-m月%-d日" }}</span>
