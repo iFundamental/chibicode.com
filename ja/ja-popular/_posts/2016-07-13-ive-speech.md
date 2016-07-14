@@ -5,8 +5,6 @@ og_image_width: 1080
 og_image_height: 1080
 ---
 
-![](/assets/images/ive-speech/new-orleans-heart.jpg)
-
 2011年10月。スティーブ・ジョブズ氏の追悼式で、長年彼と二人三脚を続けてきたデザイナー、ジョニー・アイブ氏が行った[スピーチより](http://fortune.com/2011/10/24/jonathan-ive-on-steve-jobs-and-the-fragility-of-ideas/)抜粋。すでにいろいろな訳がありますが、これは筆者の訳文です。
 
 > スティーブは幾度となく、私にこう話しかけてきたものです。
@@ -32,3 +30,5 @@ og_image_height: 1080
 しかしそんな絆でも、はじめの頃はもろく、ほとんど形をなさず、いともたやすく見過ごされたり、妥協されたり、押しつぶされたりしてしまう。ちょうど一年前、「じつは、ジョブズ氏がアップルに復帰した1997年、かれはアイブ氏をクビにしようとしていた」という[事実が報道](http://www.nbcnews.com/tech/apple/steve-jobs-almost-fired-now-famed-designer-jony-ive-n328511)されました。
 
 いつかとても強い絆になり得る関係も、はじめの頃は悲しいほどもろい。そのことを、誰よりもよく理解している人になりたいものです。
+
+![](/assets/images/ive-speech/new-orleans-heart.jpg)
