@@ -304,7 +304,7 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 アダプティブラーニングは次の10年間で大きな進歩を遂げるだろうが、ぼくは個人的に、「『学習中の理解度』ではなく、『学習中の気持ち』を認知する」人工知能に期待している。
 
-2015年夏、ぼくはとある[プログラミングの入門記事](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)を英語で書いたのだが、それが世界的なギークコミュニティーのHacker Newsで[週間1位の記事](https://www.instagram.com/p/494Rx7ibe0/)になり、掲載後の24時間以内に世界中で約[5万人](https://www.instagram.com/p/48q1RWCbbY/?taken-by=chibicode)に読んでもらった。
+2015年夏、ぼくはとある[プログラミングの入門記事](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)を英語で書いたのだが、それが世界的なギークコミュニティーのHacker Newsで[週間1位の記事](http://us1.campaign-archive2.com/?u=faa8eb4ef3a111cef92c4f3d4&id=f5135f31a2&e=b9173e3eba)になり、掲載後の24時間以内に世界中で約5万人に読んでもらった。
 
 なぜバズったかは分からないが、入門記事を書く際、ぼくはできるだけ学習者の気持ちを代弁するようにしていた。「ここは面倒ですよね」とか、「ここは何か変ですよね」とか、「ここは複雑で、ここはシンプルですよね」とか。それの積み重ねが人気を呼んだのかもしれないとぼくは思っている。
 
@@ -397,12 +397,6 @@ Twitterに投稿しました。
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="ja" dir="ltr">後半の「経済競争」という緑の見出し以降が、これからの社会のあり方を的確に予測していてめちゃめちゃ面白くてタメになります。／「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと <a href="https://t.co/2x1HKXXMtE">https://t.co/2x1HKXXMtE</a></p>&mdash; 佐々木俊尚 (@sasakitoshinao) <a href="https://twitter.com/sasakitoshinao/status/681251752189030400">December 27, 2015</a></blockquote>
 
 <h2>追記: 放映中・放映後の投稿など</h2>
-
-<h3>Instagram</h3>
-
-<p>こちらはNHKさんに怒られたら消します。</p>
-
-<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:28.125% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BADyH36ibbB/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A video posted by Shu Uesugi (@chibicode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-01-03T01:51:57+00:00">Jan 2, 2016 at 5:51pm PST</time></p></div></blockquote><br/>
 
 <h3>Twitter</h3>
 

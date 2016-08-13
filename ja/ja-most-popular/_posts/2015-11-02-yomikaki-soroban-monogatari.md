@@ -482,7 +482,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 <p><iframe src="https://player.vimeo.com/video/70977120" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-(ちなみに、この学校の名前は[Aspire Public Schools](http://aspirepublicschools.org/sharing-practices/blended-learning/)。シリコンバレーから運転して40分のところにある低所得者地区・Fruitvaleにある公立校である。じつは、ぼくも会社のコネを使い、[2015年10月28日にこの学校の見学に行った](https://instagram.com/p/9fQyuFibRP/?taken-by=chibicode)。教室はこのビデオそっくりで、数学のデジタル教材には先ほど紹介したST Mathが使われていた。)
+(ちなみに、この学校の名前は[Aspire Public Schools](http://aspirepublicschools.org/sharing-practices/blended-learning/)。シリコンバレーから運転して40分のところにある低所得者地区・Fruitvaleにある公立校である。じつは、ぼくも会社のコネを使い、2015年10月28日にこの学校の見学に行った。教室はこのビデオそっくりで、数学のデジタル教材には先ほど紹介したST Mathが使われていた。)
 
 ブレンド型学習が人気なのは、従来式とエドテック式の「良いとこ取り」だからだ。
 
@@ -532,7 +532,7 @@ ST Mathの「ST」は「Spacial-Temporal」、すなわち「空間と時間」�
 
 <blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">おはよん♡今年のハロウィン、私の中で仮装最優秀賞は間違いなくこれ。STORYS.JPの清瀬さん（笑）チームビリギャルの一員の方です♡Facebookで見て思わず保存。電車で声出して笑いました。さすがすぎる！！！！ <a href="https://t.co/zS3SpPTcK1">pic.twitter.com/zS3SpPTcK1</a></p>&mdash; 石川恋 (@renreeeen_) <a href="https://twitter.com/renreeeen_/status/660578760605888513">October 31, 2015</a></blockquote>
 
-ぼくは映画は観てないが、この記事を書くためだけに、[本は最後まで読んだ](https://instagram.com/p/9Fue_NCbUO/?taken-by=chibicode)。坪田さんの鼻につく表現が多く、それのせいで良い話が台無しになっていて、久しぶりに「読んで時間を無駄にした」と思える本だった。
+ぼくは映画は観てないが、この記事を書くためだけに、本は最後まで読んだ。坪田さんの鼻につく表現が多く、それのせいで良い話が台無しになっていて、久しぶりに「読んで時間を無駄にした」と思える本だった。
 
 しかし、少なくとも主人公の「ビリギャル」にとって、坪田さんの指導は「彼女の人生を変える教育」だったのだろう。Amazonには「[もともと地頭が良い子だった](http://www.amazon.co.jp/review/R25WM5Q9SX57BB?tag=chibicode-22)」という批判が多いが、坪田さんもそれは認めていて、その上で彼は文中でこう反論している。
 
