@@ -58,7 +58,7 @@ Bay Area Hikerに登録されてるハイキングコースは、地図に載せ
 
 ![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/instagram/2.jpg)
 
-![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/instagram/3.jpg)
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/alamere-falls.jpg)
 
 ### Muir Woods
 
@@ -97,6 +97,8 @@ Bay Area Hikerに登録されてるハイキングコースは、地図に載せ
 Land's End Labyrinthは海沿いの崖の上にあり、魔法陣が並べられています。写真は[サイマックス](http://jp.techcrunch.com/2015/12/09/symax-funding/)の創業者3人と一緒に行ったときのもの。
 
 - おすすめ度: ★★★★★
+
+![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/instagram/3.jpg)
 
 ![](http://chibicode.com/assets/images/hiking-in-silicon-valley-san-francisco/instagram/4.jpg)
 
