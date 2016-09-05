@@ -39,7 +39,7 @@ categories: ["ja"]
   </div>
 </div>
 <div class="mb5">
-  <h2 class="mt0 f4">最も読まれた記事 <span class="silver">(初めて訪問してくださった方はこちらから)</span></h2>
+  <h2 class="mt0 f4">最も読まれた記事・日付順 <span class="silver">(初めて訪問してくださった方はこちらから)</span></h2>
   <ul class="list pl0 m0 lh-jp">
     {% for post in site.categories["ja-most-popular"] %}
       {% unless post.draft %}
@@ -53,7 +53,7 @@ categories: ["ja"]
   </ul>
 </div>
 <div class="mb5">
-  <h2 class="mt0 f4">その他の記事</h2>
+  <h2 class="mt0 f4">その他の記事・日付順</h2>
   <ul class="list pl0 m0 lh-jp">
     {% for post in site.categories["ja-popular"] %}
       {% unless post.draft %}
