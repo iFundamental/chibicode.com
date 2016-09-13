@@ -41,6 +41,8 @@ next_recommend_title: "アメリカの教科書はなぜ重たいのか"
 
 EdSurgeはこれら以外にもう一つ、会社の命運をかけた新規事業に取り組んでいて、ぼくはそのチームでエンジニアをしています。この事業について書くと長くなるので、英語が読める方は[こちら](https://www.edsurge.com/n/2015-06-23-a-personal-concierge-for-edtech-companies-and-school-leaders)と[こちら](https://www.edsurge.com/n/2015-06-26-questions-and-answers-about-edsurge-s-concierge-service)をあとで読んでみてください。
 
+(追記2016/9/12: [新規事業についての記事を書きました](http://senseicode.club/6-edsurge-concierge)。)
+
 また、スポンサー付き記事・求人・市場調査・カンファレンスで儲けるのはジャーナリズム的にどうなのかという疑問を抱く方もいますが、ご安心を。社内のマネタイズ部門とジャーナリズム部門は独立していて、利害の対立が起きない運営手法をとっています。[詳しくはこちらをご覧ください](http://about.edsurge.com/ethics-statement/)。
 
 ## 本題: 社長・ベッツィーのスピーチ
@@ -312,3 +314,9 @@ EdSurgeは「学ぶ人」の味方でありたい。生徒も「学ぶ人」で�
 2016年4月9日に[「うちの社長のエピソード」というタイトルの追記記事を書きました](http://chibicode.com/betsy-anecdotes/)。
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">ツイートをまとめ終えました → うちの社長のエピソード <a href="https://t.co/xwq7fJlQmu">https://t.co/xwq7fJlQmu</a> <a href="https://t.co/ton0p7x1ds">pic.twitter.com/ton0p7x1ds</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/719026973410861058">April 10, 2016</a></blockquote>
+
+## 追記その2
+
+2016年9月12日に[EdSurgeの新規事業「コンシェルジュ」についての記事を書きました](http://senseicode.club/6-edsurge-concierge)。
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">教育ブログ記事その6『シリコンバレーの教育ベンチャー・EdSurgeは、エドテックの「選択肢が多すぎ」問題を解決できるのか』も公開しました。「アメリカの全公立学区の5割にフルタイム勤務のCTOがいる」こと、知らなかった人も多いのでは。<a href="https://t.co/CFy2Cly4rY">https://t.co/CFy2Cly4rY</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/775509554989707264">September 13, 2016</a></blockquote>
