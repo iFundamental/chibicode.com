@@ -22,6 +22,15 @@ layout: default
 
     <section class="mb6 post-content js-post-content {% if page.categories contains "ja" %}lh-jp{% else %}lh-copy{% endif %}">
       {{content}}
+      <p>
+        <time datetime="{{ page.date | date_to_xmlschema}}">
+          {% if page.categories contains "ja" %}
+            {{ page.date | date: "%Y年%-m月%-d日" }}
+          {% else %}
+            {{ page.date | date_to_string }}
+          {% endif %}
+        </time>
+      </p>
     </section>
 
     <footer>
