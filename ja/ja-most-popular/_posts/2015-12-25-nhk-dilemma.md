@@ -335,7 +335,7 @@ Amazonが「おすすめ商品」を表示してくれるように、たとえ�
 
 こういった路線の人工知能には、ぼくは大いに期待している。
 
-(追記 2016/2/2: ぼくが働くEdSurge社が、アダプティブラーニングについての特設サイトをリリースした。[こちらからどうぞ](https://www.edsurge.com/research/special-reports/adaptive-learning/)。)
+(追記 2016/9/13: アダプティブラーニングについて新しい記事を書きました。[こちらからどうぞ](http://senseicode.club/5-adaptive-learning)。)
 
 ---
 
