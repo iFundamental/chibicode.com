@@ -37,6 +37,7 @@ layout: default
       {% endunless %}
     </section>
 
+    {% unless page.hide_footer %}
     <footer>
       {% if page.categories contains "en" %}
         <section class="mb4 post-content lh-copy">
@@ -76,5 +77,6 @@ layout: default
         {% endif %}
       </div>
     </footer>
+    {% endunless %}
   </article>
 </main>
