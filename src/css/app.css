@@ -49,13 +49,24 @@ a.ba:hover, a.ba:focus {
 .twitter-tweet,
 .instagram-media,
 .fluid-width-video-wrapper,
-.ted-embed {
+.ted-embed,
+.fb_iframe_widget.fb-post,
+.fb_iframe_widget.fb-post * {
   max-width: 100% !important;
   box-sizing: border-box;
   margin-bottom: 1.5rem !important;
   margin-left: auto !important;
   margin-right: auto !important;
   display: block !important;
+}
+
+.fb_iframe_widget.fb-like {
+  font-size: 0; /* Necessary to get rid of some pixels on top */
+  vertical-align: middle;
+}
+
+.twitter-tweet-button {
+  vertical-align: middle;
 }
 
 .hidden {
