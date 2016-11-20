@@ -117,6 +117,14 @@ title: トランプ大統領就任についての所感
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/atuyosi_5">@atuyosi_5</a> そんな膨大な金と人員があるなら、そもそもメキシコからの移民をもっと合法的に受け入れ、教育サービスを充実させ、労働人口を増やしてGDPに貢献させることができるからです。アメリカは移民が当たり前の国なので。それを選択しないで真逆を行くのは、超保守化と捉えられます</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/799694795065036801">November 18, 2016</a></blockquote>
 
+### 追記など
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">どれもこれも現時点では想像にすぎないな<br><br>トランプ大統領就任についての所感 <a href="https://t.co/6X0Fyr9mky">https://t.co/6X0Fyr9mky</a> via <a href="https://twitter.com/chibicode">@chibicode</a></p>&mdash; 田上嘉一 (@Gotama7) <a href="https://twitter.com/Gotama7/status/800204310025883648">November 20, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ツイッターのほうですが、「トランプに投票していただろう」とのコメントに僕は反論した形なので、引用した情報はすべて選挙「前」の情報です。選挙は「現時点の想像」で投票先を選ぶものですから。 <a href="https://t.co/sIU9s8pUxA">https://t.co/sIU9s8pUxA</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/800206313217110016">November 20, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">確かにそりゃそうですね。 <a href="https://t.co/yt7IQtYZ8g">https://t.co/yt7IQtYZ8g</a></p>&mdash; 田上嘉一 (@Gotama7) <a href="https://twitter.com/Gotama7/status/800207373860098049">November 20, 2016</a></blockquote>
+
 ### 選挙日の7ヶ月前に書いた、こちらの記事もどうぞ
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">🇺🇸 ブログ更新しました → 進学校の中高生と、アメリカ大統領選ビンゴで遊んだ話 ~トランプ氏v.s.サンダース氏~ <a href="https://t.co/z8fBbIY39h">https://t.co/z8fBbIY39h</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/713884588326526976">March 27, 2016</a></blockquote>
