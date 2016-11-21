@@ -24,9 +24,9 @@ layout: default
     </header>
 
     {% if page.categories contains "ja-senseicode" %}
-      {% if page.prev_issues %}
-        <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb4">
-          <h3 class="mt0 mb2 tc">この記事は、以下の記事の続編です</h3>
+      <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb4">
+        <p class="mt0 mb0 tc">この記事は、プログラミング教育について語るブログ「<a href="http://senseicode.club">senseicode</a>」に書いた記事の転載です。{% if page.prev_issues %}そして以下の記事の続編です。{% endif %}</p>
+        {% if page.prev_issues %}
           <ul class="list pa0">
           {% for prev_issue in page.prev_issues %}
             {% assign prev_posts = site.posts | where:"issue",prev_issue %}
@@ -39,8 +39,8 @@ layout: default
             {% endfor %}
           {% endfor %}
           </ul>
-        </div>
-      {% endif %}
+        {% endif %}
+      </div>
     {% endif %}
 
     <section class="mb6 post-content js-post-content {% if page.categories contains "ja" %}lh-jp{% else %}lh-copy{% endif %}">
