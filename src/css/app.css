@@ -28,6 +28,10 @@ a:hover, a:focus {
   color: #D81B60;
 }
 
+.callout-bar {
+  z-index: 1000;
+}
+
 a.ba:hover, a.ba:focus {
   border-color: #D81B60;
 }
