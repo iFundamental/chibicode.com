@@ -58,6 +58,20 @@ categories: ["ja"]
   </ul>
 </div>
 <div class="mb5">
+  <h2 class="mt0 f4">教育系ブログ・<a href="http://senseicode.club">Senseicode</a>に書いた記事</h2>
+  <ul class="list pl0 m0 lh-jp">
+    {% for post in site.categories["ja-senseicode"] %}
+      {% unless post.draft %}
+        <li class="mb4">
+          <a href="{{ post.url }}" class="no-underline">{{ post.title }}</a>
+          <br>
+          <span class="silver">{{ post.date | date: "%Y年%-m月%-d日" }}</span>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+<div class="mb5">
   <h2 class="mt0 f4">その他の記事・日付順</h2>
   <ul class="list pl0 m0 lh-jp">
     {% for post in site.categories["ja-popular"] %}

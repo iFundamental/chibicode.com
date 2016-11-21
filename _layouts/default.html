@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend:site.baseurl }}">
+    {% if page.categories contains "ja-senseicode" %}
+      <link rel="canonical" href="http://senseicode.club{{ page.url }}">
+    {% endif %}
     {% capture author_name %}{% if page.categories contains "ja" %}上杉周作{% else %}Shu Uesugi{% endif %}{% endcapture %}
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ author_name }}</title>
     {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
@@ -12,6 +15,7 @@
     {% capture url %}{{ site.github.url }}{{ page.url | remove:'index.html' }}{% endcapture %}
     {% capture og_image %}http://www.chibicode.com/assets/images/shu-uesugi-og.jpg{% endcapture %}
     {% if page.og_image %}{% capture og_image %}{{ page.og_image }}{% endcapture %}{% endif %}
+    {% if page.image %}{% capture og_image %}http://chibicode.com{{ page.image }}{% endcapture %}{% endif %}
     <meta name="description" content="{{ description | xml_escape }}">
 
     {% if page.excerpt %}

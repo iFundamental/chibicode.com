@@ -23,6 +23,26 @@ layout: default
       {% endunless %}
     </header>
 
+    {% if page.categories contains "ja-senseicode" %}
+      {% if page.prev_issues %}
+        <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb4">
+          <h3 class="mt0 mb2 tc">この記事は、以下の記事の続編です</h3>
+          <ul class="list pa0">
+          {% for prev_issue in page.prev_issues %}
+            {% assign prev_posts = site.posts | where:"issue",prev_issue %}
+            {% for prev_post in prev_posts %}
+              <li class="mt0 mb2">
+                <a href="{{ prev_post.url }}" class="color-inherit hover-color no-underline">
+                  <span class="red mr1">{{ prev_post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ prev_post.title }}</span>
+                </a>
+              </li>
+            {% endfor %}
+          {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    {% endif %}
+
     <section class="mb6 post-content js-post-content {% if page.categories contains "ja" %}lh-jp{% else %}lh-copy{% endif %}">
       {{content}}
       {% unless page.hide_date %}
@@ -38,6 +58,36 @@ layout: default
       <div class="fb-like" data-href="{{ site.github.url }}{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
       <a href="https://twitter.com/share" class="twitter-share-button" data-via="chibicode" data-size="large" data-dnt="true" data-text="{{ page.title | xml_escape }}"></a>
       {% endunless %}
+      {% if page.categories contains "ja-senseicode" %}
+        <div class="pt5">
+          {% if page.next_issues %}
+            <h3 class="f5 mt0 mb2 tc">次はこちらの記事をどうぞ</h2>
+            <ul class="list pa0">
+            {% for next_issue in page.next_issues %}
+              {% assign next_posts = site.posts | where:"issue",next_issue %}
+              {% for next_post in next_posts %}
+                <li class="mt0 mb2">
+                  <a href="{{ next_post.url }}" class="color-inherit hover-color no-underline">
+                    <span class="red mr1">{{ next_post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ next_post.title }}</span>
+                  </a>
+                </li>
+              {% endfor %}
+            {% endfor %}
+            </ul>
+          {% endif %}
+
+          {% if page.tweet_id %}
+            <div class="mt4" style='margin-left: -1rem; margin-right: -1rem'>
+            <blockquote class="twitter-tweet tw-align-center" data-lang="ja" data-conversation="none" data-cards="hidden"><p lang="und" dir="ltr"><a href="https://twitter.com/chibicode/status/{{ page.tweet_id }}"></a></blockquote>
+            </div>
+          {% endif %}
+          {% if page.fb_id %}
+            <div class="tc mt4" style='margin-left: -1rem; margin-right: -1rem'>
+            <div class="fb-post" data-href="https://www.facebook.com/shu/posts/{{ page.fb_id }}" data-show-text="true"></div>
+            </div>
+          {% endif %}
+        </div>
+      {% endif %}
     </section>
 
     {% unless page.hide_footer %}
