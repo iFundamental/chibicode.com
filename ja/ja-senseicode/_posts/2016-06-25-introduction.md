@@ -73,8 +73,8 @@ EdSurgeは、生徒の学びに最も役に立つテクノロジーを、学校�
 ## アメリカの高校国語教師・ヴァン・ドーレン先生の話
 
 <figure>
-  <img src="/images/1/susan.jpg" />
-  <figcaption>ヴァン・ドーレン先生 (<a href="https://www.youtube.com/watch?v=AbewmUdXC7o">画像ソース</a>)</figcaption>
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/AbewmUdXC7o" frameborder="0" allowfullscreen></iframe>
+  <figcaption>ヴァン・ドーレン先生</figcaption>
 </figure>
 
 [弊社が記事](https://www.edsurge.com/news/2016-05-04-infosys-foundation-donorschoose-national-science-foundation-partner-to-fund-cs-professional-development)にとりあげた、ヴァン・ドーレン先生の話をします。ヴァン・ドーレン先生はネバダ州の田舎にある公立高校で国語(英語)を教えている方です。
