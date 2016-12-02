@@ -22,7 +22,7 @@ fb_id: 10200728453553517
 
 「そんなのどうでもいい」という方は、下のリンクをクリックすれば100人のプロフィールをすぐに見ることができます。
 
-<p style="text-align: center;"><a href="#main">100人のプロフィールを今すぐ見る</a></p>
+<p style="text-align:center;"><a href="#main">100人のプロフィールを今すぐ見る</a></p>
 
 ## 医者か、弁護士か、プログラマーか
 
@@ -130,7 +130,7 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 
 ・・・と気づいてもらえれば嬉しいです。
 
-(注:順不同。プロフィールの内容は執筆時のもので、各個人のツイッターまたはLinkedInのプロフィール画像を掲載しています。)
+(注:順不同。プロフィールの内容は執筆時のものです。)
 
 ### スポンサーのお知らせ: [Life is Tech!](https://life-is-tech.com/)様
 
@@ -144,10 +144,6 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 ## 1. Claire Shorall先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/claire.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 カリフォルニア州・オークランド学区(生徒数4万人)のコンピューターサイエンス教育の最高責任者。大学では生物学・宗教学・美術を専攻し2010年に卒業。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are 2x more girls than boys (14 to 7) in <a href="https://twitter.com/CastlemontHigh">@CastlemontHigh</a>&#39;s AP CSP class. That&#39;s why visits from women like <a href="https://twitter.com/KhaliaBraswell">@KhaliaBraswell</a> matters. <a href="https://t.co/YmURwuGJiv">pic.twitter.com/YmURwuGJiv</a></p>&mdash; Claire Shorall (@cklshorall) <a href="https://twitter.com/cklshorall/status/778282284872892416">September 20, 2016</a></blockquote>
@@ -155,10 +151,6 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです!」(訳註:Khaliaさんはアップル社のデザイナー兼プログラマーで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
 
 ## 2. Dawn DuPriest先生 / コロラド州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/dawn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 元ソフトウェア開発者。現在はコロラド州の公立校でプログラミングと電子工学を教えている。
 
@@ -168,10 +160,6 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 ## 3. Nettrice Gaskins先生(博士) / マサチューセッツ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/nettrice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 コンピューターグラフィックスの研究者で、名門ジョージア工科大学にてデジタルメディアの博士号を取得。現在はボストン市の唯一の公立美術専門高校・Boston Arts Academyでテクノロジーとアート教育の責任者をしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Student: &quot;Just keep watching. Keep watching. There&#39;s so much more...&quot; Me: &quot;That&#39;s just paint, ya&#39;ll.&quot; <a href="https://t.co/V6rB0Qb8a9">https://t.co/V6rB0Qb8a9</a></p>&mdash; Nettrice (@nettieb) <a href="https://twitter.com/nettieb/status/734876059338969088">May 23, 2016</a></blockquote>
@@ -180,10 +168,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 
 ## 4. Vicky Sedgwick先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/vicky.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 公立小・中学校のプログラミング教員。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)で、新しいコンピューターサイエンスのカリキュラムの制定に関わっている。小・中学校のプログラミング教育について語るハッシュタグチャット「[#csk8](https://twitter.com/hashtag/csk8)」のモデレーター。
 
@@ -199,10 +183,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ## 5. Adrienne Gifford先生 / ワシントン州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/adrienne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ワシントン州の実験校で小学生・中学生向けの学習イノベーションとテクノロジー教育の最高責任者。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HTML?src=hash">#HTML</a> <a href="https://twitter.com/hashtag/LEGOrobotics?src=hash">#LEGOrobotics</a> &amp; <a href="https://twitter.com/hashtag/Minecraft?src=hash">#Minecraft</a> , oh my! What a great 1st day of Summer Camp at <a href="https://twitter.com/OWSBobcat">@OWSBobcat</a> ! <a href="https://twitter.com/hashtag/makered?src=hash">#makered</a> <a href="https://twitter.com/hashtag/STEMed?src=hash">#STEMed</a> <a href="https://twitter.com/hashtag/CSed?src=hash">#CSed</a> <a href="https://t.co/n7COh3KHrf">pic.twitter.com/n7COh3KHrf</a></p>&mdash; Adrienne Gifford (@adriennegifford) <a href="https://twitter.com/adriennegifford/status/750450189245132800">July 5, 2016</a></blockquote>
@@ -210,10 +190,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 意訳:「夏休みの特別授業で生徒がHTML言語や、Legoやマインクラフトでプログラミングを学んでいます!」
 
 ## 6. Abigail Joseph先生(博士) / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/abigail.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 超名門・プリンストン大学を卒業後、2002年にカリフォルニア大学サンタクルーズ校でコンピューターサイエンスの博士号を取得。その後10年以上、シリコンバレーの数々の学校で中高生にコンピューターサイエンスを教えている。
 
@@ -223,10 +199,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ## 7. Melissa Moritz先生 / 首都・ワシントンDC
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/melissa2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 マサチューセッツ工科大学で生物学を専攻し、卒業後の2006-2008年にニューヨーク・マンハッタンで貧困層の中学生に科学を教えていた。現在はアメリカ政府教育省・理数系教育部門の代表代理を務め、アメリカ全土のテクノロジー教育政策に関わっている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Teachers trained all over the country!! <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://t.co/wdvecSoZCC">pic.twitter.com/wdvecSoZCC</a></p>&mdash; Melissa Moritz (@melissawmoritz) <a href="https://twitter.com/melissawmoritz/status/776121027302744064">September 14, 2016</a></blockquote>
@@ -234,10 +206,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 意訳:「2016年に、学校の先生向けのプログラミング研修(学区公認)がアメリカ全土で2707回も行われました!」
 
 ## 8. Sheena Vaidyanathan先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/sheena.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
 
@@ -247,10 +215,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ## 9. Laura Blankenship先生 / ペンシルベニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/laura.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 フィラデルフィアの私立名門女子高・Baldwin Schoolにて、コンピューターサイエンス学科の学長。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/baldwinschool">@baldwinschool</a> Web Design students in a client meeting. Alexa &#39;17 and Lauren &#39;18 on the left are the clients. Ashley &#39;17 is the designer. <a href="https://t.co/NoTq3GOOoN">pic.twitter.com/NoTq3GOOoN</a></p>&mdash; Laura Blankenship (@lblanken) <a href="https://twitter.com/lblanken/status/783350995979866112">October 4, 2016</a></blockquote>
@@ -258,10 +222,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 意訳:「ウェブデザインの授業にて。左の二人がクライエントを演じています!」
 
 ## 10. Jeanne Reed先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/jeanne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 カリフォルニアの学区で小学校の教員を務め、コンピューターやプログラミングの授業を教えていた。現在は企業でプログラマーとして働くかたわら、子供向けのプログラミング塾[CoderDojo South Bay](http://www.coderdojosouthbay.com/)を運営。
 
@@ -273,10 +233,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ## 11. Shanice White先生(博士) / メリーランド州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/shanice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 元情報セキュリティーの専門家。教育学博士。メリーランド州の公立学区で10年以上プログラミングとテクノロジー教育の専門教員をしている。現在は弁護士の資格を取得するため勉強中。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who brought their computer today? No one? Well, take out your phones and use those. <a href="https://twitter.com/CHFlowersHigh">@CHFlowersHigh</a> <a href="https://twitter.com/hashtag/MsWhiteCompSci?src=hash">#MsWhiteCompSci</a> <a href="https://t.co/ViF0heh4ak">pic.twitter.com/ViF0heh4ak</a></p>&mdash; Shanice White, (@shanicemwhite) <a href="https://twitter.com/shanicemwhite/status/755787442259623936">July 20, 2016</a></blockquote>
@@ -284,10 +240,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 意訳:「コンピューターを家に忘れても、スマホがあればプログラミングを勉強できますよ!」
 
 ## 12. Amanda Haughs先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/amanda.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 カリフォルニアの学区で小学校の教員を7年間務め、現在は同じ学区の他の教員向けにテクノロジー教育のコーチングを行っている。
 
@@ -297,10 +249,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ## 13. Andrea Wilson Vazquez先生 / ミネソタ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/andrea.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ミネソタ州の小学校で国語(英語)の教員を経験後、テクノロジー教育のスペシャリストに転身し、コーディング教育の導入に尽力している。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/brasst">@brasst</a> sharing awesome ideas and resources for coding and 3d printing!! <a href="https://twitter.com/hashtag/mncodes?src=hash">#mncodes</a> <a href="https://t.co/o0BLarh7OV">pic.twitter.com/o0BLarh7OV</a></p>&mdash; Andrea WilsonVazquez (@wilsandrea) <a href="https://twitter.com/wilsandrea/status/732286532246081536">May 16, 2016</a></blockquote>
@@ -308,10 +256,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 意訳:「(ミネソタ州のプログラミング教育カンファレンスにて)[Brass](https://twitter.com/brasst)先生がコーディングと3Dプリンターについて講演しています!」
 
 ## 14. Sharon Thompson先生 / ニューヨーク州・カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/sharon.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 長年、ニューヨークの学校でさまざまな学年の生徒にプログラミングやロボット工学を教えていた。最近カリフォルニアに引っ越し、公立の実験校(小・中学生)でコンピュターサイエンス学部の学長をしている。
 
@@ -321,10 +265,6 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ## 15. Angie Kalthoff先生 / ミネソタ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/angie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現在は学校でテクノロジー教育のスペシャリスト。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We are <a href="https://twitter.com/hashtag/pairprogramming?src=hash">#pairprogramming</a>  &amp; <a href="https://twitter.com/hashtag/mobprogrammjng?src=hash">#mobprogrammjng</a> with <a href="https://twitter.com/TeachCode">@TeachCode</a> <a href="https://twitter.com/hashtag/csforall?src=hash">#csforall</a> <a href="https://twitter.com/hashtag/mncodes?src=hash">#mncodes</a> <a href="https://t.co/ZfiaVf9dss">pic.twitter.com/ZfiaVf9dss</a></p>&mdash; Angie Kalthoff (@mrskalthoff) <a href="https://twitter.com/mrskalthoff/status/763765209752145920">August 11, 2016</a></blockquote>
@@ -332,10 +272,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「プログラミング教育の先生向けの研修で、先生方がペアプログラミングで学んでいます!」
 
 ## 16. Alana Aaron先生 / ニューヨーク州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/alana.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 大学でスペイン語を勉強し、その後ニューヨークで12年間教員を務めたのち、ニューヨーク市の教育部門でコンピューターサイエンス学習の最高責任者となる。
 
@@ -345,10 +281,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 17. Kari Milton先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kari.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 カリフォルニア・ロングビーチの中学校でプログラミングとグローバル教育を教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Presenting on intercultural exchanges &amp; innovative technologies in Abu Dhabi <a href="https://twitter.com/BilateralTeach">@BilateralTeach</a> <a href="https://t.co/kuimSp95lG">pic.twitter.com/kuimSp95lG</a></p>&mdash; Kari Milton, NBCT (@miltology) <a href="https://twitter.com/miltology/status/670746025695449088">November 28, 2015</a></blockquote>
@@ -356,10 +288,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「アブダビ(アラブ首長国連邦)での教育カンファレンスにて、テクノロジー教育とグローバル文化教育について講演しました!」
 
 ## 18. Lisa Bejarano先生 / コロラド州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/lisa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 高校の数学の先生で、[数学教育についてのブログ](https://crazymathteacherlady.wordpress.com/)で情報発信中。特進生向けにプログラミングの授業も教えている。
 
@@ -369,10 +297,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 19. Smita Kolhatkar先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/smita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 カリフォルニアの公立学区のテクノロジー教育担当教員として小学生向けにプログラミング、ロボット工学、3Dプリントを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Impressed with these Gr1 Ss plowibg through <a href="https://twitter.com/hashtag/debugging?src=hash">#debugging</a> <a href="https://twitter.com/hashtag/functions?src=hash">#functions</a> using <a href="https://twitter.com/SwiftLangu">@SwiftLangu</a> <a href="https://twitter.com/hashtag/iPaded?src=hash">#iPaded</a> <a href="https://twitter.com/hashtag/1to1techat?src=hash">#1to1techat</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/coding?src=hash">#coding</a> <a href="https://t.co/MiIUWLwB8u">pic.twitter.com/MiIUWLwB8u</a></p>&mdash; Smita Kolhatkar (@SKolhatkar) <a href="https://twitter.com/SKolhatkar/status/785902285784166400">October 11, 2016</a></blockquote>
@@ -380,10 +304,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「1年生の子たちがSwift言語を勉強しています!」(訳註:Apple社が開発した子供向けのプログラミング教材「[Swift Playground](http://www.apple.com/swift/playgrounds/)」を利用しているようです)
 
 ## 20. Patti Harju先生 / ミシガン州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/patti.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 午前中は幼稚園児から中学生相手のテクノロジー教員、午後は2年生に算数、理科、宗教学を教えているミシガン州の教員。
 
@@ -393,10 +313,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 21. Alison Anderson先生 / オレゴン州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/alison.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 オレゴンの小中学・高校・大学でコンピューター系の授業を教えている。3児の母。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">7th grade designed their <a href="https://twitter.com/littleBits">@littleBits</a> Leprechaun traps today and will build them tomorrow! <a href="https://twitter.com/hashtag/STEMchat?src=hash">#STEMchat</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://t.co/FeIs1vvQVY">pic.twitter.com/FeIs1vvQVY</a></p>&mdash; Alison Anderson (@tedrosececi) <a href="https://twitter.com/tedrosececi/status/708149510287921152">March 11, 2016</a></blockquote>
@@ -404,10 +320,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「中学生の子たちが[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)を作ってネズミ捕りを作っています!」
 
 ## 22. Jennifer Gwilt先生 / ミシガン州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/jennifer.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ミシガンの学校のテクノロジー教育担当教員・カリキュラム作成員で、数学とコンピューターサイエンスも教えている。
 
@@ -417,10 +329,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 23. Leticia Batista先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/leticia.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 小・中学校のテクノロジー教育教員で、[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)で、新しいコンピューターサイエンスのカリキュラムの制定に関わっている。スペイン語を母国語とする子どもが生徒に多い。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Story time with <a href="https://twitter.com/ScratchJr">@ScratchJr</a>, <a href="https://twitter.com/hashtag/storytellers?src=hash">#storytellers</a><a href="https://twitter.com/hashtag/authors?src=hash">#authors</a> <a href="https://twitter.com/hashtag/teachers?src=hash">#teachers</a> <a href="https://twitter.com/hashtag/GirlsinSTEM?src=hash">#GirlsinSTEM</a> <a href="https://twitter.com/hashtag/girlswhocode?src=hash">#girlswhocode</a> <a href="https://twitter.com/hashtag/primarycoders?src=hash">#primarycoders</a> <a href="https://t.co/TJOAL2A5kJ">pic.twitter.com/TJOAL2A5kJ</a></p>&mdash; letty (@MsbatistaL) <a href="https://twitter.com/MsbatistaL/status/693261177904705536">January 30, 2016</a></blockquote>
@@ -428,10 +336,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「子どもたちが[Scratch Junior](https://www.scratchjr.org/)(5-7歳児向けのプログラミング教材)で物語を通じてプログラミングを学んでいます!」
 
 ## 24. Keledy Kenkel先生 / ニューヨーク州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/keledy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ニューヨークの学校を転々とし、プログラミングの教員やテクノロジー教育導入の担当者を務める。2014年よりプログラミング教育の非営利団体最大手・[Code.org](https://code.org/)に参画し、小学校の教員向けにプログラミング教育の研修を行っている。
 
@@ -441,10 +345,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 25. Jacqueline Leiker先生 / ミシガン州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/jacqueline.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 二児の母。ミシガンの学校でプログラミング、グラフィックデザイン、金融リテラシーなどを教えている。元チアリーダー部のコーチ。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/leikerclass?src=hash">#leikerclass</a> <a href="https://twitter.com/hashtag/CS4All?src=hash">#CS4All</a> So proud that <a href="https://twitter.com/hashtag/NVKnights?src=hash">#NVKnights</a> teaches ALL students how to <a href="https://twitter.com/hashtag/Code?src=hash">#Code</a>. <a href="https://twitter.com/hashtag/HourofCode?src=hash">#HourofCode</a> <a href="https://twitter.com/hashtag/KnightPride?src=hash">#KnightPride</a>. <a href="http://t.co/OMWiWq2bp2">pic.twitter.com/OMWiWq2bp2</a></p>&mdash; Jacqueline Leiker (@jleiker06) <a href="https://twitter.com/jleiker06/status/633306192123686912">August 17, 2015</a></blockquote>
@@ -452,10 +352,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「スティーブ・ジョブズの言葉。わたしの学校では生徒『全員』にプログラミングを教えていることを誇りに思います!」
 
 ## 26. Kim Garcia先生 / テキサス州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kim.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 元コンピューターサイエンスの教員。現在はテキサス中部の学区でデジタル学習の最高責任者をしている。
 
@@ -465,10 +361,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 27. Tracy Rudzitis先生 / ニューヨーク州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/tracy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ニューヨーク市の実験校([The Computer School](http://thecomputerschool.org/programs/))でデジタル学習の教員。デジタルものづくりを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Another full house....Scratch packs them in. <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> (@ The Computer School MakerSpace) <a href="https://t.co/fAGOigVyK1">https://t.co/fAGOigVyK1</a> <a href="https://t.co/VhVnwzU6wj">pic.twitter.com/VhVnwzU6wj</a></p>&mdash; Tracy Rudzitis (@wagongrrl) <a href="https://twitter.com/wagongrrl/status/669578912318529536">November 25, 2015</a></blockquote>
@@ -476,10 +368,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「The Computer Schoolの生徒は[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)がだいすきです!」
 
 ## 28. Ingrid Gustafson先生 / マサチューセッツ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/ingrid.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 マサチューセッツの公立学区で小学生・中学生向けのデジタル教育のスペシャリスト。名門・タフツ大学の陸上部のコーチもしている。
 
@@ -489,10 +377,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 29. Rebecca Dovi先生 / バージニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/rebecca.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 バージニアの高校で20年以上コンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)のバージニア州支部の設立者。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Interesting class discussion today...hardest part about learning Java after C++ is parameter passing <a href="http://t.co/xGjuNYJKPd">pic.twitter.com/xGjuNYJKPd</a></p>&mdash; Rebecca Dovi (@superCompSci) <a href="https://twitter.com/superCompSci/status/581183650487799808">March 26, 2015</a></blockquote>
@@ -500,10 +384,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「生徒がJava言語とC++言語の違いについて、特に引数の渡し方について勉強しています!」
 
 ## 30. Eileen Lennon先生 / ニューヨーク州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/eileen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ニューヨークの学区でテクノロジー教育の教員。ニューヨーク市の教員がテクノロジー教育について語る「[#NYCSchoolsTechChat](https://twitter.com/hashtag/NYCSchoolsTechChat)」のモデレーター。
 
@@ -513,10 +393,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 31. Sarah Judd先生 / マサチューセッツ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/sarah.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 マサチューセッツの公立実験校で中学生にプログラミングの教員を担当。その後Google, Girls Who Codeにてプログラミング教育のカリキュラム制定に関わる。[Girls Who Code](https://girlswhocode.com)はプログラミングを学ぶ女子のための非営利団体。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Jaws-ish theme song in Ardublocks <a href="https://twitter.com/hashtag/CSTA16?src=hash">#CSTA16</a> <a href="https://t.co/081UOGH38C">pic.twitter.com/081UOGH38C</a></p>&mdash; Sarah Judd (@SarahEJudd) <a href="https://twitter.com/SarahEJudd/status/752254564384972800">July 10, 2016</a></blockquote>
@@ -524,10 +400,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「映画『ジョーズ』のテーマを、音楽プログラミングで表現してみました!」
 
 ## 32. Annette Lang先生 / オハイオ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/annette.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 オハイオ州の実験校でテクノロジー教育の教員をしている。30年近いスキーのインストラクターでもある。
 
@@ -537,10 +409,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 33. Theresa McCoy先生 / ミネソタ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/theresa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ミネソタの公立中学校のプログラミングの先生。ロボット、3Dプリンター、ドローンを勉強中。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/birdbraintech">@birdbraintech</a> 7th gr Ss were coding new <a href="https://twitter.com/hashtag/finchrobots?src=hash">#finchrobots</a> today. Apply for <a href="https://twitter.com/hashtag/finchloan?src=hash">#finchloan</a> to get 1 yr trial. <a href="https://t.co/4v2kyzOSf8">pic.twitter.com/4v2kyzOSf8</a></p>&mdash; TMcCoy (@TheOwl3) <a href="https://twitter.com/TheOwl3/status/731186819878903808">May 13, 2016</a></blockquote>
@@ -548,10 +416,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「中学1年生の子たちがFinchロボット(プログラミング学習用に売られている鳥型ロボット)をプログラミングしています!」
 
 ## 34. Melissa Adkins先生 / ミシシッピ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/melissa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ミシシッピ州の学校で20年近く教員を務め、ここ10年はコンピューター・プログラミング教育の担当。ミシシッピ州は全米50州のうち最も[貧乏](https://en.wikipedia.org/wiki/List_of_U.S._states_by_income)で[保守的](http://www.gallup.com/poll/181505/mississippi-alabama-louisiana-conservative-states.aspx)な州で知られている。
 
@@ -563,10 +427,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 35. Heidi Kattula先生(博士) / ミシガン州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/heidi.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ミシガン州の学校で10年間校長先生を務めた後、学区全体の特進生向け数学・プログラミング教育の責任者に。教育学博士。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Coding in MS math, gr8 resources <a href="https://twitter.com/icodeinschool">@icodeinschool</a> <a href="https://twitter.com/RobDurecka">@RobDurecka</a>  <a href="https://twitter.com/JasonRubel">@JasonRubel</a>  <a href="https://twitter.com/bhschools">@bhschools</a> <a href="https://twitter.com/Renglish71">@Renglish71</a> <a href="https://twitter.com/jpudaloff">@jpudaloff</a> <a href="https://twitter.com/hashtag/csta16?src=hash">#csta16</a> <a href="https://t.co/d0IdrYBwck">pic.twitter.com/d0IdrYBwck</a></p>&mdash; Heidi Kattula Ed.D. (@HeidiKattula) <a href="https://twitter.com/HeidiKattula/status/752540785845809152">July 11, 2016</a></blockquote>
@@ -574,10 +434,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「プログラミング教育のカンファレンスで[Codesters](https://www.codesters.com/)という小学生~高校生向けプログラミング教材のプレゼンテーションを聞いています!」
 
 ## 36. Amber Kraver先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/amber.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 元スタンフォード大学のIT担当。現在はカリフォルニアのキリスト教学校でテクノロジー教育の教員をしている。
 
@@ -587,10 +443,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 37. Anne Clark先生 / インディアナ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/anne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 6年生の国語の先生兼プログラミングの先生。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A1: When I teach coding,there are so many Ss teaching each other,so many choices Ss have in product, closest I come to innovation.  <a href="https://twitter.com/hashtag/6thchat?src=hash">#6thchat</a></p>&mdash; Anne Clark (@AnneClark7) <a href="https://twitter.com/AnneClark7/status/780937856214769664">September 28, 2016</a></blockquote>
@@ -598,10 +450,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「プログラミングの授業と他の授業の違いは、生徒が互いに教え合うことがとても多いこと、そしてデジタル教材の種類がとても多いことです。教育のイノベーションに最も近いと思います!」
 
 ## 38. Myra Deister先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/myra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 カリフォルニアの公立学区で30年以上、数学とコンピューターサイエンスを教えている。
 
@@ -611,10 +459,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 39. Alexandra Vlachakis先生 / フロリダ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/alexandra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 フロリダ州の公立学区全体を仕切る情報科学・コンピューターサイエンス学習の責任者。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">High school students teaching <a href="https://twitter.com/hashtag/hourofcode?src=hash">#hourofcode</a> to Kindergartners <a href="https://twitter.com/hashtag/inspiring?src=hash">#inspiring</a> <a href="http://t.co/RikEX1yWOM">pic.twitter.com/RikEX1yWOM</a></p>&mdash; Alexandra Vlachakis (@vlachakisalex) <a href="https://twitter.com/vlachakisalex/status/542376747279585280">December 9, 2014</a></blockquote>
@@ -622,10 +466,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「高校生たちが幼稚園児たちにプログラミングを教えている風景!」
 
 ## 40. Gayle Horsma先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/gayle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 カリフォルニアの公立学区で、幼稚園児・小学生向けの教育テクノロジーの専門家。プログラミング教育も担当。
 
@@ -635,10 +475,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 41. Partice Gans先生 / コネチカット州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/patrice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 7年間コネチカットの小学校・中学校でテクノロジー・プログラミング教育の教員をしたのち、地域の小・中学生にプログラミングを教える非営利団体を立ち上げた。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The girls did an amazing job today!  Thank you for your participation <a href="https://twitter.com/BravoWaterbury">@BravoWaterbury</a> <a href="https://twitter.com/hashtag/KidsCode4ACause?src=hash">#KidsCode4ACause</a> <a href="https://t.co/cIqmc2dij0">pic.twitter.com/cIqmc2dij0</a></p>&mdash; Patrice Gans (@reesegans) <a href="https://twitter.com/reesegans/status/734499680730636289">May 22, 2016</a></blockquote>
@@ -646,10 +482,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「女の子たちがこれから作るスマホアプリの画面をデザインしています!」
 
 ## 42. Alexis Cobo先生 / フロリダ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/alexis.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 フロリダ州の私立小学校でコンピューターサイエンスを教えている。
 
@@ -659,10 +491,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 43. Christal Thompson先生 / テキサス州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/christal.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 15年間ITコンサルタントとして働いたあと、テキサス州の学校で15年以上コンピューターサイエンスの教員となり、のちにデジタル学習の責任者に。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/educationweek">@educationweek</a> &quot;Code&quot; documentary looks at getting girls interested in computer science:<a href="http://t.co/dDJgAEIDoA">http://t.co/dDJgAEIDoA</a> <a href="http://t.co/ugTDpB0C5N">pic.twitter.com/ugTDpB0C5N</a> <a href="https://twitter.com/hashtag/stem?src=hash">#stem</a></p>&mdash; Christal Thompson (@christal_t) <a href="https://twitter.com/christal_t/status/613319079512817664">June 23, 2015</a></blockquote>
@@ -670,10 +498,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「"Code"はプログラミング職におけるジェンダーギャップを描いているドキュメンタリー映画で、女子にプログラミングに興味を持ってもらおうという試みです!」
 
 ## 44. Ria Galanos先生 / バージニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/ria.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 バージニア州にある、全米トップクラスの公立進学校のコンピューターサイエンスの先生。
 
@@ -683,10 +507,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 45. Carolyn Petite先生 / オハイオ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/carolyn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 オハイオ州の公立高校でプログラミングを教えている。生徒に教えているプログラミング言語はJava, Swift, Xojo, Processingなど。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using Swift to write iPhone apps <a href="https://twitter.com/hashtag/cfevs?src=hash">#cfevs</a> <a href="https://t.co/cEFX5bOw9Q">pic.twitter.com/cEFX5bOw9Q</a></p>&mdash; Carolyn Petite (@PetiteCode) <a href="https://twitter.com/PetiteCode/status/769210232778219520">August 26, 2016</a></blockquote>
@@ -694,10 +514,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「生徒がSwift言語でiPhoneアプリを作っています!」
 
 ## 46. Katie Hendrickson先生 / バージニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/katie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 プログラミング教育の非営利団体最大手・[Code.org](https://code.org/)の広報・政策担当責任者。以前はオハイオ州の中学校で数学を教えていた。
 
@@ -707,10 +523,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 47. Kristen Fisher先生 / イリノイ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kristen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 シカゴの高校でコンピューターサイエンスを教えながら、テニス部のコーチもしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who&#39;s says girls can&#39;t code? <a href="https://twitter.com/hashtag/arrays?src=hash">#arrays</a> <a href="https://twitter.com/hashtag/mobileapps?src=hash">#mobileapps</a> <a href="https://twitter.com/hashtag/214spiritEG?src=hash">#214spiritEG</a> <a href="http://t.co/cPPkT9kfe7">pic.twitter.com/cPPkT9kfe7</a></p>&mdash; Kristen Fisher (@KFisherCS) <a href="https://twitter.com/KFisherCS/status/563777193176993792">February 6, 2015</a></blockquote>
@@ -718,10 +530,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「わたしの授業、女子生徒も頑張っていますよ!Aylaちゃんが書いたプログラミングパズルの答えです!」
 
 ## 48. Danielle Harlow先生(博士・教授) / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/danielle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 スタンフォード大学で物理学の修士号を取得し、その後タンザニアで高校生に物理学を教える。現在はカリフォルニア大学サンタ・バーバラ校の教授で、小・中学校のエンジニアリング・プログラミング教育の研究を行っている。
 
@@ -731,10 +539,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 49. Jeannie Finley先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/jeannie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ロサンゼルスにあるカトリックの女子校で教員を務め、現在は同校でテクノロジー・プログラミング教育の責任者。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">More States Mandate High Schools Count <a href="https://twitter.com/hashtag/CompSci?src=hash">#CompSci</a> as Math or Science <a href="https://t.co/e0WHtHdXB4">https://t.co/e0WHtHdXB4</a> via <a href="https://twitter.com/educationweek">@educationweek</a> <a href="https://twitter.com/hashtag/coding?src=hash">#coding</a></p>&mdash; Jeannie Finley (@Jeannie_Finley) <a href="https://twitter.com/Jeannie_Finley/status/778686500514897924">September 21, 2016</a></blockquote>
@@ -742,10 +546,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「2016年秋からアメリカの20の州で、コンピューターサイエンスの授業を高校卒業に必要な数学の単位として数えることができるようになったそうです!」
 
 ## 50. Nita Waterman先生 / テキサス州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/nita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 テキサス州の公立学区で30年以上教師を務めている。2000年からは16年間、特進生向けのプログラミング授業の先生をしている。
 
@@ -755,10 +555,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 51. Kaitie O'Bryan先生 / ミネソタ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/katie2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ミネソタ州で高校生に数学とコンピューターサイエンスを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">D6: one of my favorite lessons in <a href="https://twitter.com/hashtag/APCSPFirstWeek?src=hash">#APCSPFirstWeek</a> invent your own number system <a href="https://twitter.com/hashtag/teach180?src=hash">#teach180</a> <a href="https://t.co/eCm4ADfSe1">pic.twitter.com/eCm4ADfSe1</a></p>&mdash; Kaitie O&#39;Bryan (@Kaitie_Obryan) <a href="https://twitter.com/Kaitie_Obryan/status/775805011636817920">September 13, 2016</a></blockquote>
@@ -766,10 +562,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「コンピューターサイエンスの最初の授業。生徒が数字を記号で暗号化しています!」
 
 ## 52. Kristy Manuel先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kristy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 小学生向けのテクノロジー教育担当。Macbook・Chromebook・iPadなどの導入も担当している。
 
@@ -779,10 +571,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 53. Louise McMinn先生 / コネチカット州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/louise.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 コネチカット州で15年間中学生の教師をしている。もともとは科学の先生だったが、現在は中学一年生にプログラミングを教えている。大学では栄養学を専攻していた。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/hourofcode?src=hash">#hourofcode</a> <a href="https://twitter.com/scofieldmagnet">@scofieldmagnet</a> Sixth graders use Scratch to make study games <a href="https://twitter.com/hashtag/spspride?src=hash">#spspride</a> <a href="https://t.co/x6g1hCSxTw">pic.twitter.com/x6g1hCSxTw</a></p>&mdash; Louise McMinn (@CTSciTeach) <a href="https://twitter.com/CTSciTeach/status/674960957295206400">December 10, 2015</a></blockquote>
@@ -790,10 +578,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)でゲームを作っています!」
 
 ## 54. Katie O'Shaughnessey先生 / コネチカット州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/katie3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 コネチカット州の私立校で高校生にコンピューターサイエンスを教えている。今年は彼女のクラスが、マイクロソフト社とハーバード大学が共同開発したプログラミングの授業「CS50」の試験的導入先として選ばれた。
 
@@ -803,10 +587,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 55. Meg Ray先生 / ニューヨーク州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/meg.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 大学で演劇を専攻し、舞台の指導員、秘書、コピーライター、人事、青少年育成指導員などと渡り歩く。その後ニューヨークの公立校で特別支援の教師になり、大学院に通いプログラミングを学び、現在は高校生向けのプログラミング授業のカリキュラムデザインをしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> practicing debugging strategies for the classroom with <a href="https://twitter.com/icodeinschool">@icodeinschool</a> <a href="https://twitter.com/hashtag/NYCSTEM?src=hash">#NYCSTEM</a> <a href="https://t.co/RZaZZLBLLg">pic.twitter.com/RZaZZLBLLg</a></p>&mdash; Meg Ray (@teach_python) <a href="https://twitter.com/teach_python/status/725352472756256768">April 27, 2016</a></blockquote>
@@ -814,10 +594,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「教員向けのプログラミングの研修で、先生方が生徒のコードを効率的にデバッグする方法について学んでいるところです!」
 
 ## 56. Lisa Harrison Piane先生 / イリノイ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/lisa2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 イリノイ州の小学校でテクノロジー教育とプログラミングの教員。
 
@@ -827,10 +603,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 57. Melanie Mac先生 / イリノイ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/melanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ニューヨークの貧困地区で10年以上教員を務めている。もともとは国語(英語)とフランス語の先生だったが、現在は貧困層の学生にプログラミング教育を行う公立高校・の副校長に就任。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Free the first Wed. in Feb.? It&#39;s AFSE&#39;s 1st fundraiser. Mingle with best of NYC&#39;s tech and ed communities. Come! <a href="https://t.co/ByLOBnqyL3">pic.twitter.com/ByLOBnqyL3</a></p>&mdash; Melanie Mac (@msmelaniemac) <a href="https://twitter.com/msmelaniemac/status/688456890209177601">January 16, 2016</a></blockquote>
@@ -838,10 +610,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「私の高校のキャリア教育を充実させるべく、教育活動資金パーティーを行います!ニューヨークのテクノロジー教育関係者が多く集まる会なので、ぜひご参加を!」
 
 ## 58. Laurel Pollard先生 / ニューハンプシャー州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/laurel.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ニューハンプシャーの公立小学校にてコンピューターの先生兼プログラミング部の顧問をしている。
 
@@ -851,10 +619,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 59. Tammy Pirmann先生 / ペンシルベニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/tammy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ペンシルベニアの公立高校で10年以上プログラミングの授業を教えている。授業ではJava、HTML、CSS、JavaScript、PHP、mySQL、Python、RobotC、Unity、App Inventorなどの言語や開発環境を利用。現在はテンプル大学で非常勤講師もしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Every US kindergarden student starting school in fall this year should be computer science proficient by the time they graduate in 13 years.</p>&mdash; Tammy Pirmann (@TammyPirmann) <a href="https://twitter.com/TammyPirmann/status/753010903025459200">July 12, 2016</a></blockquote>
@@ -862,10 +626,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「今年幼稚園に入るアメリカの子どもたち全員が、13年後に高校を卒業するまでに、コンピューターサイエンスの知識を身につけられるように我々は努力するべきです!」
 
 ## 60. Lindsay Krisher先生 / メリーランド州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/lindsay.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 メリーランド州の高校で特進生向けのプログラミング、情報セキュリティーの授業の教師。低学年向けのプログラミング授業も行っている。
 
@@ -875,10 +635,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 61. Annie Kelly先生 / ペンシルベニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/annie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 シカゴの高校で国語(英語)を2年間教えたのち、2015年からペンシルベニア州に引っ越し高校のコンピューターサイエンスの先生に転身。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So proud of my PA cohort, and especially my CREATE #2 group! <a href="https://twitter.com/hashtag/MobileCSP2016PD?src=hash">#MobileCSP2016PD</a> <a href="https://twitter.com/hashtag/CSForAll?src=hash">#CSForAll</a> <a href="https://twitter.com/hashtag/APCSP?src=hash">#APCSP</a> <a href="https://t.co/mGFLWryWDk">pic.twitter.com/mGFLWryWDk</a></p>&mdash; Ms. Kelly (@TheMsKelly) <a href="https://twitter.com/TheMsKelly/status/755833158218702848">July 20, 2016</a></blockquote>
@@ -886,10 +642,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「高校生向けのスマホアプリプログラミング教育の研修を一緒に受けた先生たちです!」
 
 ## 62. Brandy Wales先生 / イリノイ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/brandy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 イリノイ州で小学生のプログラミングの教員。教育テクノロジー導入の専門員でもある。
 
@@ -899,10 +651,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 63. Kelly Powers先生 / ニューヨーク州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kelly.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 マサチューセッツの私立女子校で10年以上、中高生の女子にプログラミングを教えていた。現在はニューヨークの貧困地区にある高校でテクノロジーとコンピューターサイエンス教育部門の学長をしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Extending the Design Recipe with conditionals Huh, go <a href="https://twitter.com/Bootstrapworld">@Bootstrapworld</a> .loving day 4 <a href="https://twitter.com/hashtag/CSPdWeek?src=hash">#CSPdWeek</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/hashtag/WhyITeach?src=hash">#WhyITeach</a> <a href="https://t.co/qSjVM7X6Wk">pic.twitter.com/qSjVM7X6Wk</a></p>&mdash; Kelly Powers (@kelpowers5) <a href="https://twitter.com/kelpowers5/status/756156212010291201">July 21, 2016</a></blockquote>
@@ -910,10 +658,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「教師向けのプログラミング教育のカンファレンスにて。条件分岐について学んでいます!」
 
 ## 64. Joanna Doyle先生 / イリノイ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/joanna.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 イリノイ州で教員。特別支援教育、教育テクノロジー、プログラミング教育を担当。
 
@@ -925,10 +669,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 65. Kim Burton先生 / メリーランド州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kim2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 メリーランド州の高校で数学教育の学長をしながら、特進生向けにコンピューターサイエンスも教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Collaborative coding in <a href="https://twitter.com/hashtag/APCS?src=hash">#APCS</a> <a href="https://twitter.com/EasternTechHS">@EasternTechHS</a> <a href="https://t.co/sRDyBILCil">pic.twitter.com/sRDyBILCil</a></p>&mdash; Kim Burton (@kburtonr) <a href="https://twitter.com/kburtonr/status/770235345787117568">August 29, 2016</a></blockquote>
@@ -936,10 +676,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「今日は生徒がポスターにコードを書きながらプログラミングを学んでいます。共同作業です!」
 
 ## 66. Kammas Murphy先生 / デラウェア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kammas.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 デラウェア州の高校にて、化学とコンピューターサイエンスの教員。放課後は子どもたちに格闘技を教えている。
 
@@ -949,10 +685,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 67. Susan Van Doren先生 / ネバダ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/susan.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 [「いたるところでプログラミングを学べる未来に、輝く先生のすがた」](/1-introduction)で紹介した、英語教師からプログラミング教師に転身したネバダ州の高校教師。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">7 girls took the APCS exam in Nevada last year. This year, I have 9 girls who will take it from my class alone. Boom. <a href="https://twitter.com/hashtag/change?src=hash">#change</a> <a href="https://twitter.com/hashtag/stemgems?src=hash">#stemgems</a></p>&mdash; Van Doren (@SVDiz) <a href="https://twitter.com/SVDiz/status/723006287177355264">April 21, 2016</a></blockquote>
@@ -960,10 +692,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「一年前、特進生向けのプログラミングの授業『APCS』を受講した女子生徒は、ネバダ州全体で7人しかいませんでした。今年は、わたしが受け持った生徒だけで9人の女子生徒がAPCSを受講しています。変革とはこういうことです!」
 
 ## 68. Kimberly Davis先生 / フロリダ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kimberly.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 フロリダ州の高校でコンピューターサイエンスとフランス語を教えている。ディベート部のコーチも兼任。
 
@@ -973,10 +701,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 69. Jessica Zuluaga先生 / ニューヨーク州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/jessica.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ニューヨークの公立小学校で4年生に算数とプログラミングを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">NYC Ss learn to code <a href="https://twitter.com/hashtag/summerinthecity?src=hash">#summerinthecity</a> <a href="https://twitter.com/hashtag/STEAM?src=hash">#STEAM</a> <a href="https://twitter.com/GoogleCSFirst">@GoogleCSFirst</a> <a href="https://twitter.com/hashtag/CS4nyc?src=hash">#CS4nyc</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/alanamaaron">@alanamaaron</a> <a href="https://twitter.com/hashtag/kidswhocode?src=hash">#kidswhocode</a> <a href="https://t.co/Q8uMva1sFd">pic.twitter.com/Q8uMva1sFd</a></p>&mdash; Jessica Zuluaga (@yecca13) <a href="https://twitter.com/yecca13/status/755405162102026241">July 19, 2016</a></blockquote>
@@ -984,10 +708,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「ニューヨークの公立校の生徒たちが、Googleが作ったプログラミング教材で学んでいます!」
 
 ## 70. Ann Boyles先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/ann.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 カリフォルニア州の高校でプログラミングを教えている。
 
@@ -997,10 +717,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 71. Kathryn Cossa先生 / バージニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kathryn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 バージニア州の高校でプログラミングを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bell rang and students groaned and kept on coding. That&#39;s why I love <a href="https://twitter.com/hashtag/CS?src=hash">#CS</a>. <a href="https://twitter.com/hashtag/apcompsci?src=hash">#apcompsci</a> <a href="https://twitter.com/RiversideLCPS">@RiversideLCPS</a> <a href="https://t.co/Ok5NTCk5q7">pic.twitter.com/Ok5NTCk5q7</a></p>&mdash; Kathryn Cossa (@Cossa_Codes) <a href="https://twitter.com/Cossa_Codes/status/779385687460151296">September 23, 2016</a></blockquote>
@@ -1008,10 +724,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「チャイムが鳴ってもコードを書き続ける生徒たち。これこそが、プログラミングを教える理由です!」
 
 ## 72. Susan Recoon先生 / ニューヨーク州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/susan2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ニューヨーク州西部、ナイアガラの滝近くの学校で数学とコンピューターサイエンスを教えている。
 
@@ -1021,10 +733,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 73. Lindsey Kay先生 / マサチューセッツ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/lindsey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 マサチューセッツの学校で中高生にプログラミングを教えている。以前は小学生向けのコンピューター教育の先生をしていた。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Grade 8 CS learning about the insides of a computer by tearing one apart! <a href="https://t.co/7k6Ai4Dw4m">pic.twitter.com/7k6Ai4Dw4m</a></p>&mdash; Miss Kay (@MsKaysComputer) <a href="https://twitter.com/MsKaysComputer/status/780783327779360768">September 27, 2016</a></blockquote>
@@ -1032,10 +740,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「中学生の子たちが、コンピューターを分解してどんなパーツから構成されているのかを調べているところです!」
 
 ## 74. Amy Wright先生 / ニュージャージー州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/amy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 軍事系の企業でシステムエンジニアとして勤務後、教師に転身。以来、ニュージャージー州の学校で15年以上プログラミングを教えている。
 
@@ -1045,10 +749,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 75. Lisa Saunders先生 / フロリダ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/lisa3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 フロリダ州の私立中学校・高校でプログラミングを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proud of these new App Inventor Programmers! <a href="https://twitter.com/hashtag/leadlikethis?src=hash">#leadlikethis</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/MITAppInventor">@MITAppInventor</a> <a href="https://twitter.com/Brightgirlsco">@brightgirlsco</a> <a href="https://twitter.com/PineCrestSch">@PineCrestSch</a> <a href="https://t.co/Xq05IqyNpP">pic.twitter.com/Xq05IqyNpP</a></p>&mdash; Lisa Saunders (@lsaunde6) <a href="https://twitter.com/lsaunde6/status/777177544403587073">September 17, 2016</a></blockquote>
@@ -1056,10 +756,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「スマホアプリを作った女子高校生たちです!」
 
 ## 76. Alana Robinson先生 / ニューヨーク州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/alana2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ニューヨークの公立校で特別支援教育、プログラミング教育の専門教員をしている。
 
@@ -1069,10 +765,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 77. Audrey Wei先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/audrey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ロサンゼルス郊外のカトリック校でコンピューターサイエンス・ビジネス教育の学長をしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Via <a href="https://twitter.com/NPR">@NPR</a>: Should Computer Education Cover More Than Just Coding? <a href="https://t.co/TSfmT1VDix">https://t.co/TSfmT1VDix</a></p>&mdash; Audrey Wei (@audrey_awei) <a href="https://twitter.com/audrey_awei/status/699432137414447104">February 16, 2016</a></blockquote>
@@ -1080,10 +772,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「『プログラミング教育はコードを書くこと以外のことも教えるべきか?』という記事です!」
 
 ## 78. Jillian Maher先生 / ケンタッキー州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/jillian.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ケンタッキー州の公立高校でコンピューターサイエンスを教えている。
 
@@ -1093,10 +781,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 79. Adrianna Macaro先生 / ニュージャージー州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/adrianna.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ニュージャージー州の公立高校で数学とプログラミングを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">AP CSP class programming the Finch Robots today! Thanks <a href="https://twitter.com/HSNMediaCenter">@HSNMediaCenter</a>!  <a href="https://twitter.com/hashtag/MTPSpride?src=hash">#MTPSpride</a> <a href="https://t.co/ctW3GUpIpK">pic.twitter.com/ctW3GUpIpK</a></p>&mdash; Adrianna Macaro (@MsMacaro) <a href="https://twitter.com/MsMacaro/status/781553944975794177">September 29, 2016</a></blockquote>
@@ -1104,10 +788,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「特進生向けのプログラミングの授業で、今日は生徒が鳥型ロボットのプログラミングをしています!」
 
 ## 80. Dianne O'Grady-Cunniff先生 / メリーランド州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/dianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 メリーランドの公立高校で10年以上、コンピューターサイエンスの教員として働く。大学でコンピューターサイエンスを専攻していたため、地域の他の先生のプログラミング研修も行っている。
 
@@ -1117,10 +797,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 81. Trina Cunningham先生 / テキサス州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/trina.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 テキサスのエネルギー会社で10年システムエンジニアとして務め、その後15年以上テキサスの公立高校でコンピューターサイエンスを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Charging our new &quot;toys&quot;. My CS students are in geek heaven. Thanks <a href="https://twitter.com/Jasna_A">@Jasna_A</a> <a href="https://t.co/6IQ1UC90qO">pic.twitter.com/6IQ1UC90qO</a></p>&mdash; Mrs. Cunningham (@Mrs_TCunningham) <a href="https://twitter.com/Mrs_TCunningham/status/724988512819269632">April 26, 2016</a></blockquote>
@@ -1128,10 +804,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「私のプログラミングの授業の生徒たちが使っているBB-8(スター・ウォーズ フォースの覚醒より)のロボット、充電中です!」
 
 ## 82. Pam Whitlock先生 / ジョージア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/pam.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ジョージア州の公立高校で特進生向けにプログラミングを教えている。
 
@@ -1141,10 +813,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 83. Stephanie Sneath先生 / イリノイ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/stephanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 イリノイ州の高校でプログラミングやウェブデザインを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Starting using the  raspberry pi <a href="https://twitter.com/hashtag/WhatWillTheyLearnNext?src=hash">#WhatWillTheyLearnNext</a> <a href="https://twitter.com/hashtag/rhsrebelpride?src=hash">#rhsrebelpride</a> <a href="https://t.co/uwKCAduOYR">pic.twitter.com/uwKCAduOYR</a></p>&mdash; Stephanie Sneath (@MrsSneath) <a href="https://twitter.com/MrsSneath/status/778960744515719168">September 22, 2016</a></blockquote>
@@ -1152,10 +820,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「今日はみなRaspberry Pi(超小型コンピューター)のプログラミングにトライしています!」
 
 ## 84. Eva Anderson先生 / バージニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/eva.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 バージニア州の高校のプログラミングの教員。
 
@@ -1165,10 +829,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 85. Debra Kelly Thomas先生 / フロリダ州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/debra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 フロリダ州南東部の公立学区全体のコンピューターサイエンス教育戦略に携わっている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/csta16?src=hash">#csta16</a> <a href="https://twitter.com/hashtag/cryptologyworkshop?src=hash">#cryptologyworkshop</a> <a href="https://twitter.com/hashtag/huffmanencoding?src=hash">#huffmanencoding</a> <a href="https://twitter.com/hashtag/theeaglehaslanded?src=hash">#theeaglehaslanded</a> <a href="https://t.co/nkEvbkqHF3">pic.twitter.com/nkEvbkqHF3</a></p>&mdash; Debra Kelly Thomas (@miss_DKT) <a href="https://twitter.com/miss_DKT/status/752249921432981504">July 10, 2016</a></blockquote>
@@ -1176,10 +836,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「プログラミング教育の先生向けの研修で、ハフマン符号によるデータ圧縮について学んでいます!」
 
 ## 86. Susan B Bardin先生 / フロリダ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/susan3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 フロリダ州の高校でプログラミングを教えている。
 
@@ -1189,10 +845,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 87. Jen Cefaly先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/jen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 大学で美術を専攻し、博物館、ウォルト・ディズニー社勤務を経て、2007年よりロサンゼルスの小学校でテクノロジー・プログラミング教育の責任者に就任。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you use expose kids to coding with activities like <a href="https://twitter.com/codeorg">@codeorg</a>, you get to hear &quot;We did it!&quot; and &quot;I can help you!&quot; <a href="https://t.co/jlFyaIy4Is">pic.twitter.com/jlFyaIy4Is</a></p>&mdash; Jen Cefaly (@SJSSmartLab) <a href="https://twitter.com/SJSSmartLab/status/707320444680937472">March 8, 2016</a></blockquote>
@@ -1200,10 +852,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「『できた!』『それはこうやればいいんだよ!』 — プログラミングをしているときの、生徒の声です。」
 
 ## 88. Marianne Finocchiaro先生 / マサチューセッツ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/marianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 大学でコンピューターサイエンスを専攻し、2001年に退職するまで7年間コンサルタントとして働く。2014年に教員の資格を得た後、マサチューセッツの学校で小学生にプログラミングを教えている。
 
@@ -1213,10 +861,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 89. Susan Dalgic先生 / テキサス州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/susan4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 テキサスの学校でプログラミングを教える傍ら、ロボット部の顧問や校内のITシステムの管理もしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">HSA-NA GWC club girls are learning to code after school on Thursdays and Fridays, 3-5pm! <a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a> <a href="https://twitter.com/STEMCONNECT">@STEMCONNECT</a> <a href="https://twitter.com/STEMSOS">@STEMSOS</a> <a href="https://twitter.com/HSA_NA">@HSA_NA</a> <a href="https://t.co/2g9kqzoO1h">pic.twitter.com/2g9kqzoO1h</a></p>&mdash; Susan Dalgic (@SdalgicSusan) <a href="https://twitter.com/SdalgicSusan/status/782262235959664640">October 1, 2016</a></blockquote>
@@ -1224,10 +868,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「放課後に学校でプログラミングを学んでいる女子たちです!」
 
 ## 90. Rebecca Malones先生 / フロリダ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/rebecca2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 フロリダ州の小学校でプログラミングと環境学を教えている。
 
@@ -1237,10 +877,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 91. Julie Reynolds先生 / テキサス州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/julie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 テキサスの高校でプログラミングの教員。プログラミング部、ロボット部の顧問もしている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Aledo teams on opposite alliances at the State UIL Robotics meet. <a href="https://t.co/KRdTTKf8t2">pic.twitter.com/KRdTTKf8t2</a></p>&mdash; Julie Reynolds (@JulieRcompsci) <a href="https://twitter.com/JulieRcompsci/status/758765284303904768">July 28, 2016</a></blockquote>
@@ -1248,10 +884,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「ロボット大会に出場した生徒の写真です!」
 
 ## 92. Carol Birnbaum先生 / カンザス州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/carol.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 カンザス州の公立高校にてプログラミングの教師。
 
@@ -1261,10 +893,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 93. Stephanie Younger先生 / ケンタッキー州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/stephanie2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 ケンタッキー州の公立高校でプログラミングと数学を教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting our code on w/CCGA in Lafayette, LA! <a href="https://twitter.com/hashtag/NCCEchat?src=hash">#NCCEchat</a> <a href="https://twitter.com/hashtag/MIEExpert?src=hash">#MIEExpert</a> <a href="https://twitter.com/hashtag/ccga?src=hash">#ccga</a> <a href="https://twitter.com/MsLibrarianLady">@MsLibrarianLady</a> <a href="https://t.co/pqPLMpTko6">pic.twitter.com/pqPLMpTko6</a></p>&mdash; Stephanie Younger (@sasied22) <a href="https://twitter.com/sasied22/status/755119302764744704">July 18, 2016</a></blockquote>
@@ -1272,10 +900,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「先生向けのプログラミング研修の様子です!」
 
 ## 94. Katie Miller先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/katie4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 カリフォルニア州の学校で数学とプログラミングを教えている。
 
@@ -1285,10 +909,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 95. Gerri Lynne Ryan先生 / テキサス州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/gerri.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 大学でコンピューターサイエンスを勉強後、10年以上ITエンジニアとして働く。その後教師に転身し、20年近くテキサスの公立高校でプログラミングを教えている。プログラミング部の顧問。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Role models for female students...<a href="https://t.co/dIVps1bKcY">https://t.co/dIVps1bKcY</a></p>&mdash; Ms. GLRyan (@MsGLRyan) <a href="https://twitter.com/MsGLRyan/status/758704601549905920">July 28, 2016</a></blockquote>
@@ -1296,10 +916,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「女性誌『ELLE』がテクノロジー業界で活躍する女性の特集を組みました。プログラミングを勉強する女子生徒のロールモデルたちです!」
 
 ## 96. Laurie Edwards先生 / メリーランド州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/laurie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 メリーランド州の公立高校で工学とプログラミングを教えている。
 
@@ -1309,10 +925,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 97. Charity Smith先生 / コロラド州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/charity.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 コロラド州の私立一貫校にて数学とプログラミングの教員。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://t.co/Jz6ePsfWQR">https://t.co/Jz6ePsfWQR</a><br>Fierce! I wonder if one of these girls is into CS...Perfect role models for our girls! <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/LikeAGirl?src=hash">#LikeAGirl</a></p>&mdash; Charity Smith (@CSmithCAMath) <a href="https://twitter.com/CSmithCAMath/status/753279048759992320">July 13, 2016</a></blockquote>
@@ -1320,10 +932,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「オリンピック女子体操のアメリカ代表。この中で一人でもコンピューターサイエンスが好きな方がいれば、私の生徒たちにとってより素晴らしいロールモデルとなることでしょう!」
 
 ## 98. Kelly McNeil先生 / フロリダ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/kelly2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 フロリダ州の学校でプログラミングやデザインを教えている。
 
@@ -1333,10 +941,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 99. Michelle Cernuto先生 / カリフォルニア州
 
-<p style="text-align: center;">
-  <img src="/images/7/teachers/michelle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
 サンフランシスコの公立学区にてコンピューターサイエンス教育の戦略立案に関わりながら、高校でスマホアプリのプログラミングを教えている。もともと芸術の専門家で、デジタルアーティストとしても活動中。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Awesome morning with high school kids and <a href="https://twitter.com/zyngaorg">@zyngaorg</a>, <a href="https://twitter.com/SFUnified">@SFUnified</a> - learning game design and coding. <a href="https://t.co/4gonF2uDnJ">pic.twitter.com/4gonF2uDnJ</a></p>&mdash; Michelle Cernuto (@MichelleCernuto) <a href="https://twitter.com/MichelleCernuto/status/707695066102374400">March 9, 2016</a></blockquote>
@@ -1344,10 +948,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 意訳:「ゲーム会社・Zyngaの方が高校生たちにゲームデザインとプログラミングを教えて下さっています!」
 
 ## 100. Rebecca Nguyen先生 / ルイジアナ州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/rebecca3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
 
 ルイジアナ州の高校で数学とプログラミングを教えている。
 
