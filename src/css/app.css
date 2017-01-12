@@ -64,13 +64,17 @@ a.ba:hover, a.ba:focus {
   display: block !important;
 }
 
-.fb_iframe_widget.fb-like {
+.fb_iframe_widget.fb-like, .fb_iframe_widget.fb-follow {
   font-size: 0; /* Necessary to get rid of some pixels on top */
   vertical-align: middle;
 }
 
-.twitter-tweet-button {
+.twitter-tweet-button, .twitter-follow-button {
   vertical-align: middle;
+}
+
+.fb_iframe_widget.fb-follow, .twitter-follow-button {
+  margin-bottom: 1rem;
 }
 
 .hidden {
