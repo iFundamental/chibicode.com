@@ -36,8 +36,22 @@ categories: ["ja"]
     </li>
   </ul>
 </div>
+{% for post in site.categories["ja-top-article"] %}
+  {% unless post.draft %}
+    <div class="mb5">
+      <h2 class="mt0 f4">ぼくの代表作的な記事</h2>
+      <ul class="list pl0 m0 lh-jp">
+        <li class="mb4">
+          <a href="{{ post.url }}" class="no-underline">{{ post.title }}</a>
+          <br>
+          <span class="silver">{{ post.date | date: "%Y年%-m月%-d日" }}</span>
+        </li>
+      </ul>
+    </div>
+  {% endunless %}
+{% endfor %}
 <div class="mb5">
-  <h2 class="mt0 f4">最も読まれた記事・日付順 <span class="silver">(初めて訪問してくださった方はこちらから)</span></h2>
+  <h2 class="mt0 f4">人気の記事・日付順</h2>
   <ul class="list pl0 m0 lh-jp">
     {% for post in site.categories["ja-most-popular"] %}
       {% unless post.draft %}
@@ -77,6 +91,12 @@ categories: ["ja"]
       {% endunless %}
     {% endfor %}
   </ul>
+</div>
+<div class="mb5">
+  <h2 class="mt0 f4">Facbebook</h2>
+  <div class="post-content">
+    <div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200767560851175" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200767560851175" class="fb-xfbml-parse-ignore"><p>&#x30c8;&#x30e9;&#x30f3;&#x30d7;&#x3055;&#x3093;&#x3001;&#x304a;&#x3081;&#x3067;&#x3068;&#x3046;&#x3054;&#x3056;&#x3044;&#x307e;&#x3059;&#x3002;&#x30d2;&#x30e9;&#x30ea;&#x30fc;&#x3055;&#x3093;&#x3001;&#x304a;&#x3064;&#x304b;&#x308c;&#x3055;&#x307e;&#x3067;&#x3057;&#x305f;&#x3002;&#x6295;&#x7968;&#x306b;&#x884c;&#x304b;&#x308c;&#x305f;&#x6709;&#x6a29;&#x8005;&#x306e;&#x307f;&#x306a;&#x3055;&#x307e;&#x3001;&#x3054;&#x304f;&#x308d;&#x3046;&#x3055;&#x307e;&#x3067;&#x3057;&#x305f;&#x3002;&#x5927;&#x7d71;&#x9818;&#x9078;&#x3092;&#x898b;&#x5b88;&#x3063;&#x3066;&#x304f;&#x3060;&#x3055;&#x3063;&#x305f;&#x65e5;&#x672c;&#x306e;&#x307f;&#x306a;&#x3055;&#x307e;&#x3001;&#x9577;&#x3044;&#x9078;&#x6319;&#x671f;&#x9593;&#x306b;&#x304a;&#x4ed8;&#x304d;&#x5408;&#x3044;&#x3044;&#x305f;&#x3060;&#x304d;&#x3042;&#x308a;&#x304c;&#x3068;&#x3046;&#x3054;&#x3056;&#x3044;&#x307e;&#x3057;&#x305f;&#x3002;&#x3061;&#x306a;&#x307f;&#x306b;&#x307c;&#x304f;&#x306f;...</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200767560851175">Wednesday, November 9, 2016</a></blockquote></div>
+  </div>
 </div>
 <div class="mb5">
   <h2 class="mt0 f4">Twitter</h2>
