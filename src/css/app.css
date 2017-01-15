@@ -74,7 +74,8 @@ a.ba:hover, a.ba:focus {
 }
 
 .fb_iframe_widget.fb-follow, .twitter-follow-button {
-  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  display: inline-block;
 }
 
 .hidden {
