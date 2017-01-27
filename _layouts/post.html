@@ -51,6 +51,11 @@ layout: default
     {% endif %}
 
     <section class="mb6 post-content js-post-content {% if page.categories contains "ja" %}lh-jp{% else %}lh-copy{% endif %}">
+      {% if page.cover_image %}
+        <p>
+          <img src="{{page.cover_image}}" />
+        </p>
+      {% endif %}
       {{content}}
       {% unless page.hide_date %}
       <p class="silver">
@@ -122,7 +127,7 @@ layout: default
             日本とアメリカ育ち。シリコンバレー在住のエンジニアです。Twitterは<a href="http://twitter.com/chibicode">@chibicode</a>、メールアドレス・連絡先は<a href="/contact-jp">こちらに書いています</a>。
           </p>
           <p>
-            略歴: 88年生まれ。カーネギーメロン大学卒。学位はComputer Science学士・Human-Computer Interaction修士。Apple・Facebook・Palantirでエンジニア職、Quoraでデザイナー職を経験。その後半年間日本でニートになり、2012年9月よりシリコンバレーの教育ベンチャー・<a href="https://www.edsurge.com/">EdSurgeに就職</a>。<a href="http://chibicode.com/nhk-dilemma">NHK・Eテレ「ニッポンのジレンマ 2016年元日SP」に出演</a>。
+            略歴: 88年生まれ。カーネギーメロン大学卒。学位はComputer Science学士・Human-Computer Interaction修士。Apple・Facebook・Palantirでエンジニア職、Quoraでデザイナー職を経験。その後半年間日本でニートになり、2012年9月よりシリコンバレーの教育ベンチャー・<a href="https://www.edsurge.com/">EdSurgeに就職</a>。NHK「<a href="http://chibicode.com/nhk-dilemma">ニッポンのジレンマ 2016年元日SP</a>」「クローズアップ現代+」に出演。
           </p>
         {% endif %}
       </section>
