@@ -41,7 +41,7 @@
       <script src="http://localhost:8787/hot.js"></script>
     {% endif %}
   </head>
-  <body class="{% unless page.cover_image %}pt4 pt5-ns{% endunless %} pb5">
+  <body class="pt4 pt5-ns pb5">
     {% if page.home %}
       {% unless page.categories contains "ja" %}
         <div class="fixed w-100 top-0 tc callout-bar bg-white f6 pv3 ph2 bb b--black-50 bg-animate hover-bg-near-white">
@@ -50,11 +50,6 @@
         <div class="pt5"></div>
       {% endunless %}
     {% endif %}
-    {% if page.cover_image %}
-      <div class="mb4">
-        <img src="{{page.cover_image}}" />
-      </div>
-    {% else %}
     <h2 class=
       {% if page.home %}
         "ph3 f0-ns f1 mt0 mb4-ns mb3 lh-f0-ns lh-solid fw6 tracked-tight ttl tc"
@@ -69,8 +64,10 @@
         <a href="/" class="no-underline">Shu Uesugi</a>
       {% endif %}
     </h2>
-    {% endif %}
     <div class="container center ph3">
+      <div class="mb4">
+        <img src="{{page.cover_image}}" />
+      </div>
       <div class="mb6">
         {{ content }}
       </div>
