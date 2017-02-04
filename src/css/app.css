@@ -37,7 +37,7 @@ a.ba:hover, a.ba:focus {
 }
 
 .lh-jp {
-  line-height: 1.8;
+  line-height: 1.9;
 }
 
 .center {
@@ -165,7 +165,7 @@ a.ba:hover, a.ba:focus {
 
 @media (--breakpoint-large) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
