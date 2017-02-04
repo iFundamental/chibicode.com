@@ -51,11 +51,6 @@ layout: default
     {% endif %}
 
     <section class="mb6 post-content js-post-content {% if page.categories contains "ja" %}lh-jp{% else %}lh-copy{% endif %}">
-      {% if page.cover_image %}
-        <p>
-          <img src="{{page.cover_image}}" />
-        </p>
-      {% endif %}
       {{content}}
       {% unless page.hide_date %}
       <p class="silver">
