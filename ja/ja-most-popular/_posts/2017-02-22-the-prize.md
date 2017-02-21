@@ -1,8 +1,6 @@
 ---
 title: シリコンバレーのエンジニアが語る、誰にも悪気はなかった話
-draft: true
 cover_image: "http://chibicode.com/assets/images/the-prize/og-image@1x.jpg"
-hide_date: true
 og_image: "http://chibicode.com/assets/images/the-prize/og-image.jpg"
 og_image_width: 2400
 og_image_height: 1260
